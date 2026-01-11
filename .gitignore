@@ -2,6 +2,7 @@
 HOWTO.md
 *.json
 *.txt
+*.sh
 
 # Working copies of reports
 raid_*.md
