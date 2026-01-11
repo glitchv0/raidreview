@@ -8,15 +8,15 @@ Each report includes detailed breakdowns comparing guild members to top performe
 
 ## Reports
 
-### 2026-01-10 - Throne of Thunder 25N
+### 2026-01-10 - Throne of Thunder 25M
 **Log:** [DkgR89WBa47FJd1C](https://classic.warcraftlogs.com/reports/DkgR89WBa47FJd1C)
 
 | Report | Description |
 |--------|-------------|
-| [Full Report](reports/2026-01-10_DkgR89WBa47FJd1C/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-10_DkgR89WBa47FJd1C/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-10_DkgR89WBa47FJd1C/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-10_DkgR89WBa47FJd1C/healers.md) | HPS rankings, cooldown usage |
+| [Full Report](reports/2026-01-10_25M_DkgR89WBa47FJd1C/) | Executive summary with all analysis |
+| [DPS Analysis](reports/2026-01-10_25M_DkgR89WBa47FJd1C/dps.md) | DPS rankings, rotation issues, consumables |
+| [Tank Analysis](reports/2026-01-10_25M_DkgR89WBa47FJd1C/tank.md) | Active mitigation, survivability |
+| [Healer Analysis](reports/2026-01-10_25M_DkgR89WBa47FJd1C/healers.md) | HPS rankings, cooldown usage |
 
 ---
 
