@@ -1,9 +1,9 @@
-# Raid Report: Throne of Thunder (Mixed 25N/10N)
+# Raid Report: Throne of Thunder 10M (Jin'rokh 10H)
 
 **Log:** https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG
 **Guild:** Make Azeroth Great Again
 **Date:** 2026-01-11
-**Difficulty:** Jin'rokh 25N, remainder 10N
+**Difficulty:** Jin'rokh 10H, remainder 10N
 
 ---
 
@@ -15,7 +15,7 @@
 | Tanks | 0 | 1 | 1 | 0 |
 | Healers | 1 | 0 | 1 | 0 |
 
-**Overall Assessment:** Raid struggled significantly on Council of Elders (13 wipes before kill). Jin'rokh required 5 wipes. Treehastranq consistently underperforming. Priestsky healing output critically low. Calrion and Poeshamkun providing solid DPS. Santiana tanking well.
+**Overall Assessment:** Raid struggled significantly on Council of Elders (13 wipes before kill). Jin'rokh 10H required 5 wipes. Treehastranq consistently underperforming. Priestsky healing output critically low. Calrion and Poeshamkun providing solid DPS. Santiana tanking well.
 
 ---
 
@@ -23,7 +23,7 @@
 
 | Boss | Difficulty | Duration | Deaths | Wipes | Speed | Notes |
 |------|------------|----------|--------|-------|-------|-------|
-| Jin'rokh | 25N | 3:55 | 4 | 5 | 26% | Dropped to 10-man after |
+| Jin'rokh | 10H | 3:55 | 4 | 5 | 26% | Heroic kill |
 | Horridon | 10N | 6:10 | 2 | 0 | 24% | One-shot |
 | Council of Elders | 10N | 4:30 | 4 | 13 | 36% | Major struggle |
 | Tortos | 10N | 2:45 | 0 | 0 | 46% | Clean kill |
@@ -103,7 +103,7 @@
 
 ## Council of Elders - 13 Wipes Analysis
 
-The raid struggled significantly on Council, requiring 13 attempts (including some on 25N difficulty before dropping to 10N).
+The raid struggled significantly on Council, requiring 13 attempts.
 
 **Common Issues on Council:**
 - Possessed mechanic handling

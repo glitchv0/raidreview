@@ -1,4 +1,4 @@
-# Tank Analysis - Throne of Thunder (Mixed 25N/10N)
+# Tank Analysis - Throne of Thunder 10M (Jin'rokh 10H)
 
 **Log:** https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG
 **Date:** 2026-01-11
@@ -16,7 +16,7 @@
 
 ## Per-Fight Parses
 
-| Player | Jin'rokh (25N) | Horridon | Council | Tortos | Megaera |
+| Player | Jin'rokh (10H) | Horridon | Council | Tortos | Megaera |
 |--------|----------------|----------|---------|--------|---------|
 | Santiana | 41% | 91% | 65% | 39% | 56% |
 | Zegadout | 16% | 10% | 69% | 26% | 51% |
@@ -34,7 +34,7 @@
 | Horridon | 91% | 181k | Excellent |
 | Council of Elders | 65% | 133k | Good |
 | Megaera | 56% | - | Good |
-| Jin'rokh | 41% | 151k | Average |
+| Jin'rokh (10H) | 41% | 151k | Average |
 | Tortos | 39% | - | Below Average |
 
 **Analysis:**
@@ -63,7 +63,7 @@
 | Council of Elders | 69% | 97k | Good |
 | Megaera | 51% | - | Average |
 | Tortos | 26% | - | Poor |
-| Jin'rokh | 16% | 97k | Poor |
+| Jin'rokh (10H) | 16% | 97k | Poor |
 | Horridon | 10% | 74k | Critical |
 
 **Analysis:**

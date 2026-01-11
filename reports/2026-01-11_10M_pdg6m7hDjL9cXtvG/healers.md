@@ -1,4 +1,4 @@
-# Healer Analysis - Throne of Thunder (Mixed 25N/10N)
+# Healer Analysis - Throne of Thunder 10M (Jin'rokh 10H)
 
 **Log:** https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG
 **Date:** 2026-01-11
@@ -24,14 +24,14 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 
 ## HPS by Fight
 
-| Player | Jin'rokh (25N) | Horridon | Council | Tortos | Megaera |
+| Player | Jin'rokh (10H) | Horridon | Council | Tortos | Megaera |
 |--------|----------------|----------|---------|--------|---------|
 | Kamakmeleon | 100k | 48k | 78k | 82k | 121k |
 | Priestsky | 61k | 50k | 52k | 59k | 82k |
 
 ## Parse by Fight (Combined)
 
-| Player | Jin'rokh (25N) | Horridon | Council | Tortos | Megaera |
+| Player | Jin'rokh (10H) | Horridon | Council | Tortos | Megaera |
 |--------|----------------|----------|---------|--------|---------|
 | Kamakmeleon | 64% | 64% | 63% | 48% | 88% |
 | Priestsky | 4% | 21% | 3% | 17% | 45% |
@@ -48,7 +48,7 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 | Fight | HPS | Parse | Notes |
 |-------|-----|-------|-------|
 | Megaera | 121k | 88% | Excellent |
-| Jin'rokh | 100k | 64% | Good |
+| Jin'rokh (10H) | 100k | 64% | Good |
 | Tortos | 82k | 48% | Average |
 | Council | 78k | 63% | Good |
 | Horridon | 48k | 64% | Average (lower damage fight) |
@@ -78,7 +78,7 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 | Fight | HPS | Parse | Notes |
 |-------|-----|-------|-------|
 | Megaera | 82k | 45% | Best performance |
-| Jin'rokh | 61k | 4% | Critical |
+| Jin'rokh (10H) | 61k | 4% | Critical |
 | Tortos | 59k | 17% | Poor |
 | Council | 52k | 3% | Critical |
 | Horridon | 50k | 21% | Poor |
@@ -92,7 +92,7 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 
 | Fight | Priestsky HPS | Kamakmeleon HPS | Gap |
 |-------|---------------|-----------------|-----|
-| Jin'rokh | 61k | 100k | -39% |
+| Jin'rokh (10H) | 61k | 100k | -39% |
 | Horridon | 50k | 48k | +4% |
 | Council | 52k | 78k | -33% |
 | Tortos | 59k | 82k | -28% |
@@ -130,7 +130,7 @@ Priestsky is doing 25-40% less healing than the co-healer on most fights.
 2. **Spirit Shell**
    - Use 15s BEFORE major damage
    - Converts healing into absorbs
-   - Critical for: Ionization, Quills, etc.
+   - Critical for: Ionization, Static Burst, etc.
 
 3. **Prayer of Mending**
    - Cast on cooldown

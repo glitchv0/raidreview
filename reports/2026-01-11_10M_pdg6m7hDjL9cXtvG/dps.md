@@ -1,4 +1,4 @@
-# DPS Analysis - Throne of Thunder (Mixed 25N/10N)
+# DPS Analysis - Throne of Thunder 10M (Jin'rokh 10H)
 
 **Log:** https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG
 **Date:** 2026-01-11
@@ -20,7 +20,7 @@
 
 ## Per-Fight Parses
 
-| Player | Jin'rokh (25N) | Horridon | Council | Tortos | Megaera |
+| Player | Jin'rokh (10H) | Horridon | Council | Tortos | Megaera |
 |--------|----------------|----------|---------|--------|---------|
 | Poeshamkun | 45% | 45% | 88% | 78% | 76% |
 | Calrion | 50% | 61% | 17% | 92% | 93% |
@@ -46,7 +46,7 @@
 | Council of Elders | 88% | 171k | Excellent - cleave fight |
 | Tortos | 78% | - | Good |
 | Megaera | 76% | - | Good |
-| Jin'rokh | 45% | 176k | Average |
+| Jin'rokh (10H) | 45% | 176k | Average |
 | Horridon | 45% | 171k | Average |
 
 **Analysis:**
@@ -70,7 +70,7 @@
 | Megaera | 93% | - | Excellent |
 | Tortos | 92% | - | Excellent |
 | Horridon | 61% | 183k | Good |
-| Jin'rokh | 50% | 167k | Average |
+| Jin'rokh (10H) | 50% | 167k | Average |
 | Council of Elders | 17% | - | Poor |
 
 **Analysis:**
@@ -98,7 +98,7 @@
 | Horridon | 74% | 205k | Good |
 | Tortos | 70% | - | Good |
 | Council of Elders | 51% | - | Average |
-| Jin'rokh | 36% | 173k | Below Average |
+| Jin'rokh (10H) | 36% | 173k | Below Average |
 | Megaera | 33% | - | Below Average |
 
 **Analysis:**
@@ -127,7 +127,7 @@
 | Horridon | 49% | 181k | Average |
 | Tortos | 38% | - | Below Average |
 | Megaera | 37% | - | Below Average |
-| Jin'rokh | 21% | 152k | Poor |
+| Jin'rokh (10H) | 21% | 152k | Poor |
 
 **Analysis:**
 - Better on Council (cleave) than single-target
@@ -153,7 +153,7 @@
 | Horridon | 39% | 173k | Below Average |
 | Tortos | 39% | - | Below Average |
 | Council of Elders | 33% | - | Below Average |
-| Jin'rokh | 25% | 208k | Poor |
+| Jin'rokh (10H) | 25% | 208k | Poor |
 
 **Analysis:**
 - Inconsistent across all fights
@@ -181,7 +181,7 @@
 |-------|-------|-----|-------|
 | Tortos | 45% | - | Average (best) |
 | Council of Elders | 34% | - | Below Average |
-| Jin'rokh | 13% | 158k | Poor |
+| Jin'rokh (10H) | 13% | 158k | Poor |
 | Horridon | 12% | 137k | Poor |
 | Megaera | 12% | - | Poor |
 
