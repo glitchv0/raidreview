@@ -1,0 +1,13 @@
+# Local working files - not uploaded
+HOWTO.md
+*.json
+*.txt
+
+# Working copies of reports
+raid_*.md
+healer_*.md
+tank_*.md
+dps_*.md
+
+# Keep reports folder tracked
+!reports/
