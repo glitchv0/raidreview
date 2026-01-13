@@ -13,37 +13,46 @@ Each report includes per-boss rotation comparisons against top performers, ident
 
 | Report | Description |
 |--------|-------------|
+| [Full Report](reports/2026-01-11_25N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
 | [DPS Analysis](reports/2026-01-11_25N_73LvphDmkPZzNX6V/dps.md) | Per-boss rotation comparison vs top performers |
+| [Tank Analysis](reports/2026-01-11_25N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
+| [Healer Analysis](reports/2026-01-11_25N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
 
 ---
 
 ### 2026-01-10 - Throne of Thunder 25N
 **Log:** [DkgR89WBa47FJd1C](https://classic.warcraftlogs.com/reports/DkgR89WBa47FJd1C)
-**Bosses:** Jin'rokh (25H), Horridon, Council, Tortos, Megaera (25N)
 
 | Report | Description |
 |--------|-------------|
+| [Full Report](reports/2026-01-10_25N_DkgR89WBa47FJd1C/) | Executive summary with all analysis |
 | [DPS Analysis](reports/2026-01-10_25N_DkgR89WBa47FJd1C/dps.md) | Per-boss rotation comparison vs top performers |
+| [Tank Analysis](reports/2026-01-10_25N_DkgR89WBa47FJd1C/tank.md) | Active mitigation, survivability |
+| [Healer Analysis](reports/2026-01-10_25N_DkgR89WBa47FJd1C/healers.md) | HPS rankings, cooldown usage |
 
 ---
 
 ### 2026-01-10 - Throne of Thunder 10N
 **Log:** [ZvBgMjA8y64TxDak](https://classic.warcraftlogs.com/reports/ZvBgMjA8y64TxDak)
-**Bosses:** Ji-Kun, Durumu, Primordius, Dark Animus, Iron Qon, Twin Empyreans, Lei Shen
 
 | Report | Description |
 |--------|-------------|
+| [Full Report](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/) | Executive summary with all analysis |
 | [DPS Analysis](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/dps.md) | Per-boss rotation comparison vs top performers |
+| [Tank Analysis](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/tank.md) | Active mitigation, survivability |
+| [Healer Analysis](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/healers.md) | HPS rankings, cooldown usage |
 
 ---
 
 ### 2026-01-09 - Throne of Thunder 10H
 **Log:** [pdg6m7hDjL9cXtvG](https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG)
-**Bosses:** Jin'rokh, Horridon, Council, Tortos, Megaera
 
 | Report | Description |
 |--------|-------------|
+| [Full Report](reports/2026-01-09_10H_pdg6m7hDjL9cXtvG/) | Executive summary with all analysis |
 | [DPS Analysis](reports/2026-01-09_10H_pdg6m7hDjL9cXtvG/dps.md) | Per-boss rotation comparison vs top performers |
+| [Tank Analysis](reports/2026-01-09_10H_pdg6m7hDjL9cXtvG/tank.md) | Active mitigation, survivability |
+| [Healer Analysis](reports/2026-01-09_10H_pdg6m7hDjL9cXtvG/healers.md) | HPS rankings, cooldown usage |
 
 ---
 
