@@ -1087,3 +1087,4 @@ Compared to Kamaprayer (also Shadow Priest): ~1/3 of the DPS
 
 *Analysis generated from Warcraft Logs API*
 *Log: https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V*
+
