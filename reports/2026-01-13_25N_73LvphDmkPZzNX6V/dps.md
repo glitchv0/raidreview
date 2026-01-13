@@ -89,6 +89,18 @@
 #### Talents & Glyphs
 **Talents:** Soul Leech, Mortal Coil, Soul Link, Unbound Will, Grimoire of Sacrifice, Mannoroth's Fury
 
+#### Rotation Analysis (vs Top Destro Warlock)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Chaos Bolt | 162 | 41 | 3.5 | 4.61 | -24% |
+| Conflagrate | 224 | 18 | 4.85 | 2.02 | +140% ⚠️ |
+| Incinerate | 20 | 46 | 0.43 | 5.17 | **-92%** ❌ |
+| Havoc | 7 | 13 | 0.15 | 1.46 | **-90%** ❌ |
+| Rain of Fire | 66 | 59 | 1.42 | 6.63 | -79% ❌ |
+| Shadowburn | 82 | 43 | 1.77 | 4.83 | -63% ❌ |
+
+**Issues:** Very low Incinerate usage - may be using different filler. Havoc underused for cleave. Shadowburn low in execute.
+
 #### Suggestions
 - Strong single-target performance (Durumu 84%, Lei Shen 84%)
 - Twin Empyreans low (31%) - cleave fight where Destro can struggle
@@ -113,6 +125,18 @@
 
 #### Talents & Glyphs
 **Talents:** Nightstalker, Combat Readiness, Cheat Death, Cloak and Dagger, Prey on the Weak, Shuriken Toss
+
+#### Rotation Analysis (vs Top Subtlety Rogue)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Backstab | 742 | 81 | 16.07 | 9.11 | +76% ⚠️ |
+| Ambush | 175 | 36 | 3.79 | 4.04 | -6% |
+| Eviscerate | 178 | 25 | 3.85 | 2.81 | +37% |
+| Rupture | 100 | 17 | 2.16 | 1.91 | +13% |
+| Shadow Dance | 34 | 7 | 0.73 | 0.78 | -6% |
+| Slice and Dice | 80 | 13 | 1.73 | 1.46 | +18% |
+
+**Notes:** Rotation looks solid - higher Backstab may be due to longer fights. All key abilities within range.
 
 #### Suggestions
 - Excellent single-target (Durumu 80%, Lei Shen 76%, Primo 71%)
@@ -140,6 +164,16 @@
 #### Talents & Glyphs
 **Talents:** Nature's Guardian, Earthgrab Totem, Totemic Projection, Ancestral Swiftness, Rushing Streams, Primal Elementalist
 
+#### Rotation Analysis (vs Top Elemental Shaman)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Lava Burst | 416 | 74 | 9.01 | 7.4 | +22% |
+| Lightning Bolt | 735 | 91 | 15.91 | 9.1 | +75% ⚠️ |
+| Flame Shock | 159 | 25 | 3.44 | 2.5 | +38% |
+| Earth Shock | 53 | 21 | 1.14 | 2.1 | -46% ⚠️ |
+
+**Issues:** Earth Shock usage low - may be capping Lightning Shield stacks. LB filler higher than expected.
+
 #### Suggestions
 - Ji-Kun exceptional (96%) - excellent cleave/AoE execution
 - Massive variance (96% to 13%) - consistency is the issue
@@ -165,6 +199,20 @@
 | Twin Empyreans | 59% | 142k |
 | Lei Shen | 32% | 121k |
 
+#### Rotation Analysis
+| Ability | Casts | CPM |
+|---------|-------|-----|
+| Stormstrike | 238 | 5.15 |
+| Lava Lash | 205 | 4.44 |
+| Earth Shock | 186 | 4.03 |
+| Elemental Blast | 167 | 3.61 |
+| Unleash Elements | 149 | 3.23 |
+| Flame Shock | 128 | 2.77 |
+| Lightning Bolt | 147 | 3.18 |
+| Feral Spirit | 16 | 0.35 |
+
+*Top performer comparison unavailable - data query failed*
+
 #### Suggestions
 - Consistent mid-range performance - no catastrophic fights
 - Fire Elemental timing with Heroism - don't waste it
@@ -188,6 +236,16 @@
 | Twin Empyreans | 53% | 129k |
 | Lei Shen | 48% | 129k |
 
+#### Rotation Analysis (vs Top Elemental Shaman)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Lava Burst | 317 | 74 | 6.86 | 7.4 | -7% |
+| Lightning Bolt | 529 | 91 | 11.45 | 9.1 | +26% |
+| Flame Shock | 93 | 25 | 2.01 | 2.5 | -20% |
+| Earth Shock | 77 | 21 | 1.66 | 2.1 | -21% |
+
+**Notes:** Rotation looks reasonable. Flame Shock slightly low - ensure it never falls off.
+
 #### Suggestions
 - Iron Qon catastrophic (4%) - check death log, likely died early
 - Same spec as Poeshammykun - compare logs directly
@@ -209,6 +267,21 @@
 | Iron Qon | **6%** | 54k |
 | Twin Empyreans | 66% | 163k |
 | Lei Shen | 14% | 104k |
+
+#### Rotation Analysis
+| Ability | Casts | CPM |
+|---------|-------|-----|
+| Crusader Strike | 378 | 8.19 |
+| Judgment | 345 | 7.47 |
+| Templar's Verdict | 247 | 5.35 |
+| Exorcism | 171 | 3.70 |
+| Hammer of Wrath | 149 | 3.23 |
+| Inquisition | 38 | 0.82 |
+| Avenging Wrath | 13 | 0.28 |
+
+*Top performer comparison unavailable - data query failed*
+
+**Note:** Tanked Dark Animus, so parse excluded for that fight.
 
 #### Suggestions
 - Iron Qon (6%) and Lei Shen (14%) are major outliers
@@ -270,6 +343,21 @@
 | Twin Empyreans | 55% | 141k |
 | Lei Shen | 36% | 117k |
 
+#### Rotation Analysis
+| Ability | Casts | CPM |
+|---------|-------|-----|
+| Fireball | 406 | 8.79 |
+| Pyroblast | 339 | 7.34 |
+| Living Bomb | 248 | 5.37 |
+| Scorch | 242 | 5.24 |
+| Fire Blast | 169 | 3.66 |
+| Combustion | 19 | 0.41 |
+| Alter Time | 14 | 0.30 |
+
+*Top performer comparison unavailable - report archived*
+
+**Note:** High Scorch usage suggests movement-heavy fights impacting DPS.
+
 #### Suggestions
 - Combustion timing is critical - ensure high Ignite before use
 - Pyroblast procs should never be wasted
@@ -327,6 +415,22 @@
 | Twin Empyreans | 37% | 139k |
 | Lei Shen | 34% | 135k |
 
+#### Rotation Analysis
+| Ability | Casts | CPM |
+|---------|-------|-----|
+| Soul Fire (Meta) | 309 | 6.69 |
+| Shadow Bolt | 308 | 6.67 |
+| Hand of Gul'dan | 142 | 3.07 |
+| Touch of Chaos | 133 | 2.88 |
+| Corruption | 128 | 2.77 |
+| Soul Fire | 94 | 2.03 |
+| Doom | 46 | 1.00 |
+| Dark Soul: Knowledge | 32 | 0.69 |
+
+*Top performer comparison unavailable - report archived*
+
+**Note:** Metamorphosis uptime looks reasonable. Consider Doom uptime on all targets.
+
 #### Suggestions
 1. **Metamorphosis** timing - use during trinket procs
 2. **Doom** uptime on all targets
@@ -348,6 +452,17 @@
 | Iron Qon | 41% | 128k |
 | Twin Empyreans | 44% | 153k |
 | Lei Shen | **4%** | 87k |
+
+#### Rotation Analysis (vs Top Survival Hunter)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Explosive Shot | 442 | 86 | 9.57 | 10.39 | -8% |
+| Black Arrow | 88 | 17 | 1.9 | 2.05 | -7% |
+| Cobra Shot | 481 | 96 | 10.41 | 11.6 | -10% |
+| Arcane Shot | 384 | 31 | 8.31 | 3.74 | +122% ⚠️ |
+| Serpent Sting | 78 | 4 | 1.68 | 0.48 | +250% ⚠️ |
+
+**Issues:** Too much Arcane Shot - should focus on Cobra Shot as filler. Manual Serpent Sting unnecessary.
 
 #### Suggestions
 - Massive variance (4% to 59%) - consistency needed
@@ -373,6 +488,17 @@
 | Twin Empyreans | 29% | 143k |
 | Lei Shen | 29% | 133k |
 
+#### Rotation Analysis (vs Top Survival Hunter)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Explosive Shot | 517 | 86 | 11.19 | 10.39 | +8% |
+| Black Arrow | 82 | 17 | 1.77 | 2.05 | -14% |
+| Cobra Shot | 339 | 96 | 7.34 | 11.6 | -37% ⚠️ |
+| Arcane Shot | 313 | 31 | 6.77 | 3.74 | +81% ⚠️ |
+| Serpent Sting | 87 | 4 | 1.88 | 0.48 | +292% ⚠️ |
+
+**Issues:** Too much Arcane Shot, not enough Cobra Shot. Serpent Sting being manually cast too often.
+
 #### Suggestions
 - Ji-Kun (70%) shows capability
 - Durumu (3%) - check death log (maze deaths?)
@@ -392,6 +518,17 @@
 | Iron Qon | 45% | 130k |
 | Twin Empyreans | **4%** | 100k |
 | Lei Shen | 21% | 127k |
+
+#### Rotation Analysis (vs Top Survival Hunter)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Explosive Shot | 406 | 86 | 8.79 | 10.39 | -15% |
+| Black Arrow | 82 | 17 | 1.77 | 2.05 | -14% |
+| Cobra Shot | 493 | 96 | 10.67 | 11.6 | -8% |
+| Arcane Shot | 99 | 31 | 2.14 | 3.74 | -43% ⚠️ |
+| Serpent Sting | 266 | 4 | 5.76 | 0.48 | +1100% ⚠️ |
+
+**Issues:** Way too much manual Serpent Sting - it should be refreshed by Cobra Shot, not hard cast.
 
 #### Suggestions
 - Twin Empyreans (4%) - investigate deaths
@@ -454,6 +591,21 @@
 | Twin Empyreans | 32% | 129k |
 | Lei Shen | 10% | 91k |
 
+#### Rotation Analysis (vs Top Destro Warlock)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Chaos Bolt | 143 | 41 | 3.09 | 4.61 | -33% ⚠️ |
+| Conflagrate | 171 | 18 | 3.7 | 2.02 | +83% ⚠️ |
+| Incinerate | 706 | 46 | 15.29 | 5.17 | +196% ⚠️ |
+| Havoc | 3 | 13 | 0.06 | 1.46 | **-96%** ❌ |
+| Rain of Fire | 7 | 59 | 0.15 | 6.63 | **-98%** ❌ |
+| Shadowburn | 11 | 43 | 0.23 | 4.83 | **-95%** ❌ |
+
+**Critical Issues:**
+- **Shadowburn -95%**: Nearly zero execute damage! This is massive DPS loss.
+- **Havoc -96%**: Not using Havoc for cleave at all.
+- **Rain of Fire -98%**: Missing AoE damage completely.
+
 #### Suggestions
 1. **Shadowburn** - spam below 20% HP (likely missing millions of damage)
 2. **Conflagrate** - use on cooldown for Backdraft + embers
@@ -477,6 +629,20 @@
 | Iron Qon | **3%** | 43k |
 | Twin Empyreans | **2%** | 67k |
 | Lei Shen | 13% | 97k |
+
+#### Rotation Analysis (vs Top Elemental Shaman)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Lava Burst | 273 | 74 | 5.91 | 7.4 | -20% |
+| Lightning Bolt | 520 | 91 | 11.27 | 9.1 | +24% |
+| Flame Shock | 106 | 25 | 2.3 | 2.5 | -8% |
+| Earth Shock | 65 | 21 | 1.41 | 2.1 | -33% ⚠️ |
+| Chain Lightning | 129 | 186 | 2.79 | 18.61 | **-85%** ❌ |
+
+**Critical Issues:**
+- **Chain Lightning -85%**: Massive difference on a cleave fight. Top players spam CL on Lei Shen for add damage.
+- **Earth Shock -33%**: Not spending Lightning Shield stacks efficiently.
+- **Lava Burst -20%**: Missing some LvB on cooldown - this is the #1 priority spell.
 
 #### Suggestions
 1. **Flame Shock** uptime 95%+ - likely the core issue
@@ -505,6 +671,25 @@
 **CRITICAL - Immediate intervention required**
 
 Compared to Kamaprayer (also Shadow Priest): ~1/3 of the DPS
+
+#### Rotation Analysis (vs Top Shadow Priest)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Mind Blast | 172 | 35 | 3.72 | 4.19 | -11% |
+| Vampiric Touch | 78 | 53 | 1.69 | 6.35 | **-73%** ❌ |
+| Shadow Word: Pain | 84 | 73 | 1.82 | 8.75 | **-79%** ❌ |
+| Devouring Plague | 70 | 17 | 1.52 | 2.03 | -25% |
+| Mind Flay (Insanity) | 125 | 49 | 2.71 | 5.87 | **-54%** ❌ |
+| Mind Flay | 344 | 38 | 7.45 | 4.55 | +64% ⚠️ |
+| Shadow Word: Death | 59 | 23 | 1.28 | 2.75 | **-54%** ❌ |
+
+**Critical Issues:**
+- **SW:P -79%** and **VT -73%**: DoTs are barely being applied! This is the #1 cause of low DPS.
+- **Mind Flay (Insanity) -54%**: Not using Insanity procs during DP - massive DPS loss.
+- **Regular Mind Flay +64%**: Using basic filler too much instead of DoTs and Insanity.
+- **SW:D -54%**: Missing execute damage and Shadow Orb generation.
+
+**Root Cause**: Fundamental rotation issues. DoTs must have 95%+ uptime.
 
 #### Suggestions
 1. **Check spec** - ensure Shadow, not Disc/Holy
