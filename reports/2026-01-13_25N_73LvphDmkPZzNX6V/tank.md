@@ -61,6 +61,20 @@
 | Fortifying Brew | ✅ Core defensive |
 | Zen Meditation | Situational |
 
+#### Per-Boss Rotation Analysis
+
+| Boss | KS | BoK | TP | Jab | BoF | Guard |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 3.8 | 9.4 | 21.1 | 13.6 | 0 | 1.7 |
+| Durumu | 4.2 | 8.5 | 14.0 | 12.0 | 0 | 1.5 |
+| Primordius | 4.8 | 8.1 | 11.7 | 8.1 | .5 | 1.4 |
+| Dark Animus | 4.3 | 6.0 | 15.6 | 8.4 | .2 | 1.4 |
+| Iron Qon | 3.7 | 7.9 | 15.3 | 10.9 | 0 | 1.4 |
+| Twin Empyreans | 4.8 | 7.8 | 16.9 | 12.2 | .5 | 1.5 |
+| Lei Shen | 3.0 | 4.3 | 10.3 | 6.4 | .4 | 1.2 |
+
+*CPM = Casts Per Minute. KS=Keg Smash, BoK=Blackout Kick, TP=Tiger Palm, BoF=Breath of Fire*
+
 **Analysis:**
 - Strong performance on Durumu (80%) and Ji-Kun (68%)
 - Major struggle on Lei Shen (8%) - needs investigation
@@ -120,6 +134,20 @@
 | Final Wrath | DPS |
 | Word of Glory | ✅ Self-healing |
 | Winged Vengeance | Cosmetic |
+
+#### Per-Boss Rotation Analysis
+
+| Boss | SotR | AS | CS | Jud | Cons | HW |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 9.9 | 3.8 | 14.8 | 13.3 | 5.1 | 4.3 |
+| Durumu | 6.6 | 2.7 | 8.5 | 9.1 | 3.5 | 3.1 |
+| Primordius | 8.4 | 5.0 | 9.1 | 12.2 | 4.3 | 5.0 |
+| Dark Animus | 6.7 | 3.1 | 7.4 | 9.8 | 3.6 | 2.8 |
+| Iron Qon | 5.7 | 3.1 | 10.1 | 11.0 | 5.3 | 3.7 |
+| Twin Empyreans | 7.3 | 4.4 | 10.7 | 11.9 | 5.6 | 4.8 |
+| Lei Shen | 4.3 | 2.5 | 6.0 | 9.3 | 3.7 | 3.3 |
+
+*CPM = Casts Per Minute. SotR=Shield of the Righteous, AS=Avenger's Shield, CS=Crusader Strike, Jud=Judgment, Cons=Consecration, HW=Holy Wrath*
 
 **Analysis:**
 - Most consistent of the two tanks

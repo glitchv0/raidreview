@@ -83,6 +83,20 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 | Renew | Situational |
 | Confession | Cosmetic |
 
+#### Per-Boss Rotation Analysis
+
+| Boss | PWS | Penance | PoM | PoH | Halo | Smite | HF |
+|------|------|------|------|------|------|------|------|
+| Ji-Kun | 8.5 | 13.3 | 2.9 | 1.2 | .9 | 10.9 | 4.6 |
+| Durumu | 8.7 | 1.7 | 2.1 | 1.3 | 1.1 | 8.1 | 3.8 |
+| Primordius | 6.6 | .7 | 1.0 | 1.8 | .7 | 5.0 | 3.7 |
+| Dark Animus | 7.9 | 10.5 | 1.2 | 3.1 | .9 | 8.9 | 3.8 |
+| Iron Qon | 6.9 | .4 | 1.3 | 3.8 | 1.2 | 4.7 | 2.9 |
+| Twin Empyreans | 6.8 | .3 | 1.5 | 1.5 | 1.1 | 10.7 | 4.7 |
+| Lei Shen | 8.9 | .5 | 1.7 | 1.5 | 1.2 | 3.9 | 3.2 |
+
+*CPM = Casts Per Minute. PWS=Power Word: Shield, PoM=Prayer of Mending, PoH=Prayer of Healing, HF=Holy Fire*
+
 **Analysis:**
 - Highest overall healing output among healers
 - Strong performance on high-damage fights (Iron Qon, Lei Shen)
@@ -129,6 +143,20 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 | Protector of the Innocent | ✅ Self-healing |
 | Contemplation | Cosmetic |
 | Winged Vengeance | Cosmetic |
+
+#### Per-Boss Rotation Analysis
+
+| Boss | HS | HL | WoG | LoD | HR | EF |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 8.7 | 0 | 0 | 4.8 | 8.2 | 4.6 |
+| Durumu | 9.3 | 0 | 0 | 5.2 | 7.0 | 7.3 |
+| Primordius | 9.0 | 0 | 0 | 5.9 | 7.7 | 3.2 |
+| Dark Animus | 8.6 | 0 | 0 | .7 | 6.7 | 9.3 |
+| Iron Qon | 8.7 | 0 | 0 | 4.1 | 7.1 | 5.5 |
+| Twin Empyreans | 9.3 | 0 | 0 | 3.0 | 7.6 | 6.4 |
+| Lei Shen | 7.7 | .1 | 0 | 7.4 | 5.3 | 2.6 |
+
+*CPM = Casts Per Minute. HS=Holy Shock, HL=Holy Light, WoG=Word of Glory, LoD=Light of Dawn, HR=Holy Radiance, EF=Eternal Flame*
 
 **Analysis:**
 - Good raw healing output
@@ -179,6 +207,20 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 | Telluric Currents | ✅ Mana + DPS |
 | Deluge | ✅ Chain Heal enhancement |
 
+#### Per-Boss Rotation Analysis
+
+| Boss | Riptide | HW | CH | HRain | HST | ESh |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 4.3 | 7.2 | .9 | 1.9 | 1.4 | .9 |
+| Durumu | 1.3 | 1.7 | 3.5 | 1.1 | 1.3 | .3 |
+| Primordius | 2.1 | 1.8 | 4.5 | 1.6 | 1.4 | .9 |
+| Dark Animus | 5.5 | 5.0 | 2.4 | 1.4 | 1.6 | 0 |
+| Iron Qon | .2 | 1.8 | 8.0 | 1.7 | 1.0 | .2 |
+| Twin Empyreans | .7 | 2.1 | 6.4 | 2.2 | 1.3 | .3 |
+| Lei Shen | .8 | .6 | 6.1 | .9 | 1.2 | .3 |
+
+*CPM = Casts Per Minute. HW=Healing Wave, CH=Chain Heal, HRain=Healing Rain, HST=Healing Stream Totem, ESh=Earth Shield*
+
 **Analysis:**
 - Best combined parse average among healers (44%)
 - Good balance of healing and DPS contribution
@@ -227,6 +269,20 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 | Sprouting Mushroom | ✅ Mushroom enhancement |
 | Treant | Cosmetic |
 | Grace | Cosmetic |
+
+#### Per-Boss Rotation Analysis
+
+| Boss | Rej | WG | SM | LB | RG | Nourish |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 19.7 | 3.6 | 3.1 | 0 | 0 | 0 |
+| Durumu | 14.3 | 3.1 | 2.5 | 0 | .3 | 0 |
+| Primordius | 16.9 | 3.6 | 2.5 | 0 | 0 | 0 |
+| Dark Animus | 17.8 | 3.8 | 2.6 | 0 | .2 | 0 |
+| Iron Qon | 16.6 | 3.3 | 2.7 | 0 | .2 | 0 |
+| Twin Empyreans | 19.7 | 3.2 | 2.3 | 0 | .1 | 0 |
+| Lei Shen | 17.2 | 2.7 | 2.1 | 0 | 0 | 0 |
+
+*CPM = Casts Per Minute. Rej=Rejuvenation, WG=Wild Growth, SM=Swiftmend, LB=Lifebloom, RG=Regrowth*
 
 **Analysis:**
 - Consistently 20% parse across most fights
@@ -280,6 +336,28 @@ The default WCL "combined" parse includes DPS contribution, which can be mislead
 | Winged Vengeance | Cosmetic |
 | Righteous Retreat | Situational |
 | Bladed Judgment | DPS-focused |
+
+#### Per-Boss Rotation Analysis
+
+| Boss | HS | HL | WoG | LoD | HR | EF |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 6.8 | 1.7 | 0 | .2 | 3.4 | 6.3 |
+| Durumu | 5.4 | 1.3 | 0 | 0 | 1.1 | 5.0 |
+| Primordius | 5.0 | 2.8 | 0 | 0 | .7 | 2.3 |
+| Dark Animus | 7.4 | 1.6 | 0 | 0 | 2.1 | 6.2 |
+| Iron Qon | 2.9 | .6 | 0 | 0 | .7 | 2.5 |
+| Twin Empyreans | 7.6 | 1.0 | 0 | .1 | 2.7 | 7.0 |
+| Lei Shen | 6.5 | .9 | 0 | 0 | 2.7 | 6.5 |
+
+*CPM = Casts Per Minute. HS=Holy Shock, HL=Holy Light, WoG=Word of Glory, LoD=Light of Dawn, HR=Holy Radiance, EF=Eternal Flame*
+
+**Comparison to Mightlive (Same Spec):**
+
+| Ability | Holyfrik Avg CPM | Mightlive Avg CPM | Gap |
+|---------|------------------|-------------------|-----|
+| Holy Shock | 6.0 | 8.8 | **-32%** |
+| Holy Radiance | 1.9 | 7.1 | **-73%** |
+| Light of Dawn | 0.05 | 4.4 | **-99%** |
 
 **Analysis:**
 - Lowest HPS of all healers by a significant margin
