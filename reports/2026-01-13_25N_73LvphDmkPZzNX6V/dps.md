@@ -51,6 +51,18 @@
 | Confession | Shadow | ⚠️ Cosmetic vs DPS |
 | Vampiric Embrace | Dispersion | ⚠️ Survivability |
 
+#### Rotation Analysis
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Mind Blast | 206 | 35 | 4.46 | 4.19 | +6% |
+| Shadow Word: Death | 97 | 23 | 2.1 | 2.75 | -24% |
+| Devouring Plague | 79 | 17 | 1.71 | 2.03 | -16% |
+| Mind Flay | 420 | 38 | 9.09 | 4.55 | +100% ⚠️ |
+| Mind Flay (Insanity) | 147 | 49 | 3.18 | 5.87 | -46% ⚠️ |
+| Vampiric Touch | 169 | 53 | 3.66 | 6.35 | -42% ⚠️ |
+
+**Issues:** Using regular Mind Flay too much instead of Insanity procs. VT refresh rate lower than top.
+
 #### Suggestions
 - Excellent overall performance - top DPS in raid consistently
 - Consider **Glyph of Shadow** over Confession for 5% reduced damage
@@ -220,6 +232,22 @@
 | Twin Empyreans | 44% | 144k |
 | Lei Shen | 58% | 149k |
 
+#### Rotation Analysis (vs Top Arms Warrior)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Mortal Strike | 341 | 82 | 7.38 | 8.2 | -10% |
+| Colossus Smash | 190 | 44 | 4.11 | 4.4 | -7% |
+| Overpower | 303 | 116 | 6.56 | 11.61 | -43% ⚠️ |
+| Slam | 443 | 35 | 9.59 | 3.5 | +174% ⚠️ |
+| Execute | 119 | 29 | 2.57 | 2.9 | -11% |
+| Heroic Strike | 32 | 66 | 0.69 | 6.6 | **-90%** ❌ |
+| Sweeping Strikes | 41 | 26 | 0.88 | 2.6 | **-66%** ❌ |
+
+**Critical Issues:**
+- **Heroic Strike -90%**: Not using rage dump! Top warriors HS constantly during high rage.
+- **Sweeping Strikes -66%**: Missing massive cleave damage on multi-target fights.
+- **Slam +174%**: Over-prioritizing Slam. Use Overpower as priority outside CS windows.
+
 #### Suggestions
 1. **Colossus Smash window** - Slam spam, NOT Overpower
 2. **Execute phase** - spam Execute below 20%
@@ -263,6 +291,21 @@
 | Iron Qon | 25% | 104k |
 | Twin Empyreans | 60% | 152k |
 | Lei Shen | **6%** | 83k |
+
+#### Rotation Analysis (vs Top Arms Warrior)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Mortal Strike | 322 | 82 | 6.97 | 8.2 | -15% |
+| Colossus Smash | 164 | 44 | 3.55 | 4.4 | -19% |
+| Overpower | 496 | 116 | 10.74 | 11.61 | -7% |
+| Slam | 446 | 35 | 9.66 | 3.5 | +176% ⚠️ |
+| Execute | 44 | 29 | 0.95 | 2.9 | **-67%** ❌ |
+| Sweeping Strikes | 18 | 26 | 0.38 | 2.6 | **-85%** ❌ |
+
+**Critical Issues:**
+- **Execute -67%**: Missing huge damage during execute phase (<20% HP)
+- **Sweeping Strikes -85%**: Barely using cleave! This costs significant AoE damage.
+- **Slam +176%**: Too much Slam, not enough priority abilities.
 
 #### Suggestions
 - Lei Shen (6%) is critically low - check death log
@@ -369,6 +412,20 @@
 | Iron Qon | 18% | 92k |
 | Twin Empyreans | 34% | 138k |
 | Lei Shen | 13% | 92k |
+
+#### Rotation Analysis (vs Top Frost DK)
+| Ability | Casts | Top | CPM | Top CPM | Gap |
+|---------|-------|-----|-----|---------|-----|
+| Obliterate | 260 | 13 | 5.63 | 1.56 | +261% ⚠️ |
+| Frost Strike | 550 | 141 | 11.91 | 16.99 | -30% ⚠️ |
+| Howling Blast | 358 | 138 | 7.75 | 16.63 | **-53%** ❌ |
+| Soul Reaper | 49 | 18 | 1.06 | 2.17 | **-51%** ❌ |
+| Pillar of Frost | 31 | 7 | 0.67 | 0.84 | -20% |
+
+**Critical Issues:**
+- **Howling Blast -53%**: Missing Rime procs! HB is free damage when Rime procs.
+- **Soul Reaper -51%**: Missing execute phase damage. Use SR on targets <35% HP.
+- **Obliterate +261%**: WAY too much Oblit = likely 2H Frost (2H uses more Oblit, DW uses more FS).
 
 #### Critical Issue: 2H vs Dual-Wield
 
