@@ -107,6 +107,20 @@
 
 **Issues:** Very low Incinerate usage - may be using different filler. Havoc underused for cleave. Shadowburn low in execute.
 
+#### Per-Boss Rotation Analysis
+
+| Boss | CB | Conf | Inc | Havoc | RoF | SB | Immolate |
+|------|------|------|------|------|------|------|------|
+| Ji-Kun | 3.8 | 5.3 | 22.8 | 0 | .7 | 1.4 | 3.6 |
+| Durumu | 3.5 | 5.2 | 19.2 | .3 | .9 | 2.1 | 3.8 |
+| Primordius | 3.6 | 4.8 | 20.3 | .3 | 1.8 | 3.0 | 4.3 |
+| Dark Animus | 2.8 | 4.3 | 13.2 | .4 | .4 | 2.4 | 4.0 |
+| Iron Qon | 3.8 | 5.1 | 20.2 | 0 | 1.6 | 1.3 | 3.7 |
+| Twin Empyreans | 3.8 | 5.1 | 21.5 | .1 | 1.1 | 1.1 | 4.5 |
+| Lei Shen | 2.9 | 4.0 | 2.1 | 0 | 2.1 | 1.6 | 2.7 |
+
+*CPM = Casts Per Minute. CB=Chaos Bolt, Conf=Conflagrate, Inc=Incinerate, RoF=Rain of Fire, SB=Shadowburn*
+
 #### Suggestions
 - Strong single-target performance (Durumu 84%, Lei Shen 84%)
 - Twin Empyreans low (31%) - cleave fight where Destro can struggle
@@ -144,6 +158,20 @@
 
 **Notes:** Rotation looks solid - higher Backstab may be due to longer fights. All key abilities within range.
 
+#### Per-Boss Rotation Analysis
+
+| Boss | BS | Amb | Evis | Rup | SD | SnD |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 20.9 | 3.8 | 0 | 2.4 | .7 | 1.7 |
+| Durumu | 15.7 | 4.2 | 0 | 2.1 | .7 | 1.5 |
+| Primordius | 20.3 | 3.6 | 0 | 1.9 | .7 | 1.9 |
+| Dark Animus | 7.4 | 2.8 | 0 | 1.4 | .4 | 1.4 |
+| Iron Qon | 16.2 | 4.1 | 0 | 2.1 | .7 | 1.7 |
+| Twin Empyreans | 19.4 | 4.0 | 0 | 2.7 | .7 | 1.8 |
+| Lei Shen | 12.3 | 3.3 | 0 | 1.9 | .7 | 1.7 |
+
+*CPM = Casts Per Minute. BS=Backstab, Amb=Ambush, Evis=Eviscerate, Rup=Rupture, SD=Shadow Dance, SnD=Slice and Dice*
+
 #### Suggestions
 - Excellent single-target (Durumu 80%, Lei Shen 76%, Primo 71%)
 - Dark Animus catastrophic (9%) - sub-rogue struggles with add management
@@ -179,6 +207,20 @@
 | Earth Shock | 53 | 21 | 1.14 | 2.1 | -46% ⚠️ |
 
 **Issues:** Earth Shock usage low - may be capping Lightning Shield stacks. LB filler higher than expected.
+
+#### Per-Boss Rotation Analysis
+
+| Boss | LvB | LB | FS | ES | CL |
+|------|------|------|------|------|------|
+| Ji-Kun | 11.9 | 20.9 | 1.9 | 2.1 | .7 |
+| Durumu | 10.3 | 19.2 | 5.2 | 1.3 | 0 |
+| Primordius | 3.2 | 6.8 | 3.0 | .7 | 23.9 |
+| Dark Animus | 8.6 | 12.9 | 4.8 | .7 | 0 |
+| Iron Qon | 8.4 | 14.5 | 2.8 | .7 | 0 |
+| Twin Empyreans | 15.1 | 23.3 | 2.6 | 2.1 | 0 |
+| Lei Shen | 6.2 | 14.0 | 4.0 | .6 | 6.3 |
+
+*CPM = Casts Per Minute. LvB=Lava Burst, LB=Lightning Bolt, FS=Flame Shock, ES=Earth Shock, CL=Chain Lightning*
 
 #### Suggestions
 - Ji-Kun exceptional (96%) - excellent cleave/AoE execution
@@ -219,6 +261,20 @@
 
 *Top performer comparison unavailable - data query failed*
 
+#### Per-Boss Rotation Analysis
+
+| Boss | SS | LL | ES | FS | UE | LB |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 6.0 | 4.8 | 4.3 | 3.1 | 3.1 | 2.9 |
+| Durumu | 5.0 | 4.6 | 3.1 | 3.6 | 3.5 | 4.4 |
+| Primordius | 5.4 | 5.2 | 4.5 | 3.0 | 3.4 | 3.7 |
+| Dark Animus | 4.8 | 3.3 | 3.1 | 2.4 | 2.1 | 2.1 |
+| Iron Qon | 4.8 | 4.2 | 3.8 | 2.2 | 3.0 | 2.7 |
+| Twin Empyreans | 5.7 | 5.1 | 5.1 | 2.8 | 3.8 | 3.8 |
+| Lei Shen | 4.5 | 3.8 | 3.8 | 2.5 | 3.1 | 2.6 |
+
+*CPM = Casts Per Minute. SS=Stormstrike, LL=Lava Lash, ES=Earth Shock, FS=Flame Shock, UE=Unleash Elements, LB=Lightning Bolt*
+
 #### Suggestions
 - Consistent mid-range performance - no catastrophic fights
 - Fire Elemental timing with Heroism - don't waste it
@@ -251,6 +307,20 @@
 | Earth Shock | 77 | 21 | 1.66 | 2.1 | -21% |
 
 **Notes:** Rotation looks reasonable. Flame Shock slightly low - ensure it never falls off.
+
+#### Per-Boss Rotation Analysis
+
+| Boss | LvB | LB | FS | ES | CL |
+|------|------|------|------|------|------|
+| Ji-Kun | 8.7 | 13.3 | 2.4 | 1.7 | 2.4 |
+| Durumu | 9.7 | 16.3 | 2.1 | 1.9 | 0 |
+| Primordius | 5.0 | 6.6 | 2.1 | 1.9 | 16.9 |
+| Dark Animus | 8.1 | 15.1 | 3.8 | .7 | 1.4 |
+| Iron Qon | 3.8 | 6.0 | .8 | .7 | 0 |
+| Twin Empyreans | 9.5 | 15.6 | 2.3 | 2.7 | 4.2 |
+| Lei Shen | 6.1 | 11.8 | 1.8 | 1.8 | 5.2 |
+
+*CPM = Casts Per Minute. LvB=Lava Burst, LB=Lightning Bolt, FS=Flame Shock, ES=Earth Shock, CL=Chain Lightning*
 
 #### Suggestions
 - Iron Qon catastrophic (4%) - check death log, likely died early
@@ -288,6 +358,20 @@
 *Top performer comparison unavailable - data query failed*
 
 **Note:** Tanked Dark Animus, so parse excluded for that fight.
+
+#### Per-Boss Rotation Analysis
+
+| Boss | CS | Jud | TV | Exo | HoW | Inq |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 10.9 | 9.9 | 5.3 | 5.5 | 6.5 | 1.2 |
+| Durumu | 9.9 | 9.3 | 5.2 | 4.8 | 5.6 | 1.1 |
+| Primordius | 9.3 | 10.6 | 1.9 | 5.4 | 3.9 | 1.0 |
+| Dark Animus | 11.7 | 10.3 | 0 | 0 | 0 | 0 |
+| Iron Qon | 3.6 | 3.2 | 1.7 | 1.7 | 1.8 | .4 |
+| Twin Empyreans | 11.9 | 9.5 | 5.3 | 6.3 | 4.7 | 1.1 |
+| Lei Shen | 5.6 | 5.1 | 1.3 | 2.9 | 1.7 | .7 |
+
+*CPM = Casts Per Minute. CS=Crusader Strike, Jud=Judgment, TV=Templar's Verdict, Exo=Exorcism, HoW=Hammer of Wrath, Inq=Inquisition*
 
 #### Suggestions
 - Iron Qon (6%) and Lei Shen (14%) are major outliers
@@ -367,6 +451,20 @@
 
 **Note:** High Scorch usage suggests movement-heavy fights impacting DPS.
 
+#### Per-Boss Rotation Analysis
+
+| Boss | Fireball | Pyro | LB | Scorch | FB | Comb |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 9.7 | 9.0 | 5.8 | 5.3 | 4.1 | .4 |
+| Durumu | 10.7 | 7.3 | 6.8 | 6.6 | 4.2 | .5 |
+| Primordius | 8.1 | 10.4 | 7.0 | 5.5 | 4.1 | .3 |
+| Dark Animus | 6.0 | 4.0 | 3.8 | 7.7 | 2.6 | .2 |
+| Iron Qon | 8.3 | 5.6 | 3.7 | 1.9 | 2.6 | .3 |
+| Twin Empyreans | 14.5 | 8.8 | 6.1 | 2.7 | 4.3 | .5 |
+| Lei Shen | 4.7 | 6.8 | 5.2 | 8.9 | 3.8 | .3 |
+
+*CPM = Casts Per Minute. Pyro=Pyroblast, LB=Living Bomb, FB=Fire Blast, Comb=Combustion*
+
 #### Suggestions
 - Combustion timing is critical - ensure high Ignite before use
 - Pyroblast procs should never be wasted
@@ -404,6 +502,20 @@
 - **Sweeping Strikes -85%**: Barely using cleave! This costs significant AoE damage.
 - **Slam +176%**: Too much Slam, not enough priority abilities.
 
+#### Per-Boss Rotation Analysis
+
+| Boss | MS | CS | Overpower | Slam | Execute | HS | SS |
+|------|------|------|------|------|------|------|------|
+| Ji-Kun | 9.2 | 3.6 | 17.2 | 11.6 | 1.4 | 0 | 0 |
+| Durumu | 7.5 | 4.0 | 13.6 | 10.5 | 1.5 | 0 | 0 |
+| Primordius | 7.7 | 3.6 | 11.3 | 8.6 | .9 | 0 | .9 |
+| Dark Animus | 5.7 | 2.6 | 8.9 | 5.7 | .7 | 0 | .9 |
+| Iron Qon | 7.7 | 3.2 | 13.7 | 9.5 | .5 | 0 | 0 |
+| Twin Empyreans | 8.5 | 5.3 | 10.2 | 13.9 | 2.1 | 0 | .7 |
+| Lei Shen | 3.5 | 2.4 | 3.6 | 7.2 | 0 | 0 | .3 |
+
+*CPM = Casts Per Minute. MS=Mortal Strike, CS=Colossus Smash, HS=Heroic Strike, SS=Sweeping Strikes*
+
 #### Suggestions
 - Lei Shen (6%) is critically low - check death log
 - Same suggestions as Nybszerk
@@ -440,6 +552,20 @@
 
 **Note:** Metamorphosis uptime looks reasonable. Consider Doom uptime on all targets.
 
+#### Per-Boss Rotation Analysis
+
+| Boss | SF | ShB | HoG | ToC | Corruption | Doom |
+|------|------|------|------|------|------|------|
+| Ji-Kun | 1.4 | 7.7 | 2.9 | 2.9 | .9 | .9 |
+| Durumu | .7 | 7.9 | 3.3 | 3.1 | 1.1 | .7 |
+| Primordius | 1.2 | 9.1 | 3.0 | 1.9 | 1.0 | .5 |
+| Dark Animus | 2.4 | 3.6 | 1.6 | 1.9 | 1.4 | 1.6 |
+| Iron Qon | 1.9 | 8.7 | 3.4 | 3.5 | 1.3 | .9 |
+| Twin Empyreans | 4.2 | 7.4 | 3.8 | 3.6 | 1.7 | 1.3 |
+| Lei Shen | 4.3 | 2.1 | 2.6 | 2.2 | 1.4 | .8 |
+
+*CPM = Casts Per Minute. SF=Soul Fire, ShB=Shadow Bolt, HoG=Hand of Gul'dan, ToC=Touch of Chaos*
+
 #### Suggestions
 1. **Metamorphosis** timing - use during trinket procs
 2. **Doom** uptime on all targets
@@ -472,6 +598,20 @@
 | Serpent Sting | 78 | 4 | 1.68 | 0.48 | +250% ⚠️ |
 
 **Issues:** Too much Arcane Shot - should focus on Cobra Shot as filler. Manual Serpent Sting unnecessary.
+
+#### Per-Boss Rotation Analysis
+
+| Boss | ES | BA | CoS | AS | KS |
+|------|------|------|------|------|------|
+| Ji-Kun | 8.5 | 1.7 | 7.7 | 6.0 | 1.4 |
+| Durumu | 11.4 | 2.3 | 13.8 | 11.8 | 1.7 |
+| Primordius | 9.9 | 2.1 | 12.2 | 8.8 | 1.8 |
+| Dark Animus | 6.0 | .9 | 4.8 | 4.3 | .9 |
+| Iron Qon | 10.8 | 2.2 | 12.1 | 9.6 | 1.6 |
+| Twin Empyreans | 13.5 | 2.3 | 13.1 | 11.8 | 1.5 |
+| Lei Shen | 5.5 | 1.2 | 6.8 | 4.3 | 0 |
+
+*CPM = Casts Per Minute. ES=Explosive Shot, BA=Black Arrow, CoS=Cobra Shot, AS=Arcane Shot, KS=Kill Shot*
 
 #### Suggestions
 - Massive variance (4% to 59%) - consistency needed
@@ -508,6 +648,20 @@
 
 **Issues:** Too much Arcane Shot, not enough Cobra Shot. Serpent Sting being manually cast too often.
 
+#### Per-Boss Rotation Analysis
+
+| Boss | ES | BA | CoS | AS | KS |
+|------|------|------|------|------|------|
+| Ji-Kun | 15.3 | 2.4 | 8.7 | 8.2 | 1.4 |
+| Durumu | 5.6 | 1.1 | 4.2 | 4.8 | 0 |
+| Primordius | 11.5 | 1.6 | 9.0 | 7.5 | 2.5 |
+| Dark Animus | 5.5 | .9 | 3.6 | 5.7 | .9 |
+| Iron Qon | 12.9 | 2.0 | 9.1 | 8.4 | 1.7 |
+| Twin Empyreans | 15.3 | 2.2 | 9.8 | 8.0 | 1.7 |
+| Lei Shen | 9.4 | 1.6 | 4.9 | 4.2 | 1.4 |
+
+*CPM = Casts Per Minute. ES=Explosive Shot, BA=Black Arrow, CoS=Cobra Shot, AS=Arcane Shot, KS=Kill Shot*
+
 #### Suggestions
 - Ji-Kun (70%) shows capability
 - Durumu (3%) - check death log (maze deaths?)
@@ -538,6 +692,20 @@
 | Serpent Sting | 266 | 4 | 5.76 | 0.48 | +1100% ⚠️ |
 
 **Issues:** Way too much manual Serpent Sting - it should be refreshed by Cobra Shot, not hard cast.
+
+#### Per-Boss Rotation Analysis
+
+| Boss | ES | BA | CoS | AS | KS |
+|------|------|------|------|------|------|
+| Ji-Kun | 8.5 | 1.9 | 10.4 | 1.9 | 1.7 |
+| Durumu | 11.0 | 2.1 | 13.8 | 3.3 | 1.3 |
+| Primordius | 8.4 | 1.8 | 11.7 | 1.4 | 1.0 |
+| Dark Animus | 5.2 | .9 | 4.5 | .9 | .7 |
+| Iron Qon | 10.3 | 2.1 | 12.6 | 3.5 | 1.6 |
+| Twin Empyreans | 7.8 | 1.4 | 8.9 | 1.3 | 1.4 |
+| Lei Shen | 8.4 | 1.6 | 10.3 | 1.6 | 1.2 |
+
+*CPM = Casts Per Minute. ES=Explosive Shot, BA=Black Arrow, CoS=Cobra Shot, AS=Arcane Shot, KS=Kill Shot*
 
 #### Suggestions
 - Twin Empyreans (4%) - investigate deaths
