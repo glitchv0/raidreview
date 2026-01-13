@@ -10,5 +10,8 @@ healer_*.md
 tank_*.md
 dps_*.md
 
+# Raw API data (local only)
+raw/
+
 # Keep reports folder tracked
 !reports/
