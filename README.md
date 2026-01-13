@@ -2,164 +2,56 @@
 
 Performance analysis reports for **Basically Serious** guild raids, generated from Warcraft Logs data.
 
-Each report includes detailed breakdowns comparing guild members to top performers, identifying areas for improvement in DPS rotations, tank mitigation, healer output, and consumable usage.
+Each report includes per-boss rotation comparisons against top performers, identifying areas for improvement.
 
 ---
 
 ## Reports
-
-### 2026-01-13 - Throne of Thunder 25N
-**Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-13_25N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
-
----
-
-### 2026-01-13 - Throne of Thunder 25N
-**Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-13_25N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
-
----
-
-### 2026-01-13 - Throne of Thunder 25N
-**Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-13_25N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
-
----
-
-### 2026-01-13 - Throne of Thunder 25N
-**Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-13_25N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
-
----
-
-### 2026-01-13 - Throne of Thunder 25N
-**Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-13_25N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
-
----
-
-### 2026-01-13 - Throne of Thunder 25N
-**Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-13_25N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-13_25N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
-
----
 
 ### 2026-01-11 - Throne of Thunder 25N
 **Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
 
 | Report | Description |
 |--------|-------------|
-| [Full Report](reports/2026-01-11_25N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-11_25N_73LvphDmkPZzNX6V/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-11_25N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-11_25N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
+| [DPS Analysis](reports/2026-01-11_25N_73LvphDmkPZzNX6V/dps.md) | Per-boss rotation comparison vs top performers |
 
 ---
 
-### 2026-01-11 - Throne of Thunder 10N
-**Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-11_10N_73LvphDmkPZzNX6V/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-11_10N_73LvphDmkPZzNX6V/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-11_10N_73LvphDmkPZzNX6V/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-11_10N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
-
----
-
-### 2026-01-11 - Throne of Thunder 10M
-**Log:** [pdg6m7hDjL9cXtvG](https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-11_10M_pdg6m7hDjL9cXtvG/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-11_10M_pdg6m7hDjL9cXtvG/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-11_10M_pdg6m7hDjL9cXtvG/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-11_10M_pdg6m7hDjL9cXtvG/healers.md) | HPS rankings, cooldown usage |
-
----
-
-### 2026-01-11 - Throne of Thunder 10M
-**Log:** [ZvBgMjA8y64TxDak](https://classic.warcraftlogs.com/reports/ZvBgMjA8y64TxDak)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-11_10M_ZvBgMjA8y64TxDak/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-11_10M_ZvBgMjA8y64TxDak/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-11_10M_ZvBgMjA8y64TxDak/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-11_10M_ZvBgMjA8y64TxDak/healers.md) | HPS rankings, cooldown usage |
-
----
-
-### 2026-01-10 - Throne of Thunder 25M
+### 2026-01-10 - Throne of Thunder 25N
 **Log:** [DkgR89WBa47FJd1C](https://classic.warcraftlogs.com/reports/DkgR89WBa47FJd1C)
+**Bosses:** Jin'rokh (25H), Horridon, Council, Tortos, Megaera (25N)
 
 | Report | Description |
 |--------|-------------|
-| [Full Report](reports/2026-01-10_25M_DkgR89WBa47FJd1C/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-10_25M_DkgR89WBa47FJd1C/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-10_25M_DkgR89WBa47FJd1C/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-10_25M_DkgR89WBa47FJd1C/healers.md) | HPS rankings, cooldown usage |
+| [DPS Analysis](reports/2026-01-10_25N_DkgR89WBa47FJd1C/dps.md) | Per-boss rotation comparison vs top performers |
+
+---
+
+### 2026-01-10 - Throne of Thunder 10N
+**Log:** [ZvBgMjA8y64TxDak](https://classic.warcraftlogs.com/reports/ZvBgMjA8y64TxDak)
+**Bosses:** Ji-Kun, Durumu, Primordius, Dark Animus, Iron Qon, Twin Empyreans, Lei Shen
+
+| Report | Description |
+|--------|-------------|
+| [DPS Analysis](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/dps.md) | Per-boss rotation comparison vs top performers |
+
+---
+
+### 2026-01-09 - Throne of Thunder 10H
+**Log:** [pdg6m7hDjL9cXtvG](https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG)
+**Bosses:** Jin'rokh, Horridon, Council, Tortos, Megaera
+
+| Report | Description |
+|--------|-------------|
+| [DPS Analysis](reports/2026-01-09_10H_pdg6m7hDjL9cXtvG/dps.md) | Per-boss rotation comparison vs top performers |
 
 ---
 
 ## How Reports Are Generated
 
-Reports are generated by pulling data from the [Warcraft Logs API](https://classic.warcraftlogs.com/) and comparing guild performance against top-tier players at the same difficulty and item level.
+Reports are generated by pulling data from the [Warcraft Logs API](https://classic.warcraftlogs.com/) and comparing guild performance against top-tier players.
 
 **Analysis includes:**
-- Parse percentile rankings
-- Ability-by-ability comparisons to top performers
-- Rotation and cooldown usage review
-- Consumable audit (potions, flasks)
-- Actionable improvement recommendations
-
----
-
-## Report Structure
-
-Each dated folder contains:
-
-| File | Contents |
-|------|----------|
-| `README.md` | Full combined report (displays automatically) |
-| `dps.md` | DPS-only analysis |
-| `tank.md` | Tank-only analysis |
-| `healers.md` | Healer-only analysis |
+- Per-boss ability CPM (casts per minute) comparisons
+- Gap analysis vs rank 1 performers for each spec
+- Identification of rotation issues by fight
