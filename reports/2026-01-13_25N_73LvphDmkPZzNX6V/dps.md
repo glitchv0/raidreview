@@ -51,17 +51,23 @@
 | Confession | Shadow | ⚠️ Cosmetic vs DPS |
 | Vampiric Embrace | Dispersion | ⚠️ Survivability |
 
-#### Rotation Analysis
-| Ability | Casts | Top | CPM | Top CPM | Gap |
-|---------|-------|-----|-----|---------|-----|
-| Mind Blast | 206 | 35 | 4.46 | 4.19 | +6% |
-| Shadow Word: Death | 97 | 23 | 2.1 | 2.75 | -24% |
-| Devouring Plague | 79 | 17 | 1.71 | 2.03 | -16% |
-| Mind Flay | 420 | 38 | 9.09 | 4.55 | +100% ⚠️ |
-| Mind Flay (Insanity) | 147 | 49 | 3.18 | 5.87 | -46% ⚠️ |
-| Vampiric Touch | 169 | 53 | 3.66 | 6.35 | -42% ⚠️ |
+#### Per-Boss Rotation Analysis (CPM)
+| Boss | MB | VT | SWP | DP | MF | MFI | SWD |
+|------|-----|-----|-----|-----|-----|-----|-----|
+| Ji-Kun | 4.6 | 2.6 | 3.8 | 1.7 | 7.2 | 3.6 | 1.4 |
+| Durumu | 4.6 | 3.6 | 3.8 | 1.7 | 8.9 | 4.4 | 1.9 |
+| Primordius | 6.1 | 4.6 | **16.9** | 1.9 | 3.0 | 0 | 0.9 |
+| Dark Animus | 2.4 | 4.3 | 7.2 | 0.9 | 4.5 | 2.1 | 3.1 |
+| Iron Qon | 4.3 | 3.4 | 3.4 | 1.6 | 13.8 | 3.3 | 2.1 |
+| Twin Empyreans | 4.9 | 4.0 | 3.9 | 1.9 | 12.3 | **4.8** | 2.1 |
+| Lei Shen | 3.9 | 3.0 | 4.9 | 1.7 | 7.5 | 3.0 | 2.6 |
 
-**Issues:** Using regular Mind Flay too much instead of Insanity procs. VT refresh rate lower than top.
+*MB=Mind Blast, VT=Vampiric Touch, SWP=Shadow Word: Pain, DP=Devouring Plague, MF=Mind Flay, MFI=Mind Flay Insanity, SWD=Shadow Word: Death*
+
+**Notes:**
+- **Primordius**: SWP spikes to 16.9 = multi-dotting adds correctly
+- **Twin Empyreans**: MFI peaks at 4.8 = good Insanity usage with Twist of Fate
+- **Consistent MB**: 3.9-6.1 across all fights = solid core rotation
 
 #### Suggestions
 - Excellent overall performance - top DPS in raid consistently
@@ -305,21 +311,24 @@
 | Twin Empyreans | 44% | 144k |
 | Lei Shen | 58% | 149k |
 
-#### Rotation Analysis (vs Top Arms Warrior)
-| Ability | Casts | Top | CPM | Top CPM | Gap |
-|---------|-------|-----|-----|---------|-----|
-| Mortal Strike | 341 | 82 | 7.38 | 8.2 | -10% |
-| Colossus Smash | 190 | 44 | 4.11 | 4.4 | -7% |
-| Overpower | 303 | 116 | 6.56 | 11.61 | -43% ⚠️ |
-| Slam | 443 | 35 | 9.59 | 3.5 | +174% ⚠️ |
-| Execute | 119 | 29 | 2.57 | 2.9 | -11% |
-| Heroic Strike | 32 | 66 | 0.69 | 6.6 | **-90%** ❌ |
-| Sweeping Strikes | 41 | 26 | 0.88 | 2.6 | **-66%** ❌ |
+#### Per-Boss Rotation Analysis (CPM)
+| Boss | MS | CS | OP | Slam | Exec | HS | SS |
+|------|-----|-----|-----|------|------|-----|-----|
+| Ji-Kun | 9.0 | 4.6 | 9.7 | 12.1 | 4.1 | 1.7 | 0 |
+| Durumu | 7.9 | 4.2 | 7.5 | 11.6 | 3.8 | **0.7** | 0 |
+| Primordius | 7.9 | 4.3 | 6.8 | 8.2 | 1.9 | **0** | 2.3 |
+| Dark Animus | **4.8** | 3.6 | **1.2** | 6.9 | 1.4 | 0.7 | **0.2** |
+| Iron Qon | 7.0 | 3.6 | 7.5 | 8.5 | 2.1 | **0.8** | 0 |
+| Twin Empyreans | 8.2 | 4.7 | 8.8 | 10.6 | 3.1 | 0.9 | 1.1 |
+| Lei Shen | 6.7 | 3.9 | **3.8** | 9.6 | 2.0 | **0.2** | 1.9 |
 
-**Critical Issues:**
-- **Heroic Strike -90%**: Not using rage dump! Top warriors HS constantly during high rage.
-- **Sweeping Strikes -66%**: Missing massive cleave damage on multi-target fights.
-- **Slam +174%**: Over-prioritizing Slam. Use Overpower as priority outside CS windows.
+*MS=Mortal Strike, CS=Colossus Smash, OP=Overpower, Exec=Execute, HS=Heroic Strike, SS=Sweeping Strikes*
+
+**Critical Patterns:**
+- **Heroic Strike near-zero on most fights**: 0.2-0.8 CPM vs 4-6 CPM on top warriors = not rage dumping
+- **Dark Animus (12%)**: MS crashes to 4.8, OP to 1.2 = likely target switching issues
+- **Lei Shen (58%)**: OP drops to 3.8 = not reacting to procs during movement phases
+- **Sweeping Strikes barely used**: 0-2.3 CPM - missing major cleave damage
 
 #### Suggestions
 1. **Colossus Smash window** - Slam spam, NOT Overpower
@@ -550,19 +559,24 @@
 | Twin Empyreans | 34% | 138k |
 | Lei Shen | 13% | 92k |
 
-#### Rotation Analysis (vs Top Frost DK)
-| Ability | Casts | Top | CPM | Top CPM | Gap |
-|---------|-------|-----|-----|---------|-----|
-| Obliterate | 260 | 13 | 5.63 | 1.56 | +261% ⚠️ |
-| Frost Strike | 550 | 141 | 11.91 | 16.99 | -30% ⚠️ |
-| Howling Blast | 358 | 138 | 7.75 | 16.63 | **-53%** ❌ |
-| Soul Reaper | 49 | 18 | 1.06 | 2.17 | **-51%** ❌ |
-| Pillar of Frost | 31 | 7 | 0.67 | 0.84 | -20% |
+#### Per-Boss Rotation Analysis (CPM)
+| Boss | Oblit | FS | HB | SR | PoF |
+|------|-------|-----|-----|-----|-----|
+| Ji-Kun | 9.0 | 16.7 | 9.0 | 1.4 | 0.9 |
+| Durumu | **4.0** | **7.3** | **5.6** | **0.1** | 0.3 |
+| Primordius | 5.5 | 11.3 | 8.1 | 0.7 | 0.7 |
+| Dark Animus | 4.3 | **7.2** | **2.8** | 0.7 | 0.4 |
+| Iron Qon | 5.8 | 12.8 | 7.3 | 1.3 | 0.7 |
+| Twin Empyreans | 8.8 | 17.2 | 8.4 | 2.3 | 0.9 |
+| Lei Shen | **2.7** | 9.3 | 10.2 | **0.3** | 0.4 |
 
-**Critical Issues:**
-- **Howling Blast -53%**: Missing Rime procs! HB is free damage when Rime procs.
-- **Soul Reaper -51%**: Missing execute phase damage. Use SR on targets <35% HP.
-- **Obliterate +261%**: WAY too much Oblit = likely 2H Frost (2H uses more Oblit, DW uses more FS).
+*Oblit=Obliterate, FS=Frost Strike, HB=Howling Blast, SR=Soul Reaper, PoF=Pillar of Frost*
+
+**Critical Patterns:**
+- **Durumu (4%)**: Everything crashes - Oblit 4.0, FS 7.3, HB 5.6, SR 0.1 - likely died to maze
+- **Dark Animus (7%)**: HB only 2.8 CPM = not reacting to Rime procs
+- **Lei Shen (13%)**: Oblit drops to 2.7 = significant downtime
+- **High Obliterate on Ji-Kun/Twins**: Confirms 2H Frost build (2H uses more Oblit)
 
 #### Critical Issue: 2H vs Dual-Wield
 
@@ -591,20 +605,25 @@
 | Twin Empyreans | 32% | 129k |
 | Lei Shen | 10% | 91k |
 
-#### Rotation Analysis (vs Top Destro Warlock)
-| Ability | Casts | Top | CPM | Top CPM | Gap |
-|---------|-------|-----|-----|---------|-----|
-| Chaos Bolt | 143 | 41 | 3.09 | 4.61 | -33% ⚠️ |
-| Conflagrate | 171 | 18 | 3.7 | 2.02 | +83% ⚠️ |
-| Incinerate | 706 | 46 | 15.29 | 5.17 | +196% ⚠️ |
-| Havoc | 3 | 13 | 0.06 | 1.46 | **-96%** ❌ |
-| Rain of Fire | 7 | 59 | 0.15 | 6.63 | **-98%** ❌ |
-| Shadowburn | 11 | 43 | 0.23 | 4.83 | **-95%** ❌ |
+#### Per-Boss Rotation Analysis (CPM)
+| Boss | CB | Conf | Inc | Havoc | RoF | SB | Immo |
+|------|-----|------|-----|-------|-----|-----|------|
+| Ji-Kun | 4.6 | 5.1 | 22.3 | **0** | **0** | **0.2** | 3.4 |
+| Durumu | 3.5 | 4.4 | 19.0 | 0.1 | **0** | **0.3** | 3.3 |
+| Primordius | 5.0 | 4.8 | 21.0 | 0.1 | **0** | **0** | 3.2 |
+| Dark Animus | **2.1** | 4.0 | **11.0** | **0** | **0** | **0.4** | 1.9 |
+| Iron Qon | **1.8** | **2.1** | **7.6** | **0** | **0** | **0.1** | 1.5 |
+| Twin Empyreans | 4.2 | 4.8 | 21.5 | 0.1 | **0** | **0.3** | 4.2 |
+| Lei Shen | **1.9** | **2.6** | **1.2** | **0** | 0.7 | **0.1** | 1.5 |
 
-**Critical Issues:**
-- **Shadowburn -95%**: Nearly zero execute damage! This is massive DPS loss.
-- **Havoc -96%**: Not using Havoc for cleave at all.
-- **Rain of Fire -98%**: Missing AoE damage completely.
+*CB=Chaos Bolt, Conf=Conflagrate, Inc=Incinerate, RoF=Rain of Fire, SB=Shadowburn, Immo=Immolate*
+
+**Critical Patterns:**
+- **Shadowburn near-zero on ALL fights**: 0-0.4 CPM = not using execute at all
+- **Havoc zero on ALL fights**: 0-0.1 CPM = missing all cleave opportunities
+- **Rain of Fire zero**: 0 CPM except Lei Shen = no AoE usage
+- **Iron Qon (2%)**: Everything crashes - CB 1.8, Conf 2.1, Inc 7.6 = likely died early
+- **Lei Shen (10%)**: Inc drops to 1.2 = massive downtime
 
 #### Suggestions
 1. **Shadowburn** - spam below 20% HP (likely missing millions of damage)
@@ -630,19 +649,24 @@
 | Twin Empyreans | **2%** | 67k |
 | Lei Shen | 13% | 97k |
 
-#### Rotation Analysis (vs Top Elemental Shaman)
-| Ability | Casts | Top | CPM | Top CPM | Gap |
-|---------|-------|-----|-----|---------|-----|
-| Lava Burst | 273 | 74 | 5.91 | 7.4 | -20% |
-| Lightning Bolt | 520 | 91 | 11.27 | 9.1 | +24% |
-| Flame Shock | 106 | 25 | 2.3 | 2.5 | -8% |
-| Earth Shock | 65 | 21 | 1.41 | 2.1 | -33% ⚠️ |
-| Chain Lightning | 129 | 186 | 2.79 | 18.61 | **-85%** ❌ |
+#### Per-Boss Rotation Analysis (CPM)
+| Boss | LvB | LB | FS | ES | CL |
+|------|-----|-----|-----|-----|-----|
+| Ji-Kun | 8.5 | 14.3 | 1.7 | 2.4 | 1.4 |
+| Durumu | 9.9 | 18.4 | 2.7 | 2.3 | 0 |
+| Primordius | 5.9 | 6.4 | 4.1 | 1.2 | **10.2** |
+| Dark Animus | 6.4 | 14.6 | 2.4 | **0** | 1.6 |
+| Iron Qon | **3.9** | 6.9 | **1.2** | **0.7** | 0 |
+| Twin Empyreans | 5.9 | 10.7 | 2.3 | 1.7 | 1.4 |
+| Lei Shen | **4.4** | 12.4 | 2.2 | 1.6 | 5.2 |
 
-**Critical Issues:**
-- **Chain Lightning -85%**: Massive difference on a cleave fight. Top players spam CL on Lei Shen for add damage.
-- **Earth Shock -33%**: Not spending Lightning Shield stacks efficiently.
-- **Lava Burst -20%**: Missing some LvB on cooldown - this is the #1 priority spell.
+*LvB=Lava Burst, LB=Lightning Bolt, FS=Flame Shock, ES=Earth Shock, CL=Chain Lightning*
+
+**Critical Patterns:**
+- **Iron Qon**: Lowest LvB (3.9), lowest FS (1.2), lowest ES (0.7) - died early or had significant downtime
+- **Lei Shen**: LvB drops to 4.4 vs 9.9 on Durumu - likely movement/mechanics issues
+- **Dark Animus**: Zero Earth Shock usage = not spending stacks
+- **Primordius**: CL spikes to 10.2 = understood cleave (but LvB too low)
 
 #### Suggestions
 1. **Flame Shock** uptime 95%+ - likely the core issue
@@ -672,24 +696,26 @@
 
 Compared to Kamaprayer (also Shadow Priest): ~1/3 of the DPS
 
-#### Rotation Analysis (vs Top Shadow Priest)
-| Ability | Casts | Top | CPM | Top CPM | Gap |
-|---------|-------|-----|-----|---------|-----|
-| Mind Blast | 172 | 35 | 3.72 | 4.19 | -11% |
-| Vampiric Touch | 78 | 53 | 1.69 | 6.35 | **-73%** ❌ |
-| Shadow Word: Pain | 84 | 73 | 1.82 | 8.75 | **-79%** ❌ |
-| Devouring Plague | 70 | 17 | 1.52 | 2.03 | -25% |
-| Mind Flay (Insanity) | 125 | 49 | 2.71 | 5.87 | **-54%** ❌ |
-| Mind Flay | 344 | 38 | 7.45 | 4.55 | +64% ⚠️ |
-| Shadow Word: Death | 59 | 23 | 1.28 | 2.75 | **-54%** ❌ |
+#### Per-Boss Rotation Analysis (CPM)
+| Boss | MB | VT | SWP | DP | MF | MFI | SWD |
+|------|-----|-----|-----|-----|-----|-----|-----|
+| Ji-Kun | 3.6 | 2.6 | 1.7 | 1.7 | 7.7 | 3.1 | 1.9 |
+| Durumu | 4.8 | **1.1** | **1.1** | 2.1 | 9.3 | 3.5 | 1.9 |
+| Primordius | 4.3 | 2.1 | 2.1 | 1.9 | 8.2 | 3.6 | 1.8 |
+| Dark Animus | **1.6** | **1.2** | 3.3 | **0.9** | 5.0 | **1.9** | **0.9** |
+| Iron Qon | 3.7 | 1.9 | 2.1 | 1.5 | 6.9 | 2.5 | 1.3 |
+| Twin Empyreans | 5.2 | 2.1 | 2.1 | 1.9 | 11.0 | 3.8 | 1.7 |
+| Lei Shen | **2.4** | **0.8** | **0.7** | **0.6** | **4.3** | **1.0** | **0** |
 
-**Critical Issues:**
-- **SW:P -79%** and **VT -73%**: DoTs are barely being applied! This is the #1 cause of low DPS.
-- **Mind Flay (Insanity) -54%**: Not using Insanity procs during DP - massive DPS loss.
-- **Regular Mind Flay +64%**: Using basic filler too much instead of DoTs and Insanity.
-- **SW:D -54%**: Missing execute damage and Shadow Orb generation.
+*MB=Mind Blast, VT=Vampiric Touch, SWP=Shadow Word: Pain, DP=Devouring Plague, MF=Mind Flay, MFI=Mind Flay Insanity, SWD=Shadow Word: Death*
 
-**Root Cause**: Fundamental rotation issues. DoTs must have 95%+ uptime.
+**Critical Patterns:**
+- **Lei Shen (0% parse)**: Everything crashes - MB 2.4, VT 0.8, SWP 0.7, MFI 1.0, SWD 0 - likely died very early
+- **Durumu**: VT and SWP both at 1.1 = DoTs not being maintained
+- **Dark Animus**: Lowest MB (1.6), lowest DP (0.9) - not pressing buttons
+- **Compare to Kamaprayer**: On Lei Shen, Kamaprayer has MB 3.9, VT 3.0, MFI 3.0 - all significantly higher
+
+**Root Cause**: Either dying early on most fights or simply not pressing abilities frequently enough.
 
 #### Suggestions
 1. **Check spec** - ensure Shadow, not Disc/Holy
