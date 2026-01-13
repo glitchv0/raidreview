@@ -254,3 +254,4 @@ Both tanks are performing at an average level overall. The main concerns are:
 3. **Dark Animus** - Neither tank performed well on this encounter
 
 Recommendation: Review video guides for specific encounters where performance is lacking. Focus on maintaining active mitigation uptime throughout entire fights.
+

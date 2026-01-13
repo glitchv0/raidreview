@@ -451,3 +451,4 @@ The healing corps has one standout issue: **Holyfrik's output is critically low*
 **Needs Attention:** Holyfrik (42k HPS average - nearly half of top healer)
 
 Recommendation: Holyfrik should review Holy Paladin healing guides and focus on maximizing healing output before worrying about DPS contribution.
+
