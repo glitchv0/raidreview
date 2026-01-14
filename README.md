@@ -13,6 +13,7 @@ Each report includes per-boss rotation comparisons against top performers, ident
 
 | Report | Description |
 |--------|-------------|
+| [Executive Summary](reports/2026-01-11_10N_73LvphDmkPZzNX6V/README.md) | Overview with boss kills and performance summary |
 | [DPS Analysis](reports/2026-01-11_10N_73LvphDmkPZzNX6V/dps.md) | Per-boss rotation comparison vs top performers |
 | [Tank Analysis](reports/2026-01-11_10N_73LvphDmkPZzNX6V/tanks.md) | Active mitigation, survivability |
 | [Healer Analysis](reports/2026-01-11_10N_73LvphDmkPZzNX6V/healers.md) | HPS rankings, cooldown usage |
@@ -24,7 +25,7 @@ Each report includes per-boss rotation comparisons against top performers, ident
 
 | Report | Description |
 |--------|-------------|
-| [Full Report](reports/2026-01-10_25N_DkgR89WBa47FJd1C/README.md) | Executive summary with all analysis |
+| [Executive Summary](reports/2026-01-10_25N_DkgR89WBa47FJd1C/README.md) | Overview with boss kills and performance summary |
 | [DPS Analysis](reports/2026-01-10_25N_DkgR89WBa47FJd1C/dps.md) | Per-boss rotation comparison vs top performers |
 | [Tank Analysis](reports/2026-01-10_25N_DkgR89WBa47FJd1C/tanks.md) | Active mitigation, survivability |
 | [Healer Analysis](reports/2026-01-10_25N_DkgR89WBa47FJd1C/healers.md) | HPS rankings, cooldown usage |
@@ -36,7 +37,7 @@ Each report includes per-boss rotation comparisons against top performers, ident
 
 | Report | Description |
 |--------|-------------|
-| [Full Report](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/README.md) | Executive summary with all analysis |
+| [Executive Summary](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/README.md) | Overview with boss kills and performance summary |
 | [DPS Analysis](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/dps.md) | Per-boss rotation comparison vs top performers |
 | [Tank Analysis](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/tanks.md) | Active mitigation, survivability |
 | [Healer Analysis](reports/2026-01-10_10N_ZvBgMjA8y64TxDak/healers.md) | HPS rankings, cooldown usage |
@@ -48,6 +49,7 @@ Each report includes per-boss rotation comparisons against top performers, ident
 
 | Report | Description |
 |--------|-------------|
+| [Executive Summary](reports/2026-01-09_25N_pdg6m7hDjL9cXtvG/README.md) | Overview with boss kills and performance summary |
 | [DPS Analysis](reports/2026-01-09_25N_pdg6m7hDjL9cXtvG/dps.md) | Per-boss rotation comparison vs top performers |
 | [Tank Analysis](reports/2026-01-09_25N_pdg6m7hDjL9cXtvG/tanks.md) | Active mitigation, survivability |
 | [Healer Analysis](reports/2026-01-09_25N_pdg6m7hDjL9cXtvG/healers.md) | HPS rankings, cooldown usage |
