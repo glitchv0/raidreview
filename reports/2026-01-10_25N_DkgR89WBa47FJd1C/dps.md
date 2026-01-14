@@ -6,646 +6,1175 @@
 **Log:** [DkgR89WBa47FJd1C](https://classic.warcraftlogs.com/reports/DkgR89WBa47FJd1C)
 
 ---
-### Kamaprayer (Priest-Shadow)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | MB | 10.2 | 6.0 | +70% |
-|  | VT | 6.7 | 0 | - |
-|  | SWP | 3.4 | 3.5 | -2% |
-|  | DP | 2.1 | 3.0 | -30% |
-|  | MF | 9.3 | 13.1 | -29% |
-|  | MFI | 5.6 | 11.6 | -51% |
-| **Horridon** | MB | 6.7 | 4.8 | +39% |
-|  | VT | 11.7 | 7.9 | +48% |
-|  | SWP | 9.8 | 8.8 | +11% |
-|  | DP | 1.6 | 0 | - |
-|  | MF | 3.3 | 5.3 | -37% |
-|  | MFI | 2.9 | 4.7 | -38% |
-| **Council_of_Elders** | MB | 15.4 | 5.6 | +175% |
-|  | VT | 15.1 | 8.5 | +77% |
-|  | SWP | 9.1 | 8.2 | +10% |
-|  | DP | 3.1 | 0 | - |
-|  | MF | 1.4 | 0 | - |
-|  | MFI | 0 | 0 | - |
-| **Tortos** | MB | 6.3 | 0 | - |
-|  | VT | 11.3 | 5.5 | +105% |
-|  | SWP | 6.8 | 6.0 | +13% |
-|  | DP | 1.5 | 0 | - |
-|  | MF | 5.0 | 2.8 | +78% |
-|  | MFI | 3.0 | 0 | - |
-| **Megaera** | MB | 7.8 | 0 | - |
-|  | VT | 12.1 | 4.6 | +163% |
-|  | SWP | 5.4 | 5.0 | +8% |
-|  | DP | 1.7 | 0 | - |
-|  | MF | 8.8 | 6.7 | +31% |
-|  | MFI | 3.9 | 4.3 | -9% |
-
-*CPM = Casts Per Minute*
-
----
-### Nybszerk (Warrior-Arms)
-
+### Còcónuttz (Shaman-Enhancement)
 
 #### Per-Boss Rotation Analysis vs Top Performers
 
 | Boss | Ability | You | Top | Gap |
 |------|---------|-----|-----|-----|
-| **Jinrokh** | MS | 5.8 | 10.6 | -45% |
-|  | CS | 3.2 | 6.3 | -49% |
-|  | Overpower | 8.4 | 10.2 | -17% |
-|  | Slam | 6.9 | 7.2 | -4% |
-|  | Execute | 0 | 6.8 | -100% |
-| **Horridon** | MS | 6.9 | 9.9 | -30% |
-|  | CS | 4.1 | 4.7 | -12% |
-|  | Overpower | 10.4 | 12.9 | -19% |
-|  | Slam | 6.3 | 6.8 | -7% |
-|  | Execute | .9 | 0 | - |
-| **Council_of_Elders** | MS | 6.2 | 7.8 | -20% |
-|  | CS | 6.5 | 5.6 | +16% |
-|  | Overpower | 4.8 | 0 | - |
-|  | Slam | 6.9 | 9.2 | -25% |
-|  | Execute | 2.6 | 0 | - |
-| **Tortos** | MS | 7.3 | 8.9 | -17% |
-|  | CS | 3.5 | 5.5 | -36% |
-|  | Overpower | 6.8 | 14.7 | -53% |
-|  | Slam | 9.3 | 5.2 | +78% |
-|  | Execute | 1.7 | 0 | - |
-| **Megaera** | MS | 8.0 | 7.1 | +12% |
-|  | CS | 5.1 | 0 | - |
-|  | Overpower | 6.4 | 8.9 | -28% |
-|  | Slam | 10.4 | 10.4 | 0% |
-|  | Execute | 3.4 | 0 | - |
+| **Jinrokh** | Lava Lash | 5.0 | - | - |
+|  | Elemental Blast | 4.1 | - | - |
+|  | Flame Shock | 99.0% | - | - |
+|  | Stormstrike | 5.4 | - | - |
+|  | Lightning Bolt | 5.2 | - | - |
+|  | Fire Elemental Totem | 0.4 | - | - |
+|  | Windlash | 5.0 | - | - |
+|  | Earth Shock | 5.0 | - | - |
+|  | Windstrike | 0.9 | - | - |
+|  | Searing Totem | 1.5 | - | - |
+| **Horridon** | Flame Shock | 99.6% | - | - |
+|  | Elemental Blast | 3.4 | - | - |
+|  | Fire Elemental Totem | 0.3 | - | - |
+|  | Lava Lash | 3.5 | - | - |
+|  | Stormstrike | 4.8 | - | - |
+|  | Windlash | 3.1 | - | - |
+|  | Fire Nova | 2.3 | - | - |
+|  | Windstrike | 0.6 | - | - |
+|  | Earth Shock | 2.9 | - | - |
+|  | Lightning Bolt | 1.5 | - | - |
+| **Council_of_Elders** | Flame Shock | 97.0% | - | - |
+|  | Fire Nova | 6.7 | - | - |
+|  | Elemental Blast | 4.1 | - | - |
+|  | Fire Elemental Totem | 0.5 | - | - |
+|  | Lava Lash | 5.1 | - | - |
+|  | Stormstrike | 5.5 | - | - |
+|  | Earth Shock | 5.5 | - | - |
+|  | Windlash | 6.5 | - | - |
+|  | Chain Lightning | 2.4 | - | - |
+|  | Windstrike | 1.0 | - | - |
+| **Tortos** | Fire Nova | 3.8 | - | - |
+|  | Lava Lash | 4.8 | - | - |
+|  | Flame Shock | 92.0% | - | - |
+|  | Fire Elemental Totem | 0.5 | - | - |
+|  | Elemental Blast | 4.0 | - | - |
+|  | Stormstrike | 5.1 | - | - |
+|  | Windlash | 6.1 | - | - |
+|  | Earth Shock | 4.3 | - | - |
+|  | Searing Totem | 0.8 | - | - |
+|  | Windstrike | 0.8 | - | - |
+| **Megaera** | Elemental Blast | 4.3 | - | - |
+|  | Lava Lash | 4.8 | - | - |
+|  | Flame Shock | 96.5% | - | - |
+|  | Fire Elemental Totem | 0.3 | - | - |
+|  | Stormstrike | 5.8 | - | - |
+|  | Earth Shock | 5.1 | - | - |
+|  | Lightning Bolt | 4.1 | - | - |
+|  | Windlash | 4.1 | - | - |
+|  | Searing Totem | 1.2 | - | - |
+|  | Windstrike | 0.7 | - | - |
 
-*CPM = Casts Per Minute*
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
 
----
-### Boviden (Warrior-Arms)
+#### Talents & Glyphs
 
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | MS | 6.9 | 10.6 | -34% |
-|  | CS | 3.6 | 6.3 | -42% |
-|  | Overpower | 9.3 | 10.2 | -8% |
-|  | Slam | 11.9 | 7.2 | +65% |
-|  | Execute | .8 | 6.8 | -88% |
-| **Horridon** | MS | 7.3 | 9.9 | -26% |
-|  | CS | 4.0 | 4.7 | -14% |
-|  | Overpower | 10.6 | 12.9 | -17% |
-|  | Slam | 8.1 | 6.8 | +19% |
-|  | Execute | 0 | 0 | - |
-| **Council_of_Elders** | MS | 9.3 | 7.8 | +19% |
-|  | CS | 4.3 | 5.6 | -23% |
-|  | Overpower | 16.8 | 0 | - |
-|  | Slam | 6.9 | 9.2 | -25% |
-|  | Execute | .9 | 0 | - |
-| **Tortos** | MS | 8.8 | 8.9 | -1% |
-|  | CS | 5.3 | 5.5 | -3% |
-|  | Overpower | 14.1 | 14.7 | -4% |
-|  | Slam | 10.6 | 5.2 | +103% |
-|  | Execute | 3.7 | 0 | - |
-| **Megaera** | MS | 8.0 | 7.1 | +12% |
-|  | CS | 4.2 | 0 | - |
-|  | Overpower | 12.6 | 8.9 | +41% |
-|  | Slam | 12.6 | 10.4 | +21% |
-|  | Execute | 1.7 | 0 | - |
-
-*CPM = Casts Per Minute*
-
----
-### Bonessenpai (DeathKnight-Frost)
+*No talent data available*
 
 
-#### Per-Boss Rotation Analysis vs Top Performers
+#### Key Issues & Suggestions
 
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | Oblit | 5.4 | 5.9 | -8% |
-|  | FS | 14.1 | 22.6 | -37% |
-|  | HB | 11.2 | 18.3 | -38% |
-|  | SR | 0 | 4.3 | -100% |
-| **Horridon** | Oblit | 3.2 | 2.5 | +28% |
-|  | FS | 7.3 | 22.6 | -67% |
-|  | HB | 7.2 | 22.5 | -68% |
-|  | SR | 0 | 0 | - |
-| **Council_of_Elders** | Oblit | 7.9 | 0 | - |
-|  | FS | 17.0 | 22.0 | -22% |
-|  | HB | 9.3 | 25.4 | -63% |
-|  | SR | 0 | 0 | - |
-| **Tortos** | Oblit | 7.8 | 0 | - |
-|  | FS | 18.9 | 18.7 | +1% |
-|  | HB | 11.3 | 23.1 | -51% |
-|  | SR | 0 | 0 | - |
-| **Megaera** | Oblit | 7.5 | 3.2 | +134% |
-|  | FS | 17.7 | 21.7 | -18% |
-|  | HB | 8.8 | 20.9 | -57% |
-|  | SR | 0 | 0 | - |
-
-*CPM = Casts Per Minute*
-
----
-### Stassie (Hunter-Survival)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | ES | 10.8 | 11.9 | -9% |
-|  | BA | 1.9 | 0 | - |
-|  | CoS | 14.3 | 9.9 | +44% |
-|  | AS | 6.7 | 9.1 | -26% |
-|  | KS | 1.7 | 0 | - |
-| **Horridon** | ES | 13.4 | 16.4 | -18% |
-|  | BA | 2.0 | 0 | - |
-|  | CoS | 18.4 | 11.9 | +54% |
-|  | AS | 4.7 | 4.7 | 0% |
-|  | KS | .7 | 0 | - |
-| **Council_of_Elders** | ES | 12.7 | 13.9 | -8% |
-|  | BA | 2.1 | 0 | - |
-|  | CoS | 23.5 | 14.6 | +60% |
-|  | AS | 0 | 0 | - |
-|  | KS | 2.6 | 0 | - |
-| **Tortos** | ES | 13.1 | 8.6 | +52% |
-|  | BA | 2.2 | 0 | - |
-|  | CoS | 14.1 | 8.3 | +69% |
-|  | AS | 4.2 | 5.0 | -16% |
-|  | KS | 2.5 | 4.0 | -37% |
-| **Megaera** | ES | 11.4 | 13.3 | -14% |
-|  | BA | 1.7 | 0 | - |
-|  | CoS | 9.7 | 11.4 | -14% |
-|  | AS | 4.4 | 6.1 | -27% |
-|  | KS | 2.2 | 0 | - |
-
-*CPM = Casts Per Minute*
-
----
-### Ketchum (Hunter-Survival)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | ES | 13.0 | 11.9 | +9% |
-|  | BA | 2.3 | 0 | - |
-|  | CoS | 28.8 | 9.9 | +190% |
-|  | AS | 10.4 | 9.1 | +14% |
-|  | KS | 1.9 | 0 | - |
-| **Horridon** | ES | 7.8 | 16.4 | -52% |
-|  | BA | 1.6 | 0 | - |
-|  | CoS | 26.0 | 11.9 | +118% |
-|  | AS | 3.2 | 4.7 | -31% |
-|  | KS | 1.3 | 0 | - |
-| **Council_of_Elders** | ES | 11.5 | 13.9 | -17% |
-|  | BA | 2.4 | 0 | - |
-|  | CoS | 28.8 | 14.6 | +97% |
-|  | AS | 1.6 | 0 | - |
-|  | KS | 1.9 | 0 | - |
-| **Tortos** | ES | 7.5 | 8.6 | -12% |
-|  | BA | 2.0 | 0 | - |
-|  | CoS | 27.5 | 8.3 | +231% |
-|  | AS | 2.0 | 5.0 | -60% |
-|  | KS | .7 | 4.0 | -82% |
-| **Megaera** | ES | 11.9 | 13.3 | -10% |
-|  | BA | 2.2 | 0 | - |
-|  | CoS | 25.2 | 11.4 | +121% |
-|  | AS | 9.5 | 6.1 | +55% |
-|  | KS | 2.2 | 0 | - |
-
-*CPM = Casts Per Minute*
-
----
-### Bombaaclat (Hunter-Survival)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | ES | 10.8 | 11.9 | -9% |
-|  | BA | 2.1 | 0 | - |
-|  | CoS | 24.1 | 9.9 | +143% |
-|  | AS | 3.0 | 9.1 | -67% |
-|  | KS | 1.5 | 0 | - |
-| **Horridon** | ES | 6.7 | 16.4 | -59% |
-|  | BA | 1.5 | 0 | - |
-|  | CoS | 24.5 | 11.9 | +105% |
-|  | AS | 1.0 | 4.7 | -78% |
-|  | KS | .3 | 0 | - |
-| **Council_of_Elders** | ES | 9.6 | 13.9 | -30% |
-|  | BA | 1.9 | 0 | - |
-|  | CoS | 21.6 | 14.6 | +47% |
-|  | AS | 0 | 0 | - |
-|  | KS | 2.1 | 0 | - |
-| **Tortos** | ES | 6.8 | 8.6 | -20% |
-|  | BA | 1.2 | 0 | - |
-|  | CoS | 18.4 | 8.3 | +121% |
-|  | AS | .2 | 5.0 | -96% |
-|  | KS | 1.0 | 4.0 | -75% |
-| **Megaera** | ES | 9.0 | 13.3 | -32% |
-|  | BA | 2.0 | 0 | - |
-|  | CoS | 24.4 | 11.4 | +114% |
-|  | AS | 3.7 | 6.1 | -39% |
-|  | KS | 1.5 | 0 | - |
-
-*CPM = Casts Per Minute*
 
 ---
 ### Vaelindra (Hunter-Marksmanship)
 
-
 #### Per-Boss Rotation Analysis vs Top Performers
 
 | Boss | Ability | You | Top | Gap |
 |------|---------|-----|-----|-----|
-| **Jinrokh** | ChS | 2.1 | 0 | - |
-|  | AiS | 5.4 | 8.7 | -37% |
-|  | StS | 14.1 | 19.6 | -28% |
-|  | KS | 0 | 0 | - |
-| **Horridon** | ChS | 6.0 | 0 | - |
-|  | AiS | 12.9 | 9.6 | +34% |
-|  | StS | 35.7 | 21.3 | +67% |
-|  | KS | .6 | 0 | - |
-| **Council_of_Elders** | ChS | 0 | 0 | - |
-|  | AiS | 0 | 7.0 | -100% |
-|  | StS | 0 | 16.9 | -100% |
-|  | KS | 2.8 | 0 | - |
-| **Tortos** | ChS | 0 | 0 | - |
-|  | AiS | 0 | 0 | - |
-|  | StS | 0 | 18.3 | -100% |
-|  | KS | 2.7 | 0 | - |
-| **Megaera** | ChS | 5.8 | 0 | - |
-|  | AiS | 10.5 | 7.4 | +41% |
-|  | StS | 25.9 | 16.6 | +56% |
-|  | KS | 2.2 | 0 | - |
+| **Jinrokh** | Stampede | 0.2 | - | - |
+|  | Aimed Shot | 2.6 | - | - |
+|  | Chimaera Shot | 2.2 | - | - |
+|  | Careful Aim | 39.1% | - | - |
+|  | Wild Quiver | 10.9 | - | - |
+|  | Steady Shot | 6.9 | - | - |
+|  | Serpent Sting | 41.3% | - | - |
+|  | Aimed Shot! | 1.1 | - | - |
+|  | A Murder of Crows | 0.2 | - | - |
+|  | Glaive Toss | 1.3 | - | - |
+| **Horridon** | Chimaera Shot | 6.0 | - | - |
+|  | Stampede | 0.3 | - | - |
+|  | Aimed Shot | 6.5 | - | - |
+|  | Careful Aim | 79.8% | - | - |
+|  | Wild Quiver | 25.0 | - | - |
+|  | Aimed Shot! | 2.9 | - | - |
+|  | Steady Shot | 17.9 | - | - |
+|  | Serpent Sting | 93.5% | - | - |
+|  | A Murder of Crows | 0.5 | - | - |
+|  | Glaive Toss | 2.4% | - | - |
+| **Council_of_Elders** | Serpent Sting | 98.3% | - | - |
+|  | Explosive Shot | 32.9% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Multi-Shot | 11.8 | - | - |
+|  | Cobra Shot | 13.7 | - | - |
+|  | Black Arrow | 74.0% | - | - |
+|  | Kill Shot | 2.9 | - | - |
+|  | Glaive Toss | 3.1 | - | - |
+|  | Glaive Toss | 3.1 | - | - |
+|  | Explosive Trap | 0.7 | - | - |
+| **Tortos** | Serpent Sting | 90.1% | - | - |
+|  | Stampede | 0.3 | - | - |
+|  | Explosive Shot | 19.7% | - | - |
+|  | Multi-Shot | 12.9 | - | - |
+|  | Cobra Shot | 12.6 | - | - |
+|  | Black Arrow | 53.3% | - | - |
+|  | Kill Shot | 2.8 | - | - |
+|  | Glaive Toss | 9.1% | - | - |
+|  | Glaive Toss | 8.3% | - | - |
+|  | Arcane Shot | 1.8 | - | - |
+| **Megaera** | Chimaera Shot | 5.8 | - | - |
+|  | Aimed Shot | 5.3 | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Careful Aim | 85.0% | - | - |
+|  | Wild Quiver | 18.5 | - | - |
+|  | Serpent Sting | 99.7% | - | - |
+|  | Steady Shot | 12.8 | - | - |
+|  | Aimed Shot! | 1.7 | - | - |
+|  | A Murder of Crows | 0.5 | - | - |
+|  | Kill Shot | 2.2 | - | - |
 
-*CPM = Casts Per Minute*
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
 
----
-### Tpump (Rogue-Subtlety)
+#### Talents & Glyphs
 
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | BS | 18.0 | 16.7 | +7% |
-|  | Amb | 3.9 | 6.8 | -42% |
-|  | Evis | 8.6 | 0 | - |
-|  | Rup | 2.3 | 0 | - |
-|  | SD | .6 | 0 | - |
-| **Horridon** | BS | 15.5 | 16.9 | -8% |
-|  | Amb | 3.5 | 3.8 | -7% |
-|  | Evis | 6.9 | 0 | - |
-|  | Rup | 2.0 | 0 | - |
-|  | SD | .6 | 0 | - |
-| **Council_of_Elders** | BS | 10.3 | 9.3 | +10% |
-|  | Amb | 4.0 | 5.9 | -32% |
-|  | Evis | 6.2 | 0 | - |
-|  | Rup | 2.6 | 0 | - |
-|  | SD | .9 | 0 | - |
-| **Tortos** | BS | 18.1 | 9.9 | +82% |
-|  | Amb | 5.8 | 6.5 | -10% |
-|  | Evis | 9.0 | 0 | - |
-|  | Rup | 2.2 | 0 | - |
-|  | SD | 1.0 | 0 | - |
-| **Megaera** | BS | 17.9 | 17.3 | +3% |
-|  | Amb | 4.7 | 6.3 | -25% |
-|  | Evis | 7.6 | 0 | - |
-|  | Rup | 2.3 | 0 | - |
-|  | SD | .8 | 0 | - |
-
-*CPM = Casts Per Minute*
-
----
-### Stupifyed (Warlock-Demonology)
+*No talent data available*
 
 
-#### Per-Boss Rotation Analysis vs Top Performers
+#### Key Issues & Suggestions
 
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | SF | 0 | 10.7 | -100% |
-|  | ShB | 7.1 | 9.1 | -21% |
-|  | HoG | 0 | 4.2 | -100% |
-|  | ToC | 3.0 | 8.0 | -62% |
-|  | Corr | .6 | 0 | - |
-| **Horridon** | SF | 1.3 | 7.3 | -82% |
-|  | ShB | 9.8 | 9.1 | +7% |
-|  | HoG | 0 | 3.7 | -100% |
-|  | ToC | 3.3 | 8.8 | -62% |
-|  | Corr | 5.7 | 0 | - |
-| **Council_of_Elders** | SF | 9.6 | 18.0 | -46% |
-|  | ShB | 10.3 | 0 | - |
-|  | HoG | 0 | 0 | - |
-|  | ToC | 8.6 | 4.3 | +100% |
-|  | Corr | 5.0 | 4.5 | +11% |
-| **Tortos** | SF | 9.0 | 6.3 | +42% |
-|  | ShB | 8.0 | 0 | - |
-|  | HoG | 0 | 3.7 | -100% |
-|  | ToC | 1.7 | 10.6 | -83% |
-|  | Corr | 1.7 | 0 | - |
-| **Megaera** | SF | 5.4 | 8.1 | -33% |
-|  | ShB | 8.8 | 3.6 | +144% |
-|  | HoG | 0 | 0 | - |
-|  | ToC | 1.0 | 5.8 | -82% |
-|  | Corr | 3.9 | 0 | - |
-
-*CPM = Casts Per Minute*
-
----
-### Sahvahanna (Warlock-Destruction)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | CB | 5.8 | 5.0 | +16% |
-|  | Conf | 5.2 | 5.6 | -7% |
-|  | Inc | 39.3 | 22.4 | +75% |
-|  | Immo | 6.9 | 4.0 | +72% |
-|  | SB | 1.7 | 2.5 | -32% |
-| **Horridon** | CB | 6.1 | 5.1 | +19% |
-|  | Conf | 4.7 | 3.9 | +20% |
-|  | Inc | 27.7 | 10.9 | +154% |
-|  | Immo | 9.5 | 0 | - |
-|  | SB | 3.0 | 7.5 | -60% |
-| **Council_of_Elders** | CB | 6.5 | 4.9 | +32% |
-|  | Conf | 4.5 | 4.3 | +4% |
-|  | Inc | 39.4 | 11.1 | +254% |
-|  | Immo | 6.2 | 4.6 | +34% |
-|  | SB | 1.9 | 0 | - |
-| **Tortos** | CB | 7.0 | 8.1 | -13% |
-|  | Conf | 4.2 | 4.7 | -10% |
-|  | Inc | 31.5 | 8.8 | +257% |
-|  | Immo | 6.5 | 5.4 | +20% |
-|  | SB | 6.3 | 6.4 | -1% |
-| **Megaera** | CB | 5.4 | 5.0 | +8% |
-|  | Conf | 5.1 | 0 | - |
-|  | Inc | 38.1 | 12.7 | +200% |
-|  | Immo | 6.4 | 5.6 | +14% |
-|  | SB | 1.8 | 5.2 | -65% |
-
-*CPM = Casts Per Minute*
-
----
-### Lockycharmzs (Warlock-Destruction)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | CB | 3.9 | 5.0 | -22% |
-|  | Conf | 2.8 | 5.6 | -50% |
-|  | Inc | 26.7 | 22.4 | +19% |
-|  | Immo | 6.2 | 4.0 | +55% |
-|  | SB | 0 | 2.5 | -100% |
-| **Horridon** | CB | 6.1 | 5.1 | +19% |
-|  | Conf | 3.5 | 3.9 | -10% |
-|  | Inc | 34.8 | 10.9 | +219% |
-|  | Immo | 7.2 | 0 | - |
-|  | SB | .7 | 7.5 | -90% |
-| **Council_of_Elders** | CB | 5.7 | 4.9 | +16% |
-|  | Conf | 3.3 | 4.3 | -23% |
-|  | Inc | 33.4 | 11.1 | +200% |
-|  | Immo | 12.0 | 4.6 | +160% |
-|  | SB | .4 | 0 | - |
-| **Tortos** | CB | 8.5 | 8.1 | +4% |
-|  | Conf | 4.5 | 4.7 | -4% |
-|  | Inc | 32.8 | 8.8 | +272% |
-|  | Immo | 8.5 | 5.4 | +57% |
-|  | SB | 1.0 | 6.4 | -84% |
-| **Megaera** | CB | 8.0 | 5.0 | +60% |
-|  | Conf | 4.9 | 0 | - |
-|  | Inc | 36.0 | 12.7 | +183% |
-|  | Immo | 4.9 | 5.6 | -12% |
-|  | SB | .5 | 5.2 | -90% |
-
-*CPM = Casts Per Minute*
-
----
-### Unsanctioned (Shaman-Elemental)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | LvB | 14.3 | 11.7 | +22% |
-|  | LB | 30.8 | 23.5 | +31% |
-|  | FS | 1.5 | 2.2 | -31% |
-|  | ES | 1.9 | 4.2 | -54% |
-|  | CL | 0 | 0 | - |
-| **Horridon** | LvB | 12.1 | 9.7 | +24% |
-|  | LB | 18.0 | 3.5 | +414% |
-|  | FS | 1.2 | 2.0 | -40% |
-|  | ES | 3.3 | 0 | - |
-|  | CL | 37.9 | 27.4 | +38% |
-| **Council_of_Elders** | LvB | 0 | 6.5 | -100% |
-|  | LB | .2 | 3.7 | -94% |
-|  | FS | .2 | 3.1 | -93% |
-|  | ES | .2 | 0 | - |
-|  | CL | 78.7 | 27.0 | +191% |
-| **Tortos** | LvB | 14.1 | 6.9 | +104% |
-|  | LB | 7.5 | 7.1 | +5% |
-|  | FS | 1.5 | 4.2 | -64% |
-|  | ES | 1.0 | 0 | - |
-|  | CL | 51.0 | 18.5 | +175% |
-| **Megaera** | LvB | 20.5 | 8.6 | +138% |
-|  | LB | 34.1 | 8.7 | +291% |
-|  | FS | 2.3 | 3.2 | -28% |
-|  | ES | 2.0 | 1.7 | +17% |
-|  | CL | 0 | 7.4 | -100% |
-
-*CPM = Casts Per Minute*
-
----
-### Rentagar (Shaman-Elemental)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | LvB | 19.3 | 11.7 | +64% |
-|  | LB | 39.0 | 23.5 | +65% |
-|  | FS | 2.1 | 2.2 | -4% |
-|  | ES | 2.6 | 4.2 | -38% |
-|  | CL | 0 | 0 | - |
-| **Horridon** | LvB | 13.7 | 9.7 | +41% |
-|  | LB | 31.2 | 3.5 | +791% |
-|  | FS | 2.1 | 2.0 | +5% |
-|  | ES | 2.7 | 0 | - |
-|  | CL | 16.3 | 27.4 | -40% |
-| **Council_of_Elders** | LvB | 14.6 | 6.5 | +124% |
-|  | LB | 1.4 | 3.7 | -62% |
-|  | FS | 2.4 | 3.1 | -22% |
-|  | ES | 5.2 | 0 | - |
-|  | CL | 48.8 | 27.0 | +80% |
-| **Tortos** | LvB | 16.4 | 6.9 | +137% |
-|  | LB | 24.7 | 7.1 | +247% |
-|  | FS | 3.0 | 4.2 | -28% |
-|  | ES | 2.2 | 0 | - |
-|  | CL | 15.9 | 18.5 | -14% |
-| **Megaera** | LvB | 15.7 | 8.6 | +82% |
-|  | LB | 35.2 | 8.7 | +304% |
-|  | FS | 2.5 | 3.2 | -21% |
-|  | ES | 2.9 | 1.7 | +70% |
-|  | CL | 0 | 7.4 | -100% |
-
-*CPM = Casts Per Minute*
-
----
-### Sertotems (Shaman-Elemental)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | LvB | 9.5 | 11.7 | -18% |
-|  | LB | 11.0 | 23.5 | -53% |
-|  | FS | .8 | 2.2 | -63% |
-|  | ES | .8 | 4.2 | -80% |
-|  | CL | 0 | 0 | - |
-| **Horridon** | LvB | 10.7 | 9.7 | +10% |
-|  | LB | 12.4 | 3.5 | +254% |
-|  | FS | 2.1 | 2.0 | +5% |
-|  | ES | 3.2 | 0 | - |
-|  | CL | 38.6 | 27.4 | +40% |
-| **Council_of_Elders** | LvB | 14.9 | 6.5 | +129% |
-|  | LB | .4 | 3.7 | -89% |
-|  | FS | 3.1 | 3.1 | 0% |
-|  | ES | 3.8 | 0 | - |
-|  | CL | 51.5 | 27.0 | +90% |
-| **Tortos** | LvB | 9.0 | 6.9 | +30% |
-|  | LB | 18.1 | 7.1 | +154% |
-|  | FS | 3.0 | 4.2 | -28% |
-|  | ES | 2.0 | 0 | - |
-|  | CL | 29.0 | 18.5 | +56% |
-| **Megaera** | LvB | 15.8 | 8.6 | +83% |
-|  | LB | 35.2 | 8.7 | +304% |
-|  | FS | 2.5 | 3.2 | -21% |
-|  | ES | 2.2 | 1.7 | +29% |
-|  | CL | .3 | 7.4 | -95% |
-
-*CPM = Casts Per Minute*
-
----
-### Coconuttz (Shaman-Enhancement)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | SS | 5.6 | 6.2 | -9% |
-|  | LL | 4.9 | 4.6 | +6% |
-|  | ES | 4.9 | 0 | - |
-|  | FS | 3.0 | 0 | - |
-|  | LB | 10.4 | 9.8 | +6% |
-| **Horridon** | SS | 4.7 | 5.8 | -18% |
-|  | LL | 3.5 | 5.3 | -33% |
-|  | ES | 2.9 | 0 | - |
-|  | FS | 4.6 | 0 | - |
-|  | LB | 3.0 | 0 | - |
-| **Council_of_Elders** | SS | 5.5 | 5.9 | -6% |
-|  | LL | 5.0 | 0 | - |
-|  | ES | 5.5 | 0 | - |
-|  | FS | 2.4 | 0 | - |
-|  | LB | 0 | 0 | - |
-| **Tortos** | SS | 5.3 | 0 | - |
-|  | LL | 4.8 | 0 | - |
-|  | ES | 4.2 | 0 | - |
-|  | FS | 3.2 | 0 | - |
-|  | LB | 5.0 | 0 | - |
-| **Megaera** | SS | 5.8 | 6.1 | -4% |
-|  | LL | 4.7 | 4.5 | +4% |
-|  | ES | 5.1 | 0 | - |
-|  | FS | 2.3 | 3.7 | -37% |
-|  | LB | 8.2 | 6.6 | +24% |
-
-*CPM = Casts Per Minute*
-
----
-### Oldlady (Mage-Fire)
-
-
-#### Per-Boss Rotation Analysis vs Top Performers
-
-| Boss | Ability | You | Top | Gap |
-|------|---------|-----|-----|-----|
-| **Jinrokh** | Fireball | 17.5 | 8.9 | +96% |
-|  | Pyro | 17.1 | 8.4 | +103% |
-|  | LvB | 6.2 | 3.1 | +100% |
-|  | Scorch | 20.1 | 0 | - |
-|  | Comb | .6 | 0 | - |
-| **Horridon** | Fireball | 18.4 | 11.5 | +60% |
-|  | Pyro | 17.1 | 7.5 | +128% |
-|  | LvB | 8.6 | 7.6 | +13% |
-|  | Scorch | 16.0 | 0 | - |
-|  | Comb | .4 | 0 | - |
-| **Council_of_Elders** | Fireball | 32.9 | 10.3 | +219% |
-|  | Pyro | 15.6 | 10.3 | +51% |
-|  | LvB | 7.4 | 10.1 | -26% |
-|  | Scorch | 1.9 | 6.4 | -70% |
-|  | Comb | .7 | 0 | - |
-| **Tortos** | Fireball | 14.6 | 0 | - |
-|  | Pyro | 13.1 | 10.9 | +20% |
-|  | LvB | 10.1 | 6.5 | +55% |
-|  | Scorch | 19.9 | 10.6 | +87% |
-|  | Comb | .5 | 0 | - |
-| **Megaera** | Fireball | 21.8 | 11.1 | +96% |
-|  | Pyro | 18.4 | 8.3 | +121% |
-|  | LvB | 5.1 | 7.7 | -33% |
-|  | Scorch | 11.1 | 0 | - |
-|  | Comb | .6 | 0 | - |
-
-*CPM = Casts Per Minute*
 
 ---
 ### Zolranth (Paladin-Retribution)
 
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Hand of Light | 25.4 | - | - |
+|  | Templar's Verdict | 4.6 | - | - |
+|  | Hammer of Wrath | 5.2 | - | - |
+|  | Judgment | 10.4 | - | - |
+|  | Templar's Verdict | 4.8 | - | - |
+|  | Crusader Strike | 11.1 | - | - |
+|  | Execution Sentence | 10.8% | - | - |
+|  | Exorcism | 4.3 | - | - |
+|  | Guardian of Ancient Kings | 10.4 | - | - |
+|  | Ancient Fury | 0.4 | - | - |
+| **Horridon** | Hand of Light | 35.9 | - | - |
+|  | Judgment | 10.2 | - | - |
+|  | Hammer of Wrath | 3.1 | - | - |
+|  | Divine Storm | 3.5 | - | - |
+|  | Exorcism | 5.7 | - | - |
+|  | Templar's Verdict | 1.8 | - | - |
+|  | Guardian of Ancient Kings | 6.5 | - | - |
+|  | Templar's Verdict | 2.8 | - | - |
+|  | Crusader Strike | 6.2 | - | - |
+|  | Execution Sentence | 10.3% | - | - |
+| **Council_of_Elders** | Hand of Light | 42.4 | - | - |
+|  | Divine Storm | 7.2 | - | - |
+|  | Judgment | 10.6 | - | - |
+|  | Hammer of Wrath | 6.3 | - | - |
+|  | Exorcism | 6.3 | - | - |
+|  | Guardian of Ancient Kings | 10.8 | - | - |
+|  | Crusader Strike | 7.5 | - | - |
+|  | Execution Sentence | 8.0% | - | - |
+|  | Templar's Verdict | 0.7 | - | - |
+|  | Hammer of the Righteous | 1.2 | - | - |
+| **Tortos** | Hand of Light | 55.6 | - | - |
+|  | Divine Storm | 4.3 | - | - |
+|  | Judgment | 9.6 | - | - |
+|  | Hammer of Wrath | 7.1 | - | - |
+|  | Guardian of Ancient Kings | 11.6 | - | - |
+|  | Exorcism | 5.8 | - | - |
+|  | Templar's Verdict | 1.8 | - | - |
+|  | Templar's Verdict | 3.5 | - | - |
+|  | Crusader Strike | 5.3 | - | - |
+|  | Execution Sentence | 16.0% | - | - |
+| **Megaera** | Hand of Light | 25.8 | - | - |
+|  | Judgment | 9.2 | - | - |
+|  | Hammer of Wrath | 5.3 | - | - |
+|  | Templar's Verdict | 3.4 | - | - |
+|  | Templar's Verdict | 6.0 | - | - |
+|  | Exorcism | 5.6 | - | - |
+|  | Crusader Strike | 10.1 | - | - |
+|  | Guardian of Ancient Kings | 8.0 | - | - |
+|  | Execution Sentence | 11.4% | - | - |
+|  | Hammer of the Righteous | 0.7 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Kamaprayer (Priest-Shadow)
 
 #### Per-Boss Rotation Analysis vs Top Performers
 
 | Boss | Ability | You | Top | Gap |
 |------|---------|-----|-----|-----|
-| **Jinrokh** | CS | 11.0 | 13.4 | -17% |
-|  | Jud | 10.4 | 8.5 | +22% |
-|  | TV | 4.7 | 5.7 | -17% |
-|  | Exo | 0 | 6.5 | -100% |
-|  | HoW | 5.2 | 9.4 | -44% |
-| **Horridon** | CS | 6.1 | 5.4 | +12% |
-|  | Jud | 10.1 | 10.9 | -7% |
-|  | TV | 2.7 | 6.3 | -57% |
-|  | Exo | 0 | 4.8 | -100% |
-|  | HoW | 3.0 | 10.0 | -70% |
-| **Council_of_Elders** | CS | 7.4 | 0 | - |
-|  | Jud | 10.5 | 7.7 | +36% |
-|  | TV | 1.2 | 0 | - |
-|  | Exo | 0 | 6.8 | -100% |
-|  | HoW | 6.2 | 0 | - |
-| **Tortos** | CS | 5.3 | 6.1 | -13% |
-|  | Jud | 9.6 | 7.2 | +33% |
-|  | TV | 3.5 | 0 | - |
-|  | Exo | 0 | 0 | - |
-|  | HoW | 7.0 | 8.3 | -15% |
-| **Megaera** | CS | 10.0 | 10.1 | 0% |
-|  | Jud | 9.2 | 10.2 | -9% |
-|  | TV | 5.9 | 9.8 | -39% |
-|  | Exo | 0 | 4.0 | -100% |
-|  | HoW | 5.2 | 10.2 | -49% |
+| **Jinrokh** | Mind Flay (Insanity) | 16.9% | - | - |
+|  | Devouring Plague | 20.8% | - | - |
+|  | Vampiric Touch | 92.0% | - | - |
+|  | Shadow Word: Pain | 96.0% | - | - |
+|  | Mind Blast | 5.0 | - | - |
+|  | Mind Flay | 25.9% | - | - |
+|  | Shadow Word: Death | 2.2 | - | - |
+|  | Shadowfiend | 0.4 | - | - |
+|  | Mind Flay | 7.4 | - | - |
+|  | Shadow Word: Pain | 10.2 | - | - |
+| **Horridon** | Shadow Word: Pain | 98.2% | - | - |
+|  | Vampiric Touch | 95.4% | - | - |
+|  | Devouring Plague | 16.5% | - | - |
+|  | Mind Flay (Insanity) | 8.8% | - | - |
+|  | Mind Sear | 9.1 | - | - |
+|  | Halo | 1.4 | - | - |
+|  | Shadow Word: Pain | 23.9 | - | - |
+|  | Mind Blast | 3.4 | - | - |
+|  | Shadow Word: Death | 2.6 | - | - |
+|  | Mind Flay | 9.8% | - | - |
+| **Council_of_Elders** | Shadow Word: Pain | 98.9% | - | - |
+|  | Vampiric Touch | 99.1% | - | - |
+|  | Devouring Plague | 30.3% | - | - |
+|  | Mind Blast | 7.7 | - | - |
+|  | Mind Sear | 12.3 | - | - |
+|  | Shadow Word: Pain | 29.9 | - | - |
+|  | Halo | 1.2 | - | - |
+|  | Vampiric Touch | 21.4 | - | - |
+|  | Shadow Word: Death | 2.6 | - | - |
+|  | Shadowfiend | 0.5 | - | - |
+| **Tortos** | Mind Sear | 16.2 | - | - |
+|  | Shadow Word: Pain | 98.9% | - | - |
+|  | Vampiric Touch | 99.0% | - | - |
+|  | Devouring Plague | 14.9% | - | - |
+|  | Mind Sear | 2.5 | - | - |
+|  | Mind Flay (Insanity) | 8.4% | - | - |
+|  | Halo | 1.3 | - | - |
+|  | Shadowfiend | 0.5 | - | - |
+|  | Mind Blast | 3.0 | - | - |
+|  | Mind Flay | 13.9% | - | - |
+| **Megaera** | Shadow Word: Pain | 99.6% | - | - |
+|  | Vampiric Touch | 99.6% | - | - |
+|  | Mind Flay (Insanity) | 11.8% | - | - |
+|  | Devouring Plague | 15.9% | - | - |
+|  | Mind Flay | 24.8% | - | - |
+|  | Mind Blast | 3.9 | - | - |
+|  | Shadow Word: Pain | 16.1 | - | - |
+|  | Vampiric Touch | 13.0 | - | - |
+|  | Halo | 1.2 | - | - |
+|  | Mind Flay | 8.5 | - | - |
 
-*CPM = Casts Per Minute*
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
 
 ---
+### Oldlädy (Mage-Fire)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Pyroblast | 97.7% | - | - |
+|  | Living Bomb | 96.6% | - | - |
+|  | Fireball | 8.3 | - | - |
+|  | Ignite | 28.2 | - | - |
+|  | Combustion | 21.5% | - | - |
+|  | Scorch | 10.0 | - | - |
+|  | Fire Blast | 2.8 | - | - |
+|  | Combustion | 0.7 | - | - |
+|  | Living Bomb | 3.0 | - | - |
+|  | Mirror Image | 0.2 | - | - |
+| **Horridon** | Pyroblast | 86.7% | - | - |
+|  | Living Bomb | 93.5% | - | - |
+|  | Ignite | 35.1 | - | - |
+|  | Fireball | 8.5 | - | - |
+|  | Combustion | 15.3% | - | - |
+|  | Scorch | 8.0 | - | - |
+|  | Living Bomb | 15.9 | - | - |
+|  | Fire Blast | 4.2 | - | - |
+|  | Combustion | 0.5 | - | - |
+|  | Mirror Image | 0.3 | - | - |
+| **Council_of_Elders** | Pyroblast | 86.5% | - | - |
+|  | Combustion | 23.9% | - | - |
+|  | Fireball | 16.1 | - | - |
+|  | Ignite | 57.5 | - | - |
+|  | Living Bomb | 92.6% | - | - |
+|  | Living Bomb | 15.2 | - | - |
+|  | Fire Blast | 5.3 | - | - |
+|  | Mirror Image | 0.2 | - | - |
+|  | Combustion | 0.7 | - | - |
+|  | Scorch | 1.0 | - | - |
+| **Tortos** | Pyroblast | 82.1% | - | - |
+|  | Living Bomb | 92.2% | - | - |
+|  | Combustion | 16.8% | - | - |
+|  | Fireball | 6.6 | - | - |
+|  | Ignite | 31.1 | - | - |
+|  | Scorch | 9.6 | - | - |
+|  | Fire Blast | 4.8 | - | - |
+|  | Living Bomb | 11.1 | - | - |
+|  | Mirror Image | 0.3 | - | - |
+|  | Combustion | 0.5 | - | - |
+| **Megaera** | Pyroblast | 99.3% | - | - |
+|  | Fireball | 10.1 | - | - |
+|  | Living Bomb | 99.5% | - | - |
+|  | Ignite | 25.1 | - | - |
+|  | Combustion | 22.6% | - | - |
+|  | Scorch | 5.5 | - | - |
+|  | Fire Blast | 4.4 | - | - |
+|  | Combustion | 0.7 | - | - |
+|  | Mirror Image | 0.3 | - | - |
+|  | Living Bomb | 2.2 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Stupifyed (Warlock-Demonology)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Doom | 55.9% | - | - |
+|  | Soul Fire | 2.4 | - | - |
+|  | Touch of Chaos | 3.0 | - | - |
+|  | Corruption | 60.1% | - | - |
+|  | Shadow Bolt | 3.5 | - | - |
+|  | Chaos Wave | 0.2 | - | - |
+|  | Hand of Gul'dan | 1.7 | - | - |
+| **Horridon** | Soul Fire | 6.3 | - | - |
+|  | Doom | 97.8% | - | - |
+|  | Corruption | 97.5% | - | - |
+|  | Shadow Bolt | 4.2 | - | - |
+|  | Chaos Wave | 0.3 | - | - |
+|  | Touch of Chaos | 3.4 | - | - |
+|  | Hand of Gul'dan | 2.6 | - | - |
+|  | Soul Fire | 0.6 | - | - |
+| **Council_of_Elders** | Doom | 92.0% | - | - |
+|  | Corruption | 90.2% | - | - |
+|  | Soul Fire | 3.9 | - | - |
+|  | Soul Fire | 4.3 | - | - |
+|  | Touch of Chaos | 8.7 | - | - |
+|  | Chaos Wave | 0.5 | - | - |
+|  | Shadow Bolt | 5.1 | - | - |
+|  | Hand of Gul'dan | 2.4 | - | - |
+| **Tortos** | Soul Fire | 6.1 | - | - |
+|  | Doom | 96.1% | - | - |
+|  | Chaos Wave | 1.6% | - | - |
+|  | Soul Fire | 4.0 | - | - |
+|  | Corruption | 93.2% | - | - |
+|  | Hand of Gul'dan | 2.3 | - | - |
+|  | Shadow Bolt | 2.5 | - | - |
+|  | Touch of Chaos | 1.8 | - | - |
+| **Megaera** | Soul Fire | 6.7 | - | - |
+|  | Doom | 95.8% | - | - |
+|  | Corruption | 99.1% | - | - |
+|  | Shadow Bolt | 4.1 | - | - |
+|  | Soul Fire | 2.6 | - | - |
+|  | Hand of Gul'dan | 2.9 | - | - |
+|  | Touch of Chaos | 1.0 | - | - |
+|  | Chaos Wave | 0.2 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Sertotems (Shaman-Elemental)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Lava Burst | 4.8 | - | - |
+|  | Lightning Bolt | 5.6 | - | - |
+|  | Primal Fire Elemental | 15.4% | - | - |
+|  | Lava Burst Overload | 2.0 | - | - |
+|  | Flame Shock | 42.6% | - | - |
+|  | Lightning Bolt Overload | 2.0 | - | - |
+|  | Fulmination | 0.9 | - | - |
+|  | Earth Shock | 0.9 | - | - |
+|  | Searing Totem | 0.2 | - | - |
+|  | Unleash Flame | 1.3 | - | - |
+| **Horridon** | Chain Lightning | 18.5 | - | - |
+|  | Lava Burst | 5.4 | - | - |
+|  | Chain Lightning Overload | 42.4 | - | - |
+|  | Lightning Bolt | 6.2 | - | - |
+|  | Lava Burst Overload | 2.6 | - | - |
+|  | Fulmination | 3.4 | - | - |
+|  | Flame Shock | 56.5% | - | - |
+|  | Primal Fire Elemental | 4.6% | - | - |
+|  | Lightning Bolt Overload | 2.5 | - | - |
+|  | Searing Totem | 0.8 | - | - |
+| **Council_of_Elders** | Chain Lightning | 25.5 | - | - |
+|  | Chain Lightning Overload | 46.9 | - | - |
+|  | Lava Burst | 7.5 | - | - |
+|  | Lava Beam | 3.4 | - | - |
+|  | Primal Fire Elemental | 27.1% | - | - |
+|  | Flame Shock | 67.6% | - | - |
+|  | Fulmination | 3.9 | - | - |
+|  | Lava Burst Overload | 3.1 | - | - |
+|  | Magma Totem | 0.5 | - | - |
+|  | Earth Shock | 3.9 | - | - |
+| **Tortos** | Chain Lightning | 12.9 | - | - |
+|  | Lava Burst | 4.5 | - | - |
+|  | Chain Lightning Overload | 19.2 | - | - |
+|  | Lightning Bolt | 8.8 | - | - |
+|  | Primal Fire Elemental | 88.9% | - | - |
+|  | Fulmination | 2.0 | - | - |
+|  | Flame Shock | 99.4% | - | - |
+|  | Lava Beam | 2.8 | - | - |
+|  | Lightning Bolt Overload | 2.8 | - | - |
+|  | Lava Burst Overload | 2.0 | - | - |
+| **Megaera** | Lava Burst | 7.9 | - | - |
+|  | Lightning Bolt | 17.3 | - | - |
+|  | Lightning Bolt Overload | 8.0 | - | - |
+|  | Flame Shock | 97.1% | - | - |
+|  | Fulmination | 2.2 | - | - |
+|  | Lava Burst Overload | 2.1 | - | - |
+|  | Primal Fire Elemental | 7.1% | - | - |
+|  | Searing Totem | 0.9 | - | - |
+|  | Earth Shock | 2.2 | - | - |
+|  | Unleash Flame | 0.5 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Unsanctioned (Shaman-Elemental)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Lava Burst | 7.2 | - | - |
+|  | Lightning Bolt | 15.2 | - | - |
+|  | Lightning Bolt Overload | 8.5 | - | - |
+|  | Lava Burst Overload | 3.0 | - | - |
+|  | Flame Shock | 73.5% | - | - |
+|  | Fulmination | 2.0 | - | - |
+|  | Fire Elemental Totem | 0.2 | - | - |
+|  | Searing Totem | 0.7 | - | - |
+|  | Unleash Flame | 0.2 | - | - |
+|  | Lightning Strike | 1.3 | - | - |
+| **Horridon** | Chain Lightning | 18.3 | - | - |
+|  | Lava Burst | 6.0 | - | - |
+|  | Chain Lightning Overload | 51.8 | - | - |
+|  | Lightning Bolt | 8.8 | - | - |
+|  | Lightning Strike | 44.5 | - | - |
+|  | Lava Burst Overload | 3.2 | - | - |
+|  | Lightning Bolt Overload | 6.3 | - | - |
+|  | Fulmination | 3.5 | - | - |
+|  | Flame Shock | 56.5% | - | - |
+|  | Fire Elemental Totem | 0.2 | - | - |
+| **Council_of_Elders** | Chain Lightning | 38.5 | - | - |
+|  | Chain Lightning Overload | 85.0 | - | - |
+|  | Lava Beam | 5.8 | - | - |
+|  | Lightning Strike | 80.2 | - | - |
+|  | Lava Beam | 9.4 | - | - |
+|  | Fire Elemental Totem | 0.2 | - | - |
+|  | Searing Totem | 0.2 | - | - |
+|  | Flame Shock | 11.7% | - | - |
+|  | Unleash Flame | 0.2 | - | - |
+|  | Fulmination | 0.2 | - | - |
+| **Tortos** | Chain Lightning | 24.3 | - | - |
+|  | Chain Lightning Overload | 58.6 | - | - |
+|  | Lava Burst | 6.8 | - | - |
+|  | Lava Burst Overload | 4.3 | - | - |
+|  | Lightning Strike | 47.8 | - | - |
+|  | Lightning Bolt | 3.8 | - | - |
+|  | Fire Elemental Totem | 0.3 | - | - |
+|  | Flame Shock | 67.9% | - | - |
+|  | Lava Beam | 0.8 | - | - |
+|  | Lightning Bolt Overload | 2.3 | - | - |
+| **Megaera** | Lava Burst | 10.1 | - | - |
+|  | Lightning Bolt | 16.7 | - | - |
+|  | Lava Burst Overload | 6.5 | - | - |
+|  | Lightning Bolt Overload | 9.1 | - | - |
+|  | Flame Shock | 99.8% | - | - |
+|  | Fulmination | 2.1 | - | - |
+|  | Searing Totem | 0.9 | - | - |
+|  | Lightning Strike | 2.7 | - | - |
+|  | Fire Elemental Totem | 0.2 | - | - |
+|  | Unleash Flame | 0.3 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Ketchum (Hunter-Survival)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Explosive Shot | 43.6% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Arcane Shot | 10.4 | - | - |
+|  | Serpent Sting | 99.6% | - | - |
+|  | Cobra Shot | 14.1 | - | - |
+|  | Black Arrow | 78.3% | - | - |
+|  | Kill Shot | 2.0 | - | - |
+|  | Glaive Toss | 2.6 | - | - |
+|  | Glaive Toss | 2.6 | - | - |
+|  | Multi-Shot | 0.2 | - | - |
+| **Horridon** | Stampede | 0.2 | - | - |
+|  | Serpent Sting | 96.3% | - | - |
+|  | Explosive Shot | 24.5% | - | - |
+|  | Cobra Shot | 12.0 | - | - |
+|  | Black Arrow | 53.6% | - | - |
+|  | Multi-Shot | 6.6 | - | - |
+|  | Arcane Shot | 3.2 | - | - |
+|  | Glaive Toss | 0.1% | - | - |
+|  | Glaive Toss | 0.9% | - | - |
+|  | Explosive Trap | 1.1 | - | - |
+| **Council_of_Elders** | Explosive Shot | 38.6% | - | - |
+|  | Serpent Sting | 95.5% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Cobra Shot | 13.7 | - | - |
+|  | Black Arrow | 75.2% | - | - |
+|  | Multi-Shot | 7.9 | - | - |
+|  | Glaive Toss | 1.7% | - | - |
+|  | Explosive Trap | 1.4 | - | - |
+|  | Glaive Toss | 1.5% | - | - |
+|  | Kill Shot | 1.9 | - | - |
+| **Tortos** | Serpent Sting | 99.3% | - | - |
+|  | Stampede | 0.3 | - | - |
+|  | Explosive Shot | 22.8% | - | - |
+|  | Multi-Shot | 7.3 | - | - |
+|  | Cobra Shot | 12.4 | - | - |
+|  | Black Arrow | 86.3% | - | - |
+|  | Glaive Toss | 6.6% | - | - |
+|  | Glaive Toss | 8.8% | - | - |
+|  | Arcane Shot | 2.0 | - | - |
+|  | Explosive Trap | 0.3 | - | - |
+| **Megaera** | Explosive Shot | 38.8% | - | - |
+|  | Stampede | 0.3 | - | - |
+|  | Serpent Sting | 99.6% | - | - |
+|  | Arcane Shot | 9.6 | - | - |
+|  | Cobra Shot | 12.1 | - | - |
+|  | Black Arrow | 70.6% | - | - |
+|  | Kill Shot | 2.2 | - | - |
+|  | Glaive Toss | 3.2 | - | - |
+|  | Glaive Toss | 3.2 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Tpump (Rogue-Subtlety)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Dispatch | 8.7 | - | - |
+|  | Backstab | 18.0 | - | - |
+|  | Rupture | 98.1% | - | - |
+|  | Ambush | 3.9 | - | - |
+|  | Shadow Blade | 8.5 | - | - |
+|  | Hemorrhage | 4.3 | - | - |
+|  | Shadow Blade Off-hand | 8.5 | - | - |
+|  | Hemorrhage | 97.0% | - | - |
+| **Horridon** | Dispatch | 6.9 | - | - |
+|  | Backstab | 15.6 | - | - |
+|  | Rupture | 88.5% | - | - |
+|  | Ambush | 3.5 | - | - |
+|  | Shadow Blade | 6.0 | - | - |
+|  | Hemorrhage | 3.9 | - | - |
+|  | Shadow Blade Off-hand | 6.0 | - | - |
+|  | Fan of Knives | 3.5 | - | - |
+|  | Crimson Tempest | 18.5% | - | - |
+|  | Hemorrhage | 97.2% | - | - |
+| **Council_of_Elders** | Dispatch | 6.3 | - | - |
+|  | Backstab | 10.4 | - | - |
+|  | Rupture | 92.8% | - | - |
+|  | Ambush | 4.1 | - | - |
+|  | Fan of Knives | 8.2 | - | - |
+|  | Crimson Tempest | 35.3% | - | - |
+|  | Shadow Blade | 8.2 | - | - |
+|  | Hemorrhage | 4.6 | - | - |
+|  | Crimson Tempest | 1.9 | - | - |
+|  | Shadow Blade Off-hand | 8.2 | - | - |
+| **Tortos** | Backstab | 18.2 | - | - |
+|  | Dispatch | 9.1 | - | - |
+|  | Ambush | 5.8 | - | - |
+|  | Rupture | 97.5% | - | - |
+|  | Shadow Blade | 9.9 | - | - |
+|  | Hemorrhage | 2.8 | - | - |
+|  | Shadow Blade Off-hand | 9.9 | - | - |
+|  | Hemorrhage | 97.9% | - | - |
+|  | Fan of Knives | 0.5 | - | - |
+|  | Crimson Tempest | 0.3 | - | - |
+| **Megaera** | Backstab | 17.9 | - | - |
+|  | Dispatch | 7.7 | - | - |
+|  | Ambush | 4.8 | - | - |
+|  | Rupture | 98.9% | - | - |
+|  | Shadow Blade | 6.7 | - | - |
+|  | Hemorrhage | 3.1 | - | - |
+|  | Shadow Blade Off-hand | 6.7 | - | - |
+|  | Hemorrhage | 99.4% | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Rentagar (Shaman-Elemental)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Lava Burst | 9.6 | - | - |
+|  | Lightning Bolt | 19.5 | - | - |
+|  | Lava Burst Overload | 5.9 | - | - |
+|  | Lightning Bolt Overload | 10.4 | - | - |
+|  | Flame Shock | 90.1% | - | - |
+|  | Fulmination | 2.4 | - | - |
+|  | Fire Elemental Totem | 0.4 | - | - |
+|  | Lightning Strike | 2.6 | - | - |
+|  | Earth Shock | 2.6 | - | - |
+|  | Unleash Flame | 2.2 | - | - |
+| **Horridon** | Lava Burst | 6.8 | - | - |
+|  | Lightning Bolt | 15.1 | - | - |
+|  | Chain Lightning | 8.0 | - | - |
+|  | Chain Lightning Overload | 21.7 | - | - |
+|  | Lightning Strike | 25.7 | - | - |
+|  | Lava Burst Overload | 3.4 | - | - |
+|  | Lightning Bolt Overload | 6.8 | - | - |
+|  | Fulmination | 2.8 | - | - |
+|  | Flame Shock | 69.8% | - | - |
+|  | Earth Shock | 2.8 | - | - |
+| **Council_of_Elders** | Chain Lightning | 23.8 | - | - |
+|  | Chain Lightning Overload | 53.7 | - | - |
+|  | Lava Burst | 7.5 | - | - |
+|  | Lightning Strike | 57.5 | - | - |
+|  | Lava Beam | 2.4 | - | - |
+|  | Fulmination | 5.3 | - | - |
+|  | Flame Shock | 77.8% | - | - |
+|  | Lava Burst Overload | 2.9 | - | - |
+|  | Earth Shock | 5.3 | - | - |
+|  | Lava Beam | 3.9 | - | - |
+| **Tortos** | Lava Burst | 7.8 | - | - |
+|  | Chain Lightning | 7.6 | - | - |
+|  | Lightning Bolt | 11.4 | - | - |
+|  | Lava Burst Overload | 4.3 | - | - |
+|  | Chain Lightning Overload | 17.2 | - | - |
+|  | Lightning Strike | 38.2 | - | - |
+|  | Lightning Bolt Overload | 6.3 | - | - |
+|  | Flame Shock | 99.2% | - | - |
+|  | Fulmination | 2.0 | - | - |
+|  | Fire Elemental Totem | 7.3 | - | - |
+| **Megaera** | Lightning Bolt | 17.1 | - | - |
+|  | Lava Burst | 7.9 | - | - |
+|  | Lightning Bolt Overload | 9.1 | - | - |
+|  | Lava Burst Overload | 2.9 | - | - |
+|  | Fulmination | 2.9 | - | - |
+|  | Flame Shock | 97.5% | - | - |
+|  | Lightning Strike | 2.2 | - | - |
+|  | Earth Shock | 2.9 | - | - |
+|  | Unleash Flame | 0.2 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Stassie (Hunter-Survival)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Explosive Shot | 33.3% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Serpent Sting | 96.3% | - | - |
+|  | Arcane Shot | 6.7 | - | - |
+|  | Black Arrow | 65.2% | - | - |
+|  | A Murder of Crows | 0.4 | - | - |
+|  | Cobra Shot | 6.9 | - | - |
+|  | Glaive Toss | 2.2 | - | - |
+|  | Glaive Toss | 2.2 | - | - |
+|  | Kill Shot | 1.7 | - | - |
+| **Horridon** | Explosive Shot | 37.7% | - | - |
+|  | Stampede | 0.3 | - | - |
+|  | Serpent Sting | 97.6% | - | - |
+|  | Black Arrow | 65.0% | - | - |
+|  | Cobra Shot | 9.2 | - | - |
+|  | Arcane Shot | 4.8 | - | - |
+|  | A Murder of Crows | 0.5 | - | - |
+|  | Glaive Toss | 2.0% | - | - |
+|  | Glaive Toss | 1.1% | - | - |
+|  | Explosive Trap | 0.9 | - | - |
+| **Council_of_Elders** | Explosive Shot | 33.7% | - | - |
+|  | Serpent Sting | 99.2% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Black Arrow | 72.2% | - | - |
+|  | Cobra Shot | 11.6 | - | - |
+|  | Multi-Shot | 9.9 | - | - |
+|  | Explosive Trap | 1.7 | - | - |
+|  | A Murder of Crows | 0.5 | - | - |
+|  | Kill Shot | 2.6 | - | - |
+|  | Glaive Toss | 1.2% | - | - |
+| **Tortos** | Explosive Shot | 38.3% | - | - |
+|  | Stampede | 0.3 | - | - |
+|  | Serpent Sting | 98.6% | - | - |
+|  | Black Arrow | 75.9% | - | - |
+|  | A Murder of Crows | 0.5 | - | - |
+|  | Arcane Shot | 4.3 | - | - |
+|  | Kill Shot | 2.5 | - | - |
+|  | Glaive Toss | 9.0% | - | - |
+|  | Glaive Toss | 9.0% | - | - |
+|  | Cobra Shot | 6.8 | - | - |
+| **Megaera** | Explosive Shot | 32.8% | - | - |
+|  | Stampede | 0.3 | - | - |
+|  | Serpent Sting | 99.1% | - | - |
+|  | Black Arrow | 75.8% | - | - |
+|  | Arcane Shot | 4.4 | - | - |
+|  | Kill Shot | 2.2 | - | - |
+|  | Cobra Shot | 4.6 | - | - |
+|  | Glaive Toss | 2.6 | - | - |
+|  | Glaive Toss | 2.6 | - | - |
+|  | A Murder of Crows | 0.3 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Boviden (Warrior-Arms)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Slam | 11.9 | - | - |
+|  | Mortal Strike | 6.9 | - | - |
+|  | Overpower | 9.3 | - | - |
+|  | Bloodbath | 18.8% | - | - |
+|  | Colossus Smash | 36.8% | - | - |
+|  | Execute | 0.9 | - | - |
+|  | Heroic Leap | 0.9 | - | - |
+| **Horridon** | Slam | 8.2 | - | - |
+|  | Overpower | 10.6 | - | - |
+|  | Bladestorm | 5.4 | - | - |
+|  | Mortal Strike | 7.4 | - | - |
+|  | Sweeping Strikes | 2.5 | - | - |
+|  | Bloodbath | 17.3% | - | - |
+|  | Colossus Smash | 33.3% | - | - |
+|  | Slam | 3.9 | - | - |
+|  | Thunder Clap | 0.9 | - | - |
+|  | Sweeping Strikes | 2.5 | - | - |
+| **Council_of_Elders** | Sweeping Strikes | 5.1 | - | - |
+|  | Overpower | 16.9 | - | - |
+|  | Slam | 7.0 | - | - |
+|  | Mortal Strike | 9.4 | - | - |
+|  | Bladestorm | 3.4 | - | - |
+|  | Bloodbath | 28.6% | - | - |
+|  | Slam | 8.2 | - | - |
+|  | Colossus Smash | 45.0% | - | - |
+|  | Execute | 1.0 | - | - |
+|  | Sweeping Strikes | 5.1 | - | - |
+| **Tortos** | Slam | 10.6 | - | - |
+|  | Mortal Strike | 8.8 | - | - |
+|  | Overpower | 14.2 | - | - |
+|  | Execute | 3.8 | - | - |
+|  | Bloodbath | 29.9% | - | - |
+|  | Colossus Smash | 53.7% | - | - |
+| **Megaera** | Slam | 12.6 | - | - |
+|  | Overpower | 12.6 | - | - |
+|  | Mortal Strike | 8.0 | - | - |
+|  | Bloodbath | 71.9% | - | - |
+|  | Colossus Smash | 44.4% | - | - |
+|  | Execute | 1.7 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Lockycharmzs (Warlock-Destruction)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Incinerate | 13.2 | - | - |
+|  | Chaos Bolt | 2.0 | - | - |
+|  | Immolate | 53.2% | - | - |
+|  | Conflagrate | 2.8 | - | - |
+|  | Incinerate | 0.4 | - | - |
+|  | Conflagrate | 0.2 | - | - |
+| **Horridon** | Chaos Bolt | 3.1 | - | - |
+|  | Incinerate | 16.5 | - | - |
+|  | Immolate | 50.1% | - | - |
+|  | Conflagrate | 3.5 | - | - |
+|  | Immolate | 8.0% | - | - |
+|  | Incinerate | 0.6 | - | - |
+|  | Shadowburn | 0.8 | - | - |
+|  | Conflagrate | 1.3% | - | - |
+|  | Rain of Fire | 1.2 | - | - |
+| **Council_of_Elders** | Incinerate | 16.4 | - | - |
+|  | Chaos Bolt | 2.4 | - | - |
+|  | Immolate | 62.8% | - | - |
+|  | Immolate | 20.8% | - | - |
+|  | Incinerate | 2.6 | - | - |
+|  | Conflagrate | 3.4 | - | - |
+|  | Rain of Fire | 2.6 | - | - |
+|  | Conflagrate | 1.0 | - | - |
+|  | Shadowburn | 0.5 | - | - |
+|  | Infernal Awakening | 1.0 | - | - |
+| **Tortos** | Chaos Bolt | 3.8 | - | - |
+|  | Incinerate | 15.7 | - | - |
+|  | Immolate | 74.0% | - | - |
+|  | Rain of Fire | 2.0 | - | - |
+|  | Conflagrate | 15.5% | - | - |
+|  | Shadowburn | 1.0 | - | - |
+|  | Incinerate | 0.5 | - | - |
+|  | Conflagrate | 0.3 | - | - |
+| **Megaera** | Incinerate | 17.1 | - | - |
+|  | Chaos Bolt | 3.8 | - | - |
+|  | Conflagrate | 5.0 | - | - |
+|  | Immolate | 96.1% | - | - |
+|  | Shadowburn | 0.5 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Bonessenpai (DeathKnight-Frost)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Frost Strike | 14.1 | - | - |
+|  | Obliterate | 5.4 | - | - |
+|  | Howling Blast | 11.3 | - | - |
+|  | Frost Fever | 99.0% | - | - |
+|  | Soul Reaper | 2.0 | - | - |
+|  | Risen Zandalari | 36.9 | - | - |
+|  | Blood Plague | 75.8% | - | - |
+|  | Raise Dead | 32.8 | - | - |
+|  | Soul Reaper | 16.3% | - | - |
+|  | Plague Strike | 2.8 | - | - |
+| **Horridon** | Howling Blast | 7.2 | - | - |
+|  | Frost Strike | 7.4 | - | - |
+|  | Obliterate | 3.2 | - | - |
+|  | Frost Fever | 66.6% | - | - |
+|  | Raise Dead | 20.5 | - | - |
+|  | Blood Plague | 44.6% | - | - |
+|  | Risen Zandalari | 6.5 | - | - |
+|  | Plague Strike | 1.4 | - | - |
+|  | Icy Touch | 0.2 | - | - |
+| **Council_of_Elders** | Howling Blast | 9.4 | - | - |
+|  | Frost Strike | 17.1 | - | - |
+|  | Obliterate | 7.9 | - | - |
+|  | Frost Fever | 99.2% | - | - |
+|  | Soul Reaper | 3.9 | - | - |
+|  | Army of the Dead | 103.5 | - | - |
+|  | Risen Zandalari | 37.1 | - | - |
+|  | Raise Dead | 37.1 | - | - |
+|  | Soul Reaper | 34.1% | - | - |
+|  | Blood Plague | 86.8% | - | - |
+| **Tortos** | Frost Strike | 19.0 | - | - |
+|  | Obliterate | 7.8 | - | - |
+|  | Howling Blast | 11.4 | - | - |
+|  | Soul Reaper | 2.3 | - | - |
+|  | Army of the Dead | 94.5 | - | - |
+|  | Risen Zandalari | 50.0 | - | - |
+|  | Frost Fever | 98.9% | - | - |
+|  | Raise Dead | 37.4 | - | - |
+|  | Blood Plague | 83.8% | - | - |
+|  | Soul Reaper | 19.0% | - | - |
+| **Megaera** | Frost Strike | 17.8 | - | - |
+|  | Obliterate | 7.5 | - | - |
+|  | Howling Blast | 8.9 | - | - |
+|  | Soul Reaper | 2.1 | - | - |
+|  | Frost Fever | 98.9% | - | - |
+|  | Raise Dead | 32.5 | - | - |
+|  | Blood Plague | 98.6% | - | - |
+|  | Soul Reaper | 27.3% | - | - |
+|  | Risen Zandalari | 14.5 | - | - |
+|  | Plague Strike | 3.6 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Bombaaclat (Hunter-Survival)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Explosive Shot | 33.0% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Serpent Sting | 92.4% | - | - |
+|  | Black Arrow | 72.4% | - | - |
+|  | Cobra Shot | 11.9 | - | - |
+|  | Dire Beast (Melee) | 3.5 | - | - |
+|  | A Murder of Crows | 0.4 | - | - |
+|  | Glaive Toss | 3.5 | - | - |
+|  | Arcane Shot | 3.0 | - | - |
+|  | Kill Shot | 1.5 | - | - |
+| **Horridon** | Serpent Sting | 97.7% | - | - |
+|  | Explosive Shot | 21.6% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Cobra Shot | 11.9 | - | - |
+|  | Dire Beast (Melee) | 3.4 | - | - |
+|  | Black Arrow | 46.3% | - | - |
+|  | Glaive Toss | 0.8% | - | - |
+|  | Glaive Toss | 0.9% | - | - |
+|  | A Murder of Crows | 0.3 | - | - |
+|  | Multi-Shot | 4.0 | - | - |
+| **Council_of_Elders** | Serpent Sting | 98.7% | - | - |
+|  | Explosive Shot | 37.3% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Cobra Shot | 10.6 | - | - |
+|  | Black Arrow | 60.8% | - | - |
+|  | Dire Beast (Melee) | 3.4 | - | - |
+|  | Kill Shot | 2.2 | - | - |
+|  | A Murder of Crows | 0.5 | - | - |
+|  | Explosive Trap | 1.4 | - | - |
+|  | Glaive Toss | 3.4 | - | - |
+| **Tortos** | Serpent Sting | 97.6% | - | - |
+|  | Stampede | 0.3 | - | - |
+|  | Explosive Shot | 18.3% | - | - |
+|  | Multi-Shot | 3.5 | - | - |
+|  | Explosive Trap | 1.5 | - | - |
+|  | Cobra Shot | 8.3 | - | - |
+|  | Glaive Toss | 9.6% | - | - |
+|  | Glaive Toss | 8.9% | - | - |
+|  | Black Arrow | 94.4% | - | - |
+|  | Dire Beast (Melee) | 3.0 | - | - |
+| **Megaera** | Explosive Shot | 27.4% | - | - |
+|  | Stampede | 0.2 | - | - |
+|  | Serpent Sting | 99.1% | - | - |
+|  | Cobra Shot | 12.0 | - | - |
+|  | Black Arrow | 68.3% | - | - |
+|  | Dire Beast (Melee) | 3.8 | - | - |
+|  | Arcane Shot | 3.8 | - | - |
+|  | A Murder of Crows | 0.5 | - | - |
+|  | Glaive Toss | 3.1 | - | - |
+|  | Glaive Toss | 3.1 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Nybszerk (Warrior-Arms)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Slam | 6.9 | - | - |
+|  | Overpower | 8.5 | - | - |
+|  | Mortal Strike | 5.9 | - | - |
+|  | Bloodbath | 11.9% | - | - |
+|  | Colossus Smash | 30.8% | - | - |
+|  | Dragon Roar | 0.7 | - | - |
+|  | Heroic Strike | 1.3 | - | - |
+|  | Heroic Leap | 0.9 | - | - |
+|  | Shattering Throw | 3.6% | - | - |
+| **Horridon** | Slam | 6.3 | - | - |
+|  | Overpower | 10.5 | - | - |
+|  | Mortal Strike | 6.9 | - | - |
+|  | Bladestorm | 3.9 | - | - |
+|  | Sweeping Strikes | 3.1 | - | - |
+|  | Thunder Clap | 2.9 | - | - |
+|  | Execute | 0.9 | - | - |
+|  | Colossus Smash | 34.5% | - | - |
+|  | Bloodbath | 18.0% | - | - |
+|  | Slam | 2.2 | - | - |
+| **Council_of_Elders** | Sweeping Strikes | 5.1 | - | - |
+|  | Bladestorm | 6.7 | - | - |
+|  | Slam | 7.0 | - | - |
+|  | Thunder Clap | 5.8 | - | - |
+|  | Bloodbath | 27.4% | - | - |
+|  | Mortal Strike | 6.3 | - | - |
+|  | Execute | 2.6 | - | - |
+|  | Colossus Smash | 61.0% | - | - |
+|  | Slam | 8.7 | - | - |
+|  | Overpower | 4.8 | - | - |
+| **Tortos** | Bladestorm | 5.3 | - | - |
+|  | Slam | 9.4 | - | - |
+|  | Thunder Clap | 3.3 | - | - |
+|  | Mortal Strike | 7.3 | - | - |
+|  | Overpower | 6.8 | - | - |
+|  | Bloodbath | 28.9% | - | - |
+|  | Sweeping Strikes | 2.8 | - | - |
+|  | Execute | 1.8 | - | - |
+|  | Colossus Smash | 35.7% | - | - |
+|  | Slam | 3.0 | - | - |
+| **Megaera** | Slam | 10.4 | - | - |
+|  | Sweeping Strikes | 1.9 | - | - |
+|  | Mortal Strike | 8.0 | - | - |
+|  | Bladestorm | 4.8 | - | - |
+|  | Execute | 3.4 | - | - |
+|  | Overpower | 6.5 | - | - |
+|  | Colossus Smash | 50.5% | - | - |
+|  | Bloodbath | 25.7% | - | - |
+|  | Sweeping Strikes | 1.9 | - | - |
+|  | Slam | 2.4 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
+---
+### Sahvahanna (Warlock-Destruction)
+
+#### Per-Boss Rotation Analysis vs Top Performers
+
+| Boss | Ability | You | Top | Gap |
+|------|---------|-----|-----|-----|
+| **Jinrokh** | Incinerate | 18.9 | - | - |
+|  | Chaos Bolt | 2.8 | - | - |
+|  | Immolate | 88.9% | - | - |
+|  | Shadowburn | 1.7 | - | - |
+|  | Conflagrate | 5.2 | - | - |
+|  | Chaos Bolt | 9.1 | - | - |
+|  | Rain of Fire | 1.7 | - | - |
+|  | Doomguard | 0.2 | - | - |
+| **Horridon** | Chaos Bolt | 2.9 | - | - |
+|  | Incinerate | 13.4 | - | - |
+|  | Immolate | 76.9% | - | - |
+|  | Shadowburn | 3.1 | - | - |
+|  | Conflagrate | 4.8 | - | - |
+|  | Rain of Fire | 2.6 | - | - |
+|  | Incinerate | 2.2 | - | - |
+|  | Conflagrate | 0.5 | - | - |
+|  | Immolate | 4.0% | - | - |
+| **Council_of_Elders** | Incinerate | 19.0 | - | - |
+|  | Chaos Bolt | 3.1 | - | - |
+|  | Immolate | 56.3% | - | - |
+|  | Shadowburn | 1.9 | - | - |
+|  | Conflagrate | 4.6 | - | - |
+|  | Rain of Fire | 2.4 | - | - |
+|  | Incinerate | 1.4 | - | - |
+|  | Chaos Bolt | 13.7 | - | - |
+|  | Immolate | 11.9% | - | - |
+|  | Conflagrate | 0.5 | - | - |
+| **Tortos** | Incinerate | 3.8 | - | - |
+|  | Chaos Bolt | 3.3 | - | - |
+|  | Incinerate | 15.2 | - | - |
+|  | Shadowburn | 6.3 | - | - |
+|  | Immolate | 76.0% | - | - |
+|  | Rain of Fire | 1.8 | - | - |
+|  | Conflagrate | 1.8% | - | - |
+|  | Conflagrate | 3.8% | - | - |
+| **Megaera** | Incinerate | 18.3 | - | - |
+|  | Chaos Bolt | 2.6 | - | - |
+|  | Immolate | 82.1% | - | - |
+|  | Conflagrate | 5.1 | - | - |
+|  | Shadowburn | 1.9 | - | - |
+|  | Rain of Fire | 0.9 | - | - |
+
+*CPM = Casts Per Minute, % = Uptime. Top 10 abilities by damage shown.*
+
+#### Talents & Glyphs
+
+*No talent data available*
+
+
+#### Key Issues & Suggestions
+
+
