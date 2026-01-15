@@ -8,7 +8,7 @@
 ---
 ## Jin'rokh the Breaker
 
-**Duration:** 2:14 | **DPS:** 242,066
+**Duration:** 2:14 | **DPS:** 242,066 | **Parse:** 88%
 
 ### Consumables
 
@@ -53,7 +53,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
 ---
 ## Horridon
 
-**Duration:** 6:01 | **DPS:** 205,813
+**Duration:** 6:01 | **DPS:** 205,813 | **Parse:** 62%
 
 ### Consumables
 
@@ -82,7 +82,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Sprint, Glyph of Tricks of the Trade, Glyph of Pick Lock
+Top uses: Glyph of Tricks of the Trade, Glyph of Sprint, Glyph of Pick Lock
 
 ### Suggestions
 
@@ -91,14 +91,14 @@ Top uses: Glyph of Sprint, Glyph of Tricks of the Trade, Glyph of Pick Lock
 - **Mutilate** usage critically low (10.4 vs 15.0 CPM, -31%)
 - **Rupture** uptime is low (73.8%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Sprint**
 - Top performers use **Glyph of Tricks of the Trade**
+- Top performers use **Glyph of Sprint**
 
 
 ---
 ## Council of Elders
 
-**Duration:** 4:17 | **DPS:** 164,737
+**Duration:** 4:17 | **DPS:** 164,737 | **Parse:** 75%
 
 ### Consumables
 
@@ -146,7 +146,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
 ---
 ## Tortos
 
-**Duration:** 2:44 | **DPS:** 225,782
+**Duration:** 2:44 | **DPS:** 225,782 | **Parse:** 79%
 
 ### Consumables
 
@@ -187,7 +187,7 @@ Top uses: Glyph of Blurred Speed
 ---
 ## Megaera
 
-**Duration:** 5:59 | **DPS:** 129,775
+**Duration:** 5:59 | **DPS:** 129,775 | **Parse:** 51%
 
 ### Consumables
 
@@ -215,7 +215,7 @@ Top uses: Glyph of Blurred Speed
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Evasion, Glyph of Disguise, Glyph of Pick Pocket
+Top uses: Glyph of Pick Pocket, Glyph of Disguise, Glyph of Evasion
 
 ### Suggestions
 
@@ -223,14 +223,14 @@ Top uses: Glyph of Evasion, Glyph of Disguise, Glyph of Pick Pocket
 - **Shadow Blade** could be cast more (4.5 vs 6.2 CPM)
 - **Shadow Blade Off-hand** could be cast more (4.3 vs 6.0 CPM)
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Evasion**
+- Top performers use **Glyph of Pick Pocket**
 - Top performers use **Glyph of Disguise**
 
 
 ---
 ## Ji-Kun
 
-**Duration:** 2:59 | **DPS:** 265,681
+**Duration:** 2:59 | **DPS:** 265,681 | **Parse:** 92%
 
 ### Consumables
 
@@ -274,7 +274,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Recuperate
 ---
 ## Durumu the Forgotten
 
-**Duration:** 4:25 | **DPS:** 147,222
+**Duration:** 4:25 | **DPS:** 147,222 | **Parse:** 47%
 
 ### Consumables
 
@@ -318,7 +318,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 ---
 ## Primordius
 
-**Duration:** 5:21 | **DPS:** 160,625
+**Duration:** 5:21 | **DPS:** 160,625 | **Parse:** 62%
 
 ### Consumables
 
@@ -348,20 +348,20 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Sprint, Glyph of Tricks of the Trade, Glyph of Pick Lock
+Top uses: Glyph of Tricks of the Trade, Glyph of Sprint, Glyph of Pick Lock
 
 ### Suggestions
 
 - **Rupture** uptime is low (72.3%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Sprint**
 - Top performers use **Glyph of Tricks of the Trade**
+- Top performers use **Glyph of Sprint**
 
 
 ---
 ## Dark Animus
 
-**Duration:** 3:57 | **DPS:** 82,172
+**Duration:** 3:57 | **DPS:** 82,172 | **Parse:** 21%
 
 ### Consumables
 
@@ -410,7 +410,7 @@ Top uses: Glyph of Sprint
 ---
 ## Iron Qon
 
-**Duration:** 8:05 | **DPS:** 135,463
+**Duration:** 8:05 | **DPS:** 135,463 | **Parse:** 54%
 
 ### Consumables
 
@@ -452,7 +452,7 @@ Top uses: Glyph of Expose Armor
 ---
 ## Twin Consorts
 
-**Duration:** 7:13 | **DPS:** 142,376
+**Duration:** 7:13 | **DPS:** 142,376 | **Parse:** 31%
 
 ### Consumables
 
@@ -482,7 +482,7 @@ Top uses: Glyph of Expose Armor
 | T3 | Cheat Death | **Elusiveness** |
 | T4 | Shadowstep | **Burst of Speed** |
 
-Top uses: Glyph of Blurred Speed, Glyph of Expose Armor
+Top uses: Glyph of Expose Armor, Glyph of Blurred Speed
 
 ### Suggestions
 
@@ -491,14 +491,14 @@ Top uses: Glyph of Blurred Speed, Glyph of Expose Armor
 - **Shadow Blade Off-hand** usage critically low (2.9 vs 5.3 CPM, -45%)
 - Consider **Elusiveness** (T3) - used by top performers instead of Cheat Death
 - Consider **Burst of Speed** (T4) - used by top performers instead of Shadowstep
-- Top performers use **Glyph of Blurred Speed**
 - Top performers use **Glyph of Expose Armor**
+- Top performers use **Glyph of Blurred Speed**
 
 
 ---
 ## Lei Shen
 
-**Duration:** 8:18 | **DPS:** 121,487
+**Duration:** 8:18 | **DPS:** 121,487 | **Parse:** 60%
 
 ### Consumables
 

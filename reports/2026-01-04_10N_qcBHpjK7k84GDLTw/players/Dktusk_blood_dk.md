@@ -8,7 +8,7 @@
 ---
 ## Jin'rokh the Breaker
 
-**Duration:** 2:14 | **DPS:** 155,865
+**Duration:** 2:14 | **DPS:** 155,865 | **Parse:** 89%
 
 ### Consumables
 
@@ -42,19 +42,19 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Death Grip, Glyph of Anti-Magic Shell, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of Death Grip
 
 ### Suggestions
 
 - **Bone Shield** uptime below target (77.2%, aim for >80%)
-- Top performers use **Glyph of Death Grip**
+- Top performers use **Glyph of Army of the Dead**
 - Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
 ## Horridon
 
-**Duration:** 6:01 | **DPS:** 147,714
+**Duration:** 6:01 | **DPS:** 147,714 | **Parse:** 66%
 
 ### Consumables
 
@@ -88,20 +88,20 @@ Top uses: Glyph of Death Grip, Glyph of Anti-Magic Shell, Glyph of Army of the D
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Corpse Explosion, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Corpse Explosion
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (52.4%, target >80%)
 - Consider using **Anti-Magic Shell** during high damage phases
-- Top performers use **Glyph of Corpse Explosion**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Corpse Explosion**
 
 
 ---
 ## Council of Elders
 
-**Duration:** 4:17 | **DPS:** 171,360
+**Duration:** 4:17 | **DPS:** 171,360 | **Parse:** 90%
 
 ### Consumables
 
@@ -140,20 +140,20 @@ Top uses: Glyph of Corpse Explosion, Glyph of Army of the Dead
 |------|-----|-----|
 | T4 | Death Pact | **Death Siphon** |
 
-Top uses: Glyph of Death and Decay, Glyph of Anti-Magic Shell, Glyph of Army of the Dead
+Top uses: Glyph of Death and Decay, Glyph of Army of the Dead, Glyph of Anti-Magic Shell
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (29.5%, target >80%)
 - Consider **Death Siphon** (T4) - used by top performers instead of Death Pact
 - Top performers use **Glyph of Death and Decay**
-- Top performers use **Glyph of Anti-Magic Shell**
+- Top performers use **Glyph of Army of the Dead**
 
 
 ---
 ## Tortos
 
-**Duration:** 2:44 | **DPS:** 235,917
+**Duration:** 2:44 | **DPS:** 235,917 | **Parse:** 89%
 
 ### Consumables
 
@@ -191,21 +191,21 @@ Top uses: Glyph of Death and Decay, Glyph of Anti-Magic Shell, Glyph of Army of 
 |------|-----|-----|
 | T3 | Death's Advance | **Chilblains** |
 
-Top uses: Glyph of Horn of Winter, Glyph of Army of the Dead, Glyph of Anti-Magic Shell
+Top uses: Glyph of Vampiric Blood, Glyph of Anti-Magic Shell, Glyph of Army of the Dead
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (40.7%, target >80%)
 - **Blood Shield** uptime below target (39.1%, aim for >40%)
 - Consider **Chilblains** (T3) - used by top performers instead of Death's Advance
-- Top performers use **Glyph of Horn of Winter**
-- Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Vampiric Blood**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
 ## Megaera
 
-**Duration:** 5:59 | **DPS:** 95,814
+**Duration:** 5:59 | **DPS:** 95,814 | **Parse:** 73%
 
 ### Consumables
 
@@ -244,20 +244,20 @@ Top uses: Glyph of Horn of Winter, Glyph of Army of the Dead, Glyph of Anti-Magi
 |------|-----|-----|
 | T4 | Death Pact | **Death Siphon** |
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (32.0%, target >80%)
 - Consider **Death Siphon** (T4) - used by top performers instead of Death Pact
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
 ## Ji-Kun
 
-**Duration:** 2:59 | **DPS:** 144,435
+**Duration:** 2:59 | **DPS:** 144,435 | **Parse:** 95%
 
 ### Consumables
 
@@ -304,7 +304,7 @@ Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 ---
 ## Durumu the Forgotten
 
-**Duration:** 4:25 | **DPS:** 128,939
+**Duration:** 4:25 | **DPS:** 128,939 | **Parse:** 80%
 
 ### Consumables
 
@@ -338,19 +338,19 @@ Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of Army of the Dead, Glyph of the Long Winter
+Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of the Long Winter
 
 ### Suggestions
 
 - **Bone Shield** uptime below target (62.1%, aim for >80%)
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
 ## Primordius
 
-**Duration:** 5:21 | **DPS:** 98,782
+**Duration:** 5:21 | **DPS:** 98,782 | **Parse:** 36%
 
 ### Consumables
 
@@ -397,7 +397,7 @@ Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 ---
 ## Dark Animus
 
-**Duration:** 3:57 | **DPS:** 100,138
+**Duration:** 3:57 | **DPS:** 100,138 | **Parse:** 62%
 
 ### Consumables
 
@@ -431,19 +431,19 @@ Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of Army of the Dead, Glyph of the Long Winter
+Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of the Long Winter
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (21.5%, target >80%)
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
 ## Iron Qon
 
-**Duration:** 8:05 | **DPS:** 99,588
+**Duration:** 8:05 | **DPS:** 99,588 | **Parse:** 77%
 
 ### Consumables
 
@@ -478,19 +478,19 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Army of the Dead, Glyph of the Lon
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Corpse Explosion, Glyph of Anti-Magic Shell
+Top uses: Glyph of Anti-Magic Shell, Glyph of Corpse Explosion
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (31.6%, target >80%)
-- Top performers use **Glyph of Corpse Explosion**
 - Top performers use **Glyph of Anti-Magic Shell**
+- Top performers use **Glyph of Corpse Explosion**
 
 
 ---
 ## Twin Consorts
 
-**Duration:** 7:13 | **DPS:** 136,756
+**Duration:** 7:13 | **DPS:** 136,756 | **Parse:** 79%
 
 ### Consumables
 
@@ -525,19 +525,19 @@ Top uses: Glyph of Corpse Explosion, Glyph of Anti-Magic Shell
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of Army of the Dead, Glyph of the Long Winter
+Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of the Long Winter
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (36.5%, target >80%)
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
 ## Lei Shen
 
-**Duration:** 8:18 | **DPS:** 99,396
+**Duration:** 8:18 | **DPS:** 99,396 | **Parse:** 65%
 
 ### Consumables
 

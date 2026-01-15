@@ -8,7 +8,7 @@
 ---
 ## Jin'rokh the Breaker
 
-**Duration:** 2:14 | **HPS:** 84,607
+**Duration:** 2:14 | **HPS:** 84,607 | **Parse:** 63%
 
 ### Consumables
 
@@ -29,7 +29,7 @@
 | Holy Shock | 8.9 | 10.5 | -15% |
 | Daybreak | 29.8 | 46.1 | -35% |
 
-**Overall Overheal:** 75.8%
+**Overheal:** 75.8% (Top: 58.4%, +17.4%)
 
 ### Talent/Glyph Differences
 
@@ -37,7 +37,7 @@
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of Illumination
+Top uses: Glyph of Flash of Light, Glyph of Righteous Retreat, Glyph of the Mounted King
 
 ### Suggestions
 
@@ -45,14 +45,14 @@ Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of Illuminat
 - **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Flash of Light**
 - Top performers use **Glyph of Righteous Retreat**
-- Top performers use **Glyph of Seal of Blood**
 
 
 ---
 ## Horridon
 
-**Duration:** 6:01 | **HPS:** 54,487
+**Duration:** 6:01 | **HPS:** 54,487 | **Parse:** 13%
 
 ### Consumables
 
@@ -75,7 +75,7 @@ Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of Illuminat
 | Daybreak | 12.1 | 25.0 | -52% |
 | Glyph of Protector of the Innocent | 7.1 | - | - |
 
-**Overall Overheal:** 59.6%
+**Overheal:** 59.6% (Top: 40.5%, +19.1%)
 
 ### Talent/Glyph Differences
 
@@ -85,7 +85,7 @@ Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of Illuminat
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Righteous Retreat, Glyph of Flash of Light, Glyph of Fire From the Heavens
+Top uses: Glyph of Flash of Light, Glyph of Righteous Retreat, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -94,14 +94,14 @@ Top uses: Glyph of Righteous Retreat, Glyph of Flash of Light, Glyph of Fire Fro
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Righteous Retreat**
 - Top performers use **Glyph of Flash of Light**
+- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
 ## Council of Elders
 
-**Duration:** 4:17 | **HPS:** 96,006
+**Duration:** 4:17 | **HPS:** 96,006 | **Parse:** 59%
 
 ### Consumables
 
@@ -125,7 +125,7 @@ Top uses: Glyph of Righteous Retreat, Glyph of Flash of Light, Glyph of Fire Fro
 | Glyph of Protector of the Innocent | 8.6 | - | - |
 | Holy Light | 0.2 | - | - |
 
-**Overall Overheal:** 51.9%
+**Overheal:** 51.9% (Top: 54.4%, -2.5%)
 
 ### Talent/Glyph Differences
 
@@ -133,7 +133,7 @@ Top uses: Glyph of Righteous Retreat, Glyph of Flash of Light, Glyph of Fire Fro
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Seal of Blood, Glyph of Winged Vengeance, Glyph of the Mounted King
+Top uses: Glyph of Flash of Light, Glyph of the Mounted King, Glyph of Seal of Blood
 
 ### Suggestions
 
@@ -141,14 +141,14 @@ Top uses: Glyph of Seal of Blood, Glyph of Winged Vengeance, Glyph of the Mounte
 - **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Seal of Blood**
-- Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Flash of Light**
+- Top performers use **Glyph of the Mounted King**
 
 
 ---
 ## Tortos
 
-**Duration:** 2:44 | **HPS:** 82,954
+**Duration:** 2:44 | **HPS:** 82,954 | **Parse:** 55%
 
 ### Consumables
 
@@ -172,7 +172,7 @@ Top uses: Glyph of Seal of Blood, Glyph of Winged Vengeance, Glyph of the Mounte
 | Flash of Light | 0.4 | - | - |
 | Glyph of Protector of the Innocent | 6.2 | - | - |
 
-**Overall Overheal:** 58.1%
+**Overheal:** 58.1% (Top: 37.2%, +20.9%)
 
 ### Talent/Glyph Differences
 
@@ -180,7 +180,7 @@ Top uses: Glyph of Seal of Blood, Glyph of Winged Vengeance, Glyph of the Mounte
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Righteous Retreat
+Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Divinity
 
 ### Suggestions
 
@@ -195,7 +195,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Righteous 
 ---
 ## Megaera
 
-**Duration:** 5:59 | **HPS:** 134,516
+**Duration:** 5:59 | **HPS:** 134,516 | **Parse:** 34%
 
 ### Consumables
 
@@ -219,7 +219,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Righteous 
 | Healthstone | 0.2 | 0.2 | 0% |
 | Holy Light | 0.2 | 0.2 | 0% |
 
-**Overall Overheal:** 22.1%
+**Overheal:** 22.1% (Top: 36.4%, -14.3%)
 
 ### Talent/Glyph Differences
 
@@ -239,7 +239,7 @@ Top uses: Glyph of Illumination
 ---
 ## Ji-Kun
 
-**Duration:** 2:59 | **HPS:** 77,904
+**Duration:** 2:59 | **HPS:** 77,904 | **Parse:** 27%
 
 ### Consumables
 
@@ -263,7 +263,7 @@ Top uses: Glyph of Illumination
 | Daybreak | 13.7 | 21.6 | -37% |
 | Glyph of Protector of the Innocent | 10.4 | - | - |
 
-**Overall Overheal:** 62.4%
+**Overheal:** 62.4% (Top: 45.5%, +16.9%)
 
 ### Talent/Glyph Differences
 
@@ -272,7 +272,7 @@ Top uses: Glyph of Illumination
 | T1 | Speed of Light | **Pursuit of Justice** |
 | T3 | Eternal Flame | **Selfless Healer** |
 
-Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Righteous Retreat
+Top uses: Glyph of Winged Vengeance, Glyph of Fire From the Heavens, Glyph of Divinity
 
 ### Suggestions
 
@@ -280,14 +280,14 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Ri
 - **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Pursuit of Justice** (T1) - used by top performers instead of Speed of Light
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
-- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Fire From the Heavens**
 
 
 ---
 ## Durumu the Forgotten
 
-**Duration:** 4:25 | **HPS:** 70,147
+**Duration:** 4:25 | **HPS:** 70,147 | **Parse:** 23%
 
 ### Consumables
 
@@ -311,7 +311,7 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Ri
 | Lay on Hands | 0.2 | 0.2 | 0% |
 | Glyph of Protector of the Innocent | 9.0 | - | - |
 
-**Overall Overheal:** 56.1%
+**Overheal:** 56.1% (Top: 25.2%, +30.9%)
 
 ### Talent/Glyph Differences
 
@@ -337,7 +337,7 @@ Top uses: Glyph of Contemplation, Glyph of Divinity
 ---
 ## Primordius
 
-**Duration:** 5:21 | **HPS:** 85,921
+**Duration:** 5:21 | **HPS:** 85,921 | **Parse:** 38%
 
 ### Consumables
 
@@ -360,7 +360,7 @@ Top uses: Glyph of Contemplation, Glyph of Divinity
 | Guardian of Ancient Kings | 5.0 | 49.1 | -90% |
 | Glyph of Protector of the Innocent | 5.0 | - | - |
 
-**Overall Overheal:** 42.6%
+**Overheal:** 42.6% (Top: 33.4%, +9.2%)
 
 ### Talent/Glyph Differences
 
@@ -369,7 +369,7 @@ Top uses: Glyph of Contemplation, Glyph of Divinity
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Righteous Retreat
+Top uses: Glyph of Winged Vengeance, Glyph of Fire From the Heavens, Glyph of Divinity
 
 ### Suggestions
 
@@ -377,14 +377,14 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Ri
 - **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Fire From the Heavens**
 
 
 ---
 ## Dark Animus
 
-**Duration:** 3:57 | **HPS:** 89,151
+**Duration:** 3:57 | **HPS:** 89,151 | **Parse:** 42%
 
 ### Consumables
 
@@ -408,7 +408,7 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Ri
 | Light of Dawn | 0.8 | - | - |
 | Guardian of Ancient Kings | 16.2 | 10.8 | +50% |
 
-**Overall Overheal:** 48.1%
+**Overheal:** 48.1% (Top: 35.9%, +12.2%)
 
 ### Talent/Glyph Differences
 
@@ -417,7 +417,7 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Ri
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Light's Hammer | **Holy Prism** |
 
-Top uses: Glyph of Fire From the Heavens, Glyph of Contemplation, Glyph of Righteous Retreat
+Top uses: Glyph of Fire From the Heavens, Glyph of Contemplation, Glyph of Divinity
 
 ### Suggestions
 
@@ -432,7 +432,7 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Contemplation, Glyph of Right
 ---
 ## Iron Qon
 
-**Duration:** 8:05 | **HPS:** 98,173
+**Duration:** 8:05 | **HPS:** 98,173 | **Parse:** 34%
 
 ### Consumables
 
@@ -455,7 +455,7 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Contemplation, Glyph of Right
 | Guardian of Ancient Kings | 9.8 | 34.8 | -72% |
 | Glyph of Protector of the Innocent | 4.8 | - | - |
 
-**Overall Overheal:** 38.9%
+**Overheal:** 38.9% (Top: 25.9%, +13.0%)
 
 ### Talent/Glyph Differences
 
@@ -465,7 +465,7 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Contemplation, Glyph of Right
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of the Falling Avenger, Glyph of Winged Vengeance, Glyph of Righteous Retreat
+Top uses: Glyph of Winged Vengeance, Glyph of the Falling Avenger, Glyph of Divinity
 
 ### Suggestions
 
@@ -474,14 +474,14 @@ Top uses: Glyph of the Falling Avenger, Glyph of Winged Vengeance, Glyph of Righ
 - Consider **Long Arm of the Law** (T1) - used by top performers instead of Speed of Light
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of the Falling Avenger**
 - Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of the Falling Avenger**
 
 
 ---
 ## Twin Consorts
 
-**Duration:** 7:13 | **HPS:** 86,188
+**Duration:** 7:13 | **HPS:** 86,188 | **Parse:** 35%
 
 ### Consumables
 
@@ -504,7 +504,7 @@ Top uses: Glyph of the Falling Avenger, Glyph of Winged Vengeance, Glyph of Righ
 | Daybreak | 19.9 | 131.9 | -85% |
 | Glyph of Protector of the Innocent | 6.1 | - | - |
 
-**Overall Overheal:** 48.9%
+**Overheal:** 48.9% (Top: 57.2%, -8.3%)
 
 ### Talent/Glyph Differences
 
@@ -513,7 +513,7 @@ Top uses: Glyph of the Falling Avenger, Glyph of Winged Vengeance, Glyph of Righ
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Contemplation
+Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Divinity
 
 ### Suggestions
 
@@ -522,14 +522,14 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Co
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Contemplation**
 
 
 ---
 ## Lei Shen
 
-**Duration:** 8:18 | **HPS:** 87,792
+**Duration:** 8:18 | **HPS:** 87,792 | **Parse:** 82%
 
 ### Consumables
 
@@ -553,7 +553,7 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Co
 | Lay on Hands | 0.1 | 0.1 | 0% |
 | Glyph of Protector of the Innocent | 4.3 | - | - |
 
-**Overall Overheal:** 39.2%
+**Overheal:** 39.2% (Top: 43.5%, -4.3%)
 
 ### Talent/Glyph Differences
 
@@ -564,7 +564,7 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Co
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Seal of Blood, Glyph of Winged Vengeance, Glyph of Righteous Retreat
+Top uses: Glyph of Flash of Light, Glyph of Winged Vengeance, Glyph of Seal of Blood
 
 ### Suggestions
 
@@ -573,6 +573,6 @@ Top uses: Glyph of Seal of Blood, Glyph of Winged Vengeance, Glyph of Righteous 
 - Consider **Repentance** (T2) - used by top performers instead of Fist of Justice
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Seal of Blood**
+- Top performers use **Glyph of Flash of Light**
 - Top performers use **Glyph of Winged Vengeance**
 

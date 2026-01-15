@@ -8,7 +8,7 @@
 ---
 ## Jin'rokh the Breaker
 
-**Duration:** 2:14 | **DPS:** 120,772
+**Duration:** 2:14 | **DPS:** 120,772 | **Parse:** 11%
 
 ### Consumables
 
@@ -36,7 +36,7 @@
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Unending Breath
+Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Soulwell
 
 ### Suggestions
 
@@ -54,7 +54,7 @@ Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Unending Brea
 ---
 ## Horridon
 
-**Duration:** 6:01 | **DPS:** 143,704
+**Duration:** 6:01 | **DPS:** 143,704 | **Parse:** 24%
 
 ### Consumables
 
@@ -81,7 +81,7 @@ Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Unending Brea
 | T1 | Dark Regeneration | **Soul Leech** |
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 
-Top uses: Glyph of Unending Breath, Glyph of Verdant Spheres, Glyph of Healthstone
+Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Healthstone
 
 ### Suggestions
 
@@ -92,14 +92,14 @@ Top uses: Glyph of Unending Breath, Glyph of Verdant Spheres, Glyph of Healthsto
 - **Rain of Fire** usage critically low (0.5 vs 1.7 CPM, -71%)
 - Consider **Soul Leech** (T1) - used by top performers instead of Dark Regeneration
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
-- Top performers use **Glyph of Unending Breath**
 - Top performers use **Glyph of Verdant Spheres**
+- Top performers use **Glyph of Unending Breath**
 
 
 ---
 ## Council of Elders
 
-**Duration:** 4:17 | **DPS:** 75,977
+**Duration:** 4:17 | **DPS:** 75,977 | **Parse:** 4%
 
 ### Consumables
 
@@ -126,7 +126,7 @@ Top uses: Glyph of Unending Breath, Glyph of Verdant Spheres, Glyph of Healthsto
 | T1 | Dark Regeneration | **Soul Leech** |
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 
-Top uses: Glyph of Unending Breath, Glyph of Verdant Spheres, Glyph of Healthstone
+Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Healthstone
 
 ### Suggestions
 
@@ -138,14 +138,14 @@ Top uses: Glyph of Unending Breath, Glyph of Verdant Spheres, Glyph of Healthsto
 - **Shadowburn** usage critically low (0.2 vs 3.3 CPM, -94%)
 - Consider **Soul Leech** (T1) - used by top performers instead of Dark Regeneration
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
-- Top performers use **Glyph of Unending Breath**
 - Top performers use **Glyph of Verdant Spheres**
+- Top performers use **Glyph of Unending Breath**
 
 
 ---
 ## Tortos
 
-**Duration:** 2:44 | **DPS:** 151,085
+**Duration:** 2:44 | **DPS:** 151,085 | **Parse:** 40%
 
 ### Consumables
 
@@ -177,7 +177,7 @@ Top uses: Glyph of Unending Breath, Glyph of Verdant Spheres, Glyph of Healthsto
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Unending Breath, Glyph of Ember Tap, Glyph of Soulwell
+Top uses: Glyph of Ember Tap, Glyph of Soulwell, Glyph of Unending Breath
 
 ### Suggestions
 
@@ -193,14 +193,14 @@ Top uses: Glyph of Unending Breath, Glyph of Ember Tap, Glyph of Soulwell
 - Consider **Dark Pact** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Unending Breath**
 - Top performers use **Glyph of Ember Tap**
+- Top performers use **Glyph of Soulwell**
 
 
 ---
 ## Megaera
 
-**Duration:** 5:59 | **DPS:** 89,527
+**Duration:** 5:59 | **DPS:** 89,527 | **Parse:** 12%
 
 ### Consumables
 
@@ -244,7 +244,7 @@ Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Shadow Bolt
 ---
 ## Ji-Kun
 
-**Duration:** 2:59 | **DPS:** 136,587
+**Duration:** 2:59 | **DPS:** 136,587 | **Parse:** 50%
 
 ### Consumables
 
@@ -287,7 +287,7 @@ Top uses: Glyph of Siphon Life
 ---
 ## Durumu the Forgotten
 
-**Duration:** 4:25 | **DPS:** 109,253
+**Duration:** 4:25 | **DPS:** 109,253 | **Parse:** 27%
 
 ### Consumables
 
@@ -314,7 +314,7 @@ Top uses: Glyph of Siphon Life
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Crimson Banish, Glyph of Soulwell
+Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Crimson Banish
 
 ### Suggestions
 
@@ -326,13 +326,13 @@ Top uses: Glyph of Siphon Life, Glyph of Crimson Banish, Glyph of Soulwell
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Siphon Life**
-- Top performers use **Glyph of Crimson Banish**
+- Top performers use **Glyph of Soulwell**
 
 
 ---
 ## Primordius
 
-**Duration:** 5:21 | **DPS:** 104,397
+**Duration:** 5:21 | **DPS:** 104,397 | **Parse:** 17%
 
 ### Consumables
 
@@ -378,7 +378,7 @@ Top uses: Glyph of Siphon Life, Glyph of Healthstone
 ---
 ## Dark Animus
 
-**Duration:** 3:57 | **DPS:** 44,789
+**Duration:** 3:57 | **DPS:** 44,789 | **Parse:** 1%
 
 ### Consumables
 
@@ -405,7 +405,7 @@ Top uses: Glyph of Siphon Life, Glyph of Healthstone
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Ember Tap, Glyph of Curse of the Elements
+Top uses: Glyph of Ember Tap, Glyph of Curse of the Elements, Glyph of Siphon Life
 
 ### Suggestions
 
@@ -417,14 +417,14 @@ Top uses: Glyph of Siphon Life, Glyph of Ember Tap, Glyph of Curse of the Elemen
 - Consider **Dark Bargain** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Siphon Life**
 - Top performers use **Glyph of Ember Tap**
+- Top performers use **Glyph of Curse of the Elements**
 
 
 ---
 ## Iron Qon
 
-**Duration:** 8:05 | **DPS:** 99,005
+**Duration:** 8:05 | **DPS:** 99,005 | **Parse:** 23%
 
 ### Consumables
 
@@ -454,7 +454,7 @@ Top uses: Glyph of Siphon Life, Glyph of Ember Tap, Glyph of Curse of the Elemen
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Crimson Banish, Glyph of Demonic Circle
+Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Crimson Banish
 
 ### Suggestions
 
@@ -468,13 +468,13 @@ Top uses: Glyph of Siphon Life, Glyph of Crimson Banish, Glyph of Demonic Circle
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Siphon Life**
-- Top performers use **Glyph of Crimson Banish**
+- Top performers use **Glyph of Soulwell**
 
 
 ---
 ## Twin Consorts
 
-**Duration:** 7:13 | **DPS:** 113,644
+**Duration:** 7:13 | **DPS:** 113,644 | **Parse:** 24%
 
 ### Consumables
 
@@ -501,7 +501,7 @@ Top uses: Glyph of Siphon Life, Glyph of Crimson Banish, Glyph of Demonic Circle
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Kilrogg's Cunning, Glyph of Unending Breath
+Top uses: Glyph of Siphon Life, Glyph of Soulwell, Kilrogg's Cunning
 
 ### Suggestions
 
@@ -510,12 +510,13 @@ Top uses: Glyph of Siphon Life, Kilrogg's Cunning, Glyph of Unending Breath
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Siphon Life**
+- Top performers use **Glyph of Soulwell**
 
 
 ---
 ## Lei Shen
 
-**Duration:** 8:18 | **DPS:** 62,675
+**Duration:** 8:18 | **DPS:** 62,675 | **Parse:** 3%
 
 ### Consumables
 
@@ -545,7 +546,7 @@ Top uses: Glyph of Siphon Life, Kilrogg's Cunning, Glyph of Unending Breath
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Unending Breath
+Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Soulwell
 
 ### Suggestions
 

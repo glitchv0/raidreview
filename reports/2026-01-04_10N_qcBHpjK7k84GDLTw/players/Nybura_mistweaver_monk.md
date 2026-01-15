@@ -8,7 +8,7 @@
 ---
 ## Jin'rokh the Breaker
 
-**Duration:** 2:14 | **HPS:** 32,680
+**Duration:** 2:14 | **HPS:** 32,680 | **Parse:** 35%
 
 ### Consumables
 
@@ -29,7 +29,7 @@
 | Gift of the Serpent | 2.7 | 13.7 | -80% |
 | Zen Pulse | 100.0% | - | - |
 
-**Overall Overheal:** 78.6%
+**Overheal:** 78.6% (Top: 49.2%, +29.4%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -51,7 +51,7 @@
 | T2 | Zen Pulse | **Chi Burst** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
+Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -60,14 +60,14 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Blackout Kick**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
 ## Horridon
 
-**Duration:** 6:01 | **HPS:** 31,663
+**Duration:** 6:01 | **HPS:** 31,663 | **Parse:** 33%
 
 ### Consumables
 
@@ -91,7 +91,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 | Surging Mist | 0.2 | 1.4 | -86% |
 | Zen Sphere: Detonate | 6.8 | - | - |
 
-**Overall Overheal:** 68.0%
+**Overheal:** 68.0% (Top: 50.8%, +17.2%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -112,7 +112,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
@@ -121,14 +121,14 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 - **Revival** not detected - key ability for Mistweaver Monk
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Enduring Healing Sphere**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Enduring Healing Sphere**
 
 
 ---
 ## Council of Elders
 
-**Duration:** 4:17 | **HPS:** 53,317
+**Duration:** 4:17 | **HPS:** 53,317 | **Parse:** 58%
 
 ### Consumables
 
@@ -153,7 +153,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 | Uplift | 0.5 | - | - |
 | Zen Sphere: Detonate | 4.2 | - | - |
 
-**Overall Overheal:** 55.3%
+**Overheal:** 55.3% (Top: 55.9%, -0.6%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -174,21 +174,21 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
+Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
 - Very high overheal (55.3%) - consider more efficient spell usage or better timing
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Enduring Healing Sphere**
 - Top performers use **Glyph of Spinning Crane Kick**
+- Top performers use **Glyph of Enduring Healing Sphere**
 
 
 ---
 ## Tortos
 
-**Duration:** 2:44 | **HPS:** 48,673
+**Duration:** 2:44 | **HPS:** 48,673 | **Parse:** 57%
 
 ### Consumables
 
@@ -213,7 +213,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
 | Restoration of the Infinite | 0.7 | 1.3 | -46% |
 | Gift of the Serpent | 1.8 | 9.2 | -80% |
 
-**Overall Overheal:** 61.5%
+**Overheal:** 61.5% (Top: 48.9%, +12.6%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -233,20 +233,20 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
 |------|-----|-----|
 | T2 | Zen Pulse | **Chi Wave** |
 
-Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation
+Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of Jab
 
 ### Suggestions
 
 - Very high overheal (61.5%) - consider more efficient spell usage or better timing
 - Consider **Chi Wave** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Crackling Tiger Lightning**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
 ## Megaera
 
-**Duration:** 5:59 | **HPS:** 63,661
+**Duration:** 5:59 | **HPS:** 63,661 | **Parse:** 48%
 
 ### Consumables
 
@@ -271,7 +271,7 @@ Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Zen Meditat
 | Restoration of the Infinite | 1.2 | - | - |
 | Revival | 0.2 | 0.4 | -50% |
 
-**Overall Overheal:** 35.5%
+**Overheal:** 35.5% (Top: 34.4%, +1.1%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -293,20 +293,20 @@ Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Zen Meditat
 | T1 | Celerity | **Momentum** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Blackout Kick
+Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Enduring Healing Sphere**
 - Top performers use **Glyph of Blackout Kick**
+- Top performers use **Glyph of Enduring Healing Sphere**
 
 
 ---
 ## Ji-Kun
 
-**Duration:** 2:59 | **HPS:** 34,411
+**Duration:** 2:59 | **HPS:** 34,411 | **Parse:** 46%
 
 ### Consumables
 
@@ -331,7 +331,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Blackout Kick
 | Zen Pulse | 90.6% | - | - |
 | Expel Harm | 0.7 | 0.3 | +133% |
 
-**Overall Overheal:** 63.5%
+**Overheal:** 63.5% (Top: 65.2%, -1.7%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -354,7 +354,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Blackout Kick
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 ### Suggestions
 
@@ -363,14 +363,14 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Jab**
 
 
 ---
 ## Durumu the Forgotten
 
-**Duration:** 4:25 | **HPS:** 40,975
+**Duration:** 4:25 | **HPS:** 40,975 | **Parse:** 31%
 
 ### Consumables
 
@@ -395,7 +395,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 | Zen Sphere: Detonate | 6.1 | - | - |
 | Uplift | 0.2 | - | - |
 
-**Overall Overheal:** 54.2%
+**Overheal:** 54.2% (Top: 44.3%, +9.9%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -416,7 +416,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Honor, Glyph of Jab, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Honor, Glyph of Enduring Healing Sphere, Glyph of Jab
 
 ### Suggestions
 
@@ -425,13 +425,13 @@ Top uses: Glyph of Honor, Glyph of Jab, Glyph of Enduring Healing Sphere
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
 - Top performers use **Glyph of Honor**
-- Top performers use **Glyph of Jab**
+- Top performers use **Glyph of Enduring Healing Sphere**
 
 
 ---
 ## Primordius
 
-**Duration:** 5:21 | **HPS:** 56,251
+**Duration:** 5:21 | **HPS:** 56,251 | **Parse:** 33%
 
 ### Consumables
 
@@ -456,7 +456,7 @@ Top uses: Glyph of Honor, Glyph of Jab, Glyph of Enduring Healing Sphere
 | Life Cocoon | 2.4% | 3.0% | -0.6% |
 | Uplift | 0.4 | - | - |
 
-**Overall Overheal:** 40.1%
+**Overheal:** 40.1% (Top: 32.6%, +7.5%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -491,7 +491,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 ---
 ## Dark Animus
 
-**Duration:** 3:57 | **HPS:** 42,446
+**Duration:** 3:57 | **HPS:** 42,446 | **Parse:** 44%
 
 ### Consumables
 
@@ -516,7 +516,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 | Gift of the Serpent | 1.8 | 8.2 | -78% |
 | Spinning Crane Kick | 38.1 | - | - |
 
-**Overall Overheal:** 45.2%
+**Overheal:** 45.2% (Top: 48.2%, -3.0%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -539,7 +539,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T6 | Rushing Jade Wind | **Invoke Xuen, the White Tiger** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab, Glyph of Crackling Tiger Lightning
+Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, Glyph of Jab
 
 ### Suggestions
 
@@ -547,14 +547,14 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab, Glyph of Crackling Tig
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Invoke Xuen, the White Tiger** (T6) - used by top performers instead of Rushing Jade Wind
+- Top performers use **Glyph of Crackling Tiger Lightning**
 - Top performers use **Glyph of Enduring Healing Sphere**
-- Top performers use **Glyph of Jab**
 
 
 ---
 ## Iron Qon
 
-**Duration:** 8:05 | **HPS:** 56,829
+**Duration:** 8:05 | **HPS:** 56,829 | **Parse:** 47%
 
 ### Consumables
 
@@ -579,7 +579,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab, Glyph of Crackling Tig
 | Surging Mist | 0.5 | 0.6 | -17% |
 | Life Cocoon | 1.9% | 5.9% | -4.0% |
 
-**Overall Overheal:** 37.5%
+**Overheal:** 37.5% (Top: 37.8%, -0.3%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -602,21 +602,21 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab, Glyph of Crackling Tig
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Jab**
 
 
 ---
 ## Twin Consorts
 
-**Duration:** 7:13 | **HPS:** 56,044
+**Duration:** 7:13 | **HPS:** 56,044 | **Parse:** 33%
 
 ### Consumables
 
@@ -641,7 +641,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 | Life Cocoon | 1.1% | - | - |
 | Surging Mist | 0.4 | 0.1 | +300% |
 
-**Overall Overheal:** 42.0%
+**Overheal:** 42.0% (Top: 43.5%, -1.5%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -664,7 +664,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 | T2 | Zen Pulse | **Chi Burst** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
+Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -672,14 +672,14 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Blackout Kick**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
 ## Lei Shen
 
-**Duration:** 8:18 | **HPS:** 54,945
+**Duration:** 8:18 | **HPS:** 54,945 | **Parse:** 48%
 
 ### Consumables
 
@@ -704,7 +704,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 | Uplift | 0.5 | - | - |
 | Surging Mist | 0.4 | 1.5 | -73% |
 
-**Overall Overheal:** 33.1%
+**Overheal:** 33.1% (Top: 44.0%, -10.9%)
 
 ### DPS Rotation (Fistweaving)
 
@@ -728,7 +728,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 | T4 | Leg Sweep | **Ring of Peace** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Rising Tiger Kick, Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation
+Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of Rising Tiger Kick
 
 ### Suggestions
 
@@ -736,6 +736,6 @@ Top uses: Glyph of Rising Tiger Kick, Glyph of Crackling Tiger Lightning, Glyph 
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Rising Tiger Kick**
 - Top performers use **Glyph of Crackling Tiger Lightning**
+- Top performers use **Glyph of Zen Meditation**
 
