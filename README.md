@@ -8,18 +8,6 @@ Each report includes per-boss rotation comparisons against top performers, ident
 
 ## Reports
 
-### 2026-01-14 - Throne of Thunder 10N
-**Log:** [qcBHpjK7k84GDLTw](https://classic.warcraftlogs.com/reports/qcBHpjK7k84GDLTw)
-
-| Report | Description |
-|--------|-------------|
-| [Full Report](reports/2026-01-14_10N_qcBHpjK7k84GDLTw/) | Executive summary with all analysis |
-| [DPS Analysis](reports/2026-01-14_10N_qcBHpjK7k84GDLTw/dps.md) | DPS rankings, rotation issues, consumables |
-| [Tank Analysis](reports/2026-01-14_10N_qcBHpjK7k84GDLTw/tank.md) | Active mitigation, survivability |
-| [Healer Analysis](reports/2026-01-14_10N_qcBHpjK7k84GDLTw/healers.md) | HPS rankings, cooldown usage |
-
----
-
 ### 2026-01-11 - Throne of Thunder 10N
 **Log:** [73LvphDmkPZzNX6V](https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V)
 
@@ -65,6 +53,18 @@ Each report includes per-boss rotation comparisons against top performers, ident
 | [DPS Analysis](reports/2026-01-09_25N_pdg6m7hDjL9cXtvG/dps.md) | Per-boss rotation comparison vs top performers |
 | [Tank Analysis](reports/2026-01-09_25N_pdg6m7hDjL9cXtvG/tanks.md) | Active mitigation, survivability |
 | [Healer Analysis](reports/2026-01-09_25N_pdg6m7hDjL9cXtvG/healers.md) | HPS rankings, cooldown usage |
+
+---
+
+### 2026-01-04 - Throne of Thunder 10N
+**Log:** [qcBHpjK7k84GDLTw](https://classic.warcraftlogs.com/reports/qcBHpjK7k84GDLTw)
+
+| Report | Description |
+|--------|-------------|
+| [Executive Summary](reports/2026-01-04_10N_qcBHpjK7k84GDLTw/README.md) | Overview with boss kills and performance summary |
+| [DPS Analysis](reports/2026-01-04_10N_qcBHpjK7k84GDLTw/dps.md) | Per-boss rotation comparison vs top performers |
+| [Tank Analysis](reports/2026-01-04_10N_qcBHpjK7k84GDLTw/tanks.md) | Active mitigation, survivability |
+| [Healer Analysis](reports/2026-01-04_10N_qcBHpjK7k84GDLTw/healers.md) | HPS rankings, cooldown usage |
 
 ---
 
