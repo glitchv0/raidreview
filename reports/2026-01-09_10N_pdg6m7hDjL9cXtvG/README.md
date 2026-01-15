@@ -1,7 +1,7 @@
 # Raid Report: Throne of Thunder
 
-**Date:** 2026-01-10 | **Difficulty:** 10N | **Bosses:** 7/12
-**Log:** [ZvBgMjA8y64TxDak](https://classic.warcraftlogs.com/reports/ZvBgMjA8y64TxDak)
+**Date:** 2026-01-09 | **Difficulty:** 10N | **Bosses:** 5/12
+**Log:** [pdg6m7hDjL9cXtvG](https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG)
 
 ---
 
@@ -10,13 +10,13 @@
 - [Calrion (Shadow Priest)](players/Calrion_shadow_priest.md)
 - [Cursedclam (Demo Warlock)](players/Cursedclam_demo_warlock.md)
 - [Drbustnuts (Arms Warrior)](players/Drbustnuts_arms_warrior.md)
-- [Iggaterm (Mm Hunter)](players/Iggaterm_mm_hunter.md)
-- [Shibb (Assassination Rogue)](players/Shibb_assassination_rogue.md)
+- [Poeshamkun (Elemental Shaman)](players/Poeshamkun_elemental_shaman.md)
+- [Seniorsneako (Assassination Rogue)](players/Seniorsneako_assassination_rogue.md)
 - [Treehastranq (Survival Hunter)](players/Treehastranq_survival_hunter.md)
 
 ## Tanks
 
-- [Poebearkun (Brewmaster Monk)](players/Poebearkun_brewmaster_monk.md)
+- [Santiana (Blood Dk)](players/Santiana_blood_dk.md)
 - [Zegadout (Protection Paladin)](players/Zegadout_protection_paladin.md)
 
 ## Healers
