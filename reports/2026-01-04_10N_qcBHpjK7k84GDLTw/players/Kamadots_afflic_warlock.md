@@ -38,7 +38,7 @@
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Health Funnel, Glyph of Curse of Exhaustion, Kilrogg's Cunning
+Top uses: Glyph of Curse of Exhaustion, Kilrogg's Cunning, Glyph of Health Funnel
 
 ### Suggestions
 
@@ -52,7 +52,6 @@ Top uses: Glyph of Health Funnel, Glyph of Curse of Exhaustion, Kilrogg's Cunnin
 - **Haunt** uptime is low (41.2%) - maintain on target
 - **Drain Soul** uptime is low (20.3%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Health Funnel**
 - Top performers use **Glyph of Curse of Exhaustion**
 
 
@@ -91,7 +90,7 @@ Top uses: Glyph of Health Funnel, Glyph of Curse of Exhaustion, Kilrogg's Cunnin
 | T3 | Soul Link | **Dark Bargain** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
+Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Subtlety
 
 ### Suggestions
 
@@ -184,7 +183,7 @@ Top uses: Glyph of Health Funnel, Kilrogg's Cunning, Glyph of Eternal Resolve
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Glyph of Verdant Spheres, Glyph of Healthstone
+Top uses: Glyph of Healthstone, Glyph of Verdant Spheres, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -195,7 +194,7 @@ Top uses: Glyph of Eternal Resolve, Glyph of Verdant Spheres, Glyph of Healthsto
 - **Malefic Grasp** uptime is low (23.2%) - maintain on target
 - **Seed of Corruption** usage critically low (1.1 vs 1.6 CPM, -31%)
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Eternal Resolve**
+- Top performers use **Glyph of Healthstone**
 - Top performers use **Glyph of Verdant Spheres**
 
 
@@ -233,7 +232,7 @@ Top uses: Glyph of Eternal Resolve, Glyph of Verdant Spheres, Glyph of Healthsto
 | T2 | Shadowfury | **Mortal Coil** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
+Top uses: Glyph of Nightmares, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -243,8 +242,8 @@ Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
 - **Malefic Grasp** uptime is low (29.1%) - maintain on target
 - Consider **Mortal Coil** (T2) - used by top performers instead of Shadowfury
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Eternal Resolve**
 - Top performers use **Glyph of Nightmares**
+- Top performers use **Glyph of Eternal Resolve**
 
 
 ---
@@ -281,7 +280,7 @@ Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
 | T2 | Shadowfury | **Mortal Coil** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
+Top uses: Glyph of Nightmares, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -293,8 +292,8 @@ Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
 - **Drain Soul** uptime is low (16.7%) - maintain on target
 - Consider **Mortal Coil** (T2) - used by top performers instead of Shadowfury
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Eternal Resolve**
 - Top performers use **Glyph of Nightmares**
+- Top performers use **Glyph of Eternal Resolve**
 
 
 ---
@@ -331,7 +330,7 @@ Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
 | T3 | Soul Link | **Dark Bargain** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
+Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Subtlety
 
 ### Suggestions
 
@@ -379,7 +378,7 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
 | T3 | Soul Link | **Dark Bargain** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
+Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Subtlety
 
 ### Suggestions
 
@@ -474,7 +473,7 @@ Top uses: Glyph of Curse of Exhaustion, Glyph of Verdant Spheres
 | T3 | Soul Link | **Dark Bargain** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
+Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Subtlety
 
 ### Suggestions
 
@@ -569,7 +568,7 @@ Top uses: Glyph of Health Funnel, Kilrogg's Cunning, Glyph of Curse of the Eleme
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Verdant Spheres
+Top uses: Kilrogg's Cunning, Glyph of Verdant Spheres, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -579,5 +578,5 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Verdant Spheres
 - **Unstable Affliction** usage critically low (14.8 vs 96.1 CPM, -85%)
 - **Malefic Grasp** uptime is low (18.5%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Eternal Resolve**
+- Top performers use **Glyph of Verdant Spheres**
 

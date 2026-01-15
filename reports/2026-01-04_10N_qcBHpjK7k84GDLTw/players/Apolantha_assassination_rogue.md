@@ -36,7 +36,7 @@
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
+Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 
 ### Suggestions
 
@@ -46,8 +46,8 @@ Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
 - **Mutilate** could be cast more (9.4 vs 13.1 CPM)
 - **Shadow Blade Off-hand** could be cast more (6.2 vs 8.3 CPM)
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Blurred Speed**
 - Top performers use **Glyph of Pick Lock**
+- Top performers use **Glyph of Blurred Speed**
 
 
 ---
@@ -82,7 +82,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Tricks of the Trade, Glyph of Sprint, Glyph of Pick Lock
+Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
 
 ### Suggestions
 
@@ -91,7 +91,7 @@ Top uses: Glyph of Tricks of the Trade, Glyph of Sprint, Glyph of Pick Lock
 - **Mutilate** usage critically low (10.4 vs 15.0 CPM, -31%)
 - **Rupture** uptime is low (73.8%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Tricks of the Trade**
+- Top performers use **Glyph of Pick Lock**
 - Top performers use **Glyph of Sprint**
 
 
@@ -129,7 +129,7 @@ Top uses: Glyph of Tricks of the Trade, Glyph of Sprint, Glyph of Pick Lock
 | T4 | Shadowstep | **Burst of Speed** |
 | T5 | Sting Like a Bee | **Paralytic Poison** |
 
-Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
+Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 
 ### Suggestions
 
@@ -139,8 +139,8 @@ Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
 - Consider **Burst of Speed** (T4) - used by top performers instead of Shadowstep
 - Consider **Paralytic Poison** (T5) - used by top performers instead of Sting Like a Bee
-- Top performers use **Glyph of Blurred Speed**
 - Top performers use **Glyph of Pick Lock**
+- Top performers use **Glyph of Blurred Speed**
 
 
 ---
@@ -215,7 +215,7 @@ Top uses: Glyph of Blurred Speed
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Pocket, Glyph of Disguise, Glyph of Evasion
+Top uses: Glyph of Evasion, Glyph of Disguise, Glyph of Pick Pocket
 
 ### Suggestions
 
@@ -223,7 +223,7 @@ Top uses: Glyph of Pick Pocket, Glyph of Disguise, Glyph of Evasion
 - **Shadow Blade** could be cast more (4.5 vs 6.2 CPM)
 - **Shadow Blade Off-hand** could be cast more (4.3 vs 6.0 CPM)
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Pick Pocket**
+- Top performers use **Glyph of Evasion**
 - Top performers use **Glyph of Disguise**
 
 
@@ -260,15 +260,15 @@ Top uses: Glyph of Pick Pocket, Glyph of Disguise, Glyph of Evasion
 | T3 | Cheat Death | **Elusiveness** |
 | T6 | Marked for Death | **Anticipation** |
 
-Top uses: Glyph of Blurred Speed, Glyph of Recuperate
+Top uses: Glyph of Recuperate, Glyph of Blurred Speed
 
 ### Suggestions
 
 - **Rupture** uptime is low (81.6%) - maintain on target
 - Consider **Elusiveness** (T3) - used by top performers instead of Cheat Death
 - Consider **Anticipation** (T6) - used by top performers instead of Marked for Death
-- Top performers use **Glyph of Blurred Speed**
 - Top performers use **Glyph of Recuperate**
+- Top performers use **Glyph of Blurred Speed**
 
 
 ---
@@ -348,13 +348,13 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Tricks of the Trade, Glyph of Sprint, Glyph of Pick Lock
+Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
 
 ### Suggestions
 
 - **Rupture** uptime is low (72.3%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Tricks of the Trade**
+- Top performers use **Glyph of Pick Lock**
 - Top performers use **Glyph of Sprint**
 
 
@@ -524,7 +524,7 @@ Top uses: Glyph of Expose Armor, Glyph of Blurred Speed
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Pick Pocket, Glyph of Pick Lock
+Top uses: Glyph of Pick Lock, Glyph of Pick Pocket
 
 ### Suggestions
 
@@ -532,6 +532,6 @@ Top uses: Glyph of Pick Pocket, Glyph of Pick Lock
 - **Rupture** uptime is low (75.5%) - maintain on target
 - **Shadow Blade** usage critically low (3.3 vs 7.0 CPM, -53%)
 - **Shadow Blade Off-hand** usage critically low (3.0 vs 7.0 CPM, -57%)
-- Top performers use **Glyph of Pick Pocket**
 - Top performers use **Glyph of Pick Lock**
+- Top performers use **Glyph of Pick Pocket**
 

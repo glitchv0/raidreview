@@ -35,13 +35,13 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Tame Beast, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Tame Beast
 
 ### Suggestions
 
 - **Kill Shot** could be cast more (2.7 vs 3.4 CPM)
-- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Stampede**
+- Top performers use **Glyph of Tame Beast**
 
 
 ---
@@ -78,7 +78,7 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Disengage, Glyph of Endless Wrath, Glyph of Stampede
+Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
 
 ### Suggestions
 
@@ -87,7 +87,7 @@ Top uses: Glyph of Disengage, Glyph of Endless Wrath, Glyph of Stampede
 - **Glaive Toss** uptime is low (0.8%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Top performers use **Glyph of Disengage**
-- Top performers use **Glyph of Endless Wrath**
+- Top performers use **Glyph of Stampede**
 
 
 ---
@@ -211,13 +211,13 @@ Top uses: Glyph of Disengage
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Tame Beast, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Tame Beast
 
 ### Suggestions
 
 - **Kill Shot** usage critically low (1.3 vs 2.2 CPM, -41%)
-- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Stampede**
+- Top performers use **Glyph of Tame Beast**
 
 
 ---
@@ -255,14 +255,14 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Endless Wrath, Glyph of Aspect of the Cheetah, Glyph of Stampede
+Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wrath
 
 ### Suggestions
 
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Endless Wrath**
 - Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Stampede**
 
 
 ---
@@ -344,7 +344,7 @@ Top uses: Glyph of Liberation, Glyph of Aspect of the Cheetah, Glyph of Stampede
 | T4 | Dire Beast | **Fervor** |
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
+Top uses: Glyph of Liberation, Glyph of Stampede, Glyph of Tame Beast
 
 ### Suggestions
 
@@ -355,8 +355,8 @@ Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
 - **Glaive Toss** could be cast more (2.4 vs 3.1 CPM)
 - Consider **Fervor** (T4) - used by top performers instead of Dire Beast
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Liberation**
+- Top performers use **Glyph of Stampede**
 
 
 ---
@@ -393,7 +393,7 @@ Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Endless Wrath, Glyph of Aspect of the Cheetah, Glyph of Stampede
+Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wrath
 
 ### Suggestions
 
@@ -406,8 +406,8 @@ Top uses: Glyph of Endless Wrath, Glyph of Aspect of the Cheetah, Glyph of Stamp
 - **Kill Shot** usage critically low (1.0 vs 1.8 CPM, -44%)
 - **Glaive Toss** uptime is low (0.1%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Endless Wrath**
 - Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Stampede**
 
 
 ---
@@ -445,7 +445,7 @@ Top uses: Glyph of Endless Wrath, Glyph of Aspect of the Cheetah, Glyph of Stamp
 | T1 | Crouching Tiger, Hidden Chimera | **Posthaste** |
 | T3 | Iron Hawk | **Spirit Bond** |
 
-Top uses: Glyph of Tame Beast, Glyph of Mending, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Aspect of the Cheetah, Glyph of Mending, Glyph of Stampede
 
 ### Suggestions
 
@@ -453,7 +453,7 @@ Top uses: Glyph of Tame Beast, Glyph of Mending, Glyph of Aspect of the Cheetah
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Spirit Bond** (T3) - used by top performers instead of Iron Hawk
-- Top performers use **Glyph of Tame Beast**
+- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Mending**
 
 
@@ -491,14 +491,14 @@ Top uses: Glyph of Tame Beast, Glyph of Mending, Glyph of Aspect of the Cheetah
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Liberation, Glyph of Aspects, Glyph of Aspect of the Beast
+Top uses: Glyph of Liberation, Glyph of Aspect of the Beast, Glyph of Aspects
 
 ### Suggestions
 
 - **Cobra Shot** could be cast more (14.2 vs 18.1 CPM)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
 - Top performers use **Glyph of Liberation**
-- Top performers use **Glyph of Aspects**
+- Top performers use **Glyph of Aspect of the Beast**
 
 
 ---
@@ -537,7 +537,7 @@ Top uses: Glyph of Liberation, Glyph of Aspects, Glyph of Aspect of the Beast
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Tame Beast, Glyph of Disengage, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Aspect of the Cheetah, Glyph of Disengage, Glyph of Tame Beast
 
 ### Suggestions
 
@@ -547,6 +547,6 @@ Top uses: Glyph of Tame Beast, Glyph of Disengage, Glyph of Aspect of the Cheeta
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Tame Beast**
+- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Disengage**
 

@@ -36,7 +36,7 @@
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Soulwell
+Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Curse of the Elements
 
 ### Suggestions
 
@@ -48,7 +48,7 @@ Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Soulwell
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Siphon Life**
-- Top performers use **Glyph of Verdant Spheres**
+- Top performers use **Glyph of Soulwell**
 
 
 ---
@@ -81,7 +81,7 @@ Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Soulwell
 | T1 | Dark Regeneration | **Soul Leech** |
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 
-Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Healthstone
+Top uses: Glyph of Healthstone, Glyph of Verdant Spheres, Glyph of Unending Breath
 
 ### Suggestions
 
@@ -92,8 +92,8 @@ Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Healthsto
 - **Rain of Fire** usage critically low (0.5 vs 1.7 CPM, -71%)
 - Consider **Soul Leech** (T1) - used by top performers instead of Dark Regeneration
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
+- Top performers use **Glyph of Healthstone**
 - Top performers use **Glyph of Verdant Spheres**
-- Top performers use **Glyph of Unending Breath**
 
 
 ---
@@ -126,7 +126,7 @@ Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Healthsto
 | T1 | Dark Regeneration | **Soul Leech** |
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 
-Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Healthstone
+Top uses: Glyph of Healthstone, Glyph of Verdant Spheres, Glyph of Unending Breath
 
 ### Suggestions
 
@@ -138,8 +138,8 @@ Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Healthsto
 - **Shadowburn** usage critically low (0.2 vs 3.3 CPM, -94%)
 - Consider **Soul Leech** (T1) - used by top performers instead of Dark Regeneration
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
+- Top performers use **Glyph of Healthstone**
 - Top performers use **Glyph of Verdant Spheres**
-- Top performers use **Glyph of Unending Breath**
 
 
 ---
@@ -177,7 +177,7 @@ Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Healthsto
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Ember Tap, Glyph of Soulwell, Glyph of Unending Breath
+Top uses: Glyph of Healthstone, Glyph of Ember Tap, Glyph of Soulwell
 
 ### Suggestions
 
@@ -193,8 +193,8 @@ Top uses: Glyph of Ember Tap, Glyph of Soulwell, Glyph of Unending Breath
 - Consider **Dark Pact** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
+- Top performers use **Glyph of Healthstone**
 - Top performers use **Glyph of Ember Tap**
-- Top performers use **Glyph of Soulwell**
 
 
 ---
@@ -405,7 +405,7 @@ Top uses: Glyph of Siphon Life, Glyph of Healthstone
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Ember Tap, Glyph of Curse of the Elements, Glyph of Siphon Life
+Top uses: Glyph of Siphon Life, Glyph of Ember Tap, Glyph of Curse of the Elements
 
 ### Suggestions
 
@@ -417,8 +417,8 @@ Top uses: Glyph of Ember Tap, Glyph of Curse of the Elements, Glyph of Siphon Li
 - Consider **Dark Bargain** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
+- Top performers use **Glyph of Siphon Life**
 - Top performers use **Glyph of Ember Tap**
-- Top performers use **Glyph of Curse of the Elements**
 
 
 ---
@@ -454,7 +454,7 @@ Top uses: Glyph of Ember Tap, Glyph of Curse of the Elements, Glyph of Siphon Li
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Crimson Banish
+Top uses: Glyph of Siphon Life, Glyph of Demonic Circle, Glyph of Soulwell
 
 ### Suggestions
 
@@ -468,7 +468,7 @@ Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Crimson Banish
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Siphon Life**
-- Top performers use **Glyph of Soulwell**
+- Top performers use **Glyph of Demonic Circle**
 
 
 ---
@@ -501,7 +501,7 @@ Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Crimson Banish
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Soulwell, Kilrogg's Cunning
+Top uses: Glyph of Siphon Life, Glyph of Healthstone, Glyph of Soulwell
 
 ### Suggestions
 
@@ -510,7 +510,7 @@ Top uses: Glyph of Siphon Life, Glyph of Soulwell, Kilrogg's Cunning
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Siphon Life**
-- Top performers use **Glyph of Soulwell**
+- Top performers use **Glyph of Healthstone**
 
 
 ---
@@ -546,7 +546,7 @@ Top uses: Glyph of Siphon Life, Glyph of Soulwell, Kilrogg's Cunning
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Soulwell
+Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Curse of the Elements
 
 ### Suggestions
 
@@ -560,5 +560,5 @@ Top uses: Glyph of Siphon Life, Glyph of Verdant Spheres, Glyph of Soulwell
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Siphon Life**
-- Top performers use **Glyph of Verdant Spheres**
+- Top performers use **Glyph of Soulwell**
 

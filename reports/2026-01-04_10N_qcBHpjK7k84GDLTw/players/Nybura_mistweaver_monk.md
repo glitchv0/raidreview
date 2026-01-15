@@ -8,7 +8,7 @@
 ---
 ## Jin'rokh the Breaker
 
-**Duration:** 2:14 | **HPS:** 32,680 | **Parse:** 35%
+**Duration:** 2:14 | **HPS:** 32,680 | **HPS Parse:** 35%
 
 ### Consumables
 
@@ -67,7 +67,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 ---
 ## Horridon
 
-**Duration:** 6:01 | **HPS:** 31,663 | **Parse:** 33%
+**Duration:** 6:01 | **HPS:** 31,663 | **HPS Parse:** 33%
 
 ### Consumables
 
@@ -112,7 +112,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -121,14 +121,14 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 - **Revival** not detected - key ability for Mistweaver Monk
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
 ## Council of Elders
 
-**Duration:** 4:17 | **HPS:** 53,317 | **Parse:** 58%
+**Duration:** 4:17 | **HPS:** 53,317 | **HPS Parse:** 58%
 
 ### Consumables
 
@@ -174,21 +174,21 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
 
 ### Suggestions
 
 - Very high overheal (55.3%) - consider more efficient spell usage or better timing
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Spinning Crane Kick**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Spinning Crane Kick**
 
 
 ---
 ## Tortos
 
-**Duration:** 2:44 | **HPS:** 48,673 | **Parse:** 57%
+**Duration:** 2:44 | **HPS:** 48,673 | **HPS Parse:** 57%
 
 ### Consumables
 
@@ -246,7 +246,7 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of 
 ---
 ## Megaera
 
-**Duration:** 5:59 | **HPS:** 63,661 | **Parse:** 48%
+**Duration:** 5:59 | **HPS:** 63,661 | **HPS Parse:** 48%
 
 ### Consumables
 
@@ -293,20 +293,20 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of 
 | T1 | Celerity | **Momentum** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Blackout Kick
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Blackout Kick**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Blackout Kick**
 
 
 ---
 ## Ji-Kun
 
-**Duration:** 2:59 | **HPS:** 34,411 | **Parse:** 46%
+**Duration:** 2:59 | **HPS:** 34,411 | **HPS Parse:** 46%
 
 ### Consumables
 
@@ -370,7 +370,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 ---
 ## Durumu the Forgotten
 
-**Duration:** 4:25 | **HPS:** 40,975 | **Parse:** 31%
+**Duration:** 4:25 | **HPS:** 40,975 | **HPS Parse:** 31%
 
 ### Consumables
 
@@ -416,7 +416,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Honor, Glyph of Enduring Healing Sphere, Glyph of Jab
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Honor, Glyph of Jab
 
 ### Suggestions
 
@@ -424,14 +424,14 @@ Top uses: Glyph of Honor, Glyph of Enduring Healing Sphere, Glyph of Jab
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Honor**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Honor**
 
 
 ---
 ## Primordius
 
-**Duration:** 5:21 | **HPS:** 56,251 | **Parse:** 33%
+**Duration:** 5:21 | **HPS:** 56,251 | **HPS Parse:** 33%
 
 ### Consumables
 
@@ -491,7 +491,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 ---
 ## Dark Animus
 
-**Duration:** 3:57 | **HPS:** 42,446 | **Parse:** 44%
+**Duration:** 3:57 | **HPS:** 42,446 | **HPS Parse:** 44%
 
 ### Consumables
 
@@ -539,7 +539,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T6 | Rushing Jade Wind | **Invoke Xuen, the White Tiger** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, Glyph of Jab
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Crackling Tiger Lightning, Glyph of Jab
 
 ### Suggestions
 
@@ -547,14 +547,14 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, 
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Invoke Xuen, the White Tiger** (T6) - used by top performers instead of Rushing Jade Wind
-- Top performers use **Glyph of Crackling Tiger Lightning**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Crackling Tiger Lightning**
 
 
 ---
 ## Iron Qon
 
-**Duration:** 8:05 | **HPS:** 56,829 | **Parse:** 47%
+**Duration:** 8:05 | **HPS:** 56,829 | **HPS Parse:** 47%
 
 ### Consumables
 
@@ -616,7 +616,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 ---
 ## Twin Consorts
 
-**Duration:** 7:13 | **HPS:** 56,044 | **Parse:** 33%
+**Duration:** 7:13 | **HPS:** 56,044 | **HPS Parse:** 33%
 
 ### Consumables
 
@@ -679,7 +679,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 ---
 ## Lei Shen
 
-**Duration:** 8:18 | **HPS:** 54,945 | **Parse:** 48%
+**Duration:** 8:18 | **HPS:** 54,945 | **HPS Parse:** 48%
 
 ### Consumables
 
