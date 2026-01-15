@@ -12,8 +12,8 @@
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
 
 ### Active Mitigation vs Hardbread
 
@@ -42,7 +42,7 @@
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
+Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Final Wrath
 
 ### Suggestions
 
@@ -50,8 +50,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Focused Shield**
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Final Wrath**
 
 
 ---
@@ -61,7 +61,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
 - [ ] **Combat pot:** None
 
 ### Active Mitigation vs Kalys
@@ -80,10 +80,10 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 5.5% |
-| Sacred Shield | 10.3% |
-| Sacred Shield | 17.1% |
 | Shield of the Righteous | 19.1% |
+| Sacred Shield | 10.3% |
+| Divine Protection | 5.5% |
+| Sacred Shield | 17.1% |
 
 ### Talent/Glyph Differences
 
@@ -94,7 +94,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Execution Sentence | **Light's Hammer** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Final Wrath
+Top uses: Glyph of Final Wrath, Glyph of Contemplation, Glyph of Winged Vengeance
 
 ### Suggestions
 
@@ -105,7 +105,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Final Wrat
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Light's Hammer** (T6) - used by top performers instead of Execution Sentence
-- Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Final Wrath**
 - Top performers use **Glyph of Contemplation**
 
 
@@ -136,9 +136,9 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Final Wrat
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 11.6% |
 | Shield of the Righteous | 9.3% |
 | Ardent Defender | 3.9% |
+| Divine Protection | 11.6% |
 
 ### Talent/Glyph Differences
 
@@ -149,7 +149,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Final Wrat
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Execution Sentence | **Light's Hammer** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Bladed Judgment, Glyph of Final Wrath
+Top uses: Glyph of Bladed Judgment, Glyph of Fire From the Heavens, Glyph of Final Wrath
 
 ### Suggestions
 
@@ -159,8 +159,8 @@ Top uses: Glyph of Winged Vengeance, Glyph of Bladed Judgment, Glyph of Final Wr
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Light's Hammer** (T6) - used by top performers instead of Execution Sentence
-- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Bladed Judgment**
+- Top performers use **Glyph of Fire From the Heavens**
 
 
 ---
@@ -170,7 +170,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Bladed Judgment, Glyph of Final Wr
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
 - [ ] **Combat pot:** None
 
 ### Active Mitigation vs Thirain
@@ -190,8 +190,8 @@ Top uses: Glyph of Winged Vengeance, Glyph of Bladed Judgment, Glyph of Final Wr
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 6.1% |
 | Shield of the Righteous | 14.7% |
+| Divine Protection | 6.1% |
 
 ### Talent/Glyph Differences
 
@@ -223,8 +223,8 @@ Top uses: Glyph of Final Wrath
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
 
 ### Active Mitigation vs Valistassa
 
@@ -242,10 +242,10 @@ Top uses: Glyph of Final Wrath
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 10.3% |
-| Sacred Shield | 12.0% |
-| Sacred Shield | 35.9% |
 | Shield of the Righteous | 20.1% |
+| Sacred Shield | 12.0% |
+| Divine Protection | 10.3% |
+| Sacred Shield | 35.9% |
 
 ### Talent/Glyph Differences
 
@@ -255,7 +255,7 @@ Top uses: Glyph of Final Wrath
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Contemplation
+Top uses: Glyph of the Luminous Charger, Glyph of Focused Shield, Glyph of Focused Wrath
 
 ### Suggestions
 
@@ -265,8 +265,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Contemplation
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Final Wrath**
+- Top performers use **Glyph of the Luminous Charger**
+- Top performers use **Glyph of Focused Shield**
 
 
 ---
@@ -276,7 +276,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Contemplation
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
 - [ ] **Combat pot:** None
 
 ### Active Mitigation vs Thirain
@@ -295,8 +295,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Contemplation
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 5.6% |
 | Shield of the Righteous | 35.1% |
+| Divine Protection | 5.6% |
 
 ### Talent/Glyph Differences
 
@@ -327,7 +327,7 @@ Top uses: Glyph of Final Wrath, Glyph of Focused Shield
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
 - [ ] **Combat pot:** None
 
 ### Active Mitigation vs Kyrielight
@@ -347,11 +347,11 @@ Top uses: Glyph of Final Wrath, Glyph of Focused Shield
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 3.9% |
-| Sacred Shield | 11.0% |
-| Sacred Shield | 11.4% |
 | Shield of the Righteous | 22.2% |
+| Sacred Shield | 11.0% |
 | Ardent Defender | 3.8% |
+| Divine Protection | 3.9% |
+| Sacred Shield | 11.4% |
 
 ### Talent/Glyph Differences
 
@@ -361,7 +361,7 @@ Top uses: Glyph of Final Wrath, Glyph of Focused Shield
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
+Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Winged Vengeance
 
 ### Suggestions
 
@@ -370,8 +370,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Focused Shield**
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Final Wrath**
 
 
 ---
@@ -382,7 +382,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 - [x] **Flask:** Flask of Winter's Bite
 - [ ] **Food:** None detected
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Mogu Power Potion
 
 ### Active Mitigation vs Gigâchad
 
@@ -401,8 +401,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 6.2% |
 | Shield of the Righteous | 30.8% |
+| Divine Protection | 6.2% |
 
 ### Talent/Glyph Differences
 
@@ -412,7 +412,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Execution Sentence | **Light's Hammer** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Righteous Retreat, Glyph of Final Wrath
+Top uses: Glyph of Final Wrath, Glyph of Fire From the Heavens, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -422,8 +422,8 @@ Top uses: Glyph of Winged Vengeance, Glyph of Righteous Retreat, Glyph of Final 
 - Consider **Long Arm of the Law** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Light's Hammer** (T6) - used by top performers instead of Execution Sentence
-- Top performers use **Glyph of Winged Vengeance**
-- Top performers use **Glyph of Righteous Retreat**
+- Top performers use **Glyph of Final Wrath**
+- Top performers use **Glyph of Fire From the Heavens**
 
 
 ---
@@ -452,10 +452,10 @@ Top uses: Glyph of Winged Vengeance, Glyph of Righteous Retreat, Glyph of Final 
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 4.2% |
-| Sacred Shield | 10.5% |
-| Sacred Shield | 15.5% |
 | Shield of the Righteous | 22.8% |
+| Sacred Shield | 10.5% |
+| Divine Protection | 4.2% |
+| Sacred Shield | 15.5% |
 
 ### Talent/Glyph Differences
 
@@ -486,8 +486,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
 
 ### Active Mitigation vs Wallzv
 
@@ -506,8 +506,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 2.1% |
 | Shield of the Righteous | 38.2% |
+| Divine Protection | 2.1% |
 
 ### Talent/Glyph Differences
 
@@ -517,7 +517,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
+Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Winged Vengeance
 
 ### Suggestions
 
@@ -527,8 +527,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Focused Shield**
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Final Wrath**
 
 
 ---
@@ -556,8 +556,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 6.9% |
 | Shield of the Righteous | 38.1% |
+| Divine Protection | 6.9% |
 
 ### Talent/Glyph Differences
 
@@ -566,7 +566,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Final Wrath
+Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -576,7 +576,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Final Wrat
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Final Wrath**
 
 
 ---
@@ -586,7 +586,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Final Wrat
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
 - [ ] **Combat pot:** None
 
 ### Active Mitigation vs Flexidin
@@ -606,11 +606,11 @@ Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Final Wrat
 
 | Ability | Uptime |
 |---------|--------|
-| Divine Protection | 6.0% |
-| Sacred Shield | 3.8% |
-| Sacred Shield | 5.8% |
 | Shield of the Righteous | 14.5% |
+| Sacred Shield | 3.8% |
 | Ardent Defender | 2.0% |
+| Divine Protection | 6.0% |
+| Sacred Shield | 5.8% |
 
 ### Talent/Glyph Differences
 
@@ -620,7 +620,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Final Wrat
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Double Jeopardy
+Top uses: Glyph of Focused Wrath, Glyph of Double Jeopardy, Glyph of Winged Vengeance
 
 ### Suggestions
 
@@ -630,5 +630,5 @@ Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Double Jeo
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Double Jeopardy**
 

@@ -12,8 +12,9 @@
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (1/2 uses)
 
 ### Rotation vs Rauschblink
 
@@ -32,14 +33,14 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Rapid Displacement
 
 ### Suggestions
 
 - **Combustion** uptime is low (14.9%) - maintain on target
 - **Combustion** usage critically low (0.4 vs 24.5 CPM, -98%)
 - **Mirror Image** usage critically low (0.4 vs 0.7 CPM, -43%)
-- Top performers use **Glyph of Rapid Displacement**
+- Top performers use **Glyph of Loose Mana**
 - Top performers use **Glyph of Illusion**
 
 
@@ -50,8 +51,9 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (2/6 uses)
 
 ### Rotation vs Lecuona
 
@@ -74,7 +76,7 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
 |------|-----|-----|
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Rapid Displacement, Glyph of Illusion
+Top uses: Glyph of Illusion, Glyph of Rapid Displacement
 
 ### Suggestions
 
@@ -85,8 +87,8 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion
 - **Mirror Image** usage critically low (0.2 vs 0.4 CPM, -50%)
 - **Combustion** usage critically low (0.3 vs 18.5 CPM, -98%)
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Rapid Displacement**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Rapid Displacement**
 
 
 ---
@@ -96,8 +98,9 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion
 
 - [x] **Flask:** Flask of the Warm Sun
 - [ ] **Food:** None detected
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (3/4 uses)
 
 ### Rotation vs Apmbillion
 
@@ -121,7 +124,7 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion
 | T2 | Temporal Shield | **Ice Barrier** |
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Rapid Displacement, Glyph of Armors
+Top uses: Glyph of Armors, Glyph of Rapid Displacement
 
 ### Suggestions
 
@@ -130,8 +133,8 @@ Top uses: Glyph of Rapid Displacement, Glyph of Armors
 - **Scorch** usage critically low (3.7 vs 10.1 CPM, -63%)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Rapid Displacement**
 - Top performers use **Glyph of Armors**
+- Top performers use **Glyph of Rapid Displacement**
 
 
 ---
@@ -141,8 +144,9 @@ Top uses: Glyph of Rapid Displacement, Glyph of Armors
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [x] **Engineering:** Synapse Springs (2/2 uses)
 
 ### Rotation vs Eyecantread
 
@@ -178,8 +182,9 @@ Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (2/5 uses)
 
 ### Rotation vs Ankey
 
@@ -221,8 +226,9 @@ Top uses: Glyph of Cone of Cold
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
+- [x] **Engineering:** Synapse Springs (2/2 uses)
 
 ### Rotation vs Biskuilete
 
@@ -245,7 +251,7 @@ Top uses: Glyph of Cone of Cold
 |------|-----|-----|
 | T2 | Temporal Shield | **Ice Barrier** |
 
-Top uses: Glyph of Armors, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Armors
 
 ### Suggestions
 
@@ -253,7 +259,7 @@ Top uses: Glyph of Armors, Glyph of Illusion, Glyph of Loose Mana
 - **Combustion** usage critically low (0.7 vs 18.6 CPM, -96%)
 - **Mirror Image** could be cast more (0.3 vs 0.4 CPM)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
-- Top performers use **Glyph of Armors**
+- Top performers use **Glyph of Loose Mana**
 - Top performers use **Glyph of Illusion**
 
 
@@ -264,8 +270,9 @@ Top uses: Glyph of Armors, Glyph of Illusion, Glyph of Loose Mana
 
 - [x] **Flask:** Flask of the Warm Sun
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (3/4 uses)
 
 ### Rotation vs Eyecantread
 
@@ -304,7 +311,8 @@ Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
 - [x] **Flask:** Flask of the Warm Sun
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (2/5 uses)
 
 ### Rotation vs Iíìlíìlíìlíì
 
@@ -348,8 +356,9 @@ Top uses: Glyph of Armors
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (1/3 uses)
 
 ### Rotation vs Hypestjuice
 
@@ -395,8 +404,9 @@ Top uses: Glyph of Armors
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (4/8 uses)
 
 ### Rotation vs Gordan
 
@@ -415,15 +425,15 @@ Top uses: Glyph of Armors
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Rapid Displacement, Glyph of Loose Mana
+Top uses: Glyph of Loose Mana, Glyph of Rapid Displacement
 
 ### Suggestions
 
 - **Fireball** could be cast more (13.1 vs 18.6 CPM)
 - **Combustion** uptime is low (16.3%) - maintain on target
 - **Living Bomb** usage critically low (2.8 vs 86.0 CPM, -97%)
-- Top performers use **Glyph of Rapid Displacement**
 - Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Rapid Displacement**
 
 
 ---
@@ -433,8 +443,9 @@ Top uses: Glyph of Rapid Displacement, Glyph of Loose Mana
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (4/7 uses)
 
 ### Rotation vs Hypestjuice
 
@@ -476,8 +487,9 @@ Top uses: Glyph of Armors
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
+- [ ] **Engineering:** Synapse Springs (3/8 uses)
 
 ### Rotation vs Rauschblink
 
@@ -500,7 +512,7 @@ Top uses: Glyph of Armors
 |------|-----|-----|
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Rapid Displacement
 
 ### Suggestions
 
@@ -513,6 +525,6 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
 - **Living Bomb** usage critically low (5.5 vs 25.1 CPM, -78%)
 - **Mirror Image** usage critically low (0.2 vs 8.7 CPM, -98%)
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Rapid Displacement**
+- Top performers use **Glyph of Loose Mana**
 - Top performers use **Glyph of Illusion**
 

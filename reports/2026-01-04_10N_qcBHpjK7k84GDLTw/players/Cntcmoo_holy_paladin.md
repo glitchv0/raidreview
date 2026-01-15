@@ -38,15 +38,15 @@
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Flash of Light, Glyph of the Mounted King, Glyph of Righteous Retreat
+Top uses: Glyph of Seal of Blood, Glyph of Flash of Light, Glyph of Righteous Retreat
 
 ### Suggestions
 
 - Very high overheal (75.8%) - consider more efficient spell usage or better timing
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Seal of Blood**
 - Top performers use **Glyph of Flash of Light**
-- Top performers use **Glyph of the Mounted King**
 
 
 ---
@@ -84,7 +84,7 @@ Top uses: Glyph of Flash of Light, Glyph of the Mounted King, Glyph of Righteous
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Flash of Light, Glyph of Righteous Retreat, Glyph of Fire From the Heavens
+Top uses: Glyph of Divinity, Glyph of Flash of Light, Glyph of Winged Vengeance
 
 ### Suggestions
 
@@ -93,8 +93,8 @@ Top uses: Glyph of Flash of Light, Glyph of Righteous Retreat, Glyph of Fire Fro
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Divinity**
 - Top performers use **Glyph of Flash of Light**
-- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
@@ -104,7 +104,7 @@ Top uses: Glyph of Flash of Light, Glyph of Righteous Retreat, Glyph of Fire Fro
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
 ### Healing vs Annaru
@@ -130,14 +130,14 @@ Top uses: Glyph of Flash of Light, Glyph of Righteous Retreat, Glyph of Fire Fro
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Flash of Light, Glyph of the Mounted King, Glyph of Winged Vengeance
+Top uses: Glyph of Winged Vengeance, Glyph of the Mounted King, Glyph of Seal of Blood
 
 ### Suggestions
 
 - Moderate overheal (51.9%) - watch for heal sniping
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Flash of Light**
+- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of the Mounted King**
 
 
@@ -148,7 +148,7 @@ Top uses: Glyph of Flash of Light, Glyph of the Mounted King, Glyph of Winged Ve
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
 ### Healing vs 哇哇哈哈
@@ -174,15 +174,15 @@ Top uses: Glyph of Flash of Light, Glyph of the Mounted King, Glyph of Winged Ve
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Divinity
+Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retreat
 
 ### Suggestions
 
 - Very high overheal (58.1%) - consider more efficient spell usage or better timing
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Divinity**
 - Top performers use **Glyph of Winged Vengeance**
-- Top performers use **Glyph of Contemplation**
 
 
 ---
@@ -192,7 +192,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Divinity
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
 ### Healing vs Based
@@ -234,7 +234,7 @@ Top uses: Glyph of Illumination
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
 ### Healing vs Blightfrost
@@ -261,15 +261,15 @@ Top uses: Glyph of Illumination
 | T1 | Speed of Light | **Pursuit of Justice** |
 | T3 | Eternal Flame | **Selfless Healer** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Righteous Retreat
+Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Fire From the Heavens
 
 ### Suggestions
 
 - Very high overheal (62.4%) - consider more efficient spell usage or better timing
 - Consider **Pursuit of Justice** (T1) - used by top performers instead of Speed of Light
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
-- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
@@ -279,7 +279,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Righteous Retre
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
 ### Healing vs Thingwings
@@ -307,7 +307,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Righteous Retre
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Contemplation, Glyph of Divinity
+Top uses: Glyph of Divinity, Glyph of Contemplation
 
 ### Suggestions
 
@@ -315,8 +315,8 @@ Top uses: Glyph of Contemplation, Glyph of Divinity
 - Consider **Evil is a Point of View** (T2) - used by top performers instead of Fist of Justice
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Contemplation**
 - Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Contemplation**
 
 
 ---
@@ -326,7 +326,7 @@ Top uses: Glyph of Contemplation, Glyph of Divinity
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
 ### Healing vs Partyhatcat
@@ -353,7 +353,7 @@ Top uses: Glyph of Contemplation, Glyph of Divinity
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Righteous Retreat
+Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -361,8 +361,8 @@ Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Righteous Retre
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
@@ -399,15 +399,15 @@ Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Righteous Retre
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Light's Hammer | **Holy Prism** |
 
-Top uses: Glyph of Contemplation, Glyph of Divinity, Glyph of Righteous Retreat
+Top uses: Glyph of Divinity, Glyph of Fire From the Heavens, Glyph of Righteous Retreat
 
 ### Suggestions
 
 - Moderate overheal (48.1%) - watch for heal sniping
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Holy Prism** (T6) - used by top performers instead of Light's Hammer
-- Top performers use **Glyph of Contemplation**
 - Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Fire From the Heavens**
 
 
 ---
@@ -417,8 +417,8 @@ Top uses: Glyph of Contemplation, Glyph of Divinity, Glyph of Righteous Retreat
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
+- [x] **Combat pot:** Potion of the Jade Serpent
 
 ### Healing vs 阿兹凯代
 
@@ -445,7 +445,7 @@ Top uses: Glyph of Contemplation, Glyph of Divinity, Glyph of Righteous Retreat
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of the Falling Avenger, Glyph of Winged Vengeance, Glyph of Divinity
+Top uses: Glyph of the Falling Avenger, Glyph of Divinity, Glyph of Winged Vengeance
 
 ### Suggestions
 
@@ -454,7 +454,7 @@ Top uses: Glyph of the Falling Avenger, Glyph of Winged Vengeance, Glyph of Divi
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of the Falling Avenger**
-- Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Divinity**
 
 
 ---
@@ -491,7 +491,7 @@ Top uses: Glyph of the Falling Avenger, Glyph of Winged Vengeance, Glyph of Divi
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Divinity
+Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -499,8 +499,8 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Divinity
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Divinity**
 - Top performers use **Glyph of Winged Vengeance**
-- Top performers use **Glyph of Contemplation**
 
 
 ---
@@ -510,7 +510,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Divinity
 
 - [x] **Flask:** Flask of the Warm Sun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
-- [ ] **Pre-pot:** None
+- [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
 ### Healing vs Keanuwheeze
@@ -539,7 +539,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Divinity
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Flash of Light, Glyph of Winged Vengeance, Glyph of Righteous Retreat
+Top uses: Glyph of Righteous Retreat, Glyph of Winged Vengeance, Glyph of Seal of Blood
 
 ### Suggestions
 
@@ -547,6 +547,6 @@ Top uses: Glyph of Flash of Light, Glyph of Winged Vengeance, Glyph of Righteous
 - Consider **Repentance** (T2) - used by top performers instead of Fist of Justice
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Flash of Light**
+- Top performers use **Glyph of Righteous Retreat**
 - Top performers use **Glyph of Winged Vengeance**
 

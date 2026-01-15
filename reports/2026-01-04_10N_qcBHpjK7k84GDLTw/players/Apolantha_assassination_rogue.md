@@ -12,8 +12,8 @@
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
 
 ### Rotation vs Sigma
 
@@ -55,8 +55,8 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
 
 ### Rotation vs 룽도닥
 
@@ -78,7 +78,7 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
+Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
 
 ### Suggestions
 
@@ -88,7 +88,7 @@ Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
 - **Rupture** uptime is low (73.8%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
 - Top performers use **Glyph of Pick Lock**
-- Top performers use **Glyph of Sprint**
+- Top performers use **Glyph of Tricks of the Trade**
 
 
 ---
@@ -98,8 +98,8 @@ Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
 
 ### Rotation vs Waldo
 
@@ -144,8 +144,8 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
 
 ### Rotation vs Badgerrogue
 
@@ -183,8 +183,8 @@ Top uses: Glyph of Blurred Speed
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
 
 ### Rotation vs Gnomewyndash
 
@@ -205,7 +205,7 @@ Top uses: Glyph of Blurred Speed
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Evasion, Glyph of Pick Pocket, Glyph of Disguise
+Top uses: Glyph of Pick Pocket, Glyph of Disguise, Glyph of Evasion
 
 ### Suggestions
 
@@ -213,8 +213,8 @@ Top uses: Glyph of Evasion, Glyph of Pick Pocket, Glyph of Disguise
 - **Shadow Blade** could be cast more (4.5 vs 6.2 CPM)
 - **Shadow Blade Off-hand** could be cast more (4.3 vs 6.0 CPM)
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Evasion**
 - Top performers use **Glyph of Pick Pocket**
+- Top performers use **Glyph of Disguise**
 
 
 ---
@@ -224,8 +224,8 @@ Top uses: Glyph of Evasion, Glyph of Pick Pocket, Glyph of Disguise
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
 
 ### Rotation vs Patchés
 
@@ -266,8 +266,9 @@ Top uses: Glyph of Blurred Speed, Glyph of Recuperate
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (1/4 uses)
 
 ### Rotation vs Fisçhe
 
@@ -307,8 +308,9 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (1/5 uses)
 
 ### Rotation vs 룽도닥
 
@@ -330,14 +332,14 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
+Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
 
 ### Suggestions
 
 - **Rupture** uptime is low (72.3%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
 - Top performers use **Glyph of Pick Lock**
-- Top performers use **Glyph of Sprint**
+- Top performers use **Glyph of Tricks of the Trade**
 
 
 ---
@@ -348,7 +350,8 @@ Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (1/3 uses)
 
 ### Rotation vs 박붕대
 
@@ -393,8 +396,9 @@ Top uses: Glyph of Sprint
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (4/8 uses)
 
 ### Rotation vs Airbase
 
@@ -433,7 +437,8 @@ Top uses: Glyph of Expose Armor
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (4/7 uses)
 
 ### Rotation vs Fisçhe
 
@@ -455,7 +460,7 @@ Top uses: Glyph of Expose Armor
 | T3 | Cheat Death | **Elusiveness** |
 | T4 | Shadowstep | **Burst of Speed** |
 
-Top uses: Glyph of Blurred Speed, Glyph of Expose Armor
+Top uses: Glyph of Expose Armor, Glyph of Blurred Speed
 
 ### Suggestions
 
@@ -464,8 +469,8 @@ Top uses: Glyph of Blurred Speed, Glyph of Expose Armor
 - **Shadow Blade Off-hand** usage critically low (2.9 vs 5.3 CPM, -45%)
 - Consider **Elusiveness** (T3) - used by top performers instead of Cheat Death
 - Consider **Burst of Speed** (T4) - used by top performers instead of Shadowstep
-- Top performers use **Glyph of Blurred Speed**
 - Top performers use **Glyph of Expose Armor**
+- Top performers use **Glyph of Blurred Speed**
 
 
 ---
@@ -475,8 +480,9 @@ Top uses: Glyph of Blurred Speed, Glyph of Expose Armor
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (4/8 uses)
 
 ### Rotation vs Mesinas
 
@@ -494,7 +500,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Expose Armor
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Pick Lock, Glyph of Pick Pocket
+Top uses: Glyph of Pick Pocket, Glyph of Pick Lock
 
 ### Suggestions
 
@@ -502,6 +508,6 @@ Top uses: Glyph of Pick Lock, Glyph of Pick Pocket
 - **Rupture** uptime is low (75.5%) - maintain on target
 - **Shadow Blade** usage critically low (3.3 vs 7.0 CPM, -53%)
 - **Shadow Blade Off-hand** usage critically low (3.0 vs 7.0 CPM, -57%)
-- Top performers use **Glyph of Pick Lock**
 - Top performers use **Glyph of Pick Pocket**
+- Top performers use **Glyph of Pick Lock**
 

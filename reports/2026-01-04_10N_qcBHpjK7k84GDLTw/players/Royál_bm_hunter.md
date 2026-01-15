@@ -13,13 +13,14 @@
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Virmen's Bite
+- [x] **Engineering:** Synapse Springs (2/2 uses)
 
 ### Rotation vs Thrillbert
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Melee, Bite) | 69.1 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 69.1 | - | - |
 | Kill Command | 7.6 | 9.3 | -18% |
 | Arcane Shot | 15.6 | 14.4 | +8% |
 | Stampede | 0.4 | - | - |
@@ -32,13 +33,13 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Tame Beast, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Tame Beast
 
 ### Suggestions
 
 - **Kill Shot** could be cast more (2.7 vs 3.4 CPM)
-- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Stampede**
+- Top performers use **Glyph of Tame Beast**
 
 
 ---
@@ -48,14 +49,15 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (5/6 uses)
 
 ### Rotation vs Alexirl
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Bullheaded, Bite, Melee) | 62.5 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee, Bullheaded) | 62.5 | - | - |
 | Kill Command | 6.8 | 7.3 | -7% |
 | A Murder of Crows | 0.5 | - | - |
 | Arcane Shot | 9.5 | 5.7 | +67% |
@@ -72,7 +74,7 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
+Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
 
 ### Suggestions
 
@@ -80,8 +82,8 @@ Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
 - **Glaive Toss** uptime is low (2.6%) - maintain on target
 - **Glaive Toss** uptime is low (0.8%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Endless Wrath**
 - Top performers use **Glyph of Disengage**
+- Top performers use **Glyph of Stampede**
 
 
 ---
@@ -91,14 +93,15 @@ Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [x] **Engineering:** Synapse Springs (5/4 uses)
 
 ### Rotation vs Puppieshot
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Bite, Melee) | 56.1 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 56.1 | - | - |
 | Kill Command | 6.3 | 7.6 | -17% |
 | Arcane Shot | 10.7 | 4.9 | +118% |
 | Serpent Sting | 97.5% | 99.0% | -1.5% |
@@ -132,14 +135,15 @@ Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [x] **Engineering:** Synapse Springs (3/2 uses)
 
 ### Rotation vs Anasteriian
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Melee, Bite) | 67.6 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 67.6 | - | - |
 | Stampede | 0.4 | 0.3 | +33% |
 | Kill Command | 5.5 | 5.8 | -5% |
 | A Murder of Crows | 0.7 | - | - |
@@ -176,14 +180,15 @@ Top uses: Glyph of Disengage
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [x] **Engineering:** Synapse Springs (6/5 uses)
 
 ### Rotation vs Thrillbert
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Bite, Melee) | 59.3 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 59.3 | - | - |
 | Kill Command | 7.2 | 8.0 | -10% |
 | Arcane Shot | 13.7 | 12.1 | +13% |
 | Stampede | 0.3 | 0.3 | 0% |
@@ -196,13 +201,13 @@ Top uses: Glyph of Disengage
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Tame Beast, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Tame Beast
 
 ### Suggestions
 
 - **Kill Shot** usage critically low (1.3 vs 2.2 CPM, -41%)
-- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Stampede**
+- Top performers use **Glyph of Tame Beast**
 
 
 ---
@@ -213,13 +218,14 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Virmen's Bite
+- [x] **Engineering:** Synapse Springs (3/2 uses)
 
 ### Rotation vs 满月雕弓
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Melee, Bite) | 99.5% | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 99.5% | - | - |
 | Arcane Shot | 15.7 | 15.0 | +5% |
 | Stampede | 0.3 | 0.3 | 0% |
 | Kill Command | 6.4 | 6.4 | 0% |
@@ -237,14 +243,14 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Endless Wrath
 
 ### Suggestions
 
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
 - Top performers use **Glyph of Stampede**
-- Top performers use **Glyph of Endless Wrath**
+- Top performers use **Glyph of Aspect of the Cheetah**
 
 
 ---
@@ -254,14 +260,15 @@ Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Chee
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [x] **Engineering:** Synapse Springs (5/4 uses)
 
 ### Rotation vs Magiaoscura
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Bite, Melee) | 66.2 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 66.2 | - | - |
 | Kill Command | 7.7 | 8.9 | -13% |
 | Arcane Shot | 14.9 | 13.2 | +13% |
 | Dire Beast (Melee) | 3.6 | 4.1 | -12% |
@@ -278,14 +285,14 @@ Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Chee
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Stampede, Glyph of Liberation, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Liberation
 
 ### Suggestions
 
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
 - Top performers use **Glyph of Stampede**
-- Top performers use **Glyph of Liberation**
+- Top performers use **Glyph of Aspect of the Cheetah**
 
 
 ---
@@ -295,14 +302,15 @@ Top uses: Glyph of Stampede, Glyph of Liberation, Glyph of Aspect of the Cheetah
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (3/5 uses)
 
 ### Rotation vs Mcnuggees
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Bite, Melee) | 37.7 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 37.7 | - | - |
 | Arcane Shot | 10.3 | 9.8 | +5% |
 | Kill Command | 3.7 | 6.1 | -39% |
 | Stampede | 0.2 | 0.2 | 0% |
@@ -320,7 +328,7 @@ Top uses: Glyph of Stampede, Glyph of Liberation, Glyph of Aspect of the Cheetah
 | T4 | Dire Beast | **Fervor** |
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Tame Beast, Glyph of Liberation
 
 ### Suggestions
 
@@ -331,8 +339,8 @@ Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
 - **Glaive Toss** could be cast more (2.4 vs 3.1 CPM)
 - Consider **Fervor** (T4) - used by top performers instead of Dire Beast
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
+- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Tame Beast**
-- Top performers use **Glyph of Liberation**
 
 
 ---
@@ -342,14 +350,15 @@ Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [ ] **Food:** None detected
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (2/3 uses)
 
 ### Rotation vs 滿月雕弓
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Melee, Bite) | 34.1 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 34.1 | - | - |
 | Arcane Shot | 9.3 | 11.7 | -21% |
 | Stampede | 0.3 | 0.6 | -50% |
 | Kill Command | 3.8 | 6.4 | -41% |
@@ -366,7 +375,7 @@ Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Endless Wrath
 
 ### Suggestions
 
@@ -380,7 +389,7 @@ Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Chee
 - **Glaive Toss** uptime is low (0.1%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Top performers use **Glyph of Stampede**
-- Top performers use **Glyph of Endless Wrath**
+- Top performers use **Glyph of Aspect of the Cheetah**
 
 
 ---
@@ -390,14 +399,15 @@ Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Chee
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [ ] **Food:** None detected
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [x] **Engineering:** Synapse Springs (8/8 uses)
 
 ### Rotation vs Windwhisper
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Bite, Melee) | 93.2% | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 93.2% | - | - |
 | Kill Command | 6.1 | 7.9 | -23% |
 | Arcane Shot | 15.2 | 11.8 | +29% |
 | Cobra Shot | 16.9 | 17.3 | -2% |
@@ -415,7 +425,7 @@ Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Chee
 | T1 | Crouching Tiger, Hidden Chimera | **Posthaste** |
 | T3 | Iron Hawk | **Spirit Bond** |
 
-Top uses: Glyph of Tame Beast, Glyph of Mending, Glyph of Stampede
+Top uses: Glyph of Mending, Glyph of Stampede, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
@@ -423,8 +433,8 @@ Top uses: Glyph of Tame Beast, Glyph of Mending, Glyph of Stampede
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Spirit Bond** (T3) - used by top performers instead of Iron Hawk
-- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Mending**
+- Top performers use **Glyph of Stampede**
 
 
 ---
@@ -434,14 +444,15 @@ Top uses: Glyph of Tame Beast, Glyph of Mending, Glyph of Stampede
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [ ] **Food:** None detected
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [x] **Engineering:** Synapse Springs (7/7 uses)
 
 ### Rotation vs 뭉치냥
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Melee, Bite) | 88.2% | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 88.2% | - | - |
 | Kill Command | 6.2 | 7.6 | -18% |
 | Arcane Shot | 12.7 | 12.6 | +1% |
 | Stampede | 0.3 | 0.3 | 0% |
@@ -458,14 +469,14 @@ Top uses: Glyph of Tame Beast, Glyph of Mending, Glyph of Stampede
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspects, Glyph of Aspect of the Beast, Glyph of Liberation
+Top uses: Glyph of Aspect of the Beast, Glyph of Aspects, Glyph of Liberation
 
 ### Suggestions
 
 - **Cobra Shot** could be cast more (14.2 vs 18.1 CPM)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Aspects**
 - Top performers use **Glyph of Aspect of the Beast**
+- Top performers use **Glyph of Aspects**
 
 
 ---
@@ -475,14 +486,15 @@ Top uses: Glyph of Aspects, Glyph of Aspect of the Beast, Glyph of Liberation
 
 - [x] **Flask:** Flask of Spring Blossoms
 - [~] **Food:** Well Fed (250 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Virmen's Bite
+- [x] **Combat pot:** Virmen's Bite
+- [ ] **Engineering:** Synapse Springs (7/8 uses)
 
 ### Rotation vs Deeboww
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ravager (Ravage, Dash, Bite, Melee) | 51.4 | - | - |
+| Ravager (Dash, Ravage, Bite, Melee) | 51.4 | - | - |
 | Kill Command | 6.4 | 5.2 | +23% |
 | Arcane Shot | 10.2 | 8.2 | +24% |
 | Cobra Shot | 13.9 | 12.2 | +14% |
@@ -501,7 +513,7 @@ Top uses: Glyph of Aspects, Glyph of Aspect of the Beast, Glyph of Liberation
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Tame Beast, Glyph of Disengage, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Disengage, Glyph of Aspect of the Cheetah, Glyph of Tame Beast
 
 ### Suggestions
 
@@ -511,6 +523,6 @@ Top uses: Glyph of Tame Beast, Glyph of Disengage, Glyph of Aspect of the Cheeta
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Disengage**
+- Top performers use **Glyph of Aspect of the Cheetah**
 

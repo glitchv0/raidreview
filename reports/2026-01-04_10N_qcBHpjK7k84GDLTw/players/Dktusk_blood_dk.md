@@ -13,7 +13,7 @@
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Mogu Power Potion
 
 ### Active Mitigation vs Helldereth
 
@@ -32,21 +32,21 @@
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 77.2% |
-| Icebound Fortitude | 8.9% |
-| Vampiric Blood | 7.4% |
 | Anti-Magic Shell | 7.4% |
+| Vampiric Blood | 7.4% |
+| Icebound Fortitude | 8.9% |
+| Bone Shield | 77.2% |
 | Blood Shield | 60.5% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Death Grip
+Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Death Grip
 
 ### Suggestions
 
 - **Bone Shield** uptime below target (77.2%, aim for >80%)
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of the Long Winter**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
@@ -56,8 +56,9 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Death Gr
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
+- [ ] **Engineering:** Phase Fingers (1/6 uses)
 
 ### Active Mitigation vs Superdkj
 
@@ -76,21 +77,21 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Death Gr
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 52.4% |
-| Icebound Fortitude | 3.3% |
 | Vampiric Blood | 5.5% |
+| Icebound Fortitude | 3.3% |
+| Bone Shield | 52.4% |
 | Blood Shield | 52.3% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Corpse Explosion, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Corpse Explosion
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (52.4%, target >80%)
 - Consider using **Anti-Magic Shell** during high damage phases
-- Top performers use **Glyph of Corpse Explosion**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Corpse Explosion**
 
 
 ---
@@ -100,8 +101,9 @@ Top uses: Glyph of Corpse Explosion, Glyph of Army of the Dead
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Charbroiled Tiger Steak (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
+- [ ] **Engineering:** Phase Fingers (1/4 uses)
 
 ### Active Mitigation vs Liltechnique
 
@@ -120,10 +122,10 @@ Top uses: Glyph of Corpse Explosion, Glyph of Army of the Dead
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 29.5% |
-| Icebound Fortitude | 4.7% |
-| Vampiric Blood | 7.8% |
 | Anti-Magic Shell | 5.5% |
+| Vampiric Blood | 7.8% |
+| Icebound Fortitude | 4.7% |
+| Bone Shield | 29.5% |
 | Blood Shield | 45.6% |
 
 ### Talent/Glyph Differences
@@ -132,14 +134,14 @@ Top uses: Glyph of Corpse Explosion, Glyph of Army of the Dead
 |------|-----|-----|
 | T4 | Death Pact | **Death Siphon** |
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of Death and Decay, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of Death and Decay
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (29.5%, target >80%)
 - Consider **Death Siphon** (T4) - used by top performers instead of Death Pact
+- Top performers use **Glyph of Army of the Dead**
 - Top performers use **Glyph of Anti-Magic Shell**
-- Top performers use **Glyph of Death and Decay**
 
 
 ---
@@ -149,8 +151,8 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Death and Decay, Glyph of Army of 
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
 
 ### Active Mitigation vs Creepyspooky
 
@@ -169,10 +171,10 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Death and Decay, Glyph of Army of 
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 40.7% |
-| Icebound Fortitude | 7.3% |
-| Vampiric Blood | 8.9% |
 | Anti-Magic Shell | 6.1% |
+| Vampiric Blood | 8.9% |
+| Icebound Fortitude | 7.3% |
+| Bone Shield | 40.7% |
 | Blood Shield | 39.1% |
 
 ### Talent/Glyph Differences
@@ -181,15 +183,15 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Death and Decay, Glyph of Army of 
 |------|-----|-----|
 | T3 | Death's Advance | **Chilblains** |
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of Vampiric Blood, Glyph of Horn of Winter
+Top uses: Glyph of Army of the Dead, Glyph of Horn of Winter, Glyph of Anti-Magic Shell
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (40.7%, target >80%)
 - **Blood Shield** uptime below target (39.1%, aim for >40%)
 - Consider **Chilblains** (T3) - used by top performers instead of Death's Advance
-- Top performers use **Glyph of Anti-Magic Shell**
-- Top performers use **Glyph of Vampiric Blood**
+- Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Horn of Winter**
 
 
 ---
@@ -199,8 +201,9 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Vampiric Blood, Glyph of Horn of W
 
 - [ ] **Flask:** None detected
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
+- [ ] **Engineering:** Phase Fingers (2/5 uses)
 
 ### Active Mitigation vs Blackkhandd
 
@@ -219,10 +222,10 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Vampiric Blood, Glyph of Horn of W
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 32.0% |
-| Icebound Fortitude | 4.9% |
-| Vampiric Blood | 5.6% |
 | Anti-Magic Shell | 5.6% |
+| Vampiric Blood | 5.6% |
+| Icebound Fortitude | 4.9% |
+| Bone Shield | 32.0% |
 | Blood Shield | 76.4% |
 
 ### Talent/Glyph Differences
@@ -231,14 +234,14 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Vampiric Blood, Glyph of Horn of W
 |------|-----|-----|
 | T4 | Death Pact | **Death Siphon** |
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (32.0%, target >80%)
 - Consider **Death Siphon** (T4) - used by top performers instead of Death Pact
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
@@ -248,8 +251,9 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Army of the Dead
 
 - [ ] **Flask:** None detected
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
+- [ ] **Engineering:** Phase Fingers (1/2 uses)
 
 ### Active Mitigation vs Superdkjesse
 
@@ -268,21 +272,21 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Army of the Dead
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 67.0% |
-| Icebound Fortitude | 2.4% |
-| Vampiric Blood | 5.6% |
 | Anti-Magic Shell | 2.8% |
+| Vampiric Blood | 5.6% |
+| Icebound Fortitude | 2.4% |
+| Bone Shield | 67.0% |
 | Blood Shield | 64.7% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Death and Decay
 
 ### Suggestions
 
 - **Bone Shield** uptime below target (67.0%, aim for >80%)
-- Top performers use **Glyph of Death and Decay**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Death and Decay**
 
 
 ---
@@ -292,8 +296,8 @@ Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
 
 ### Active Mitigation vs Charizard
 
@@ -312,21 +316,21 @@ Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 62.1% |
-| Icebound Fortitude | 9.0% |
-| Vampiric Blood | 5.6% |
 | Anti-Magic Shell | 1.9% |
+| Vampiric Blood | 5.6% |
+| Icebound Fortitude | 9.0% |
+| Bone Shield | 62.1% |
 | Blood Shield | 55.7% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of the Dead
+Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Army of the Dead
 
 ### Suggestions
 
 - **Bone Shield** uptime below target (62.1%, aim for >80%)
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of the Long Winter**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
@@ -337,7 +341,8 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Mogu Power Potion
+- [ ] **Engineering:** Phase Fingers (2/5 uses)
 
 ### Active Mitigation vs Superdkjesse
 
@@ -356,21 +361,21 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of 
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 25.5% |
-| Icebound Fortitude | 3.7% |
-| Vampiric Blood | 0.5% |
 | Anti-Magic Shell | 1.6% |
+| Vampiric Blood | 0.5% |
+| Icebound Fortitude | 3.7% |
+| Bone Shield | 25.5% |
 | Blood Shield | 64.0% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Death and Decay
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (25.5%, target >80%)
-- Top performers use **Glyph of Death and Decay**
 - Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Death and Decay**
 
 
 ---
@@ -381,7 +386,7 @@ Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Mogu Power Potion
 
 ### Active Mitigation vs Damagefull
 
@@ -400,21 +405,21 @@ Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 21.5% |
-| Icebound Fortitude | 10.1% |
-| Vampiric Blood | 7.3% |
 | Anti-Magic Shell | 6.1% |
+| Vampiric Blood | 7.3% |
+| Icebound Fortitude | 10.1% |
+| Bone Shield | 21.5% |
 | Blood Shield | 63.9% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of the Dead
+Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of the Long Winter
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (21.5%, target >80%)
+- Top performers use **Glyph of Army of the Dead**
 - Top performers use **Glyph of Anti-Magic Shell**
-- Top performers use **Glyph of the Long Winter**
 
 
 ---
@@ -425,7 +430,8 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Mogu Power Potion
+- [ ] **Engineering:** Phase Fingers (3/8 uses)
 
 ### Active Mitigation vs Оскароносный
 
@@ -444,21 +450,21 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of 
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 31.6% |
-| Icebound Fortitude | 2.5% |
-| Vampiric Blood | 4.1% |
 | Anti-Magic Shell | 3.1% |
+| Vampiric Blood | 4.1% |
+| Icebound Fortitude | 2.5% |
+| Bone Shield | 31.6% |
 | Blood Shield | 43.1% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Corpse Explosion, Glyph of Anti-Magic Shell
+Top uses: Glyph of Anti-Magic Shell, Glyph of Corpse Explosion
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (31.6%, target >80%)
-- Top performers use **Glyph of Corpse Explosion**
 - Top performers use **Glyph of Anti-Magic Shell**
+- Top performers use **Glyph of Corpse Explosion**
 
 
 ---
@@ -469,7 +475,8 @@ Top uses: Glyph of Corpse Explosion, Glyph of Anti-Magic Shell
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Combat pot:** Mogu Power Potion
+- [ ] **Engineering:** Phase Fingers (2/7 uses)
 
 ### Active Mitigation vs Grønmonster
 
@@ -488,21 +495,21 @@ Top uses: Glyph of Corpse Explosion, Glyph of Anti-Magic Shell
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 36.5% |
-| Icebound Fortitude | 5.5% |
-| Vampiric Blood | 4.6% |
 | Anti-Magic Shell | 4.6% |
+| Vampiric Blood | 4.6% |
+| Icebound Fortitude | 5.5% |
+| Bone Shield | 36.5% |
 | Blood Shield | 55.9% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of the Dead
+Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Army of the Dead
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (36.5%, target >80%)
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of the Long Winter**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
@@ -512,8 +519,9 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of 
 
 - [x] **Flask:** Flask of Winter's Bite
 - [x] **Food:** Twin Fish Platter (275 stat)
-- [ ] **Pre-pot:** None
-- [ ] **Combat pot:** None
+- [x] **Pre-pot:** Mogu Power Potion
+- [x] **Combat pot:** Mogu Power Potion
+- [ ] **Engineering:** Phase Fingers (7/8 uses)
 
 ### Active Mitigation vs Insanegooner
 
@@ -532,10 +540,10 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Army of 
 
 | Ability | Uptime |
 |---------|--------|
-| Bone Shield | 57.0% |
-| Icebound Fortitude | 2.4% |
-| Vampiric Blood | 2.0% |
 | Anti-Magic Shell | 3.0% |
+| Vampiric Blood | 2.0% |
+| Icebound Fortitude | 2.4% |
+| Bone Shield | 57.0% |
 | Blood Shield | 56.8% |
 
 ### Talent/Glyph Differences
