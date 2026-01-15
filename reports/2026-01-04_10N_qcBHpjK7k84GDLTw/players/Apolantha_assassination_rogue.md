@@ -215,7 +215,7 @@ Top uses: Glyph of Blurred Speed
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Evasion, Glyph of Disguise, Glyph of Pick Pocket
+Top uses: Glyph of Disguise, Glyph of Evasion, Glyph of Pick Pocket
 
 ### Suggestions
 
@@ -223,8 +223,8 @@ Top uses: Glyph of Evasion, Glyph of Disguise, Glyph of Pick Pocket
 - **Shadow Blade** could be cast more (4.5 vs 6.2 CPM)
 - **Shadow Blade Off-hand** could be cast more (4.3 vs 6.0 CPM)
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Evasion**
 - Top performers use **Glyph of Disguise**
+- Top performers use **Glyph of Evasion**
 
 
 ---
@@ -303,7 +303,7 @@ Top uses: Glyph of Recuperate, Glyph of Blurred Speed
 |------|-----|-----|
 | T4 | Shadowstep | **Burst of Speed** |
 
-Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
+Top uses: Glyph of Cloak of Shadows, Glyph of Blurred Speed
 
 ### Suggestions
 
@@ -311,8 +311,8 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 - **Shadow Blade** could be cast more (5.9 vs 7.5 CPM)
 - **Rupture** uptime is low (82.1%) - maintain on target
 - Consider **Burst of Speed** (T4) - used by top performers instead of Shadowstep
-- Top performers use **Glyph of Blurred Speed**
 - Top performers use **Glyph of Cloak of Shadows**
+- Top performers use **Glyph of Blurred Speed**
 
 
 ---

@@ -35,15 +35,15 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Illusion, Glyph of Rapid Displacement, Glyph of Loose Mana
 
 ### Suggestions
 
 - **Combustion** uptime is low (14.9%) - maintain on target
 - **Combustion** usage critically low (0.4 vs 24.5 CPM, -98%)
 - **Mirror Image** usage critically low (0.4 vs 0.7 CPM, -43%)
-- Top performers use **Glyph of Rapid Displacement**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Rapid Displacement**
 
 
 ---
@@ -80,7 +80,7 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
 |------|-----|-----|
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Rapid Displacement, Glyph of Illusion
+Top uses: Glyph of Illusion, Glyph of Rapid Displacement
 
 ### Suggestions
 
@@ -91,8 +91,8 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion
 - **Mirror Image** usage critically low (0.2 vs 0.4 CPM, -50%)
 - **Combustion** usage critically low (0.3 vs 18.5 CPM, -98%)
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Rapid Displacement**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Rapid Displacement**
 
 
 ---
@@ -130,7 +130,7 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion
 | T2 | Temporal Shield | **Ice Barrier** |
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Rapid Displacement, Glyph of Armors
+Top uses: Glyph of Armors, Glyph of Rapid Displacement
 
 ### Suggestions
 
@@ -139,8 +139,8 @@ Top uses: Glyph of Rapid Displacement, Glyph of Armors
 - **Scorch** usage critically low (3.7 vs 10.1 CPM, -63%)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Rapid Displacement**
 - Top performers use **Glyph of Armors**
+- Top performers use **Glyph of Rapid Displacement**
 
 
 ---
@@ -173,14 +173,14 @@ Top uses: Glyph of Rapid Displacement, Glyph of Armors
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Illusion, Glyph of Deep Freeze, Glyph of Loose Mana
 
 ### Suggestions
 
 - **Combustion** uptime is low (24.3%) - maintain on target
 - **Living Bomb** usage critically low (6.2 vs 10.6 CPM, -42%)
-- Top performers use **Glyph of Deep Freeze**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Deep Freeze**
 
 
 ---
@@ -305,7 +305,7 @@ Top uses: Glyph of Illusion, Glyph of Armors, Glyph of Loose Mana
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Illusion, Glyph of Deep Freeze, Glyph of Loose Mana
 
 ### Suggestions
 
@@ -313,8 +313,8 @@ Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
 - **Combustion** uptime is low (22.5%) - maintain on target
 - **Mirror Image** usage critically low (0.2 vs 15.7 CPM, -99%)
 - **Living Bomb** could be cast more (2.7 vs 3.6 CPM)
-- Top performers use **Glyph of Deep Freeze**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Deep Freeze**
 
 
 ---
@@ -536,7 +536,7 @@ Top uses: Glyph of Armors
 |------|-----|-----|
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Illusion, Glyph of Rapid Displacement, Glyph of Loose Mana
 
 ### Suggestions
 
@@ -549,6 +549,6 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
 - **Living Bomb** usage critically low (5.5 vs 25.1 CPM, -78%)
 - **Mirror Image** usage critically low (0.2 vs 8.7 CPM, -98%)
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Rapid Displacement**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Rapid Displacement**
 

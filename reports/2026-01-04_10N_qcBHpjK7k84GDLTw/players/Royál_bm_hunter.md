@@ -78,7 +78,7 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
+Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Disengage
 
 ### Suggestions
 
@@ -86,8 +86,8 @@ Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
 - **Glaive Toss** uptime is low (2.6%) - maintain on target
 - **Glaive Toss** uptime is low (0.8%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Disengage**
 - Top performers use **Glyph of Stampede**
+- Top performers use **Glyph of Endless Wrath**
 
 
 ---
@@ -255,14 +255,14 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wrath
+Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Stampede**
+- Top performers use **Glyph of Endless Wrath**
 
 
 ---
@@ -299,14 +299,14 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wr
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Liberation, Glyph of Aspect of the Cheetah, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Liberation, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
+- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Liberation**
-- Top performers use **Glyph of Aspect of the Cheetah**
 
 
 ---
@@ -344,7 +344,7 @@ Top uses: Glyph of Liberation, Glyph of Aspect of the Cheetah, Glyph of Stampede
 | T4 | Dire Beast | **Fervor** |
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Liberation, Glyph of Stampede, Glyph of Tame Beast
+Top uses: Glyph of Stampede, Glyph of Liberation, Glyph of Tame Beast
 
 ### Suggestions
 
@@ -355,8 +355,8 @@ Top uses: Glyph of Liberation, Glyph of Stampede, Glyph of Tame Beast
 - **Glaive Toss** could be cast more (2.4 vs 3.1 CPM)
 - Consider **Fervor** (T4) - used by top performers instead of Dire Beast
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Liberation**
 - Top performers use **Glyph of Stampede**
+- Top performers use **Glyph of Liberation**
 
 
 ---
@@ -393,7 +393,7 @@ Top uses: Glyph of Liberation, Glyph of Stampede, Glyph of Tame Beast
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wrath
+Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
@@ -406,8 +406,8 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wr
 - **Kill Shot** usage critically low (1.0 vs 1.8 CPM, -44%)
 - **Glaive Toss** uptime is low (0.1%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Stampede**
+- Top performers use **Glyph of Endless Wrath**
 
 
 ---
@@ -445,7 +445,7 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wr
 | T1 | Crouching Tiger, Hidden Chimera | **Posthaste** |
 | T3 | Iron Hawk | **Spirit Bond** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Mending, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Mending, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
@@ -453,7 +453,7 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Mending, Glyph of Stampede
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Spirit Bond** (T3) - used by top performers instead of Iron Hawk
-- Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Mending**
 
 
@@ -491,14 +491,14 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Mending, Glyph of Stampede
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Liberation, Glyph of Aspect of the Beast, Glyph of Aspects
+Top uses: Glyph of Aspects, Glyph of Liberation, Glyph of Aspect of the Beast
 
 ### Suggestions
 
 - **Cobra Shot** could be cast more (14.2 vs 18.1 CPM)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
+- Top performers use **Glyph of Aspects**
 - Top performers use **Glyph of Liberation**
-- Top performers use **Glyph of Aspect of the Beast**
 
 
 ---
@@ -537,7 +537,7 @@ Top uses: Glyph of Liberation, Glyph of Aspect of the Beast, Glyph of Aspects
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Disengage, Glyph of Tame Beast
+Top uses: Glyph of Disengage, Glyph of Aspect of the Cheetah, Glyph of Tame Beast
 
 ### Suggestions
 
@@ -547,6 +547,6 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Disengage, Glyph of Tame Beas
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Disengage**
+- Top performers use **Glyph of Aspect of the Cheetah**
 

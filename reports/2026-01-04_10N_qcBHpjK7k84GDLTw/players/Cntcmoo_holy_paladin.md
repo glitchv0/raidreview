@@ -8,7 +8,7 @@
 ---
 ## Jin'rokh the Breaker
 
-**Duration:** 2:14 | **HPS:** 84,607 | **HPS Parse:** 63%
+**Duration:** 2:14 | **HPS:** 84,607 | **HPS Parse:** 48% | **DPS Parse:** 63%
 
 ### Consumables
 
@@ -37,7 +37,7 @@
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of the Mounted King
+Top uses: Glyph of Illumination, Glyph of the Mounted King, Glyph of Seal of Blood
 
 ### Suggestions
 
@@ -45,14 +45,14 @@ Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of the Mount
 - **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Righteous Retreat**
-- Top performers use **Glyph of Seal of Blood**
+- Top performers use **Glyph of Illumination**
+- Top performers use **Glyph of the Mounted King**
 
 
 ---
 ## Horridon
 
-**Duration:** 6:01 | **HPS:** 54,487 | **HPS Parse:** 13%
+**Duration:** 6:01 | **HPS:** 54,487 | **HPS Parse:** 86% | **DPS Parse:** 13%
 
 ### Consumables
 
@@ -85,7 +85,7 @@ Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of the Mount
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Flash of Light
+Top uses: Glyph of Divinity, Glyph of Fire From the Heavens, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -95,13 +95,13 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Flash of Light
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
+- Top performers use **Glyph of Fire From the Heavens**
 
 
 ---
 ## Council of Elders
 
-**Duration:** 4:17 | **HPS:** 96,006 | **HPS Parse:** 59%
+**Duration:** 4:17 | **HPS:** 96,006 | **HPS Parse:** 97% | **DPS Parse:** 59%
 
 ### Consumables
 
@@ -133,7 +133,7 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Flash of Light
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Winged Vengeance
+Top uses: Glyph of Winged Vengeance, Glyph of the Mounted King, Glyph of Flash of Light
 
 ### Suggestions
 
@@ -141,14 +141,14 @@ Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Winged Ven
 - **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of the Mounted King**
-- Top performers use **Glyph of Seal of Blood**
 
 
 ---
 ## Tortos
 
-**Duration:** 2:44 | **HPS:** 82,954 | **HPS Parse:** 55%
+**Duration:** 2:44 | **HPS:** 82,954 | **HPS Parse:** 74% | **DPS Parse:** 55%
 
 ### Consumables
 
@@ -180,7 +180,7 @@ Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Winged Ven
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
+Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Contemplation
 
 ### Suggestions
 
@@ -188,14 +188,14 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
 - **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
 ## Megaera
 
-**Duration:** 5:59 | **HPS:** 134,516 | **HPS Parse:** 34%
+**Duration:** 5:59 | **HPS:** 134,516 | **HPS Parse:** 93% | **DPS Parse:** 34%
 
 ### Consumables
 
@@ -239,7 +239,7 @@ Top uses: Glyph of Illumination
 ---
 ## Ji-Kun
 
-**Duration:** 2:59 | **HPS:** 77,904 | **HPS Parse:** 27%
+**Duration:** 2:59 | **HPS:** 77,904 | **HPS Parse:** 94% | **DPS Parse:** 27%
 
 ### Consumables
 
@@ -272,7 +272,7 @@ Top uses: Glyph of Illumination
 | T1 | Speed of Light | **Pursuit of Justice** |
 | T3 | Eternal Flame | **Selfless Healer** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Fire From the Heavens
+Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -280,14 +280,14 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Fire From the 
 - **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Pursuit of Justice** (T1) - used by top performers instead of Speed of Light
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
+- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
 ## Durumu the Forgotten
 
-**Duration:** 4:25 | **HPS:** 70,147 | **HPS Parse:** 23%
+**Duration:** 4:25 | **HPS:** 70,147 | **HPS Parse:** 94% | **DPS Parse:** 23%
 
 ### Consumables
 
@@ -337,7 +337,7 @@ Top uses: Glyph of Divinity, Glyph of Contemplation
 ---
 ## Primordius
 
-**Duration:** 5:21 | **HPS:** 85,921 | **HPS Parse:** 38%
+**Duration:** 5:21 | **HPS:** 85,921 | **HPS Parse:** 54% | **DPS Parse:** 38%
 
 ### Consumables
 
@@ -369,7 +369,7 @@ Top uses: Glyph of Divinity, Glyph of Contemplation
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Fire From the Heavens
+Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -377,14 +377,14 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Fire From the 
 - **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
 ## Dark Animus
 
-**Duration:** 3:57 | **HPS:** 89,151 | **HPS Parse:** 42%
+**Duration:** 3:57 | **HPS:** 89,151 | **HPS Parse:** 91% | **DPS Parse:** 42%
 
 ### Consumables
 
@@ -417,7 +417,7 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Fire From the 
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Light's Hammer | **Holy Prism** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
+Top uses: Glyph of Divinity, Glyph of Fire From the Heavens, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -426,13 +426,13 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Holy Prism** (T6) - used by top performers instead of Light's Hammer
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
+- Top performers use **Glyph of Fire From the Heavens**
 
 
 ---
 ## Iron Qon
 
-**Duration:** 8:05 | **HPS:** 98,173 | **HPS Parse:** 34%
+**Duration:** 8:05 | **HPS:** 98,173 | **HPS Parse:** 74% | **DPS Parse:** 34%
 
 ### Consumables
 
@@ -465,7 +465,7 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of the Falling Avenger
+Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -474,14 +474,14 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of the Falling Av
 - Consider **Long Arm of the Law** (T1) - used by top performers instead of Speed of Light
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
 ## Twin Consorts
 
-**Duration:** 7:13 | **HPS:** 86,188 | **HPS Parse:** 35%
+**Duration:** 7:13 | **HPS:** 86,188 | **HPS Parse:** 81% | **DPS Parse:** 35%
 
 ### Consumables
 
@@ -513,7 +513,7 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of the Falling Av
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Contemplation, Glyph of Fire From the Heavens
+Top uses: Glyph of Winged Vengeance, Glyph of Divinity, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -522,14 +522,14 @@ Top uses: Glyph of Divinity, Glyph of Contemplation, Glyph of Fire From the Heav
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Contemplation**
 
 
 ---
 ## Lei Shen
 
-**Duration:** 8:18 | **HPS:** 87,792 | **HPS Parse:** 82%
+**Duration:** 8:18 | **HPS:** 87,792 | **HPS Parse:** 96% | **DPS Parse:** 82%
 
 ### Consumables
 
@@ -564,7 +564,7 @@ Top uses: Glyph of Divinity, Glyph of Contemplation, Glyph of Fire From the Heav
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of Winged Vengeance
+Top uses: Glyph of Winged Vengeance, Glyph of Righteous Retreat, Glyph of Flash of Light
 
 ### Suggestions
 
@@ -573,6 +573,6 @@ Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of Winged Ve
 - Consider **Repentance** (T2) - used by top performers instead of Fist of Justice
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Righteous Retreat**
-- Top performers use **Glyph of Seal of Blood**
 
