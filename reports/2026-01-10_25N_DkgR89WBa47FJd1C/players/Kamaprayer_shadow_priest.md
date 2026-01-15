@@ -21,30 +21,30 @@
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Mind Flay (Insanity) | 16.9% | 22.5% | -5.6% |
-| Devouring Plague | 20.8% | 28.6% | -7.8% |
-| Vampiric Touch | 92.0% | 11.9% | +80.1% |
-| Shadow Word: Pain | 96.0% | 12.5% | +83.5% |
+| Mind Flay (Insanity) | 5.6 | 7.1 | -21% |
+| Devouring Plague | 2.2 | 3.0 | -27% |
+| Vampiric Touch | 92.0% | 96.5% | -4.5% |
+| Shadow Word: Pain | 96.0% | 98.7% | -2.7% |
 | Mind Blast | 5.0 | 5.9 | -15% |
-| Mind Flay | 25.9% | 14.9% | +11.0% |
+| Mind Flay | 9.3 | 14.9 | -38% |
 | Shadow Word: Death | 2.2 | 2.4 | -8% |
 | Shadowfiend | 0.4 | 0.6 | -33% |
 | Mind Flay | 7.4 | 14.9 | -50% |
-| Shadow Word: Pain | 10.2 | 12.5 | -18% |
+| Devouring Plague | 6.7 | 3.0 | +123% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Dispersion, Glyph of Dark Archangel, Glyph of Inner Sanctum
+Top uses: Glyph of Dispersion, Glyph of Vampiric Embrace, Glyph of Dark Archangel
 
 ### Suggestions
 
-- **Mind Flay (Insanity)** uptime is low (16.9%) - maintain on target
-- **Devouring Plague** uptime is low (20.8%) - maintain on target
-- **Mind Flay** uptime is low (25.9%) - maintain on target
+- **Mind Flay (Insanity)** could be cast more (5.6 vs 7.1 CPM)
+- **Devouring Plague** could be cast more (2.2 vs 3.0 CPM)
+- **Mind Flay** usage critically low (9.3 vs 14.9 CPM, -38%)
 - **Shadowfiend** usage critically low (0.4 vs 0.6 CPM, -33%)
 - **Mind Flay** usage critically low (7.4 vs 14.9 CPM, -50%)
 - Top performers use **Glyph of Dispersion**
-- Top performers use **Glyph of Dark Archangel**
+- Top performers use **Glyph of Vampiric Embrace**
 
 
 ---
@@ -65,29 +65,28 @@ Top uses: Glyph of Dispersion, Glyph of Dark Archangel, Glyph of Inner Sanctum
 |---------|-----|-----|-----|
 | Shadow Word: Pain | 98.2% | 99.1% | -0.9% |
 | Vampiric Touch | 95.4% | 98.7% | -3.3% |
-| Devouring Plague | 16.5% | 9.0% | +7.5% |
-| Mind Flay (Insanity) | 8.8% | 11.2% | -2.4% |
+| Devouring Plague | 1.7 | 9.0 | -81% |
+| Mind Flay (Insanity) | 2.9 | 3.5 | -17% |
 | Mind Sear | 9.1 | 1.4 | +550% |
 | Halo | 1.4 | 1.3 | +8% |
-| Shadow Word: Pain | 23.9 | 99.1 | -76% |
 | Mind Blast | 3.4 | 5.8 | -41% |
 | Shadow Word: Death | 2.6 | 3.3 | -21% |
-| Mind Flay | 9.8% | 19.2% | -9.4% |
+| Mind Flay | 3.4 | 6.3 | -46% |
+| Mind Flay | 4.0 | 6.3 | -37% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Dark Archangel, Glyph of Fade, Glyph of Inner Sanctum
+Top uses: Glyph of Fade, Glyph of Shadowy Friends, Glyph of Dark Archangel
 
 ### Suggestions
 
-- **Devouring Plague** uptime is low (16.5%) - maintain on target
-- **Mind Flay (Insanity)** uptime is low (8.8%) - maintain on target
-- **Shadow Word: Pain** usage critically low (23.9 vs 99.1 CPM, -76%)
+- **Devouring Plague** usage critically low (1.7 vs 9.0 CPM, -81%)
 - **Mind Blast** usage critically low (3.4 vs 5.8 CPM, -41%)
 - **Shadow Word: Death** could be cast more (2.6 vs 3.3 CPM)
-- **Mind Flay** uptime is low (9.8%) - maintain on target
-- Top performers use **Glyph of Dark Archangel**
+- **Mind Flay** usage critically low (3.4 vs 6.3 CPM, -46%)
+- **Mind Flay** usage critically low (4.0 vs 6.3 CPM, -37%)
 - Top performers use **Glyph of Fade**
+- Top performers use **Glyph of Shadowy Friends**
 
 
 ---
@@ -106,28 +105,27 @@ Top uses: Glyph of Dark Archangel, Glyph of Fade, Glyph of Inner Sanctum
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Shadow Word: Pain | 98.9% | 36.1% | +62.8% |
+| Shadow Word: Pain | 98.9% | 99.5% | -0.6% |
 | Vampiric Touch | 99.1% | 99.5% | -0.4% |
-| Devouring Plague | 30.3% | 24.8% | +5.5% |
+| Devouring Plague | 3.1 | 2.7 | +15% |
 | Mind Blast | 7.7 | 4.7 | +64% |
 | Mind Sear | 12.3 | 7.4 | +66% |
-| Shadow Word: Pain | 29.9 | 36.1 | -17% |
 | Halo | 1.2 | 1.2 | 0% |
-| Vampiric Touch | 21.4 | 99.5 | -78% |
 | Shadow Word: Death | 2.6 | 4.7 | -45% |
 | Shadowfiend | 0.5 | 0.6 | -17% |
+| Devouring Plague | 8.7 | 2.7 | +222% |
+| Mind Sear | 5.3 | 7.4 | -28% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Dark Archangel, Glyph of Shadow, Glyph of Fade
+Top uses: Glyph of Fade, Glyph of Vampiric Embrace, Glyph of Inner Sanctum
 
 ### Suggestions
 
-- **Devouring Plague** uptime is low (30.3%) - maintain on target
-- **Vampiric Touch** usage critically low (21.4 vs 99.5 CPM, -78%)
 - **Shadow Word: Death** usage critically low (2.6 vs 4.7 CPM, -45%)
-- Top performers use **Glyph of Dark Archangel**
-- Top performers use **Glyph of Shadow**
+- **Mind Sear** could be cast more (5.3 vs 7.4 CPM)
+- Top performers use **Glyph of Fade**
+- Top performers use **Glyph of Vampiric Embrace**
 
 
 ---
@@ -149,27 +147,26 @@ Top uses: Glyph of Dark Archangel, Glyph of Shadow, Glyph of Fade
 | Mind Sear | 16.2 | 5.1 | +218% |
 | Shadow Word: Pain | 98.9% | 98.9% | 0% |
 | Vampiric Touch | 99.0% | 97.7% | +1.3% |
-| Devouring Plague | 14.9% | 24.7% | -9.8% |
+| Devouring Plague | 1.5 | 2.5 | -40% |
 | Mind Sear | 2.5 | 5.1 | -51% |
-| Mind Flay (Insanity) | 8.4% | 10.7% | -2.3% |
+| Mind Flay (Insanity) | 3.0 | 4.3 | -30% |
 | Halo | 1.3 | 1.4 | -7% |
 | Shadowfiend | 0.5 | 0.4 | +25% |
 | Mind Blast | 3.0 | 4.7 | -36% |
-| Mind Flay | 13.9% | 6.1% | +7.8% |
+| Mind Flay | 5.1 | 6.1 | -16% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Inner Fire, Glyph of Dark Archangel, Glyph of Fade
+Top uses: Glyph of Fade, Glyph of Inner Fire, Glyph of Shadow
 
 ### Suggestions
 
-- **Devouring Plague** uptime is low (14.9%) - maintain on target
+- **Devouring Plague** usage critically low (1.5 vs 2.5 CPM, -40%)
 - **Mind Sear** usage critically low (2.5 vs 5.1 CPM, -51%)
-- **Mind Flay (Insanity)** uptime is low (8.4%) - maintain on target
+- **Mind Flay (Insanity)** usage critically low (3.0 vs 4.3 CPM, -30%)
 - **Mind Blast** usage critically low (3.0 vs 4.7 CPM, -36%)
-- **Mind Flay** uptime is low (13.9%) - maintain on target
+- Top performers use **Glyph of Fade**
 - Top performers use **Glyph of Inner Fire**
-- Top performers use **Glyph of Dark Archangel**
 
 
 ---
@@ -188,30 +185,29 @@ Top uses: Glyph of Inner Fire, Glyph of Dark Archangel, Glyph of Fade
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Shadow Word: Pain | 99.6% | 25.7% | +73.9% |
+| Shadow Word: Pain | 99.6% | 99.3% | +0.3% |
 | Vampiric Touch | 99.6% | 98.7% | +0.9% |
-| Mind Flay (Insanity) | 11.8% | 16.8% | -5.0% |
-| Devouring Plague | 15.9% | 24.0% | -8.1% |
-| Mind Flay | 24.8% | 12.6% | +12.2% |
+| Mind Flay (Insanity) | 3.9 | 6.0 | -35% |
+| Devouring Plague | 1.7 | 2.5 | -32% |
+| Mind Flay | 8.9 | 12.6 | -29% |
 | Mind Blast | 3.9 | 6.0 | -35% |
-| Shadow Word: Pain | 16.1 | 25.7 | -37% |
-| Vampiric Touch | 13.0 | 98.7 | -87% |
 | Halo | 1.2 | 1.2 | 0% |
 | Mind Flay | 8.5 | 12.6 | -33% |
+| Shadow Word: Death | 2.4 | 2.9 | -17% |
+| Shadowfiend | 0.3 | 0.4 | -25% |
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Inner Fire, Glyph of Dark Archangel, Glyph of Fade
+Top uses: Glyph of Fade, Glyph of Inner Fire, Glyph of Shadow
 
 ### Suggestions
 
-- **Mind Flay (Insanity)** uptime is low (11.8%) - maintain on target
-- **Devouring Plague** uptime is low (15.9%) - maintain on target
-- **Mind Flay** uptime is low (24.8%) - maintain on target
+- **Mind Flay (Insanity)** usage critically low (3.9 vs 6.0 CPM, -35%)
+- **Devouring Plague** usage critically low (1.7 vs 2.5 CPM, -32%)
+- **Mind Flay** could be cast more (8.9 vs 12.6 CPM)
 - **Mind Blast** usage critically low (3.9 vs 6.0 CPM, -35%)
-- **Shadow Word: Pain** usage critically low (16.1 vs 25.7 CPM, -37%)
-- **Vampiric Touch** usage critically low (13.0 vs 98.7 CPM, -87%)
 - **Mind Flay** usage critically low (8.5 vs 12.6 CPM, -33%)
+- **Shadowfiend** could be cast more (0.3 vs 0.4 CPM)
+- Top performers use **Glyph of Fade**
 - Top performers use **Glyph of Inner Fire**
-- Top performers use **Glyph of Dark Archangel**
 

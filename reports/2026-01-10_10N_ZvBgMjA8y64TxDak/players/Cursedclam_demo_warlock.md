@@ -39,7 +39,7 @@
 | T4 | Unbound Will | **Burning Rush** |
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 
-Top uses: Glyph of Demon Training, Glyph of Unending Breath, Glyph of Soulstone
+Top uses: Glyph of Soulstone, Glyph of Unending Breath, Glyph of Demon Training
 
 ### Suggestions
 
@@ -51,7 +51,7 @@ Top uses: Glyph of Demon Training, Glyph of Unending Breath, Glyph of Soulstone
 - Consider **Dark Pact** (T3) - used by top performers instead of Soul Link
 - Consider **Burning Rush** (T4) - used by top performers instead of Unbound Will
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
-- Top performers use **Glyph of Demon Training**
+- Top performers use **Glyph of Soulstone**
 - Top performers use **Glyph of Unending Breath**
 
 
@@ -88,7 +88,7 @@ Top uses: Glyph of Demon Training, Glyph of Unending Breath, Glyph of Soulstone
 | T4 | Unbound Will | **Burning Rush** |
 | T5 | Grimoire of Supremacy | **Grimoire of Service** |
 
-Top uses: Glyph of Nightmares, Glyph of Siphon Life, Glyph of Shadow Bolt
+Top uses: Glyph of Shadow Bolt, Glyph of Nightmares, Glyph of Siphon Life
 
 ### Suggestions
 
@@ -98,8 +98,8 @@ Top uses: Glyph of Nightmares, Glyph of Siphon Life, Glyph of Shadow Bolt
 - Consider **Shadowfury** (T2) - used by top performers instead of Mortal Coil
 - Consider **Burning Rush** (T4) - used by top performers instead of Unbound Will
 - Consider **Grimoire of Service** (T5) - used by top performers instead of Grimoire of Supremacy
+- Top performers use **Glyph of Shadow Bolt**
 - Top performers use **Glyph of Nightmares**
-- Top performers use **Glyph of Siphon Life**
 
 
 ---
@@ -136,7 +136,7 @@ Top uses: Glyph of Nightmares, Glyph of Siphon Life, Glyph of Shadow Bolt
 | T5 | Grimoire of Supremacy | **Grimoire of Service** |
 | T6 | Archimonde's Darkness | **Mannoroth's Fury** |
 
-Top uses: Kilrogg's Cunning, Glyph of Felguard, Glyph of Soulstone
+Top uses: Glyph of Soulstone, Glyph of Shadow Bolt, Glyph of Felguard
 
 ### Suggestions
 
@@ -145,7 +145,8 @@ Top uses: Kilrogg's Cunning, Glyph of Felguard, Glyph of Soulstone
 - Consider **Burning Rush** (T4) - used by top performers instead of Unbound Will
 - Consider **Grimoire of Service** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Mannoroth's Fury** (T6) - used by top performers instead of Archimonde's Darkness
-- Top performers use **Glyph of Felguard**
+- Top performers use **Glyph of Soulstone**
+- Top performers use **Glyph of Shadow Bolt**
 
 
 ---
@@ -280,7 +281,7 @@ Top uses: Glyph of Soulstone, Glyph of Crimson Banish
 | T4 | Unbound Will | **Burning Rush** |
 | T5 | Grimoire of Supremacy | **Grimoire of Service** |
 
-Top uses: Glyph of Soulwell, Glyph of Shadow Bolt
+Top uses: Glyph of Shadow Bolt, Glyph of Soulwell
 
 ### Suggestions
 
@@ -289,8 +290,8 @@ Top uses: Glyph of Soulwell, Glyph of Shadow Bolt
 - Consider **Shadowfury** (T2) - used by top performers instead of Mortal Coil
 - Consider **Burning Rush** (T4) - used by top performers instead of Unbound Will
 - Consider **Grimoire of Service** (T5) - used by top performers instead of Grimoire of Supremacy
-- Top performers use **Glyph of Soulwell**
 - Top performers use **Glyph of Shadow Bolt**
+- Top performers use **Glyph of Soulwell**
 
 
 ---

@@ -32,15 +32,15 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Imp Swarm, Glyph of Siphon Life, Glyph of Eternal Resolve
+Top uses: Glyph of Felguard, Glyph of Carrion Swarm, Glyph of Shadow Bolt
 
 ### Suggestions
 
 - **Shadow Bolt** usage critically low (4.3 vs 7.3 CPM, -41%)
 - **Touch of Chaos** usage critically low (3.6 vs 11.7 CPM, -69%)
 - **Hand of Gul'dan** usage critically low (2.5 vs 4.4 CPM, -43%)
-- Top performers use **Glyph of Imp Swarm**
-- Top performers use **Glyph of Siphon Life**
+- Top performers use **Glyph of Felguard**
+- Top performers use **Glyph of Carrion Swarm**
 
 
 ---
@@ -71,20 +71,20 @@ Top uses: Glyph of Imp Swarm, Glyph of Siphon Life, Glyph of Eternal Resolve
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Imp Swarm, Glyph of Carrion Swarm, Glyph of Nightmares
+Top uses: Glyph of Falling Meteor, Glyph of Carrion Swarm, Glyph of Healthstone
 
 ### Suggestions
 
 - **Touch of Chaos** usage critically low (4.5 vs 7.3 CPM, -38%)
 - **Hand of Gul'dan** usage critically low (1.9 vs 3.1 CPM, -39%)
-- Top performers use **Glyph of Imp Swarm**
+- Top performers use **Glyph of Falling Meteor**
 - Top performers use **Glyph of Carrion Swarm**
 
 
 ---
 ## Council of Elders
 
-**Duration:** 4:30 | **DPS:** 170,111 | **Parse:** 50%
+**Duration:** 4:30 | **DPS:** 170,111 | **Parse:** 49%
 
 ### Consumables
 
@@ -110,15 +110,15 @@ Top uses: Glyph of Imp Swarm, Glyph of Carrion Swarm, Glyph of Nightmares
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Curse of the Elements, Glyph of Imp Swarm, Glyph of Carrion Swarm
+Top uses: Glyph of Felguard, Glyph of Carrion Swarm, Glyph of Health Funnel
 
 ### Suggestions
 
 - **Touch of Chaos** could be cast more (10.0 vs 12.6 CPM)
 - **Soul Fire** usage critically low (3.1 vs 5.1 CPM, -39%)
 - **Doomguard** usage critically low (0.2 vs 0.3 CPM, -33%)
-- Top performers use **Glyph of Curse of the Elements**
-- Top performers use **Glyph of Imp Swarm**
+- Top performers use **Glyph of Felguard**
+- Top performers use **Glyph of Carrion Swarm**
 
 
 ---
@@ -150,7 +150,7 @@ Top uses: Glyph of Curse of the Elements, Glyph of Imp Swarm, Glyph of Carrion S
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Imp Swarm, Glyph of Nightmares, Glyph of Demon Training
+Top uses: Glyph of Demon Training, Glyph of Carrion Swarm, Glyph of Health Funnel
 
 ### Suggestions
 
@@ -159,8 +159,8 @@ Top uses: Glyph of Imp Swarm, Glyph of Nightmares, Glyph of Demon Training
 - **Touch of Chaos** usage critically low (7.6 vs 11.9 CPM, -36%)
 - **Soul Fire** usage critically low (1.5 vs 7.3 CPM, -79%)
 - **Carrion Swarm** usage critically low (0.4 vs 1.1 CPM, -64%)
-- Top performers use **Glyph of Imp Swarm**
-- Top performers use **Glyph of Nightmares**
+- Top performers use **Glyph of Demon Training**
+- Top performers use **Glyph of Carrion Swarm**
 
 
 ---
@@ -190,7 +190,7 @@ Top uses: Glyph of Imp Swarm, Glyph of Nightmares, Glyph of Demon Training
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Imp Swarm, Glyph of Carrion Swarm, Glyph of Shadow Bolt
+Top uses: Glyph of Demonic Circle, Glyph of Shadow Bolt, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -198,6 +198,6 @@ Top uses: Glyph of Imp Swarm, Glyph of Carrion Swarm, Glyph of Shadow Bolt
 - **Soul Fire** usage critically low (4.9 vs 8.6 CPM, -43%)
 - **Touch of Chaos** usage critically low (4.1 vs 7.8 CPM, -47%)
 - **Hand of Gul'dan** usage critically low (2.1 vs 3.8 CPM, -45%)
-- Top performers use **Glyph of Imp Swarm**
-- Top performers use **Glyph of Carrion Swarm**
+- Top performers use **Glyph of Demonic Circle**
+- Top performers use **Glyph of Shadow Bolt**
 

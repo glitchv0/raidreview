@@ -30,7 +30,7 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Curse of the Elements, Glyph of Soulwell, Glyph of Siphon Life
+Top uses: Glyph of Soulwell, Glyph of Soulstone, Glyph of Curse of the Elements
 
 ### Suggestions
 
@@ -40,8 +40,8 @@ Top uses: Glyph of Curse of the Elements, Glyph of Soulwell, Glyph of Siphon Lif
 - **Conflagrate** usage critically low (2.8 vs 5.1 CPM, -45%)
 - **Incinerate** usage critically low (0.4 vs 18.3 CPM, -98%)
 - **Conflagrate** usage critically low (0.2 vs 5.1 CPM, -96%)
-- Top performers use **Glyph of Curse of the Elements**
 - Top performers use **Glyph of Soulwell**
+- Top performers use **Glyph of Soulstone**
 
 
 ---
@@ -72,7 +72,7 @@ Top uses: Glyph of Curse of the Elements, Glyph of Soulwell, Glyph of Siphon Lif
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Nightmares, Glyph of Healthstone, Glyph of Soulstone
+Top uses: Glyph of Healthstone, Glyph of Nightmares, Glyph of Soulstone
 
 ### Suggestions
 
@@ -82,8 +82,8 @@ Top uses: Glyph of Nightmares, Glyph of Healthstone, Glyph of Soulstone
 - **Shadowburn** usage critically low (0.8 vs 6.3 CPM, -87%)
 - **Conflagrate** uptime is low (1.3%) - maintain on target
 - **Rain of Fire** could be cast more (1.2 vs 1.7 CPM)
-- Top performers use **Glyph of Nightmares**
 - Top performers use **Glyph of Healthstone**
+- Top performers use **Glyph of Nightmares**
 
 
 ---
@@ -115,7 +115,7 @@ Top uses: Glyph of Nightmares, Glyph of Healthstone, Glyph of Soulstone
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Nightmares, Glyph of Healthstone, Glyph of Soulstone
+Top uses: Glyph of Healthstone, Glyph of Nightmares, Glyph of Soulstone
 
 ### Suggestions
 
@@ -126,8 +126,8 @@ Top uses: Glyph of Nightmares, Glyph of Healthstone, Glyph of Soulstone
 - **Conflagrate** usage critically low (3.4 vs 5.1 CPM, -33%)
 - **Conflagrate** usage critically low (1.0 vs 5.1 CPM, -80%)
 - **Shadowburn** usage critically low (0.5 vs 3.3 CPM, -85%)
-- Top performers use **Glyph of Nightmares**
 - Top performers use **Glyph of Healthstone**
+- Top performers use **Glyph of Nightmares**
 
 
 ---
@@ -157,7 +157,7 @@ Top uses: Glyph of Nightmares, Glyph of Healthstone, Glyph of Soulstone
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Healthstone, Glyph of Nightmares, Glyph of Ember Tap
+Top uses: Glyph of Healthstone, Glyph of Soulwell, Glyph of Nightmares
 
 ### Suggestions
 
@@ -169,7 +169,7 @@ Top uses: Glyph of Healthstone, Glyph of Nightmares, Glyph of Ember Tap
 - **Incinerate** usage critically low (0.5 vs 4.8 CPM, -90%)
 - **Conflagrate** usage critically low (0.3 vs 12.5 CPM, -98%)
 - Top performers use **Glyph of Healthstone**
-- Top performers use **Glyph of Nightmares**
+- Top performers use **Glyph of Soulwell**
 
 
 ---
@@ -196,12 +196,12 @@ Top uses: Glyph of Healthstone, Glyph of Nightmares, Glyph of Ember Tap
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Curse of the Elements, Glyph of Shadow Bolt, Glyph of Nightmares
+Top uses: Glyph of Soulwell, Glyph of Nightmares, Glyph of Siphon Life
 
 ### Suggestions
 
 - **Chaos Bolt** usage critically low (3.8 vs 15.1 CPM, -75%)
 - **Shadowburn** usage critically low (0.5 vs 2.1 CPM, -76%)
-- Top performers use **Glyph of Curse of the Elements**
-- Top performers use **Glyph of Shadow Bolt**
+- Top performers use **Glyph of Soulwell**
+- Top performers use **Glyph of Nightmares**
 
