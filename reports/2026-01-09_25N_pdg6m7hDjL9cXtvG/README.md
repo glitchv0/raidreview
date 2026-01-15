@@ -1,6 +1,6 @@
 # Raid Report: Throne of Thunder
 
-**Date:** 2026-01-09 | **Difficulty:** 10N | **Bosses:** 5/12
+**Date:** 2026-01-09 | **Difficulty:** 25N | **Bosses:** 5/12
 **Log:** [pdg6m7hDjL9cXtvG](https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG)
 
 ---
