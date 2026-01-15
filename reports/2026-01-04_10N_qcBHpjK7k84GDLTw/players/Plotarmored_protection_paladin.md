@@ -42,7 +42,7 @@
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Final Wrath
+Top uses: Glyph of Fire From the Heavens, Glyph of Focused Shield, Glyph of Focused Wrath
 
 ### Suggestions
 
@@ -50,8 +50,8 @@ Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Final Wrath
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Focused Shield**
-- Top performers use **Glyph of Focused Wrath**
 
 
 ---
@@ -94,7 +94,7 @@ Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Final Wrath
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Execution Sentence | **Light's Hammer** |
 
-Top uses: Glyph of Final Wrath, Glyph of Contemplation, Glyph of Winged Vengeance
+Top uses: Glyph of Final Wrath, Glyph of Winged Vengeance, Glyph of Contemplation
 
 ### Suggestions
 
@@ -106,7 +106,7 @@ Top uses: Glyph of Final Wrath, Glyph of Contemplation, Glyph of Winged Vengeanc
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Light's Hammer** (T6) - used by top performers instead of Execution Sentence
 - Top performers use **Glyph of Final Wrath**
-- Top performers use **Glyph of Contemplation**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
@@ -149,7 +149,7 @@ Top uses: Glyph of Final Wrath, Glyph of Contemplation, Glyph of Winged Vengeanc
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Execution Sentence | **Light's Hammer** |
 
-Top uses: Glyph of Bladed Judgment, Glyph of Fire From the Heavens, Glyph of Final Wrath
+Top uses: Glyph of Final Wrath, Glyph of Winged Vengeance, Glyph of Bladed Judgment
 
 ### Suggestions
 
@@ -159,8 +159,8 @@ Top uses: Glyph of Bladed Judgment, Glyph of Fire From the Heavens, Glyph of Fin
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Light's Hammer** (T6) - used by top performers instead of Execution Sentence
-- Top performers use **Glyph of Bladed Judgment**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Final Wrath**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
@@ -255,7 +255,7 @@ Top uses: Glyph of Final Wrath
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of the Luminous Charger, Glyph of Focused Shield, Glyph of Focused Wrath
+Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of the Luminous Charger
 
 ### Suggestions
 
@@ -265,8 +265,8 @@ Top uses: Glyph of the Luminous Charger, Glyph of Focused Shield, Glyph of Focus
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of the Luminous Charger**
 - Top performers use **Glyph of Focused Shield**
+- Top performers use **Glyph of Focused Wrath**
 
 
 ---
@@ -361,7 +361,7 @@ Top uses: Glyph of Final Wrath, Glyph of Focused Shield
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Winged Vengeance
+Top uses: Glyph of Fire From the Heavens, Glyph of Focused Shield, Glyph of Focused Wrath
 
 ### Suggestions
 
@@ -370,8 +370,8 @@ Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Winged Venge
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Focused Shield**
-- Top performers use **Glyph of Focused Wrath**
 
 
 ---
@@ -412,7 +412,7 @@ Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Winged Venge
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Execution Sentence | **Light's Hammer** |
 
-Top uses: Glyph of Final Wrath, Glyph of Fire From the Heavens, Glyph of Righteous Retreat
+Top uses: Glyph of Final Wrath, Glyph of Winged Vengeance, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -423,7 +423,7 @@ Top uses: Glyph of Final Wrath, Glyph of Fire From the Heavens, Glyph of Righteo
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Light's Hammer** (T6) - used by top performers instead of Execution Sentence
 - Top performers use **Glyph of Final Wrath**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
@@ -465,7 +465,7 @@ Top uses: Glyph of Final Wrath, Glyph of Fire From the Heavens, Glyph of Righteo
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
+Top uses: Glyph of Final Wrath, Glyph of Focused Wrath, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -475,8 +475,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Focused Wrath**
 - Top performers use **Glyph of Final Wrath**
+- Top performers use **Glyph of Focused Wrath**
 
 
 ---
@@ -517,7 +517,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Winged Vengeance
+Top uses: Glyph of Fire From the Heavens, Glyph of Focused Shield, Glyph of Focused Wrath
 
 ### Suggestions
 
@@ -527,8 +527,8 @@ Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Winged Venge
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Focused Shield**
-- Top performers use **Glyph of Focused Wrath**
 
 
 ---
@@ -566,7 +566,7 @@ Top uses: Glyph of Focused Shield, Glyph of Focused Wrath, Glyph of Winged Venge
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
+Top uses: Glyph of Final Wrath, Glyph of Winged Vengeance, Glyph of Focused Wrath
 
 ### Suggestions
 
@@ -575,8 +575,8 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 - Consider using **Guardian of Ancient Kings** during high damage phases
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Focused Wrath**
 - Top performers use **Glyph of Final Wrath**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
@@ -620,7 +620,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the H
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Double Jeopardy, Glyph of Winged Vengeance
+Top uses: Glyph of Final Wrath, Glyph of Winged Vengeance, Glyph of Focused Wrath
 
 ### Suggestions
 
@@ -629,6 +629,6 @@ Top uses: Glyph of Focused Wrath, Glyph of Double Jeopardy, Glyph of Winged Veng
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Double Jeopardy**
+- Top performers use **Glyph of Final Wrath**
+- Top performers use **Glyph of Winged Vengeance**
 

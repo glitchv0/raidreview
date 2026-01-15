@@ -14,7 +14,7 @@
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/2 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 2 possible uses)
 
 ### Rotation vs Ronor
 
@@ -37,7 +37,7 @@
 |------|-----|-----|
 | T2 | Windwalk Totem | **Earthgrab Totem** |
 
-Top uses: Glyph of the Lakestrider, Glyph of Spiritwalker's Grace, Glyph of Totemic Encirclement
+Top uses: Glyph of Spiritwalker's Grace, Glyph of Totemic Encirclement, Glyph of the Lakestrider
 
 ### Suggestions
 
@@ -47,8 +47,8 @@ Top uses: Glyph of the Lakestrider, Glyph of Spiritwalker's Grace, Glyph of Tote
 - **Lightning Bolt Overload** usage critically low (7.6 vs 14.2 CPM, -46%)
 - **Lightning Strike** usage critically low (1.8 vs 4.9 CPM, -63%)
 - Consider **Earthgrab Totem** (T2) - used by top performers instead of Windwalk Totem
-- Top performers use **Glyph of the Lakestrider**
 - Top performers use **Glyph of Spiritwalker's Grace**
+- Top performers use **Glyph of Totemic Encirclement**
 
 
 ---
@@ -60,7 +60,7 @@ Top uses: Glyph of the Lakestrider, Glyph of Spiritwalker's Grace, Glyph of Tote
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/6 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 6 possible uses)
 
 ### Rotation vs 연쇄치유의물결
 
@@ -83,7 +83,7 @@ Top uses: Glyph of the Lakestrider, Glyph of Spiritwalker's Grace, Glyph of Tote
 |------|-----|-----|
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Flame Shock, Glyph of Flaming Serpents, Glyph of Astral Fixation
+Top uses: Glyph of Lightning Shield, Glyph of Flaming Serpents, Glyph of Flame Shock
 
 ### Suggestions
 
@@ -98,7 +98,7 @@ Top uses: Glyph of Flame Shock, Glyph of Flaming Serpents, Glyph of Astral Fixat
 - **Flame Shock** uptime is low (58.6%) - maintain on target
 - **Fulmination** usage critically low (1.0 vs 2.1 CPM, -52%)
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
-- Top performers use **Glyph of Flame Shock**
+- Top performers use **Glyph of Lightning Shield**
 - Top performers use **Glyph of Flaming Serpents**
 
 
@@ -111,7 +111,7 @@ Top uses: Glyph of Flame Shock, Glyph of Flaming Serpents, Glyph of Astral Fixat
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/4 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 4 possible uses)
 
 ### Rotation vs Dibulitz
 
@@ -135,7 +135,7 @@ Top uses: Glyph of Flame Shock, Glyph of Flaming Serpents, Glyph of Astral Fixat
 | T3 | Totemic Recall | **Totemic Projection** |
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Healing Stream Totem, Glyph of Astral Fixation, Glyph of Thunderstorm
+Top uses: Glyph of Astral Fixation, Glyph of Flaming Serpents, Glyph of Spiritwalker's Grace
 
 ### Suggestions
 
@@ -148,8 +148,8 @@ Top uses: Glyph of Healing Stream Totem, Glyph of Astral Fixation, Glyph of Thun
 - **Flame Shock** uptime is low (29.4%) - maintain on target
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
-- Top performers use **Glyph of Healing Stream Totem**
 - Top performers use **Glyph of Astral Fixation**
+- Top performers use **Glyph of Flaming Serpents**
 
 
 ---
@@ -161,7 +161,7 @@ Top uses: Glyph of Healing Stream Totem, Glyph of Astral Fixation, Glyph of Thun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/2 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 2 possible uses)
 
 ### Rotation vs Thunderjuggz
 
@@ -185,7 +185,7 @@ Top uses: Glyph of Healing Stream Totem, Glyph of Astral Fixation, Glyph of Thun
 | T3 | Totemic Recall | **Totemic Projection** |
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Flaming Serpents, Glyph of Lightning Shield, Glyph of Spiritwalker's Grace
+Top uses: Glyph of Lightning Shield, Glyph of Flaming Serpents, Glyph of the Lakestrider
 
 ### Suggestions
 
@@ -199,8 +199,8 @@ Top uses: Glyph of Flaming Serpents, Glyph of Lightning Shield, Glyph of Spiritw
 - **Fulmination** usage critically low (0.7 vs 1.5 CPM, -53%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
-- Top performers use **Glyph of Flaming Serpents**
 - Top performers use **Glyph of Lightning Shield**
+- Top performers use **Glyph of Flaming Serpents**
 
 
 ---
@@ -212,7 +212,7 @@ Top uses: Glyph of Flaming Serpents, Glyph of Lightning Shield, Glyph of Spiritw
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/5 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 5 possible uses)
 
 ### Rotation vs Rendimentos
 
@@ -235,7 +235,7 @@ Top uses: Glyph of Flaming Serpents, Glyph of Lightning Shield, Glyph of Spiritw
 |------|-----|-----|
 | T3 | Totemic Recall | **Totemic Projection** |
 
-Top uses: Glyph of Spiritwalker's Grace, Glyph of Thunderstorm, Glyph of Lightning Shield
+Top uses: Glyph of Lightning Shield, Glyph of Spiritwalker's Grace, Glyph of Thunderstorm
 
 ### Suggestions
 
@@ -248,8 +248,8 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Thunderstorm, Glyph of Lightni
 - **Searing Totem** usage critically low (0.5 vs 0.9 CPM, -44%)
 - **Earth Shock** usage critically low (1.2 vs 2.6 CPM, -54%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
+- Top performers use **Glyph of Lightning Shield**
 - Top performers use **Glyph of Spiritwalker's Grace**
-- Top performers use **Glyph of Thunderstorm**
 
 
 ---
@@ -261,7 +261,7 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Thunderstorm, Glyph of Lightni
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [x] **Engineering:** Synapse Springs (2/2 uses)
+- [x] **Engineering:** Synapse Springs (2 uses)
 
 ### Rotation vs Aleskâ
 
@@ -300,7 +300,7 @@ Top uses: Glyph of Grounding Totem
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
-- [ ] **Engineering:** Synapse Springs (2/4 uses)
+- [ ] **Engineering:** Synapse Springs (2 of 4 possible uses)
 
 ### Rotation vs Jiimms
 
@@ -323,7 +323,7 @@ Top uses: Glyph of Grounding Totem
 |------|-----|-----|
 | T3 | Totemic Recall | **Totemic Projection** |
 
-Top uses: Glyph of the Lakestrider, Glyph of Thunderstorm, Glyph of Flame Shock
+Top uses: Glyph of Lightning Shield, Glyph of Astral Recall, Glyph of Spiritwalker's Grace
 
 ### Suggestions
 
@@ -337,8 +337,8 @@ Top uses: Glyph of the Lakestrider, Glyph of Thunderstorm, Glyph of Flame Shock
 - **Lightning Strike** usage critically low (2.3 vs 5.0 CPM, -54%)
 - **Earth Shock** usage critically low (1.4 vs 3.1 CPM, -55%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
-- Top performers use **Glyph of the Lakestrider**
-- Top performers use **Glyph of Thunderstorm**
+- Top performers use **Glyph of Lightning Shield**
+- Top performers use **Glyph of Astral Recall**
 
 
 ---
@@ -350,7 +350,7 @@ Top uses: Glyph of the Lakestrider, Glyph of Thunderstorm, Glyph of Flame Shock
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/5 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 5 possible uses)
 
 ### Rotation vs Жывёлина
 
@@ -369,7 +369,7 @@ Top uses: Glyph of the Lakestrider, Glyph of Thunderstorm, Glyph of Flame Shock
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Spiritwalker's Grace, Glyph of Flame Shock, Glyph of the Compy
+Top uses: Glyph of Spiritwalker's Grace, Glyph of the Compy, Glyph of Flame Shock
 
 ### Suggestions
 
@@ -381,7 +381,7 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Flame Shock, Glyph of the Comp
 - **Flame Shock** uptime is low (39.7%) - maintain on target
 - **Lightning Bolt Overload** usage critically low (2.8 vs 5.1 CPM, -45%)
 - Top performers use **Glyph of Spiritwalker's Grace**
-- Top performers use **Glyph of Flame Shock**
+- Top performers use **Glyph of the Compy**
 
 
 ---
@@ -393,7 +393,7 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Flame Shock, Glyph of the Comp
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/3 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 3 possible uses)
 
 ### Rotation vs Seos
 
@@ -417,7 +417,7 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Flame Shock, Glyph of the Comp
 | T3 | Totemic Recall | **Totemic Projection** |
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Spiritwalker's Grace, Glyph of Lightning Shield, Glyph of Astral Recall
+Top uses: Glyph of Lightning Shield, Glyph of Spiritwalker's Grace, Glyph of the Lakestrider
 
 ### Suggestions
 
@@ -430,8 +430,8 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Lightning Shield, Glyph of Ast
 - **Lightning Strike** usage critically low (1.0 vs 43.2 CPM, -98%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
-- Top performers use **Glyph of Spiritwalker's Grace**
 - Top performers use **Glyph of Lightning Shield**
+- Top performers use **Glyph of Spiritwalker's Grace**
 
 
 ---
@@ -443,7 +443,7 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Lightning Shield, Glyph of Ast
 - [ ] **Food:** None detected
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/8 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 8 possible uses)
 
 ### Rotation vs Jiimms
 
@@ -466,7 +466,7 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Lightning Shield, Glyph of Ast
 |------|-----|-----|
 | T3 | Totemic Recall | **Totemic Projection** |
 
-Top uses: Glyph of the Lakestrider, Glyph of Thunderstorm, Glyph of Flame Shock
+Top uses: Glyph of Lightning Shield, Glyph of Astral Recall, Glyph of Spiritwalker's Grace
 
 ### Suggestions
 
@@ -479,8 +479,8 @@ Top uses: Glyph of the Lakestrider, Glyph of Thunderstorm, Glyph of Flame Shock
 - **Lightning Strike** usage critically low (2.2 vs 3.4 CPM, -35%)
 - **Earth Shock** usage critically low (1.7 vs 2.8 CPM, -39%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
-- Top performers use **Glyph of the Lakestrider**
-- Top performers use **Glyph of Thunderstorm**
+- Top performers use **Glyph of Lightning Shield**
+- Top performers use **Glyph of Astral Recall**
 
 
 ---
@@ -492,7 +492,7 @@ Top uses: Glyph of the Lakestrider, Glyph of Thunderstorm, Glyph of Flame Shock
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/7 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 7 possible uses)
 
 ### Rotation vs Laoozhang
 
@@ -515,7 +515,7 @@ Top uses: Glyph of the Lakestrider, Glyph of Thunderstorm, Glyph of Flame Shock
 |------|-----|-----|
 | T3 | Totemic Recall | **Totemic Projection** |
 
-Top uses: Glyph of Telluric Currents, Glyph of Elemental Familiars, Glyph of the Lakestrider
+Top uses: Glyph of Elemental Familiars, Glyph of Telluric Currents, Glyph of Lightning Shield
 
 ### Suggestions
 
@@ -527,8 +527,8 @@ Top uses: Glyph of Telluric Currents, Glyph of Elemental Familiars, Glyph of the
 - **Primal Fire Elemental** uptime is low (7.5%) - maintain on target
 - **Earth Shock** usage critically low (1.7 vs 2.8 CPM, -39%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
-- Top performers use **Glyph of Telluric Currents**
 - Top performers use **Glyph of Elemental Familiars**
+- Top performers use **Glyph of Telluric Currents**
 
 
 ---
@@ -540,7 +540,7 @@ Top uses: Glyph of Telluric Currents, Glyph of Elemental Familiars, Glyph of the
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (2/8 uses)
+- [ ] **Engineering:** Synapse Springs (2 of 8 possible uses)
 
 ### Rotation vs Rênew
 
@@ -563,7 +563,7 @@ Top uses: Glyph of Telluric Currents, Glyph of Elemental Familiars, Glyph of the
 |------|-----|-----|
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Flame Shock, Glyph of Spiritwalker's Grace
+Top uses: Glyph of Spiritwalker's Grace, Glyph of Flame Shock
 
 ### Suggestions
 
@@ -573,6 +573,6 @@ Top uses: Glyph of Flame Shock, Glyph of Spiritwalker's Grace
 - **Chain Lightning Overload** usage critically low (2.4 vs 117.0 CPM, -98%)
 - **Chain Lightning** usage critically low (0.2 vs 20.8 CPM, -99%)
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
-- Top performers use **Glyph of Flame Shock**
 - Top performers use **Glyph of Spiritwalker's Grace**
+- Top performers use **Glyph of Flame Shock**
 

@@ -14,7 +14,7 @@
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/2 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 2 possible uses)
 
 ### Rotation vs Rauschblink
 
@@ -33,15 +33,15 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Rapid Displacement
+Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Rapid Displacement
 
 ### Suggestions
 
 - **Combustion** uptime is low (14.9%) - maintain on target
 - **Combustion** usage critically low (0.4 vs 24.5 CPM, -98%)
 - **Mirror Image** usage critically low (0.4 vs 0.7 CPM, -43%)
-- Top performers use **Glyph of Loose Mana**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Loose Mana**
 
 
 ---
@@ -53,7 +53,7 @@ Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Rapid Displacement
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (2/6 uses)
+- [ ] **Engineering:** Synapse Springs (2 of 6 possible uses)
 
 ### Rotation vs Lecuona
 
@@ -100,7 +100,7 @@ Top uses: Glyph of Illusion, Glyph of Rapid Displacement
 - [ ] **Food:** None detected
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (3/4 uses)
+- [ ] **Engineering:** Synapse Springs (3 of 4 possible uses)
 
 ### Rotation vs Apmbillion
 
@@ -124,7 +124,7 @@ Top uses: Glyph of Illusion, Glyph of Rapid Displacement
 | T2 | Temporal Shield | **Ice Barrier** |
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Armors, Glyph of Rapid Displacement
+Top uses: Glyph of Rapid Displacement, Glyph of Armors
 
 ### Suggestions
 
@@ -133,8 +133,8 @@ Top uses: Glyph of Armors, Glyph of Rapid Displacement
 - **Scorch** usage critically low (3.7 vs 10.1 CPM, -63%)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Armors**
 - Top performers use **Glyph of Rapid Displacement**
+- Top performers use **Glyph of Armors**
 
 
 ---
@@ -146,7 +146,7 @@ Top uses: Glyph of Armors, Glyph of Rapid Displacement
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [x] **Engineering:** Synapse Springs (2/2 uses)
+- [x] **Engineering:** Synapse Springs (2 uses)
 
 ### Rotation vs Eyecantread
 
@@ -165,14 +165,14 @@ Top uses: Glyph of Armors, Glyph of Rapid Displacement
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Illusion, Glyph of Deep Freeze, Glyph of Loose Mana
 
 ### Suggestions
 
 - **Combustion** uptime is low (24.3%) - maintain on target
 - **Living Bomb** usage critically low (6.2 vs 10.6 CPM, -42%)
-- Top performers use **Glyph of Deep Freeze**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Deep Freeze**
 
 
 ---
@@ -184,7 +184,7 @@ Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (2/5 uses)
+- [ ] **Engineering:** Synapse Springs (2 of 5 possible uses)
 
 ### Rotation vs Ankey
 
@@ -228,7 +228,7 @@ Top uses: Glyph of Cone of Cold
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (2/2 uses)
+- [x] **Engineering:** Synapse Springs (2 uses)
 
 ### Rotation vs Biskuilete
 
@@ -251,7 +251,7 @@ Top uses: Glyph of Cone of Cold
 |------|-----|-----|
 | T2 | Temporal Shield | **Ice Barrier** |
 
-Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Armors
+Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Armors
 
 ### Suggestions
 
@@ -259,8 +259,8 @@ Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Armors
 - **Combustion** usage critically low (0.7 vs 18.6 CPM, -96%)
 - **Mirror Image** could be cast more (0.3 vs 0.4 CPM)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
-- Top performers use **Glyph of Loose Mana**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Loose Mana**
 
 
 ---
@@ -272,7 +272,7 @@ Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Armors
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (3/4 uses)
+- [ ] **Engineering:** Synapse Springs (3 of 4 possible uses)
 
 ### Rotation vs Eyecantread
 
@@ -291,7 +291,7 @@ Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Armors
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
+Top uses: Glyph of Illusion, Glyph of Deep Freeze, Glyph of Loose Mana
 
 ### Suggestions
 
@@ -299,8 +299,8 @@ Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
 - **Combustion** uptime is low (22.5%) - maintain on target
 - **Mirror Image** usage critically low (0.2 vs 15.7 CPM, -99%)
 - **Living Bomb** could be cast more (2.7 vs 3.6 CPM)
-- Top performers use **Glyph of Deep Freeze**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Deep Freeze**
 
 
 ---
@@ -312,7 +312,7 @@ Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (2/5 uses)
+- [ ] **Engineering:** Synapse Springs (2 of 5 possible uses)
 
 ### Rotation vs Iíìlíìlíìlíì
 
@@ -358,7 +358,7 @@ Top uses: Glyph of Armors
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/3 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 3 possible uses)
 
 ### Rotation vs Hypestjuice
 
@@ -406,7 +406,7 @@ Top uses: Glyph of Armors
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (4/8 uses)
+- [ ] **Engineering:** Synapse Springs (4 of 8 possible uses)
 
 ### Rotation vs Gordan
 
@@ -445,7 +445,7 @@ Top uses: Glyph of Loose Mana, Glyph of Rapid Displacement
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (4/7 uses)
+- [ ] **Engineering:** Synapse Springs (4 of 7 possible uses)
 
 ### Rotation vs Hypestjuice
 
@@ -489,7 +489,7 @@ Top uses: Glyph of Armors
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (3/8 uses)
+- [ ] **Engineering:** Synapse Springs (3 of 8 possible uses)
 
 ### Rotation vs Rauschblink
 
@@ -512,7 +512,7 @@ Top uses: Glyph of Armors
 |------|-----|-----|
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Rapid Displacement
+Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Rapid Displacement
 
 ### Suggestions
 
@@ -525,6 +525,6 @@ Top uses: Glyph of Loose Mana, Glyph of Illusion, Glyph of Rapid Displacement
 - **Living Bomb** usage critically low (5.5 vs 25.1 CPM, -78%)
 - **Mirror Image** usage critically low (0.2 vs 8.7 CPM, -98%)
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Loose Mana**
 - Top performers use **Glyph of Illusion**
+- Top performers use **Glyph of Loose Mana**
 

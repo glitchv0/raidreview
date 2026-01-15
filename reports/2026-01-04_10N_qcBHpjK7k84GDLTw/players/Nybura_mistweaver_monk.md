@@ -14,7 +14,7 @@
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (3/2 uses)
+- [x] **Engineering:** Synapse Springs (3 uses)
 
 ### Healing vs Kàsu
 
@@ -75,7 +75,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (6/6 uses)
+- [x] **Engineering:** Synapse Springs (6 uses)
 
 ### Healing vs Mirelin
 
@@ -135,7 +135,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 - [ ] **Food:** None detected
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (5/4 uses)
+- [x] **Engineering:** Synapse Springs (5 uses)
 
 ### Healing vs Sornaer
 
@@ -173,15 +173,15 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
+Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
 - Very high overheal (55.3%) - consider more efficient spell usage or better timing
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Enduring Healing Sphere**
 - Top performers use **Glyph of Spinning Crane Kick**
+- Top performers use **Glyph of Enduring Healing Sphere**
 
 
 ---
@@ -193,7 +193,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (3/2 uses)
+- [x] **Engineering:** Synapse Springs (3 uses)
 
 ### Healing vs 哈基咪
 
@@ -230,14 +230,14 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
 |------|-----|-----|
 | T2 | Zen Pulse | **Chi Wave** |
 
-Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation
+Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of Jab
 
 ### Suggestions
 
 - Very high overheal (61.5%) - consider more efficient spell usage or better timing
 - Consider **Chi Wave** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Crackling Tiger Lightning**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
@@ -249,7 +249,7 @@ Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Zen Meditat
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (6/5 uses)
+- [x] **Engineering:** Synapse Springs (6 uses)
 
 ### Healing vs Megabloks
 
@@ -307,7 +307,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (3/2 uses)
+- [x] **Engineering:** Synapse Springs (3 uses)
 
 ### Healing vs Potatomwtwo
 
@@ -347,7 +347,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 ### Suggestions
 
@@ -356,8 +356,8 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Jab**
 
 
 ---
@@ -369,7 +369,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (5/4 uses)
+- [x] **Engineering:** Synapse Springs (5 uses)
 
 ### Healing vs Arnumo
 
@@ -407,7 +407,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere, Glyph of Honor
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Honor, Glyph of Jab
 
 ### Suggestions
 
@@ -415,8 +415,8 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere, Glyph of Honor
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Honor**
 
 
 ---
@@ -428,7 +428,7 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere, Glyph of Honor
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (6/5 uses)
+- [x] **Engineering:** Synapse Springs (6 uses)
 
 ### Healing vs Chi
 
@@ -465,7 +465,7 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere, Glyph of Honor
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 
 ### Suggestions
 
@@ -473,8 +473,8 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Jab**
 
 
 ---
@@ -486,7 +486,7 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (4/3 uses)
+- [x] **Engineering:** Synapse Springs (4 uses)
 
 ### Healing vs Smonkz
 
@@ -526,7 +526,7 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
 | T2 | Zen Pulse | **Chi Burst** |
 | T6 | Rushing Jade Wind | **Invoke Xuen, the White Tiger** |
 
-Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, Glyph of Jab
 
 ### Suggestions
 
@@ -534,8 +534,8 @@ Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Enduring He
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Invoke Xuen, the White Tiger** (T6) - used by top performers instead of Rushing Jade Wind
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Crackling Tiger Lightning**
+- Top performers use **Glyph of Enduring Healing Sphere**
 
 
 ---
@@ -547,7 +547,7 @@ Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Enduring He
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (8/8 uses)
+- [x] **Engineering:** Synapse Springs (8 uses)
 
 ### Healing vs Potatomwtwo
 
@@ -587,15 +587,15 @@ Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Enduring He
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Jab**
 
 
 ---
@@ -607,7 +607,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (7/7 uses)
+- [x] **Engineering:** Synapse Springs (7 uses)
 
 ### Healing vs Kàsu
 
@@ -669,7 +669,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
-- [x] **Engineering:** Synapse Springs (9/8 uses)
+- [x] **Engineering:** Synapse Springs (9 uses)
 
 ### Healing vs Pantaro
 
@@ -710,7 +710,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 | T4 | Leg Sweep | **Ring of Peace** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of Rising Tiger Kick
+Top uses: Glyph of Rising Tiger Kick, Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -718,6 +718,6 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of 
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
+- Top performers use **Glyph of Rising Tiger Kick**
 - Top performers use **Glyph of Crackling Tiger Lightning**
-- Top performers use **Glyph of Zen Meditation**
 

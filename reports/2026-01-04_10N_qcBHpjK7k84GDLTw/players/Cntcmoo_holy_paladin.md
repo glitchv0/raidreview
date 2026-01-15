@@ -38,15 +38,15 @@
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Seal of Blood, Glyph of Flash of Light, Glyph of Righteous Retreat
+Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Illumination
 
 ### Suggestions
 
 - Very high overheal (75.8%) - consider more efficient spell usage or better timing
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of the Mounted King**
 - Top performers use **Glyph of Seal of Blood**
-- Top performers use **Glyph of Flash of Light**
 
 
 ---
@@ -84,7 +84,7 @@ Top uses: Glyph of Seal of Blood, Glyph of Flash of Light, Glyph of Righteous Re
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Flash of Light, Glyph of Winged Vengeance
+Top uses: Glyph of Fire From the Heavens, Glyph of Divinity, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -93,8 +93,8 @@ Top uses: Glyph of Divinity, Glyph of Flash of Light, Glyph of Winged Vengeance
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
+- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Flash of Light**
 
 
 ---
@@ -130,15 +130,15 @@ Top uses: Glyph of Divinity, Glyph of Flash of Light, Glyph of Winged Vengeance
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of the Mounted King, Glyph of Seal of Blood
+Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Flash of Light
 
 ### Suggestions
 
 - Moderate overheal (51.9%) - watch for heal sniping
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of the Mounted King**
+- Top performers use **Glyph of Seal of Blood**
 
 
 ---
@@ -174,7 +174,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of the Mounted King, Glyph of Seal of
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retreat
+Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
 
 ### Suggestions
 
@@ -182,7 +182,7 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retre
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
@@ -261,7 +261,7 @@ Top uses: Glyph of Illumination
 | T1 | Speed of Light | **Pursuit of Justice** |
 | T3 | Eternal Flame | **Selfless Healer** |
 
-Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Fire From the Heavens
+Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -353,7 +353,7 @@ Top uses: Glyph of Divinity, Glyph of Contemplation
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Fire From the Heavens
+Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -399,7 +399,7 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Fire From the H
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Light's Hammer | **Holy Prism** |
 
-Top uses: Glyph of Divinity, Glyph of Fire From the Heavens, Glyph of Righteous Retreat
+Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
 
 ### Suggestions
 
@@ -407,7 +407,7 @@ Top uses: Glyph of Divinity, Glyph of Fire From the Heavens, Glyph of Righteous 
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Holy Prism** (T6) - used by top performers instead of Light's Hammer
 - Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
@@ -445,7 +445,7 @@ Top uses: Glyph of Divinity, Glyph of Fire From the Heavens, Glyph of Righteous 
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of the Falling Avenger, Glyph of Divinity, Glyph of Winged Vengeance
+Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Winged Vengeance
 
 ### Suggestions
 
@@ -453,8 +453,8 @@ Top uses: Glyph of the Falling Avenger, Glyph of Divinity, Glyph of Winged Venge
 - Consider **Long Arm of the Law** (T1) - used by top performers instead of Speed of Light
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of the Falling Avenger**
 - Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
@@ -491,7 +491,7 @@ Top uses: Glyph of the Falling Avenger, Glyph of Divinity, Glyph of Winged Venge
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Fire From the Heavens
+Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Contemplation
 
 ### Suggestions
 
@@ -539,7 +539,7 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Fire From the H
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Righteous Retreat, Glyph of Winged Vengeance, Glyph of Seal of Blood
+Top uses: Glyph of Seal of Blood, Glyph of Flash of Light, Glyph of Righteous Retreat
 
 ### Suggestions
 
@@ -547,6 +547,6 @@ Top uses: Glyph of Righteous Retreat, Glyph of Winged Vengeance, Glyph of Seal o
 - Consider **Repentance** (T2) - used by top performers instead of Fist of Justice
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Righteous Retreat**
-- Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Seal of Blood**
+- Top performers use **Glyph of Flash of Light**
 

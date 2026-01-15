@@ -14,7 +14,7 @@
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Virmen's Bite
-- [x] **Engineering:** Synapse Springs (2/2 uses)
+- [x] **Engineering:** Synapse Springs (2 uses)
 
 ### Rotation vs Thrillbert
 
@@ -51,7 +51,7 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (5/6 uses)
+- [ ] **Engineering:** Synapse Springs (5 of 6 possible uses)
 
 ### Rotation vs Alexirl
 
@@ -74,7 +74,7 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
+Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
 
 ### Suggestions
 
@@ -82,8 +82,8 @@ Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
 - **Glaive Toss** uptime is low (2.6%) - maintain on target
 - **Glaive Toss** uptime is low (0.8%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
+- Top performers use **Glyph of Endless Wrath**
 - Top performers use **Glyph of Disengage**
-- Top performers use **Glyph of Stampede**
 
 
 ---
@@ -95,7 +95,7 @@ Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [x] **Engineering:** Synapse Springs (5/4 uses)
+- [x] **Engineering:** Synapse Springs (5 uses)
 
 ### Rotation vs Puppieshot
 
@@ -137,7 +137,7 @@ Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [x] **Engineering:** Synapse Springs (3/2 uses)
+- [x] **Engineering:** Synapse Springs (3 uses)
 
 ### Rotation vs Anasteriian
 
@@ -182,7 +182,7 @@ Top uses: Glyph of Disengage
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [x] **Engineering:** Synapse Springs (6/5 uses)
+- [x] **Engineering:** Synapse Springs (6 uses)
 
 ### Rotation vs Thrillbert
 
@@ -219,7 +219,7 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Virmen's Bite
-- [x] **Engineering:** Synapse Springs (3/2 uses)
+- [x] **Engineering:** Synapse Springs (3 uses)
 
 ### Rotation vs 满月雕弓
 
@@ -243,14 +243,14 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Endless Wrath
+Top uses: Glyph of Endless Wrath, Glyph of Stampede, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
+- Top performers use **Glyph of Endless Wrath**
 - Top performers use **Glyph of Stampede**
-- Top performers use **Glyph of Aspect of the Cheetah**
 
 
 ---
@@ -262,7 +262,7 @@ Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Endless Wr
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [x] **Engineering:** Synapse Springs (5/4 uses)
+- [x] **Engineering:** Synapse Springs (5 uses)
 
 ### Rotation vs Magiaoscura
 
@@ -304,7 +304,7 @@ Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Liberation
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (3/5 uses)
+- [ ] **Engineering:** Synapse Springs (3 of 5 possible uses)
 
 ### Rotation vs Mcnuggees
 
@@ -352,7 +352,7 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast, Glyph of Liberation
 - [ ] **Food:** None detected
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (2/3 uses)
+- [ ] **Engineering:** Synapse Springs (2 of 3 possible uses)
 
 ### Rotation vs 滿月雕弓
 
@@ -375,7 +375,7 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast, Glyph of Liberation
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Endless Wrath
+Top uses: Glyph of Endless Wrath, Glyph of Stampede, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
@@ -388,8 +388,8 @@ Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Endless Wr
 - **Kill Shot** usage critically low (1.0 vs 1.8 CPM, -44%)
 - **Glaive Toss** uptime is low (0.1%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
+- Top performers use **Glyph of Endless Wrath**
 - Top performers use **Glyph of Stampede**
-- Top performers use **Glyph of Aspect of the Cheetah**
 
 
 ---
@@ -401,7 +401,7 @@ Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Endless Wr
 - [ ] **Food:** None detected
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [x] **Engineering:** Synapse Springs (8/8 uses)
+- [x] **Engineering:** Synapse Springs (8 uses)
 
 ### Rotation vs Windwhisper
 
@@ -425,7 +425,7 @@ Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Endless Wr
 | T1 | Crouching Tiger, Hidden Chimera | **Posthaste** |
 | T3 | Iron Hawk | **Spirit Bond** |
 
-Top uses: Glyph of Mending, Glyph of Stampede, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Mending
 
 ### Suggestions
 
@@ -433,7 +433,7 @@ Top uses: Glyph of Mending, Glyph of Stampede, Glyph of Aspect of the Cheetah
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Spirit Bond** (T3) - used by top performers instead of Iron Hawk
-- Top performers use **Glyph of Mending**
+- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Stampede**
 
 
@@ -446,7 +446,7 @@ Top uses: Glyph of Mending, Glyph of Stampede, Glyph of Aspect of the Cheetah
 - [ ] **Food:** None detected
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [x] **Engineering:** Synapse Springs (7/7 uses)
+- [x] **Engineering:** Synapse Springs (7 uses)
 
 ### Rotation vs 뭉치냥
 
@@ -469,14 +469,14 @@ Top uses: Glyph of Mending, Glyph of Stampede, Glyph of Aspect of the Cheetah
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspect of the Beast, Glyph of Aspects, Glyph of Liberation
+Top uses: Glyph of Aspects, Glyph of Aspect of the Beast, Glyph of Liberation
 
 ### Suggestions
 
 - **Cobra Shot** could be cast more (14.2 vs 18.1 CPM)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Aspect of the Beast**
 - Top performers use **Glyph of Aspects**
+- Top performers use **Glyph of Aspect of the Beast**
 
 
 ---
@@ -488,7 +488,7 @@ Top uses: Glyph of Aspect of the Beast, Glyph of Aspects, Glyph of Liberation
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (7/8 uses)
+- [ ] **Engineering:** Synapse Springs (7 of 8 possible uses)
 
 ### Rotation vs Deeboww
 
@@ -513,7 +513,7 @@ Top uses: Glyph of Aspect of the Beast, Glyph of Aspects, Glyph of Liberation
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Disengage, Glyph of Aspect of the Cheetah, Glyph of Tame Beast
+Top uses: Glyph of Tame Beast, Glyph of Disengage, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
@@ -523,6 +523,6 @@ Top uses: Glyph of Disengage, Glyph of Aspect of the Cheetah, Glyph of Tame Beas
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
+- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Disengage**
-- Top performers use **Glyph of Aspect of the Cheetah**
 

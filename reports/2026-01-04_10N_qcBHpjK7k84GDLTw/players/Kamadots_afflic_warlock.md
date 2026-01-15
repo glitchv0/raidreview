@@ -14,7 +14,7 @@
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [x] **Engineering:** Synapse Springs (2/2 uses)
+- [x] **Engineering:** Synapse Springs (2 uses)
 
 ### Rotation vs Shrp
 
@@ -36,7 +36,7 @@
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Kilrogg's Cunning, Glyph of Curse of Exhaustion, Glyph of Health Funnel
+Top uses: Glyph of Health Funnel, Kilrogg's Cunning, Glyph of Curse of Exhaustion
 
 ### Suggestions
 
@@ -50,7 +50,7 @@ Top uses: Kilrogg's Cunning, Glyph of Curse of Exhaustion, Glyph of Health Funne
 - **Haunt** uptime is low (41.2%) - maintain on target
 - **Drain Soul** uptime is low (20.3%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Curse of Exhaustion**
+- Top performers use **Glyph of Health Funnel**
 
 
 ---
@@ -62,7 +62,7 @@ Top uses: Kilrogg's Cunning, Glyph of Curse of Exhaustion, Glyph of Health Funne
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (3/6 uses)
+- [ ] **Engineering:** Synapse Springs (3 of 6 possible uses)
 
 ### Rotation vs Duchane
 
@@ -86,7 +86,7 @@ Top uses: Kilrogg's Cunning, Glyph of Curse of Exhaustion, Glyph of Health Funne
 | T3 | Soul Link | **Dark Bargain** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
+Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Subtlety
 
 ### Suggestions
 
@@ -109,7 +109,7 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (3/4 uses)
+- [ ] **Engineering:** Synapse Springs (3 of 4 possible uses)
 
 ### Rotation vs Swaenk
 
@@ -131,7 +131,7 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Health Funnel
+Top uses: Glyph of Health Funnel, Kilrogg's Cunning, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -140,7 +140,7 @@ Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Health Funnel
 - **Unstable Affliction** usage critically low (2.3 vs 99.1 CPM, -98%)
 - **Agony** usage critically low (2.3 vs 99.4 CPM, -98%)
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Eternal Resolve**
+- Top performers use **Glyph of Health Funnel**
 
 
 ---
@@ -152,7 +152,7 @@ Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Health Funnel
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [x] **Engineering:** Synapse Springs (3/2 uses)
+- [x] **Engineering:** Synapse Springs (3 uses)
 
 ### Rotation vs Dotaslav
 
@@ -175,7 +175,7 @@ Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Health Funnel
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Verdant Spheres, Glyph of Eternal Resolve, Glyph of Healthstone
+Top uses: Glyph of Verdant Spheres, Glyph of Healthstone, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -187,7 +187,7 @@ Top uses: Glyph of Verdant Spheres, Glyph of Eternal Resolve, Glyph of Healthsto
 - **Seed of Corruption** usage critically low (1.1 vs 1.6 CPM, -31%)
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Verdant Spheres**
-- Top performers use **Glyph of Eternal Resolve**
+- Top performers use **Glyph of Healthstone**
 
 
 ---
@@ -199,7 +199,7 @@ Top uses: Glyph of Verdant Spheres, Glyph of Eternal Resolve, Glyph of Healthsto
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (3/5 uses)
+- [ ] **Engineering:** Synapse Springs (3 of 5 possible uses)
 
 ### Rotation vs Eukaryå
 
@@ -245,7 +245,7 @@ Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [x] **Engineering:** Synapse Springs (2/2 uses)
+- [x] **Engineering:** Synapse Springs (2 uses)
 
 ### Rotation vs Eukaryå
 
@@ -293,7 +293,7 @@ Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (3/4 uses)
+- [ ] **Engineering:** Synapse Springs (3 of 4 possible uses)
 
 ### Rotation vs Duchane
 
@@ -316,7 +316,7 @@ Top uses: Glyph of Eternal Resolve, Glyph of Nightmares
 | T3 | Soul Link | **Dark Bargain** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
+Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Subtlety
 
 ### Suggestions
 
@@ -339,7 +339,7 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (2/5 uses)
+- [ ] **Engineering:** Synapse Springs (2 of 5 possible uses)
 
 ### Rotation vs Duchane
 
@@ -362,7 +362,7 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
 | T3 | Soul Link | **Dark Bargain** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
+Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Subtlety
 
 ### Suggestions
 
@@ -384,7 +384,7 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (1/3 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 3 possible uses)
 
 ### Rotation vs Sturdy
 
@@ -430,7 +430,7 @@ Top uses: Glyph of Verdant Spheres, Glyph of Curse of Exhaustion
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (5/8 uses)
+- [ ] **Engineering:** Synapse Springs (5 of 8 possible uses)
 
 ### Rotation vs Duchane
 
@@ -453,7 +453,7 @@ Top uses: Glyph of Verdant Spheres, Glyph of Curse of Exhaustion
 | T3 | Soul Link | **Dark Bargain** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
+Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Subtlety
 
 ### Suggestions
 
@@ -476,7 +476,7 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (5/7 uses)
+- [ ] **Engineering:** Synapse Springs (5 of 7 possible uses)
 
 ### Rotation vs Чыхалычгодх
 
@@ -498,7 +498,7 @@ Top uses: Glyph of Eternal Resolve, Kilrogg's Cunning, Glyph of Subtlety
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Kilrogg's Cunning, Glyph of Curse of the Elements, Glyph of Health Funnel
+Top uses: Glyph of Health Funnel, Kilrogg's Cunning, Glyph of Curse of the Elements
 
 ### Suggestions
 
@@ -509,7 +509,7 @@ Top uses: Kilrogg's Cunning, Glyph of Curse of the Elements, Glyph of Health Fun
 - **Malefic Grasp** uptime is low (44.7%) - maintain on target
 - **Drain Soul** uptime is low (8.5%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Curse of the Elements**
+- Top performers use **Glyph of Health Funnel**
 
 
 ---
@@ -521,7 +521,7 @@ Top uses: Kilrogg's Cunning, Glyph of Curse of the Elements, Glyph of Health Fun
 - [x] **Food:** Sea Mist Rice Noodles (300 stat)
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
-- [ ] **Engineering:** Synapse Springs (4/8 uses)
+- [ ] **Engineering:** Synapse Springs (4 of 8 possible uses)
 
 ### Rotation vs Givemecookie
 
@@ -544,7 +544,7 @@ Top uses: Kilrogg's Cunning, Glyph of Curse of the Elements, Glyph of Health Fun
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Verdant Spheres, Glyph of Curse of the Elements, Kilrogg's Cunning
+Top uses: Glyph of Verdant Spheres, Kilrogg's Cunning, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -555,5 +555,4 @@ Top uses: Glyph of Verdant Spheres, Glyph of Curse of the Elements, Kilrogg's Cu
 - **Malefic Grasp** uptime is low (18.5%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Verdant Spheres**
-- Top performers use **Glyph of Curse of the Elements**
 

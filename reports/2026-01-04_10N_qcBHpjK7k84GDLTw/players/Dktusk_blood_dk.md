@@ -40,13 +40,13 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Death Grip
+Top uses: Glyph of Anti-Magic Shell, Glyph of the Long Winter, Glyph of Death Grip
 
 ### Suggestions
 
 - **Bone Shield** uptime below target (77.2%, aim for >80%)
-- Top performers use **Glyph of the Long Winter**
 - Top performers use **Glyph of Anti-Magic Shell**
+- Top performers use **Glyph of the Long Winter**
 
 
 ---
@@ -58,7 +58,7 @@ Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Death Gr
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [x] **Pre-pot:** Mogu Power Potion
 - [x] **Combat pot:** Mogu Power Potion
-- [ ] **Engineering:** Phase Fingers (1/6 uses)
+- [ ] **Engineering:** Phase Fingers (1 of 6 possible uses)
 
 ### Active Mitigation vs Superdkj
 
@@ -84,14 +84,14 @@ Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Death Gr
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Army of the Dead, Glyph of Corpse Explosion
+Top uses: Glyph of Corpse Explosion, Glyph of Army of the Dead
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (52.4%, target >80%)
 - Consider using **Anti-Magic Shell** during high damage phases
-- Top performers use **Glyph of Army of the Dead**
 - Top performers use **Glyph of Corpse Explosion**
+- Top performers use **Glyph of Army of the Dead**
 
 
 ---
@@ -103,7 +103,7 @@ Top uses: Glyph of Army of the Dead, Glyph of Corpse Explosion
 - [x] **Food:** Charbroiled Tiger Steak (275 stat)
 - [x] **Pre-pot:** Mogu Power Potion
 - [x] **Combat pot:** Mogu Power Potion
-- [ ] **Engineering:** Phase Fingers (1/4 uses)
+- [ ] **Engineering:** Phase Fingers (1 of 4 possible uses)
 
 ### Active Mitigation vs Liltechnique
 
@@ -134,13 +134,13 @@ Top uses: Glyph of Army of the Dead, Glyph of Corpse Explosion
 |------|-----|-----|
 | T4 | Death Pact | **Death Siphon** |
 
-Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of Death and Decay
+Top uses: Glyph of Death and Decay, Glyph of Anti-Magic Shell, Glyph of Army of the Dead
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (29.5%, target >80%)
 - Consider **Death Siphon** (T4) - used by top performers instead of Death Pact
-- Top performers use **Glyph of Army of the Dead**
+- Top performers use **Glyph of Death and Decay**
 - Top performers use **Glyph of Anti-Magic Shell**
 
 
@@ -183,15 +183,15 @@ Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of Death a
 |------|-----|-----|
 | T3 | Death's Advance | **Chilblains** |
 
-Top uses: Glyph of Army of the Dead, Glyph of Horn of Winter, Glyph of Anti-Magic Shell
+Top uses: Glyph of Horn of Winter, Glyph of Vampiric Blood, Glyph of Anti-Magic Shell
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (40.7%, target >80%)
 - **Blood Shield** uptime below target (39.1%, aim for >40%)
 - Consider **Chilblains** (T3) - used by top performers instead of Death's Advance
-- Top performers use **Glyph of Army of the Dead**
 - Top performers use **Glyph of Horn of Winter**
+- Top performers use **Glyph of Vampiric Blood**
 
 
 ---
@@ -203,7 +203,7 @@ Top uses: Glyph of Army of the Dead, Glyph of Horn of Winter, Glyph of Anti-Magi
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [x] **Pre-pot:** Mogu Power Potion
 - [x] **Combat pot:** Mogu Power Potion
-- [ ] **Engineering:** Phase Fingers (2/5 uses)
+- [ ] **Engineering:** Phase Fingers (2 of 5 possible uses)
 
 ### Active Mitigation vs Blackkhandd
 
@@ -253,7 +253,7 @@ Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [x] **Pre-pot:** Mogu Power Potion
 - [x] **Combat pot:** Mogu Power Potion
-- [ ] **Engineering:** Phase Fingers (1/2 uses)
+- [ ] **Engineering:** Phase Fingers (1 of 2 possible uses)
 
 ### Active Mitigation vs Superdkjesse
 
@@ -280,13 +280,13 @@ Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Army of the Dead, Glyph of Death and Decay
+Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 
 ### Suggestions
 
 - **Bone Shield** uptime below target (67.0%, aim for >80%)
-- Top performers use **Glyph of Army of the Dead**
 - Top performers use **Glyph of Death and Decay**
+- Top performers use **Glyph of Army of the Dead**
 
 
 ---
@@ -342,7 +342,7 @@ Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Army of 
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Mogu Power Potion
-- [ ] **Engineering:** Phase Fingers (2/5 uses)
+- [ ] **Engineering:** Phase Fingers (2 of 5 possible uses)
 
 ### Active Mitigation vs Superdkjesse
 
@@ -369,13 +369,13 @@ Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Army of 
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Army of the Dead, Glyph of Death and Decay
+Top uses: Glyph of Death and Decay, Glyph of Army of the Dead
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (25.5%, target >80%)
-- Top performers use **Glyph of Army of the Dead**
 - Top performers use **Glyph of Death and Decay**
+- Top performers use **Glyph of Army of the Dead**
 
 
 ---
@@ -413,13 +413,13 @@ Top uses: Glyph of Army of the Dead, Glyph of Death and Decay
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of the Long Winter
+Top uses: Glyph of the Long Winter, Glyph of Army of the Dead, Glyph of Anti-Magic Shell
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (21.5%, target >80%)
+- Top performers use **Glyph of the Long Winter**
 - Top performers use **Glyph of Army of the Dead**
-- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
@@ -431,7 +431,7 @@ Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of the Lon
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Mogu Power Potion
-- [ ] **Engineering:** Phase Fingers (3/8 uses)
+- [ ] **Engineering:** Phase Fingers (3 of 8 possible uses)
 
 ### Active Mitigation vs Оскароносный
 
@@ -458,13 +458,13 @@ Top uses: Glyph of Army of the Dead, Glyph of Anti-Magic Shell, Glyph of the Lon
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Anti-Magic Shell, Glyph of Corpse Explosion
+Top uses: Glyph of Corpse Explosion, Glyph of Anti-Magic Shell
 
 ### Suggestions
 
 - **Bone Shield** uptime critically low (31.6%, target >80%)
-- Top performers use **Glyph of Anti-Magic Shell**
 - Top performers use **Glyph of Corpse Explosion**
+- Top performers use **Glyph of Anti-Magic Shell**
 
 
 ---
@@ -476,7 +476,7 @@ Top uses: Glyph of Anti-Magic Shell, Glyph of Corpse Explosion
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Mogu Power Potion
-- [ ] **Engineering:** Phase Fingers (2/7 uses)
+- [ ] **Engineering:** Phase Fingers (2 of 7 possible uses)
 
 ### Active Mitigation vs Grønmonster
 
@@ -521,7 +521,7 @@ Top uses: Glyph of the Long Winter, Glyph of Anti-Magic Shell, Glyph of Army of 
 - [x] **Food:** Twin Fish Platter (275 stat)
 - [x] **Pre-pot:** Mogu Power Potion
 - [x] **Combat pot:** Mogu Power Potion
-- [ ] **Engineering:** Phase Fingers (7/8 uses)
+- [ ] **Engineering:** Phase Fingers (7 of 8 possible uses)
 
 ### Active Mitigation vs Insanegooner
 

@@ -34,7 +34,7 @@
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
+Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
 
 ### Suggestions
 
@@ -44,8 +44,8 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 - **Mutilate** could be cast more (9.4 vs 13.1 CPM)
 - **Shadow Blade Off-hand** could be cast more (6.2 vs 8.3 CPM)
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Pick Lock**
 - Top performers use **Glyph of Blurred Speed**
+- Top performers use **Glyph of Pick Lock**
 
 
 ---
@@ -78,7 +78,7 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
+Top uses: Glyph of Tricks of the Trade, Glyph of Sprint, Glyph of Pick Lock
 
 ### Suggestions
 
@@ -87,8 +87,8 @@ Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
 - **Mutilate** usage critically low (10.4 vs 15.0 CPM, -31%)
 - **Rupture** uptime is low (73.8%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Pick Lock**
 - Top performers use **Glyph of Tricks of the Trade**
+- Top performers use **Glyph of Sprint**
 
 
 ---
@@ -123,7 +123,7 @@ Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
 | T4 | Shadowstep | **Burst of Speed** |
 | T5 | Sting Like a Bee | **Paralytic Poison** |
 
-Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
+Top uses: Glyph of Blurred Speed, Glyph of Pick Lock
 
 ### Suggestions
 
@@ -133,8 +133,8 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
 - Consider **Burst of Speed** (T4) - used by top performers instead of Shadowstep
 - Consider **Paralytic Poison** (T5) - used by top performers instead of Sting Like a Bee
-- Top performers use **Glyph of Pick Lock**
 - Top performers use **Glyph of Blurred Speed**
+- Top performers use **Glyph of Pick Lock**
 
 
 ---
@@ -205,7 +205,7 @@ Top uses: Glyph of Blurred Speed
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Pocket, Glyph of Disguise, Glyph of Evasion
+Top uses: Glyph of Disguise, Glyph of Pick Pocket, Glyph of Evasion
 
 ### Suggestions
 
@@ -213,8 +213,8 @@ Top uses: Glyph of Pick Pocket, Glyph of Disguise, Glyph of Evasion
 - **Shadow Blade** could be cast more (4.5 vs 6.2 CPM)
 - **Shadow Blade Off-hand** could be cast more (4.3 vs 6.0 CPM)
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Pick Pocket**
 - Top performers use **Glyph of Disguise**
+- Top performers use **Glyph of Pick Pocket**
 
 
 ---
@@ -268,7 +268,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Recuperate
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (1/4 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 4 possible uses)
 
 ### Rotation vs Fisçhe
 
@@ -289,7 +289,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Recuperate
 |------|-----|-----|
 | T4 | Shadowstep | **Burst of Speed** |
 
-Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
+Top uses: Glyph of Cloak of Shadows, Glyph of Blurred Speed
 
 ### Suggestions
 
@@ -297,8 +297,8 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 - **Shadow Blade** could be cast more (5.9 vs 7.5 CPM)
 - **Rupture** uptime is low (82.1%) - maintain on target
 - Consider **Burst of Speed** (T4) - used by top performers instead of Shadowstep
-- Top performers use **Glyph of Blurred Speed**
 - Top performers use **Glyph of Cloak of Shadows**
+- Top performers use **Glyph of Blurred Speed**
 
 
 ---
@@ -310,7 +310,7 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (1/5 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 5 possible uses)
 
 ### Rotation vs 룽도닥
 
@@ -332,14 +332,14 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
+Top uses: Glyph of Tricks of the Trade, Glyph of Sprint, Glyph of Pick Lock
 
 ### Suggestions
 
 - **Rupture** uptime is low (72.3%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
-- Top performers use **Glyph of Pick Lock**
 - Top performers use **Glyph of Tricks of the Trade**
+- Top performers use **Glyph of Sprint**
 
 
 ---
@@ -351,7 +351,7 @@ Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (1/3 uses)
+- [ ] **Engineering:** Synapse Springs (1 of 3 possible uses)
 
 ### Rotation vs 박붕대
 
@@ -398,7 +398,7 @@ Top uses: Glyph of Sprint
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (4/8 uses)
+- [ ] **Engineering:** Synapse Springs (4 of 8 possible uses)
 
 ### Rotation vs Airbase
 
@@ -438,7 +438,7 @@ Top uses: Glyph of Expose Armor
 - [~] **Food:** Well Fed (250 stat)
 - [ ] **Pre-pot:** None
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (4/7 uses)
+- [ ] **Engineering:** Synapse Springs (4 of 7 possible uses)
 
 ### Rotation vs Fisçhe
 
@@ -482,7 +482,7 @@ Top uses: Glyph of Expose Armor, Glyph of Blurred Speed
 - [~] **Food:** Well Fed (250 stat)
 - [x] **Pre-pot:** Virmen's Bite
 - [x] **Combat pot:** Virmen's Bite
-- [ ] **Engineering:** Synapse Springs (4/8 uses)
+- [ ] **Engineering:** Synapse Springs (4 of 8 possible uses)
 
 ### Rotation vs Mesinas
 
