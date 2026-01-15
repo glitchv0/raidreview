@@ -22,12 +22,12 @@
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 65.5 | 35.6 | +84% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 65.5 | 35.2 | +86% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 100.0% | 100.0% | 0% |
-| <abbr title="Spell ID: 117640 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 116.3 | 450.1 | -74% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 2.7 | 13.7 | -80% |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 100.0% | - | - |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 65.5 | 35.6 | +84% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 65.5 | 35.2 | +86% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 100.0% | 100.0% | 0% |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=117640) | 116.3 | 450.1 | -74% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 2.7 | 13.7 | -80% |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 100.0% | - | - |
 
 **Overheal:** 78.6% (Top: 49.2%, +29.4%)
 
@@ -35,13 +35,13 @@
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 14.3 | 4.6 | +211% |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 4.9 | - | - |
-| <abbr title="Spell ID: 148187 | Cast - CPM (casts per minute)">Rushing Jade Wind</abbr> | 2.2 | 8.7 | -75% |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 18.3 | 10.3 | +78% |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 1.8 | 1.2 | +50% |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 3.6 | 3.3 | +9% |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 0.4 | - | - |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 14.3 | 4.6 | +211% |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 4.9 | - | - |
+| [Rushing Jade Wind](https://www.wowhead.com/mop/spell=148187) | 2.2 | 8.7 | -75% |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 18.3 | 10.3 | +78% |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 1.8 | 1.2 | +50% |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 3.6 | 3.3 | +9% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 0.4 | - | - |
 
 ### Talent/Glyph Differences
 
@@ -51,7 +51,7 @@
 | T2 | Zen Pulse | **Chi Burst** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
+Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -60,8 +60,8 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Blackout Kick**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
@@ -81,15 +81,15 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 54.1 | 87.6 | -38% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 54.1 | 85.3 | -37% |
-| <abbr title="Spell ID: 117640 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 193.4 | 286.0 | -32% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 91.2% | 100.0% | -8.8% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 3.3 | 10.8 | -69% |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 1.2 | - | - |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 72.9% | - | - |
-| <abbr title="Spell ID: 116995 | Cast - CPM (casts per minute)">Surging Mist</abbr> | 0.2 | 1.4 | -86% |
-| <abbr title="Spell ID: 124101 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 6.8 | - | - |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 54.1 | 87.6 | -38% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 54.1 | 85.3 | -37% |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=117640) | 193.4 | 286.0 | -32% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 91.2% | 100.0% | -8.8% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 3.3 | 10.8 | -69% |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 1.2 | - | - |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 72.9% | - | - |
+| [Surging Mist](https://www.wowhead.com/mop/spell=116995) | 0.2 | 1.4 | -86% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=124101) | 6.8 | - | - |
 
 **Overheal:** 68.0% (Top: 50.8%, +17.2%)
 
@@ -97,13 +97,13 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 9.1 | 8.0 | +14% |
-| <abbr title="Spell ID: 148187 | Cast - CPM (casts per minute)">Rushing Jade Wind</abbr> | 4.3 | 5.5 | -22% |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 3.0 | - | - |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 2.2 | 8.6 | -74% |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 11.6 | 12.6 | -8% |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 2.2 | - | - |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 4.6 | 12.8 | -64% |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 9.1 | 8.0 | +14% |
+| [Rushing Jade Wind](https://www.wowhead.com/mop/spell=148187) | 4.3 | 5.5 | -22% |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 3.0 | - | - |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 2.2 | 8.6 | -74% |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 11.6 | 12.6 | -8% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 2.2 | - | - |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 4.6 | 12.8 | -64% |
 
 ### Talent/Glyph Differences
 
@@ -142,16 +142,16 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 74.3 | 64.3 | +16% |
-| <abbr title="Spell ID: 117640 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 273.5 | 377.3 | -28% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 100.0% | 100.0% | 0% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 48.9 | 64.3 | -24% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 6.3 | 11.6 | -46% |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 99.5% | - | - |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 0.9 | - | - |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.2 | 0.2 | 0% |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 0.5 | - | - |
-| <abbr title="Spell ID: 124101 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 4.2 | - | - |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 74.3 | 64.3 | +16% |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=117640) | 273.5 | 377.3 | -28% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 100.0% | 100.0% | 0% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 48.9 | 64.3 | -24% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 6.3 | 11.6 | -46% |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 99.5% | - | - |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 0.9 | - | - |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.2 | 0.2 | 0% |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 0.5 | - | - |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=124101) | 4.2 | - | - |
 
 **Overheal:** 55.3% (Top: 55.9%, -0.6%)
 
@@ -159,13 +159,13 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 10.7 | 7.5 | +43% |
-| <abbr title="Spell ID: 148187 | Cast - CPM (casts per minute)">Rushing Jade Wind</abbr> | 5.1 | 7.0 | -27% |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 4.7 | - | - |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 2.3 | 6.3 | -63% |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 9.3 | 7.2 | +29% |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 12.6 | 12.5 | +1% |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 0.9 | - | - |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 10.7 | 7.5 | +43% |
+| [Rushing Jade Wind](https://www.wowhead.com/mop/spell=148187) | 5.1 | 7.0 | -27% |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 4.7 | - | - |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 2.3 | 6.3 | -63% |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 9.3 | 7.2 | +29% |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 12.6 | 12.5 | +1% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 0.9 | - | - |
 
 ### Talent/Glyph Differences
 
@@ -202,16 +202,16 @@ Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 76.4 | 85.0 | -10% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 76.4 | 85.0 | -10% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 94.1% | 94.7% | -0.6% |
-| <abbr title="Spell ID: 117640 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 195.2 | 548.3 | -64% |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.4 | 0.5 | -20% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 4.8 | 9.2 | -48% |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 97.3% | - | - |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 0.4 | - | - |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 0.7 | 1.3 | -46% |
-| <abbr title="Spell ID: 135920 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 1.8 | 9.2 | -80% |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 76.4 | 85.0 | -10% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 76.4 | 85.0 | -10% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 94.1% | 94.7% | -0.6% |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=117640) | 195.2 | 548.3 | -64% |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.4 | 0.5 | -20% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 4.8 | 9.2 | -48% |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 97.3% | - | - |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 0.4 | - | - |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 0.7 | 1.3 | -46% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=135920) | 1.8 | 9.2 | -80% |
 
 **Overheal:** 61.5% (Top: 48.9%, +12.6%)
 
@@ -219,13 +219,13 @@ Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 11.7 | 13.1 | -11% |
-| <abbr title="Spell ID: 148187 | Cast - CPM (casts per minute)">Rushing Jade Wind</abbr> | 5.1 | 10.5 | -51% |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 4.4 | - | - |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 14.3 | - | - |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 5.9 | 8.2 | -28% |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 1.8 | - | - |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 1.1 | 11.0 | -90% |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 11.7 | 13.1 | -11% |
+| [Rushing Jade Wind](https://www.wowhead.com/mop/spell=148187) | 5.1 | 10.5 | -51% |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 4.4 | - | - |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 14.3 | - | - |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 5.9 | 8.2 | -28% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 1.8 | - | - |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 1.1 | 11.0 | -90% |
 
 ### Talent/Glyph Differences
 
@@ -233,14 +233,14 @@ Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 |------|-----|-----|
 | T2 | Zen Pulse | **Chi Wave** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Crackling Tiger Lightning, Glyph of Jab
+Top uses: Glyph of Jab, Glyph of Zen Meditation, Glyph of Crackling Tiger Lightning
 
 ### Suggestions
 
 - Very high overheal (61.5%) - consider more efficient spell usage or better timing
 - Consider **Chi Wave** (T2) - used by top performers instead of Zen Pulse
+- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Zen Meditation**
-- Top performers use **Glyph of Crackling Tiger Lightning**
 
 
 ---
@@ -260,16 +260,16 @@ Top uses: Glyph of Zen Meditation, Glyph of Crackling Tiger Lightning, Glyph of 
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 64.0 | 11.5 | +457% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 100.0% | 100.0% | 0% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 64.0 | 11.5 | +457% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 8.5 | 22.9 | -63% |
-| <abbr title="Spell ID: 117640 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 1.3 | 460.9 | -100% |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 1.7 | - | - |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 92.5% | - | - |
-| <abbr title="Spell ID: 124101 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 13.0 | - | - |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 1.2 | - | - |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.2 | 0.4 | -50% |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 64.0 | 11.5 | +457% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 100.0% | 100.0% | 0% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 64.0 | 11.5 | +457% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 8.5 | 22.9 | -63% |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=117640) | 1.3 | 460.9 | -100% |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 1.7 | - | - |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 92.5% | - | - |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=124101) | 13.0 | - | - |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 1.2 | - | - |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.2 | 0.4 | -50% |
 
 **Overheal:** 35.5% (Top: 34.4%, +1.1%)
 
@@ -277,14 +277,14 @@ Top uses: Glyph of Zen Meditation, Glyph of Crackling Tiger Lightning, Glyph of 
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 8.7 | 0.8 | +988% |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 3.7 | - | - |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 3.2 | 0.8 | +300% |
-| <abbr title="Spell ID: 123904 | Cast - CPM (casts per minute)">Invoke Xuen, the White Tiger</abbr> | 0.2 | - | - |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 14.0 | 5.0 | +180% |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 4.7 | 0.8 | +488% |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 2.5 | - | - |
-| <abbr title="Spell ID: 107270 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 1.3 | - | - |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 8.7 | 0.8 | +988% |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 3.7 | - | - |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 3.2 | 0.8 | +300% |
+| [Invoke Xuen, the White Tiger](https://www.wowhead.com/mop/spell=123904) | 0.2 | - | - |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 14.0 | 5.0 | +180% |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 4.7 | 0.8 | +488% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 2.5 | - | - |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=107270) | 1.3 | - | - |
 
 ### Talent/Glyph Differences
 
@@ -320,16 +320,16 @@ Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 109.0 | 78.4 | +39% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 108.4 | 78.4 | +38% |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 1.7 | - | - |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 95.1% | 99.0% | -3.9% |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 1.0 | 1.3 | -23% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 2.0 | 3.0 | -33% |
-| <abbr title="Spell ID: 116995 | Cast - CPM (casts per minute)">Surging Mist</abbr> | 0.7 | 1.3 | -46% |
-| <abbr title="Spell ID: 116849 | DoT/HoT - uptime %">Life Cocoon</abbr> | 6.7% | - | - |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 90.6% | - | - |
-| <abbr title="Spell ID: 115072 | Cast - CPM (casts per minute)">Expel Harm</abbr> | 0.7 | 0.3 | +133% |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 109.0 | 78.4 | +39% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 108.4 | 78.4 | +38% |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 1.7 | - | - |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 95.1% | 99.0% | -3.9% |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 1.0 | 1.3 | -23% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 2.0 | 3.0 | -33% |
+| [Surging Mist](https://www.wowhead.com/mop/spell=116995) | 0.7 | 1.3 | -46% |
+| [Life Cocoon](https://www.wowhead.com/mop/spell=116849) | 6.7% | - | - |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 90.6% | - | - |
+| [Expel Harm](https://www.wowhead.com/mop/spell=115072) | 0.7 | 0.3 | +133% |
 
 **Overheal:** 63.5% (Top: 65.2%, -1.7%)
 
@@ -337,14 +337,14 @@ Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 10.7 | 10.2 | +5% |
-| <abbr title="Spell ID: 123904 | Cast - CPM (casts per minute)">Invoke Xuen, the White Tiger</abbr> | 0.3 | - | - |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 4.3 | 17.1 | -75% |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 4.3 | - | - |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 18.1 | - | - |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 6.4 | 9.2 | -30% |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 1.0 | - | - |
-| <abbr title="Spell ID: 115129 | Cast - CPM (casts per minute)">Expel Harm</abbr> | 0.7 | - | - |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 10.7 | 10.2 | +5% |
+| [Invoke Xuen, the White Tiger](https://www.wowhead.com/mop/spell=123904) | 0.3 | - | - |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 4.3 | 17.1 | -75% |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 4.3 | - | - |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 18.1 | - | - |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 6.4 | 9.2 | -30% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 1.0 | - | - |
+| [Expel Harm](https://www.wowhead.com/mop/spell=115129) | 0.7 | - | - |
 
 ### Talent/Glyph Differences
 
@@ -354,7 +354,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Jab
+Top uses: Glyph of Jab, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -363,8 +363,8 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Jab**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
@@ -384,16 +384,16 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 105.5 | 54.9 | +92% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 105.5 | 53.7 | +96% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 96.9% | 100.0% | -3.1% |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.2 | 0.3 | -33% |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 1.4 | - | - |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 88.5% | - | - |
-| <abbr title="Spell ID: 116849 | DoT/HoT - uptime %">Life Cocoon</abbr> | 1.8% | 4.6% | -2.8% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 2.5 | 0.2 | +1150% |
-| <abbr title="Spell ID: 124101 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 6.1 | - | - |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 0.2 | - | - |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 105.5 | 54.9 | +92% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 105.5 | 53.7 | +96% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 96.9% | 100.0% | -3.1% |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.2 | 0.3 | -33% |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 1.4 | - | - |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 88.5% | - | - |
+| [Life Cocoon](https://www.wowhead.com/mop/spell=116849) | 1.8% | 4.6% | -2.8% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 2.5 | 0.2 | +1150% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=124101) | 6.1 | - | - |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 0.2 | - | - |
 
 **Overheal:** 54.2% (Top: 44.3%, +9.9%)
 
@@ -401,12 +401,12 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 9.9 | 5.6 | +77% |
-| <abbr title="Spell ID: 123904 | Cast - CPM (casts per minute)">Invoke Xuen, the White Tiger</abbr> | 0.5 | - | - |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 3.4 | 13.5 | -75% |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 7.0 | 6.7 | +4% |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 16.3 | - | - |
-| <abbr title="Spell ID: 115129 | Cast - CPM (casts per minute)">Expel Harm</abbr> | 0.2 | 1.5 | -87% |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 9.9 | 5.6 | +77% |
+| [Invoke Xuen, the White Tiger](https://www.wowhead.com/mop/spell=123904) | 0.5 | - | - |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 3.4 | 13.5 | -75% |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 7.0 | 6.7 | +4% |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 16.3 | - | - |
+| [Expel Harm](https://www.wowhead.com/mop/spell=115129) | 0.2 | 1.5 | -87% |
 
 ### Talent/Glyph Differences
 
@@ -416,7 +416,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Honor, Glyph of Enduring Healing Sphere, Glyph of Jab
+Top uses: Glyph of Honor, Glyph of Jab, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
@@ -425,7 +425,7 @@ Top uses: Glyph of Honor, Glyph of Enduring Healing Sphere, Glyph of Jab
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
 - Top performers use **Glyph of Honor**
-- Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Jab**
 
 
 ---
@@ -445,16 +445,16 @@ Top uses: Glyph of Honor, Glyph of Enduring Healing Sphere, Glyph of Jab
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 53.2 | 47.3 | +12% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 47.1 | 29.9 | +58% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 83.5% | 98.5% | -15.0% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 8.6 | 16.7 | -49% |
-| <abbr title="Spell ID: 117640 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 145.0 | 294.9 | -51% |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.2 | 0.2 | 0% |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 1.3 | - | - |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 93.0% | - | - |
-| <abbr title="Spell ID: 116849 | DoT/HoT - uptime %">Life Cocoon</abbr> | 2.4% | 3.0% | -0.6% |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 0.4 | - | - |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 53.2 | 47.3 | +12% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 47.1 | 29.9 | +58% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 83.5% | 98.5% | -15.0% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 8.6 | 16.7 | -49% |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=117640) | 145.0 | 294.9 | -51% |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.2 | 0.2 | 0% |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 1.3 | - | - |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 93.0% | - | - |
+| [Life Cocoon](https://www.wowhead.com/mop/spell=116849) | 2.4% | 3.0% | -0.6% |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 0.4 | - | - |
 
 **Overheal:** 40.1% (Top: 32.6%, +7.5%)
 
@@ -462,11 +462,11 @@ Top uses: Glyph of Honor, Glyph of Enduring Healing Sphere, Glyph of Jab
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 9.3 | 1.3 | +615% |
-| <abbr title="Spell ID: 148187 | Cast - CPM (casts per minute)">Rushing Jade Wind</abbr> | 5.0 | 5.6 | -11% |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 2.4 | 12.6 | -81% |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 13.6 | - | - |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 3.7 | 10.7 | -65% |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 9.3 | 1.3 | +615% |
+| [Rushing Jade Wind](https://www.wowhead.com/mop/spell=148187) | 5.0 | 5.6 | -11% |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 2.4 | 12.6 | -81% |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 13.6 | - | - |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 3.7 | 10.7 | -65% |
 
 ### Talent/Glyph Differences
 
@@ -476,7 +476,7 @@ Top uses: Glyph of Honor, Glyph of Enduring Healing Sphere, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
+Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
@@ -484,8 +484,8 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Enduring Healing Sphere**
 - Top performers use **Glyph of Jab**
+- Top performers use **Glyph of Enduring Healing Sphere**
 
 
 ---
@@ -505,16 +505,16 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 92.3% | 100.0% | -7.7% |
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 54.3 | 212.1 | -74% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 52.0 | 212.1 | -75% |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.3 | 0.9 | -67% |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 79.5% | - | - |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 0.8 | - | - |
-| <abbr title="Spell ID: 116849 | DoT/HoT - uptime %">Life Cocoon</abbr> | 2.7% | 14.8% | -12.1% |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 0.8 | - | - |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 1.8 | 8.2 | -78% |
-| <abbr title="Spell ID: 117640 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 38.1 | - | - |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 92.3% | 100.0% | -7.7% |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 54.3 | 212.1 | -74% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 52.0 | 212.1 | -75% |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.3 | 0.9 | -67% |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 79.5% | - | - |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 0.8 | - | - |
+| [Life Cocoon](https://www.wowhead.com/mop/spell=116849) | 2.7% | 14.8% | -12.1% |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 0.8 | - | - |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 1.8 | 8.2 | -78% |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=117640) | 38.1 | - | - |
 
 **Overheal:** 45.2% (Top: 48.2%, -3.0%)
 
@@ -522,14 +522,14 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 8.1 | 10.1 | -20% |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 2.3 | 18.3 | -87% |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 7.1 | 3.7 | +92% |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 3.5 | - | - |
-| <abbr title="Spell ID: 148187 | Cast - CPM (casts per minute)">Rushing Jade Wind</abbr> | 1.5 | - | - |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 11.9 | - | - |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 1.8 | - | - |
-| <abbr title="Spell ID: 124335 | Cast - CPM (casts per minute)">Swift Reflexes</abbr> | 0.5 | - | - |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 8.1 | 10.1 | -20% |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 2.3 | 18.3 | -87% |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 7.1 | 3.7 | +92% |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 3.5 | - | - |
+| [Rushing Jade Wind](https://www.wowhead.com/mop/spell=148187) | 1.5 | - | - |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 11.9 | - | - |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 1.8 | - | - |
+| [Swift Reflexes](https://www.wowhead.com/mop/spell=124335) | 0.5 | - | - |
 
 ### Talent/Glyph Differences
 
@@ -539,7 +539,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T6 | Rushing Jade Wind | **Invoke Xuen, the White Tiger** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Crackling Tiger Lightning, Glyph of Jab
+Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
@@ -547,7 +547,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Crackling Tiger Lightning, 
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Invoke Xuen, the White Tiger** (T6) - used by top performers instead of Rushing Jade Wind
-- Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Crackling Tiger Lightning**
 
 
@@ -568,16 +568,16 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Crackling Tiger Lightning, 
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 81.7 | 49.9 | +64% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 98.5% | 98.1% | +0.4% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 79.8 | 47.3 | +69% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 5.7 | 5.0 | +14% |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 1.1 | - | - |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 94.2% | - | - |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.1 | 0.3 | -67% |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 1.1 | 1.2 | -8% |
-| <abbr title="Spell ID: 116995 | Cast - CPM (casts per minute)">Surging Mist</abbr> | 0.5 | 0.6 | -17% |
-| <abbr title="Spell ID: 116849 | DoT/HoT - uptime %">Life Cocoon</abbr> | 1.9% | 5.9% | -4.0% |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 81.7 | 49.9 | +64% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 98.5% | 98.1% | +0.4% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 79.8 | 47.3 | +69% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 5.7 | 5.0 | +14% |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 1.1 | - | - |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 94.2% | - | - |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.1 | 0.3 | -67% |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 1.1 | 1.2 | -8% |
+| [Surging Mist](https://www.wowhead.com/mop/spell=116995) | 0.5 | 0.6 | -17% |
+| [Life Cocoon](https://www.wowhead.com/mop/spell=116849) | 1.9% | 5.9% | -4.0% |
 
 **Overheal:** 37.5% (Top: 37.8%, -0.3%)
 
@@ -585,14 +585,14 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Crackling Tiger Lightning, 
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 9.3 | 4.3 | +116% |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 4.0 | 8.9 | -55% |
-| <abbr title="Spell ID: 123904 | Cast - CPM (casts per minute)">Invoke Xuen, the White Tiger</abbr> | 0.2 | - | - |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 4.1 | - | - |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 14.3 | - | - |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 5.9 | 5.9 | 0% |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 0.6 | - | - |
-| <abbr title="Spell ID: 115129 | Cast - CPM (casts per minute)">Expel Harm</abbr> | 1.1 | 2.2 | -50% |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 9.3 | 4.3 | +116% |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 4.0 | 8.9 | -55% |
+| [Invoke Xuen, the White Tiger](https://www.wowhead.com/mop/spell=123904) | 0.2 | - | - |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 4.1 | - | - |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 14.3 | - | - |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 5.9 | 5.9 | 0% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 0.6 | - | - |
+| [Expel Harm](https://www.wowhead.com/mop/spell=115129) | 1.1 | 2.2 | -50% |
 
 ### Talent/Glyph Differences
 
@@ -602,15 +602,15 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Crackling Tiger Lightning, 
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Jab
+Top uses: Glyph of Jab, Glyph of Zen Meditation
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Jab**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
@@ -630,16 +630,16 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 80.5 | 46.1 | +75% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 80.5 | 46.1 | +75% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 98.1% | 99.8% | -1.7% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 6.1 | 16.5 | -63% |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.1 | 0.3 | -67% |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 95.7% | - | - |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 1.2 | - | - |
-| <abbr title="Spell ID: 124101 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 5.8 | - | - |
-| <abbr title="Spell ID: 116849 | DoT/HoT - uptime %">Life Cocoon</abbr> | 1.1% | - | - |
-| <abbr title="Spell ID: 116995 | Cast - CPM (casts per minute)">Surging Mist</abbr> | 0.4 | 0.1 | +300% |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 80.5 | 46.1 | +75% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 80.5 | 46.1 | +75% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 98.1% | 99.8% | -1.7% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 6.1 | 16.5 | -63% |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.1 | 0.3 | -67% |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 95.7% | - | - |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 1.2 | - | - |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=124101) | 5.8 | - | - |
+| [Life Cocoon](https://www.wowhead.com/mop/spell=116849) | 1.1% | - | - |
+| [Surging Mist](https://www.wowhead.com/mop/spell=116995) | 0.4 | 0.1 | +300% |
 
 **Overheal:** 42.0% (Top: 43.5%, -1.5%)
 
@@ -647,14 +647,14 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 10.0 | 4.9 | +104% |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 3.9 | 2.5 | +56% |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 4.3 | - | - |
-| <abbr title="Spell ID: 123904 | Cast - CPM (casts per minute)">Invoke Xuen, the White Tiger</abbr> | 0.1 | - | - |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 6.4 | 7.8 | -18% |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 14.0 | 8.3 | +69% |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 1.2 | - | - |
-| <abbr title="Spell ID: 115129 | Cast - CPM (casts per minute)">Expel Harm</abbr> | 1.5 | 3.4 | -56% |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 10.0 | 4.9 | +104% |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 3.9 | 2.5 | +56% |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 4.3 | - | - |
+| [Invoke Xuen, the White Tiger](https://www.wowhead.com/mop/spell=123904) | 0.1 | - | - |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 6.4 | 7.8 | -18% |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 14.0 | 8.3 | +69% |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 1.2 | - | - |
+| [Expel Harm](https://www.wowhead.com/mop/spell=115129) | 1.5 | 3.4 | -56% |
 
 ### Talent/Glyph Differences
 
@@ -664,7 +664,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
+Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -672,8 +672,8 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Blackout Kick**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
@@ -693,16 +693,16 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 126890 | Cast - CPM (casts per minute)">Ancient Teachings of the Monastery</abbr> | 76.5 | 38.4 | +99% |
-| <abbr title="Spell ID: 119611 | DoT/HoT - uptime %">Renewing Mist</abbr> | 98.9% | 100.0% | -1.1% |
-| <abbr title="Spell ID: 117895 | Cast - CPM (casts per minute)">Eminence (Statue)</abbr> | 30.1 | 34.8 | -14% |
-| <abbr title="Spell ID: 124041 | Cast - CPM (casts per minute)">Gift of the Serpent</abbr> | 6.9 | 0.4 | +1625% |
-| <abbr title="Spell ID: 115310 | Cast - CPM (casts per minute)">Revival</abbr> | 0.2 | 0.2 | 0% |
-| <abbr title="Spell ID: 124081 | DoT/HoT - uptime %">Zen Pulse</abbr> | 91.3% | - | - |
-| <abbr title="Spell ID: 124101 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 8.9 | - | - |
-| <abbr title="Spell ID: 139195 | Cast - CPM (casts per minute)">Restoration of the Infinite</abbr> | 1.1 | - | - |
-| <abbr title="Spell ID: 130316 | Cast - CPM (casts per minute)">Uplift</abbr> | 0.5 | - | - |
-| <abbr title="Spell ID: 116995 | Cast - CPM (casts per minute)">Surging Mist</abbr> | 0.4 | 1.5 | -73% |
+| [Ancient Teachings of the Monastery](https://www.wowhead.com/mop/spell=126890) | 76.5 | 38.4 | +99% |
+| [Renewing Mist](https://www.wowhead.com/mop/spell=119611) | 98.9% | 100.0% | -1.1% |
+| [Eminence (Statue)](https://www.wowhead.com/mop/spell=117895) | 30.1 | 34.8 | -14% |
+| [Gift of the Serpent](https://www.wowhead.com/mop/spell=124041) | 6.9 | 0.4 | +1625% |
+| [Revival](https://www.wowhead.com/mop/spell=115310) | 0.2 | 0.2 | 0% |
+| [Zen Pulse](https://www.wowhead.com/mop/spell=124081) | 91.3% | - | - |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=124101) | 8.9 | - | - |
+| [Restoration of the Infinite](https://www.wowhead.com/mop/spell=139195) | 1.1 | - | - |
+| [Uplift](https://www.wowhead.com/mop/spell=130316) | 0.5 | - | - |
+| [Surging Mist](https://www.wowhead.com/mop/spell=116995) | 0.4 | 1.5 | -73% |
 
 **Overheal:** 33.1% (Top: 44.0%, -10.9%)
 
@@ -710,14 +710,14 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| <abbr title="Spell ID: 100784 | Cast - CPM (casts per minute)">Blackout Kick</abbr> | 8.1 | 1.8 | +350% |
-| <abbr title="Spell ID: 100787 | Cast - CPM (casts per minute)">Tiger Palm</abbr> | 3.4 | 6.8 | -50% |
-| <abbr title="Spell ID: 123904 | Cast - CPM (casts per minute)">Invoke Xuen, the White Tiger</abbr> | 0.1 | - | - |
-| <abbr title="Spell ID: 124098 | Cast - CPM (casts per minute)">Zen Sphere</abbr> | 3.9 | - | - |
-| <abbr title="Spell ID: 125033 | Cast - CPM (casts per minute)">Zen Sphere: Detonate</abbr> | 3.6 | - | - |
-| <abbr title="Spell ID: 120274 | Cast - CPM (casts per minute)">Tiger Strikes</abbr> | 6.0 | 5.5 | +9% |
-| <abbr title="Spell ID: 115695 | Cast - CPM (casts per minute)">Jab</abbr> | 12.6 | 6.5 | +94% |
-| <abbr title="Spell ID: 107270 | Cast - CPM (casts per minute)">Spinning Crane Kick</abbr> | 0.1 | - | - |
+| [Blackout Kick](https://www.wowhead.com/mop/spell=100784) | 8.1 | 1.8 | +350% |
+| [Tiger Palm](https://www.wowhead.com/mop/spell=100787) | 3.4 | 6.8 | -50% |
+| [Invoke Xuen, the White Tiger](https://www.wowhead.com/mop/spell=123904) | 0.1 | - | - |
+| [Zen Sphere](https://www.wowhead.com/mop/spell=124098) | 3.9 | - | - |
+| [Zen Sphere: Detonate](https://www.wowhead.com/mop/spell=125033) | 3.6 | - | - |
+| [Tiger Strikes](https://www.wowhead.com/mop/spell=120274) | 6.0 | 5.5 | +9% |
+| [Jab](https://www.wowhead.com/mop/spell=115695) | 12.6 | 6.5 | +94% |
+| [Spinning Crane Kick](https://www.wowhead.com/mop/spell=107270) | 0.1 | - | - |
 
 ### Talent/Glyph Differences
 
@@ -728,7 +728,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 | T4 | Leg Sweep | **Ring of Peace** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Rising Tiger Kick, Glyph of Crackling Tiger Lightning
+Top uses: Glyph of Rising Tiger Kick, Glyph of Zen Meditation, Glyph of Crackling Tiger Lightning
 
 ### Suggestions
 
@@ -736,6 +736,6 @@ Top uses: Glyph of Zen Meditation, Glyph of Rising Tiger Kick, Glyph of Cracklin
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Rising Tiger Kick**
+- Top performers use **Glyph of Zen Meditation**
 
