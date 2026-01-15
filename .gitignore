@@ -1,18 +1,4 @@
-# Local working files - not uploaded
-*.json
-*.txt
-*.sh
-*.py
-
-# Working copies of reports
-raid_*.md
-healer_*.md
-tank_*.md
-dps_*.md
-
-# Raw API data (local only)
-raw/
-
-# Keep reports folder tracked
-!reports/
-.claude/
+# Keep reports clean
+*.pyc
+__pycache__/
+.DS_Store
