@@ -8,6 +8,13 @@
 ---
 ## Jin'rokh the Breaker
 
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Active Mitigation vs Hardbread
 
 | Ability | You | Top | Gap |
@@ -35,7 +42,7 @@
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Contemplation
+Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -44,11 +51,18 @@ Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Conte
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Final Wrath**
 
 
 ---
 ## Horridon
+
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Active Mitigation vs Kalys
 
@@ -98,6 +112,13 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Final Wrat
 ---
 ## Council of Elders
 
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Active Mitigation vs Isacnidia
 
 | Ability | You | Top | Gap |
@@ -128,7 +149,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Final Wrat
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Execution Sentence | **Light's Hammer** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Fire From the Heavens, Glyph of Bladed Judgment
+Top uses: Glyph of Winged Vengeance, Glyph of Bladed Judgment, Glyph of Final Wrath
 
 ### Suggestions
 
@@ -139,11 +160,18 @@ Top uses: Glyph of Winged Vengeance, Glyph of Fire From the Heavens, Glyph of Bl
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Light's Hammer** (T6) - used by top performers instead of Execution Sentence
 - Top performers use **Glyph of Winged Vengeance**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Bladed Judgment**
 
 
 ---
 ## Tortos
+
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Active Mitigation vs Thirain
 
@@ -191,6 +219,13 @@ Top uses: Glyph of Final Wrath
 ---
 ## Megaera
 
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Active Mitigation vs Valistassa
 
 | Ability | You | Top | Gap |
@@ -220,7 +255,7 @@ Top uses: Glyph of Final Wrath
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of the Luminous Charger, Glyph of Focused Shield
+Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Contemplation
 
 ### Suggestions
 
@@ -231,11 +266,18 @@ Top uses: Glyph of Focused Wrath, Glyph of the Luminous Charger, Glyph of Focuse
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of the Luminous Charger**
+- Top performers use **Glyph of Final Wrath**
 
 
 ---
 ## Ji-Kun
+
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Active Mitigation vs Thirain
 
@@ -281,6 +323,13 @@ Top uses: Glyph of Final Wrath, Glyph of Focused Shield
 ---
 ## Durumu the Forgotten
 
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Active Mitigation vs Kyrielight
 
 | Ability | You | Top | Gap |
@@ -312,7 +361,7 @@ Top uses: Glyph of Final Wrath, Glyph of Focused Shield
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Winged Vengeance
+Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -322,11 +371,18 @@ Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Winge
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Final Wrath**
 
 
 ---
 ## Primordius
+
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [ ] **Food:** None detected
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Active Mitigation vs Gigâchad
 
@@ -356,7 +412,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Winge
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Execution Sentence | **Light's Hammer** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Fire From the Heavens, Glyph of Righteous Retreat
+Top uses: Glyph of Winged Vengeance, Glyph of Righteous Retreat, Glyph of Final Wrath
 
 ### Suggestions
 
@@ -367,11 +423,18 @@ Top uses: Glyph of Winged Vengeance, Glyph of Fire From the Heavens, Glyph of Ri
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Light's Hammer** (T6) - used by top performers instead of Execution Sentence
 - Top performers use **Glyph of Winged Vengeance**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Righteous Retreat**
 
 
 ---
 ## Dark Animus
+
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Active Mitigation vs Flexidina
 
@@ -402,7 +465,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Fire From the Heavens, Glyph of Ri
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Final Wrath
+Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -413,11 +476,18 @@ Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Final
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Final Wrath**
 
 
 ---
 ## Iron Qon
+
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Active Mitigation vs Wallzv
 
@@ -447,7 +517,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Final
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Winged Vengeance
+Top uses: Glyph of Focused Wrath, Glyph of Final Wrath, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -458,11 +528,18 @@ Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Winge
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Focused Wrath**
-- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Final Wrath**
 
 
 ---
 ## Twin Consorts
+
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Active Mitigation vs Qiwenpala
 
@@ -489,7 +566,7 @@ Top uses: Glyph of Focused Wrath, Glyph of Fire From the Heavens, Glyph of Winge
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Winged Vengeance, Glyph of Focused Wrath, Glyph of Final Wrath
+Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Final Wrath
 
 ### Suggestions
 
@@ -498,12 +575,19 @@ Top uses: Glyph of Winged Vengeance, Glyph of Focused Wrath, Glyph of Final Wrat
 - Consider using **Guardian of Ancient Kings** during high damage phases
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Winged Vengeance**
 - Top performers use **Glyph of Focused Wrath**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
 ## Lei Shen
+
+### Consumables
+
+- [x] **Flask:** Flask of Winter's Bite
+- [x] **Food:** Twin Fish Platter (275 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Active Mitigation vs Flexidin
 
@@ -536,7 +620,7 @@ Top uses: Glyph of Winged Vengeance, Glyph of Focused Wrath, Glyph of Final Wrat
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Double Jeopardy, Glyph of Focused Wrath, Glyph of Winged Vengeance
+Top uses: Glyph of Focused Wrath, Glyph of Winged Vengeance, Glyph of Double Jeopardy
 
 ### Suggestions
 
@@ -545,6 +629,6 @@ Top uses: Glyph of Double Jeopardy, Glyph of Focused Wrath, Glyph of Winged Veng
 - Consider **Speed of Light** (T1) - used by top performers instead of Pursuit of Justice
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Double Jeopardy**
 - Top performers use **Glyph of Focused Wrath**
+- Top performers use **Glyph of Winged Vengeance**
 

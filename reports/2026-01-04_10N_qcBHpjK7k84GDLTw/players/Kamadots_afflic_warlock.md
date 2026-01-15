@@ -8,6 +8,13 @@
 ---
 ## Jin'rokh the Breaker
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Shrp
 
 | Ability | You | Top | Gap |
@@ -28,7 +35,7 @@
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Kilrogg's Cunning, Glyph of Curse of Exhaustion, Glyph of Health Funnel
+Top uses: Glyph of Health Funnel, Kilrogg's Cunning, Glyph of Curse of Exhaustion
 
 ### Suggestions
 
@@ -42,11 +49,18 @@ Top uses: Kilrogg's Cunning, Glyph of Curse of Exhaustion, Glyph of Health Funne
 - **Haunt** uptime is low (41.2%) - maintain on target
 - **Drain Soul** uptime is low (20.3%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Curse of Exhaustion**
+- Top performers use **Glyph of Health Funnel**
 
 
 ---
 ## Horridon
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Duchane
 
@@ -87,6 +101,13 @@ Top uses: Kilrogg's Cunning, Glyph of Subtlety, Glyph of Eternal Resolve
 ---
 ## Council of Elders
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Swaenk
 
 | Ability | You | Top | Gap |
@@ -107,7 +128,7 @@ Top uses: Kilrogg's Cunning, Glyph of Subtlety, Glyph of Eternal Resolve
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Health Funnel
+Top uses: Glyph of Health Funnel, Glyph of Curse of the Elements, Kilrogg's Cunning
 
 ### Suggestions
 
@@ -116,11 +137,19 @@ Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Health Funnel
 - **Unstable Affliction** usage critically low (2.3 vs 99.1 CPM, -98%)
 - **Agony** usage critically low (2.3 vs 99.4 CPM, -98%)
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Eternal Resolve**
+- Top performers use **Glyph of Health Funnel**
+- Top performers use **Glyph of Curse of the Elements**
 
 
 ---
 ## Tortos
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Dotaslav
 
@@ -143,7 +172,7 @@ Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Health Funnel
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Verdant Spheres, Glyph of Eternal Resolve, Glyph of Healthstone
+Top uses: Glyph of Healthstone, Glyph of Verdant Spheres, Glyph of Eternal Resolve
 
 ### Suggestions
 
@@ -154,12 +183,19 @@ Top uses: Glyph of Verdant Spheres, Glyph of Eternal Resolve, Glyph of Healthsto
 - **Malefic Grasp** uptime is low (23.2%) - maintain on target
 - **Seed of Corruption** usage critically low (1.1 vs 1.6 CPM, -31%)
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
+- Top performers use **Glyph of Healthstone**
 - Top performers use **Glyph of Verdant Spheres**
-- Top performers use **Glyph of Eternal Resolve**
 
 
 ---
 ## Megaera
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Eukaryå
 
@@ -198,6 +234,13 @@ Top uses: Glyph of Nightmares, Glyph of Eternal Resolve
 
 ---
 ## Ji-Kun
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Eukaryå
 
@@ -239,6 +282,13 @@ Top uses: Glyph of Nightmares, Glyph of Eternal Resolve
 ---
 ## Durumu the Forgotten
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Duchane
 
 | Ability | You | Top | Gap |
@@ -277,6 +327,13 @@ Top uses: Kilrogg's Cunning, Glyph of Subtlety, Glyph of Eternal Resolve
 ---
 ## Primordius
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Duchane
 
 | Ability | You | Top | Gap |
@@ -314,6 +371,13 @@ Top uses: Kilrogg's Cunning, Glyph of Subtlety, Glyph of Eternal Resolve
 ---
 ## Dark Animus
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Sturdy
 
 | Ability | You | Top | Gap |
@@ -334,7 +398,7 @@ Top uses: Kilrogg's Cunning, Glyph of Subtlety, Glyph of Eternal Resolve
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Curse of Exhaustion, Glyph of Verdant Spheres
+Top uses: Glyph of Verdant Spheres, Glyph of Curse of Exhaustion
 
 ### Suggestions
 
@@ -345,12 +409,19 @@ Top uses: Glyph of Curse of Exhaustion, Glyph of Verdant Spheres
 - **Corruption** usage critically low (0.8 vs 98.0 CPM, -99%)
 - **Drain Soul** uptime is low (12.3%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Curse of Exhaustion**
 - Top performers use **Glyph of Verdant Spheres**
+- Top performers use **Glyph of Curse of Exhaustion**
 
 
 ---
 ## Iron Qon
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Duchane
 
@@ -390,6 +461,13 @@ Top uses: Kilrogg's Cunning, Glyph of Subtlety, Glyph of Eternal Resolve
 ---
 ## Twin Consorts
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Чыхалычгодх
 
 | Ability | You | Top | Gap |
@@ -410,7 +488,7 @@ Top uses: Kilrogg's Cunning, Glyph of Subtlety, Glyph of Eternal Resolve
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Kilrogg's Cunning, Glyph of Health Funnel, Glyph of Curse of the Elements
+Top uses: Glyph of Health Funnel, Glyph of Curse of the Elements, Kilrogg's Cunning
 
 ### Suggestions
 
@@ -422,10 +500,18 @@ Top uses: Kilrogg's Cunning, Glyph of Health Funnel, Glyph of Curse of the Eleme
 - **Drain Soul** uptime is low (8.5%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Health Funnel**
+- Top performers use **Glyph of Curse of the Elements**
 
 
 ---
 ## Lei Shen
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Givemecookie
 
@@ -448,7 +534,7 @@ Top uses: Kilrogg's Cunning, Glyph of Health Funnel, Glyph of Curse of the Eleme
 |------|-----|-----|
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Curse of the Elements
+Top uses: Kilrogg's Cunning, Glyph of Curse of the Elements, Glyph of Verdant Spheres
 
 ### Suggestions
 
@@ -458,5 +544,5 @@ Top uses: Kilrogg's Cunning, Glyph of Eternal Resolve, Glyph of Curse of the Ele
 - **Unstable Affliction** usage critically low (14.8 vs 96.1 CPM, -85%)
 - **Malefic Grasp** uptime is low (18.5%) - maintain on target
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Eternal Resolve**
+- Top performers use **Glyph of Curse of the Elements**
 

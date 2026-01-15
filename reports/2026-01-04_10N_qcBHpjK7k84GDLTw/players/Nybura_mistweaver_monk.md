@@ -8,6 +8,13 @@
 ---
 ## Jin'rokh the Breaker
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Healing vs Kàsu
 
 | Ability | Healing | Overheal % | Casts |
@@ -45,7 +52,7 @@
 | T2 | Zen Pulse | **Chi Burst** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 
 ### Suggestions
 
@@ -54,12 +61,19 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Blackout Kick**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Blackout Kick**
 
 
 ---
 ## Horridon
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Healing vs Mirelin
 
@@ -113,6 +127,13 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 ---
 ## Council of Elders
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [ ] **Food:** None detected
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Healing vs Sornaer
 
 | Ability | Healing | Overheal % | Casts |
@@ -149,19 +170,26 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
+Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
 - Very high overheal (55.3%) - consider more efficient spell usage or better timing
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Enduring Healing Sphere**
 - Top performers use **Glyph of Spinning Crane Kick**
+- Top performers use **Glyph of Enduring Healing Sphere**
 
 
 ---
 ## Tortos
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Healing vs 哈基咪
 
@@ -198,18 +226,25 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
 |------|-----|-----|
 | T2 | Zen Pulse | **Chi Wave** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Jab, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Crackling Tiger Lightning, Glyph of Jab
 
 ### Suggestions
 
 - Very high overheal (61.5%) - consider more efficient spell usage or better timing
 - Consider **Chi Wave** (T2) - used by top performers instead of Zen Pulse
+- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Crackling Tiger Lightning**
-- Top performers use **Glyph of Jab**
 
 
 ---
 ## Megaera
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Healing vs Megabloks
 
@@ -261,6 +296,13 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Blackout Kick
 ---
 ## Ji-Kun
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Healing vs Potatomwtwo
 
 | Ability | Healing | Overheal % | Casts |
@@ -299,7 +341,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Blackout Kick
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 ### Suggestions
 
@@ -308,12 +350,19 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Jab**
 
 
 ---
 ## Durumu the Forgotten
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Healing vs Arnumo
 
@@ -351,7 +400,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab, Glyph of Honor
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Honor, Glyph of Jab
 
 ### Suggestions
 
@@ -360,11 +409,18 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab, Glyph of Honor
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
 - Top performers use **Glyph of Enduring Healing Sphere**
-- Top performers use **Glyph of Jab**
+- Top performers use **Glyph of Honor**
 
 
 ---
 ## Primordius
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Healing vs Chi
 
@@ -416,6 +472,13 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 ---
 ## Dark Animus
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Healing vs Smonkz
 
 | Ability | Healing | Overheal % | Casts |
@@ -454,7 +517,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T6 | Rushing Jade Wind | **Invoke Xuen, the White Tiger** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, Glyph of Jab
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Crackling Tiger Lightning, Glyph of Jab
 
 ### Suggestions
 
@@ -462,12 +525,19 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, 
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Invoke Xuen, the White Tiger** (T6) - used by top performers instead of Rushing Jade Wind
-- Top performers use **Glyph of Crackling Tiger Lightning**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Crackling Tiger Lightning**
 
 
 ---
 ## Iron Qon
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Healing vs Potatomwtwo
 
@@ -507,19 +577,26 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, 
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Jab
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Jab**
 
 
 ---
 ## Twin Consorts
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Healing vs Kàsu
 
@@ -559,7 +636,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 | T2 | Zen Pulse | **Chi Burst** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 
 ### Suggestions
 
@@ -568,12 +645,19 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Blackout Kick**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Blackout Kick**
 
 
 ---
 ## Lei Shen
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Healing vs Pantaro
 
@@ -614,7 +698,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 | T4 | Leg Sweep | **Ring of Peace** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Rising Tiger Kick, Glyph of Zen Meditation
+Top uses: Glyph of Rising Tiger Kick, Glyph of Zen Meditation, Glyph of Crackling Tiger Lightning
 
 ### Suggestions
 
@@ -622,6 +706,6 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Rising Tiger Kick, Glyph 
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Crackling Tiger Lightning**
 - Top performers use **Glyph of Rising Tiger Kick**
+- Top performers use **Glyph of Zen Meditation**
 

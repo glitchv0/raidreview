@@ -8,6 +8,13 @@
 ---
 ## Jin'rokh the Breaker
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Rauschblink
 
 | Ability | You | Top | Gap |
@@ -25,7 +32,7 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Rapid Displacement, Glyph of Loose Mana, Glyph of Illusion
+Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
 
 ### Suggestions
 
@@ -33,11 +40,18 @@ Top uses: Glyph of Rapid Displacement, Glyph of Loose Mana, Glyph of Illusion
 - **Combustion** usage critically low (0.4 vs 24.5 CPM, -98%)
 - **Mirror Image** usage critically low (0.4 vs 0.7 CPM, -43%)
 - Top performers use **Glyph of Rapid Displacement**
-- Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Illusion**
 
 
 ---
 ## Horridon
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Lecuona
 
@@ -78,6 +92,13 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion
 ---
 ## Council of Elders
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [ ] **Food:** None detected
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Apmbillion
 
 | Ability | You | Top | Gap |
@@ -100,7 +121,7 @@ Top uses: Glyph of Rapid Displacement, Glyph of Illusion
 | T2 | Temporal Shield | **Ice Barrier** |
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Armors, Glyph of Rapid Displacement
+Top uses: Glyph of Rapid Displacement, Glyph of Armors
 
 ### Suggestions
 
@@ -109,12 +130,19 @@ Top uses: Glyph of Armors, Glyph of Rapid Displacement
 - **Scorch** usage critically low (3.7 vs 10.1 CPM, -63%)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Armors**
 - Top performers use **Glyph of Rapid Displacement**
+- Top performers use **Glyph of Armors**
 
 
 ---
 ## Tortos
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Eyecantread
 
@@ -133,18 +161,25 @@ Top uses: Glyph of Armors, Glyph of Rapid Displacement
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Deep Freeze, Glyph of Loose Mana, Glyph of Illusion
+Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
 
 ### Suggestions
 
 - **Combustion** uptime is low (24.3%) - maintain on target
 - **Living Bomb** usage critically low (6.2 vs 10.6 CPM, -42%)
 - Top performers use **Glyph of Deep Freeze**
-- Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Illusion**
 
 
 ---
 ## Megaera
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Ankey
 
@@ -182,6 +217,13 @@ Top uses: Glyph of Cone of Cold
 ---
 ## Ji-Kun
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Biskuilete
 
 | Ability | You | Top | Gap |
@@ -203,7 +245,7 @@ Top uses: Glyph of Cone of Cold
 |------|-----|-----|
 | T2 | Temporal Shield | **Ice Barrier** |
 
-Top uses: Glyph of Armors, Glyph of Loose Mana, Glyph of Illusion
+Top uses: Glyph of Armors, Glyph of Illusion, Glyph of Loose Mana
 
 ### Suggestions
 
@@ -212,11 +254,18 @@ Top uses: Glyph of Armors, Glyph of Loose Mana, Glyph of Illusion
 - **Mirror Image** could be cast more (0.3 vs 0.4 CPM)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
 - Top performers use **Glyph of Armors**
-- Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Illusion**
 
 
 ---
 ## Durumu the Forgotten
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Eyecantread
 
@@ -235,7 +284,7 @@ Top uses: Glyph of Armors, Glyph of Loose Mana, Glyph of Illusion
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Deep Freeze, Glyph of Loose Mana, Glyph of Illusion
+Top uses: Glyph of Deep Freeze, Glyph of Illusion, Glyph of Loose Mana
 
 ### Suggestions
 
@@ -244,11 +293,18 @@ Top uses: Glyph of Deep Freeze, Glyph of Loose Mana, Glyph of Illusion
 - **Mirror Image** usage critically low (0.2 vs 15.7 CPM, -99%)
 - **Living Bomb** could be cast more (2.7 vs 3.6 CPM)
 - Top performers use **Glyph of Deep Freeze**
-- Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Illusion**
 
 
 ---
 ## Primordius
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Iíìlíìlíìlíì
 
@@ -287,6 +343,13 @@ Top uses: Glyph of Armors
 
 ---
 ## Dark Animus
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Hypestjuice
 
@@ -328,6 +391,13 @@ Top uses: Glyph of Armors
 ---
 ## Iron Qon
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Gordan
 
 | Ability | You | Top | Gap |
@@ -358,6 +428,13 @@ Top uses: Glyph of Rapid Displacement, Glyph of Loose Mana
 
 ---
 ## Twin Consorts
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Hypestjuice
 
@@ -395,6 +472,13 @@ Top uses: Glyph of Armors
 ---
 ## Lei Shen
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Rauschblink
 
 | Ability | You | Top | Gap |
@@ -416,7 +500,7 @@ Top uses: Glyph of Armors
 |------|-----|-----|
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Rapid Displacement, Glyph of Loose Mana, Glyph of Illusion
+Top uses: Glyph of Rapid Displacement, Glyph of Illusion, Glyph of Loose Mana
 
 ### Suggestions
 
@@ -430,5 +514,5 @@ Top uses: Glyph of Rapid Displacement, Glyph of Loose Mana, Glyph of Illusion
 - **Mirror Image** usage critically low (0.2 vs 8.7 CPM, -98%)
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
 - Top performers use **Glyph of Rapid Displacement**
-- Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Illusion**
 

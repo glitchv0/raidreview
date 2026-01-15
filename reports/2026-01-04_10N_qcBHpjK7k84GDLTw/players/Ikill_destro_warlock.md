@@ -8,6 +8,13 @@
 ---
 ## Jin'rokh the Breaker
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Xixofour
 
 | Ability | You | Top | Gap |
@@ -27,7 +34,7 @@
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Unending Breath, Glyph of Curse of the Elements, Glyph of Siphon Life
+Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Siphon Life
 
 ### Suggestions
 
@@ -38,12 +45,19 @@ Top uses: Glyph of Unending Breath, Glyph of Curse of the Elements, Glyph of Sip
 - Consider **Dark Bargain** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
+- Top performers use **Glyph of Verdant Spheres**
 - Top performers use **Glyph of Unending Breath**
-- Top performers use **Glyph of Curse of the Elements**
 
 
 ---
 ## Horridon
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Rhalgrim
 
@@ -63,7 +77,7 @@ Top uses: Glyph of Unending Breath, Glyph of Curse of the Elements, Glyph of Sip
 | T1 | Dark Regeneration | **Soul Leech** |
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 
-Top uses: Glyph of Verdant Spheres, Glyph of Healthstone, Glyph of Unending Breath
+Top uses: Glyph of Healthstone, Glyph of Unending Breath, Glyph of Verdant Spheres
 
 ### Suggestions
 
@@ -74,12 +88,19 @@ Top uses: Glyph of Verdant Spheres, Glyph of Healthstone, Glyph of Unending Brea
 - **Rain of Fire** usage critically low (0.5 vs 1.7 CPM, -71%)
 - Consider **Soul Leech** (T1) - used by top performers instead of Dark Regeneration
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
-- Top performers use **Glyph of Verdant Spheres**
 - Top performers use **Glyph of Healthstone**
+- Top performers use **Glyph of Unending Breath**
 
 
 ---
 ## Council of Elders
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Rhalgrim
 
@@ -99,7 +120,7 @@ Top uses: Glyph of Verdant Spheres, Glyph of Healthstone, Glyph of Unending Brea
 | T1 | Dark Regeneration | **Soul Leech** |
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 
-Top uses: Glyph of Verdant Spheres, Glyph of Healthstone, Glyph of Unending Breath
+Top uses: Glyph of Healthstone, Glyph of Unending Breath, Glyph of Verdant Spheres
 
 ### Suggestions
 
@@ -111,12 +132,19 @@ Top uses: Glyph of Verdant Spheres, Glyph of Healthstone, Glyph of Unending Brea
 - **Shadowburn** usage critically low (0.2 vs 3.3 CPM, -94%)
 - Consider **Soul Leech** (T1) - used by top performers instead of Dark Regeneration
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
-- Top performers use **Glyph of Verdant Spheres**
 - Top performers use **Glyph of Healthstone**
+- Top performers use **Glyph of Unending Breath**
 
 
 ---
 ## Tortos
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Samanamana
 
@@ -141,7 +169,7 @@ Top uses: Glyph of Verdant Spheres, Glyph of Healthstone, Glyph of Unending Brea
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Ember Tap, Glyph of Soulwell, Glyph of Healthstone
+Top uses: Glyph of Healthstone, Glyph of Unending Breath, Glyph of Ember Tap
 
 ### Suggestions
 
@@ -157,12 +185,19 @@ Top uses: Glyph of Ember Tap, Glyph of Soulwell, Glyph of Healthstone
 - Consider **Dark Pact** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Ember Tap**
-- Top performers use **Glyph of Soulwell**
+- Top performers use **Glyph of Healthstone**
+- Top performers use **Glyph of Unending Breath**
 
 
 ---
 ## Megaera
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Tenebris
 
@@ -183,7 +218,7 @@ Top uses: Glyph of Ember Tap, Glyph of Soulwell, Glyph of Healthstone
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Shadow Bolt
+Top uses: Glyph of Soulwell, Glyph of Curse of the Elements, Glyph of Shadow Bolt
 
 ### Suggestions
 
@@ -192,12 +227,19 @@ Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Shadow Bolt
 - Consider **Dark Pact** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Siphon Life**
 - Top performers use **Glyph of Soulwell**
+- Top performers use **Glyph of Curse of the Elements**
 
 
 ---
 ## Ji-Kun
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Zarkø
 
@@ -233,6 +275,13 @@ Top uses: Glyph of Siphon Life
 ---
 ## Durumu the Forgotten
 
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Af
 
 | Ability | You | Top | Gap |
@@ -251,7 +300,7 @@ Top uses: Glyph of Siphon Life
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Crimson Banish
+Top uses: Glyph of Soulwell, Glyph of Curse of the Elements, Glyph of Crimson Banish
 
 ### Suggestions
 
@@ -262,12 +311,19 @@ Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Crimson Banish
 - Consider **Soul Leech** (T1) - used by top performers instead of Dark Regeneration
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Siphon Life**
 - Top performers use **Glyph of Soulwell**
+- Top performers use **Glyph of Curse of the Elements**
 
 
 ---
 ## Primordius
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Litsausage
 
@@ -288,7 +344,7 @@ Top uses: Glyph of Siphon Life, Glyph of Soulwell, Glyph of Crimson Banish
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Healthstone
+Top uses: Glyph of Healthstone, Glyph of Siphon Life
 
 ### Suggestions
 
@@ -299,12 +355,19 @@ Top uses: Glyph of Siphon Life, Glyph of Healthstone
 - Consider **Dark Pact** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Siphon Life**
 - Top performers use **Glyph of Healthstone**
+- Top performers use **Glyph of Siphon Life**
 
 
 ---
 ## Dark Animus
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Falkeron
 
@@ -324,7 +387,7 @@ Top uses: Glyph of Siphon Life, Glyph of Healthstone
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Ember Tap, Glyph of Curse of the Elements
+Top uses: Glyph of Curse of the Elements, Glyph of Ember Tap, Glyph of Siphon Life
 
 ### Suggestions
 
@@ -336,12 +399,19 @@ Top uses: Glyph of Siphon Life, Glyph of Ember Tap, Glyph of Curse of the Elemen
 - Consider **Dark Bargain** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Siphon Life**
+- Top performers use **Glyph of Curse of the Elements**
 - Top performers use **Glyph of Ember Tap**
 
 
 ---
 ## Iron Qon
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Phantumseer
 
@@ -364,7 +434,7 @@ Top uses: Glyph of Siphon Life, Glyph of Ember Tap, Glyph of Curse of the Elemen
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Siphon Life, Glyph of Demonic Circle, Glyph of Crimson Banish
+Top uses: Glyph of Soulwell, Glyph of Crimson Banish, Glyph of Demonic Circle
 
 ### Suggestions
 
@@ -377,12 +447,19 @@ Top uses: Glyph of Siphon Life, Glyph of Demonic Circle, Glyph of Crimson Banish
 - Consider **Dark Pact** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
-- Top performers use **Glyph of Siphon Life**
-- Top performers use **Glyph of Demonic Circle**
+- Top performers use **Glyph of Soulwell**
+- Top performers use **Glyph of Crimson Banish**
 
 
 ---
 ## Twin Consorts
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Trinitý
 
@@ -402,7 +479,7 @@ Top uses: Glyph of Siphon Life, Glyph of Demonic Circle, Glyph of Crimson Banish
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Kilrogg's Cunning, Glyph of Unending Breath, Glyph of Curse of the Elements
+Top uses: Glyph of Unending Breath, Glyph of Healthstone, Kilrogg's Cunning
 
 ### Suggestions
 
@@ -411,10 +488,18 @@ Top uses: Kilrogg's Cunning, Glyph of Unending Breath, Glyph of Curse of the Ele
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
 - Top performers use **Glyph of Unending Breath**
+- Top performers use **Glyph of Healthstone**
 
 
 ---
 ## Lei Shen
+
+### Consumables
+
+- [x] **Flask:** Flask of the Warm Sun
+- [x] **Food:** Sea Mist Rice Noodles (300 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Xixofour
 
@@ -437,7 +522,7 @@ Top uses: Kilrogg's Cunning, Glyph of Unending Breath, Glyph of Curse of the Ele
 | T5 | Grimoire of Supremacy | **Grimoire of Sacrifice** |
 | T6 | Kil'jaeden's Cunning | **Archimonde's Darkness** |
 
-Top uses: Glyph of Unending Breath, Glyph of Curse of the Elements, Glyph of Siphon Life
+Top uses: Glyph of Verdant Spheres, Glyph of Unending Breath, Glyph of Siphon Life
 
 ### Suggestions
 
@@ -450,6 +535,6 @@ Top uses: Glyph of Unending Breath, Glyph of Curse of the Elements, Glyph of Sip
 - Consider **Dark Bargain** (T3) - used by top performers instead of Soul Link
 - Consider **Grimoire of Sacrifice** (T5) - used by top performers instead of Grimoire of Supremacy
 - Consider **Archimonde's Darkness** (T6) - used by top performers instead of Kil'jaeden's Cunning
+- Top performers use **Glyph of Verdant Spheres**
 - Top performers use **Glyph of Unending Breath**
-- Top performers use **Glyph of Curse of the Elements**
 

@@ -8,6 +8,13 @@
 ---
 ## Jin'rokh the Breaker
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Thrillbert
 
 | Ability | You | Top | Gap |
@@ -37,6 +44,13 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 ---
 ## Horridon
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Alexirl
 
 | Ability | You | Top | Gap |
@@ -58,7 +72,7 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Disengage, Glyph of Endless Wrath, Glyph of Stampede
+Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
 
 ### Suggestions
 
@@ -66,12 +80,19 @@ Top uses: Glyph of Disengage, Glyph of Endless Wrath, Glyph of Stampede
 - **Glaive Toss** uptime is low (2.6%) - maintain on target
 - **Glaive Toss** uptime is low (0.8%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Disengage**
 - Top performers use **Glyph of Endless Wrath**
+- Top performers use **Glyph of Disengage**
 
 
 ---
 ## Council of Elders
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Puppieshot
 
@@ -106,6 +127,13 @@ Top uses: Glyph of Disengage, Glyph of Endless Wrath, Glyph of Stampede
 
 ---
 ## Tortos
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Anasteriian
 
@@ -144,6 +172,13 @@ Top uses: Glyph of Disengage
 ---
 ## Megaera
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Thrillbert
 
 | Ability | You | Top | Gap |
@@ -173,6 +208,13 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 ---
 ## Ji-Kun
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs 满月雕弓
 
 | Ability | You | Top | Gap |
@@ -195,18 +237,25 @@ Top uses: Glyph of Tame Beast, Glyph of Stampede
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Endless Wrath, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Endless Wrath**
 
 
 ---
 ## Durumu the Forgotten
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Magiaoscura
 
@@ -229,18 +278,25 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Endless Wrath, Glyph of Stamp
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Liberation, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Liberation, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Liberation**
 
 
 ---
 ## Primordius
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Mcnuggees
 
@@ -282,6 +338,13 @@ Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
 ---
 ## Dark Animus
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [ ] **Food:** None detected
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs 滿月雕弓
 
 | Ability | You | Top | Gap |
@@ -303,7 +366,7 @@ Top uses: Glyph of Tame Beast, Glyph of Liberation, Glyph of Stampede
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Endless Wrath, Glyph of Stampede
+Top uses: Glyph of Stampede, Glyph of Endless Wrath, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
@@ -316,12 +379,19 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Endless Wrath, Glyph of Stamp
 - **Kill Shot** usage critically low (1.0 vs 1.8 CPM, -44%)
 - **Glaive Toss** uptime is low (0.1%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Endless Wrath**
 
 
 ---
 ## Iron Qon
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [ ] **Food:** None detected
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Windwhisper
 
@@ -345,7 +415,7 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Endless Wrath, Glyph of Stamp
 | T1 | Crouching Tiger, Hidden Chimera | **Posthaste** |
 | T3 | Iron Hawk | **Spirit Bond** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Tame Beast, Glyph of Mending
+Top uses: Glyph of Tame Beast, Glyph of Mending, Glyph of Stampede
 
 ### Suggestions
 
@@ -353,12 +423,19 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Tame Beast, Glyph of Mending
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Spirit Bond** (T3) - used by top performers instead of Iron Hawk
-- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Tame Beast**
+- Top performers use **Glyph of Mending**
 
 
 ---
 ## Twin Consorts
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [ ] **Food:** None detected
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs 뭉치냥
 
@@ -381,18 +458,25 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Tame Beast, Glyph of Mending
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspect of the Beast, Glyph of Liberation, Glyph of Aspects
+Top uses: Glyph of Aspects, Glyph of Aspect of the Beast, Glyph of Liberation
 
 ### Suggestions
 
 - **Cobra Shot** could be cast more (14.2 vs 18.1 CPM)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
+- Top performers use **Glyph of Aspects**
 - Top performers use **Glyph of Aspect of the Beast**
-- Top performers use **Glyph of Liberation**
 
 
 ---
 ## Lei Shen
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Deeboww
 
@@ -417,7 +501,7 @@ Top uses: Glyph of Aspect of the Beast, Glyph of Liberation, Glyph of Aspects
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Disengage, Glyph of Tame Beast
+Top uses: Glyph of Tame Beast, Glyph of Disengage, Glyph of Aspect of the Cheetah
 
 ### Suggestions
 
@@ -427,6 +511,6 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Disengage, Glyph of Tame Beas
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Disengage**
 

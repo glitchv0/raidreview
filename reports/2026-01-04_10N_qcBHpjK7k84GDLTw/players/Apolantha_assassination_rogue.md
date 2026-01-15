@@ -8,6 +8,13 @@
 ---
 ## Jin'rokh the Breaker
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Sigma
 
 | Ability | You | Top | Gap |
@@ -44,6 +51,13 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 ---
 ## Horridon
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs 룽도닥
 
 | Ability | You | Top | Gap |
@@ -64,7 +78,7 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
+Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
 
 ### Suggestions
 
@@ -74,11 +88,18 @@ Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
 - **Rupture** uptime is low (73.8%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
 - Top performers use **Glyph of Pick Lock**
-- Top performers use **Glyph of Tricks of the Trade**
+- Top performers use **Glyph of Sprint**
 
 
 ---
 ## Council of Elders
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Waldo
 
@@ -119,6 +140,13 @@ Top uses: Glyph of Pick Lock, Glyph of Blurred Speed
 ---
 ## Tortos
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Badgerrogue
 
 | Ability | You | Top | Gap |
@@ -150,6 +178,13 @@ Top uses: Glyph of Blurred Speed
 
 ---
 ## Megaera
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Gnomewyndash
 
@@ -185,6 +220,13 @@ Top uses: Glyph of Evasion, Glyph of Pick Pocket, Glyph of Disguise
 ---
 ## Ji-Kun
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Patchés
 
 | Ability | You | Top | Gap |
@@ -206,19 +248,26 @@ Top uses: Glyph of Evasion, Glyph of Pick Pocket, Glyph of Disguise
 | T3 | Cheat Death | **Elusiveness** |
 | T6 | Marked for Death | **Anticipation** |
 
-Top uses: Glyph of Recuperate, Glyph of Blurred Speed
+Top uses: Glyph of Blurred Speed, Glyph of Recuperate
 
 ### Suggestions
 
 - **Rupture** uptime is low (81.6%) - maintain on target
 - Consider **Elusiveness** (T3) - used by top performers instead of Cheat Death
 - Consider **Anticipation** (T6) - used by top performers instead of Marked for Death
-- Top performers use **Glyph of Recuperate**
 - Top performers use **Glyph of Blurred Speed**
+- Top performers use **Glyph of Recuperate**
 
 
 ---
 ## Durumu the Forgotten
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Fisçhe
 
@@ -254,6 +303,13 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 ---
 ## Primordius
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs 룽도닥
 
 | Ability | You | Top | Gap |
@@ -274,18 +330,25 @@ Top uses: Glyph of Blurred Speed, Glyph of Cloak of Shadows
 |------|-----|-----|
 | T2 | Combat Readiness | **Nerve Strike** |
 
-Top uses: Glyph of Pick Lock, Glyph of Tricks of the Trade, Glyph of Sprint
+Top uses: Glyph of Pick Lock, Glyph of Sprint, Glyph of Tricks of the Trade
 
 ### Suggestions
 
 - **Rupture** uptime is low (72.3%) - maintain on target
 - Consider **Nerve Strike** (T2) - used by top performers instead of Combat Readiness
 - Top performers use **Glyph of Pick Lock**
-- Top performers use **Glyph of Tricks of the Trade**
+- Top performers use **Glyph of Sprint**
 
 
 ---
 ## Dark Animus
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs 박붕대
 
@@ -326,6 +389,13 @@ Top uses: Glyph of Sprint
 ---
 ## Iron Qon
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Airbase
 
 | Ability | You | Top | Gap |
@@ -358,6 +428,13 @@ Top uses: Glyph of Expose Armor
 ---
 ## Twin Consorts
 
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
+
 ### Rotation vs Fisçhe
 
 | Ability | You | Top | Gap |
@@ -378,7 +455,7 @@ Top uses: Glyph of Expose Armor
 | T3 | Cheat Death | **Elusiveness** |
 | T4 | Shadowstep | **Burst of Speed** |
 
-Top uses: Glyph of Expose Armor, Glyph of Blurred Speed
+Top uses: Glyph of Blurred Speed, Glyph of Expose Armor
 
 ### Suggestions
 
@@ -387,12 +464,19 @@ Top uses: Glyph of Expose Armor, Glyph of Blurred Speed
 - **Shadow Blade Off-hand** usage critically low (2.9 vs 5.3 CPM, -45%)
 - Consider **Elusiveness** (T3) - used by top performers instead of Cheat Death
 - Consider **Burst of Speed** (T4) - used by top performers instead of Shadowstep
-- Top performers use **Glyph of Expose Armor**
 - Top performers use **Glyph of Blurred Speed**
+- Top performers use **Glyph of Expose Armor**
 
 
 ---
 ## Lei Shen
+
+### Consumables
+
+- [x] **Flask:** Flask of Spring Blossoms
+- [~] **Food:** Well Fed (250 stat)
+- [ ] **Pre-pot:** None
+- [ ] **Combat pot:** None
 
 ### Rotation vs Mesinas
 
