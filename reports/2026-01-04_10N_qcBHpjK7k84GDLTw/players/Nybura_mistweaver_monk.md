@@ -22,7 +22,7 @@
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 65.5 | 35.6 | +84% |
+| Eminence | 65.5 | 35.6 | +84% |
 | Eminence (Statue) | 65.5 | 35.2 | +86% |
 | Renewing Mist | 100.0% | 100.0% | 0% |
 | Spinning Crane Kick | 116.3 | 450.1 | -74% |
@@ -82,7 +82,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 54.1 | 87.6 | -38% |
+| Eminence | 54.1 | 87.6 | -38% |
 | Eminence (Statue) | 54.1 | 85.3 | -37% |
 | Spinning Crane Kick | 193.4 | 286.0 | -32% |
 | Renewing Mist | 91.2% | 100.0% | -8.8% |
@@ -143,7 +143,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 74.3 | 64.3 | +16% |
+| Eminence | 74.3 | 64.3 | +16% |
 | Spinning Crane Kick | 273.5 | 377.3 | -28% |
 | Renewing Mist | 100.0% | 100.0% | 0% |
 | Eminence (Statue) | 48.9 | 64.3 | -24% |
@@ -175,15 +175,15 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
 
 ### Suggestions
 
 - Very high overheal (55.3%) - consider more efficient spell usage or better timing
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Spinning Crane Kick**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Spinning Crane Kick**
 
 
 ---
@@ -203,7 +203,7 @@ Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 76.4 | 85.0 | -10% |
+| Eminence | 76.4 | 85.0 | -10% |
 | Eminence (Statue) | 76.4 | 85.0 | -10% |
 | Renewing Mist | 94.1% | 94.7% | -0.6% |
 | Spinning Crane Kick | 195.2 | 548.3 | -64% |
@@ -261,7 +261,7 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Jab, Glyph of Zen Meditat
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 64.0 | 11.5 | +457% |
+| Eminence | 64.0 | 11.5 | +457% |
 | Renewing Mist | 100.0% | 100.0% | 0% |
 | Eminence (Statue) | 64.0 | 11.5 | +457% |
 | Gift of the Serpent | 8.5 | 22.9 | -63% |
@@ -294,14 +294,14 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Jab, Glyph of Zen Meditat
 | T1 | Celerity | **Momentum** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Blackout Kick
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Blackout Kick**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Blackout Kick**
 
 
 ---
@@ -321,7 +321,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 109.0 | 78.4 | +39% |
+| Eminence | 109.0 | 78.4 | +39% |
 | Eminence (Statue) | 108.4 | 78.4 | +38% |
 | Uplift | 1.7 | - | - |
 | Renewing Mist | 95.1% | 99.0% | -3.9% |
@@ -386,7 +386,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 105.5 | 54.9 | +92% |
+| Eminence | 105.5 | 54.9 | +92% |
 | Eminence (Statue) | 105.5 | 53.7 | +96% |
 | Renewing Mist | 96.9% | 100.0% | -3.1% |
 | Revival | 0.2 | 0.3 | -33% |
@@ -418,7 +418,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Honor, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Honor, Glyph of Jab, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
@@ -426,8 +426,8 @@ Top uses: Glyph of Jab, Glyph of Honor, Glyph of Enduring Healing Sphere
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Honor**
+- Top performers use **Glyph of Jab**
 
 
 ---
@@ -447,7 +447,7 @@ Top uses: Glyph of Jab, Glyph of Honor, Glyph of Enduring Healing Sphere
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 53.2 | 47.3 | +12% |
+| Eminence | 53.2 | 47.3 | +12% |
 | Eminence (Statue) | 47.1 | 29.9 | +58% |
 | Renewing Mist | 83.5% | 98.5% | -15.0% |
 | Gift of the Serpent | 8.6 | 16.7 | -49% |
@@ -478,7 +478,7 @@ Top uses: Glyph of Jab, Glyph of Honor, Glyph of Enduring Healing Sphere
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 
 ### Suggestions
 
@@ -486,8 +486,8 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Jab**
 
 
 ---
@@ -508,7 +508,7 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
 | Renewing Mist | 92.3% | 100.0% | -7.7% |
-| Ancient Teachings of the Monastery | 54.3 | 212.1 | -74% |
+| Eminence | 54.3 | 212.1 | -74% |
 | Eminence (Statue) | 52.0 | 212.1 | -75% |
 | Revival | 0.3 | 0.9 | -67% |
 | Zen Pulse | 79.5% | - | - |
@@ -541,7 +541,7 @@ Top uses: Glyph of Jab, Glyph of Enduring Healing Sphere
 | T2 | Zen Pulse | **Chi Burst** |
 | T6 | Rushing Jade Wind | **Invoke Xuen, the White Tiger** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Jab, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Crackling Tiger Lightning, Glyph of Jab
 
 ### Suggestions
 
@@ -549,8 +549,8 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Jab, Glyph of Enduring He
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Invoke Xuen, the White Tiger** (T6) - used by top performers instead of Rushing Jade Wind
+- Top performers use **Glyph of Enduring Healing Sphere**
 - Top performers use **Glyph of Crackling Tiger Lightning**
-- Top performers use **Glyph of Jab**
 
 
 ---
@@ -570,7 +570,7 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Jab, Glyph of Enduring He
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 81.7 | 49.9 | +64% |
+| Eminence | 81.7 | 49.9 | +64% |
 | Renewing Mist | 98.5% | 98.1% | +0.4% |
 | Eminence (Statue) | 79.8 | 47.3 | +69% |
 | Gift of the Serpent | 5.7 | 5.0 | +14% |
@@ -632,7 +632,7 @@ Top uses: Glyph of Jab, Glyph of Zen Meditation
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 80.5 | 46.1 | +75% |
+| Eminence | 80.5 | 46.1 | +75% |
 | Eminence (Statue) | 80.5 | 46.1 | +75% |
 | Renewing Mist | 98.1% | 99.8% | -1.7% |
 | Gift of the Serpent | 6.1 | 16.5 | -63% |
@@ -695,7 +695,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 
 | Ability | You | Top | Gap |
 |---------|-----|-----|-----|
-| Ancient Teachings of the Monastery | 76.5 | 38.4 | +99% |
+| Eminence | 76.5 | 38.4 | +99% |
 | Renewing Mist | 98.9% | 100.0% | -1.1% |
 | Eminence (Statue) | 30.1 | 34.8 | -14% |
 | Gift of the Serpent | 6.9 | 0.4 | +1625% |
@@ -730,7 +730,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 | T4 | Leg Sweep | **Ring of Peace** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Rising Tiger Kick, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Crackling Tiger Lightning, Glyph of Rising Tiger Kick
 
 ### Suggestions
 
@@ -738,6 +738,6 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Rising Tiger Kick, Glyph 
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
+- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Crackling Tiger Lightning**
-- Top performers use **Glyph of Rising Tiger Kick**
 
