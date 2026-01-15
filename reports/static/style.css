@@ -1,0 +1,299 @@
+/* WoW-themed dark styling for raid reports */
+
+:root {
+    --wow-gold: #ffd100;
+    --wow-gold-dark: #b8860b;
+    --wow-bg-dark: #0d0d0d;
+    --wow-bg-card: #1a1a1a;
+    --wow-bg-header: #252525;
+    --wow-border: #3d3d3d;
+    --wow-text: #c0c0c0;
+    --wow-text-muted: #808080;
+
+    /* WarcraftLogs parse colors */
+    --parse-artifact: #e5cc80;   /* Tan - 100 */
+    --parse-legendary: #e268a8;  /* Pink - 99 */
+    --parse-epic: #ff8000;       /* Orange - 95-98 */
+    --parse-rare: #a335ee;       /* Purple - 75-94 */
+    --parse-uncommon: #0070ff;   /* Blue - 50-74 */
+    --parse-common: #1eff00;     /* Green - 25-49 */
+    --parse-gray: #666666;       /* Gray - 0-24 */
+}
+
+body {
+    background-color: var(--wow-bg-dark);
+    color: var(--wow-text);
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+/* Gold accent headings */
+h1, h2 {
+    color: var(--wow-gold);
+}
+
+h1 {
+    border-bottom: 2px solid var(--wow-gold-dark);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+h1 small {
+    font-size: 0.6em;
+}
+
+h3, h4, h5 {
+    color: var(--wow-text);
+}
+
+/* Links */
+a {
+    color: var(--wow-gold);
+}
+
+a:hover {
+    color: #fff;
+}
+
+/* Card styling */
+.card {
+    background-color: var(--wow-bg-card);
+    border: 1px solid var(--wow-border);
+    border-radius: 8px;
+}
+
+.card-header {
+    background: linear-gradient(180deg, var(--wow-bg-header) 0%, var(--wow-bg-card) 100%);
+    border-bottom: 1px solid var(--wow-border);
+    padding: 1rem 1.25rem;
+}
+
+.card-header h2 {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.card-header h5 {
+    margin: 0;
+}
+
+.card-body {
+    padding: 1.25rem;
+}
+
+/* Parse colors matching WarcraftLogs */
+.parse-artifact { color: var(--parse-artifact) !important; font-weight: bold; }
+.parse-legendary { color: var(--parse-legendary) !important; font-weight: bold; }
+.parse-epic { color: var(--parse-epic) !important; font-weight: bold; }
+.parse-rare { color: var(--parse-rare) !important; }
+.parse-uncommon { color: var(--parse-uncommon) !important; }
+.parse-common { color: var(--parse-common) !important; }
+.parse-gray { color: var(--parse-gray) !important; }
+
+/* Consumable checklist */
+.consumable-item {
+    padding: 0.35rem 0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.consumable-item i {
+    font-size: 1.1rem;
+    min-width: 20px;
+}
+
+/* Boss section cards */
+.boss-section {
+    border-left: 4px solid var(--wow-gold);
+}
+
+.boss-section .card-header {
+    border-bottom-color: var(--wow-gold-dark);
+}
+
+/* Suggestions list */
+.suggestion-item {
+    padding: 0.75rem 1rem;
+    margin: 0.5rem 0;
+    background: rgba(255, 209, 0, 0.05);
+    border-left: 3px solid var(--wow-gold);
+    border-radius: 0 4px 4px 0;
+}
+
+.suggestion-item strong {
+    color: var(--wow-gold);
+}
+
+/* Player navigation grid */
+.player-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 1rem;
+}
+
+.player-grid > * {
+    min-width: 0;
+}
+
+.player-card {
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+    border: 1px solid var(--wow-border);
+}
+
+.player-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(255, 209, 0, 0.15);
+    border-color: var(--wow-gold-dark);
+}
+
+.player-card .card-title {
+    color: #fff;
+    margin-bottom: 0.25rem;
+}
+
+.player-card .card-text {
+    font-size: 0.9rem;
+}
+
+/* Raid info section */
+.raid-info {
+    background: var(--wow-bg-card);
+    padding: 1rem 1.25rem;
+    border-radius: 8px;
+    border: 1px solid var(--wow-border);
+}
+
+.raid-info p {
+    margin: 0.25rem 0;
+}
+
+/* Table styling */
+.table-dark {
+    --bs-table-bg: transparent;
+    --bs-table-striped-bg: rgba(255, 255, 255, 0.03);
+    --bs-table-hover-bg: rgba(255, 209, 0, 0.05);
+    border-color: var(--wow-border);
+}
+
+.table-dark th {
+    background: var(--wow-bg-header);
+    border-bottom: 2px solid var(--wow-gold-dark);
+    color: var(--wow-gold);
+    font-weight: 600;
+}
+
+.table-dark td {
+    border-color: var(--wow-border);
+    vertical-align: middle;
+}
+
+/* Breadcrumb styling */
+.breadcrumb {
+    background: var(--wow-bg-card);
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+    border: 1px solid var(--wow-border);
+    margin-bottom: 1.5rem;
+}
+
+.breadcrumb-item a {
+    color: var(--wow-gold);
+    text-decoration: none;
+}
+
+.breadcrumb-item a:hover {
+    color: #fff;
+}
+
+.breadcrumb-item.active {
+    color: var(--wow-text-muted);
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+    color: var(--wow-text-muted);
+}
+
+/* Wowhead link styling - let Wowhead handle most styling */
+a[href*="wowhead.com"] {
+    text-decoration: none;
+}
+
+/* Role section headers */
+.role-section h2 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--wow-border);
+}
+
+.role-section .player-grid {
+    margin-top: 1rem;
+}
+
+.role-section h2:first-child {
+    margin-top: 0;
+}
+
+/* Reports index cards */
+.report-card {
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.report-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(255, 209, 0, 0.2);
+}
+
+/* Footer */
+.footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--wow-border);
+    color: var(--wow-text-muted);
+    font-size: 0.85rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .player-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .table {
+        font-size: 0.85rem;
+    }
+
+    h1 {
+        font-size: 1.75rem;
+    }
+
+    .boss-section .d-flex {
+        flex-direction: column;
+        gap: 0.5rem !important;
+    }
+}
+
+/* Metric icons alignment */
+.boss-section .d-flex span {
+    display: flex;
+    align-items: center;
+}
+
+/* Section headers with icons */
+.card-header h5 i,
+h4 i {
+    opacity: 0.7;
+}
+
+/* Overheal display */
+.overheal-section {
+    background: rgba(255, 100, 100, 0.05);
+    border-left: 3px solid #ff6b6b;
+    padding: 0.75rem 1rem;
+    border-radius: 0 4px 4px 0;
+    margin-bottom: 1rem;
+}
