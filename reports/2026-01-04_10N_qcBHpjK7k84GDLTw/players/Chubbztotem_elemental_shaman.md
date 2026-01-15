@@ -8,6 +8,8 @@
 ---
 ## Jin'rokh the Breaker
 
+**Duration:** 2:14 | **DPS:** 159,326
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -37,7 +39,7 @@
 |------|-----|-----|
 | T2 | Windwalk Totem | **Earthgrab Totem** |
 
-Top uses: Glyph of Spiritwalker's Grace, Glyph of Totemic Encirclement, Glyph of the Lakestrider
+Top uses: Glyph of the Lakestrider, Glyph of Spiritwalker's Grace, Glyph of Totemic Encirclement
 
 ### Suggestions
 
@@ -47,12 +49,14 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Totemic Encirclement, Glyph of
 - **Lightning Bolt Overload** usage critically low (7.6 vs 14.2 CPM, -46%)
 - **Lightning Strike** usage critically low (1.8 vs 4.9 CPM, -63%)
 - Consider **Earthgrab Totem** (T2) - used by top performers instead of Windwalk Totem
+- Top performers use **Glyph of the Lakestrider**
 - Top performers use **Glyph of Spiritwalker's Grace**
-- Top performers use **Glyph of Totemic Encirclement**
 
 
 ---
 ## Horridon
+
+**Duration:** 6:01 | **DPS:** 110,972
 
 ### Consumables
 
@@ -83,7 +87,7 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of Totemic Encirclement, Glyph of
 |------|-----|-----|
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Lightning Shield, Glyph of Flaming Serpents, Glyph of Flame Shock
+Top uses: Glyph of Lightning Shield, Glyph of Astral Fixation, Glyph of Flaming Serpents
 
 ### Suggestions
 
@@ -99,11 +103,13 @@ Top uses: Glyph of Lightning Shield, Glyph of Flaming Serpents, Glyph of Flame S
 - **Fulmination** usage critically low (1.0 vs 2.1 CPM, -52%)
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
 - Top performers use **Glyph of Lightning Shield**
-- Top performers use **Glyph of Flaming Serpents**
+- Top performers use **Glyph of Astral Fixation**
 
 
 ---
 ## Council of Elders
+
+**Duration:** 4:17 | **DPS:** 130,641
 
 ### Consumables
 
@@ -135,7 +141,7 @@ Top uses: Glyph of Lightning Shield, Glyph of Flaming Serpents, Glyph of Flame S
 | T3 | Totemic Recall | **Totemic Projection** |
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Astral Fixation, Glyph of Flaming Serpents, Glyph of Spiritwalker's Grace
+Top uses: Glyph of Healing Stream Totem, Glyph of Spiritwalker's Grace, Glyph of Thunderstorm
 
 ### Suggestions
 
@@ -148,12 +154,14 @@ Top uses: Glyph of Astral Fixation, Glyph of Flaming Serpents, Glyph of Spiritwa
 - **Flame Shock** uptime is low (29.4%) - maintain on target
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
-- Top performers use **Glyph of Astral Fixation**
-- Top performers use **Glyph of Flaming Serpents**
+- Top performers use **Glyph of Healing Stream Totem**
+- Top performers use **Glyph of Spiritwalker's Grace**
 
 
 ---
 ## Tortos
+
+**Duration:** 2:44 | **DPS:** 125,253
 
 ### Consumables
 
@@ -185,7 +193,7 @@ Top uses: Glyph of Astral Fixation, Glyph of Flaming Serpents, Glyph of Spiritwa
 | T3 | Totemic Recall | **Totemic Projection** |
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Lightning Shield, Glyph of Flaming Serpents, Glyph of the Lakestrider
+Top uses: Glyph of the Lakestrider, Glyph of Spiritwalker's Grace, Glyph of Lightning Shield
 
 ### Suggestions
 
@@ -199,12 +207,14 @@ Top uses: Glyph of Lightning Shield, Glyph of Flaming Serpents, Glyph of the Lak
 - **Fulmination** usage critically low (0.7 vs 1.5 CPM, -53%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
-- Top performers use **Glyph of Lightning Shield**
-- Top performers use **Glyph of Flaming Serpents**
+- Top performers use **Glyph of the Lakestrider**
+- Top performers use **Glyph of Spiritwalker's Grace**
 
 
 ---
 ## Megaera
+
+**Duration:** 5:59 | **DPS:** 57,660
 
 ### Consumables
 
@@ -235,7 +245,7 @@ Top uses: Glyph of Lightning Shield, Glyph of Flaming Serpents, Glyph of the Lak
 |------|-----|-----|
 | T3 | Totemic Recall | **Totemic Projection** |
 
-Top uses: Glyph of Lightning Shield, Glyph of Spiritwalker's Grace, Glyph of Thunderstorm
+Top uses: Glyph of Astral Recall, Glyph of Spiritwalker's Grace, Glyph of Thunderstorm
 
 ### Suggestions
 
@@ -248,12 +258,14 @@ Top uses: Glyph of Lightning Shield, Glyph of Spiritwalker's Grace, Glyph of Thu
 - **Searing Totem** usage critically low (0.5 vs 0.9 CPM, -44%)
 - **Earth Shock** usage critically low (1.2 vs 2.6 CPM, -54%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
-- Top performers use **Glyph of Lightning Shield**
+- Top performers use **Glyph of Astral Recall**
 - Top performers use **Glyph of Spiritwalker's Grace**
 
 
 ---
 ## Ji-Kun
+
+**Duration:** 2:59 | **DPS:** 96,144
 
 ### Consumables
 
@@ -294,6 +306,8 @@ Top uses: Glyph of Grounding Totem
 ---
 ## Durumu the Forgotten
 
+**Duration:** 4:25 | **DPS:** 73,805
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -323,7 +337,7 @@ Top uses: Glyph of Grounding Totem
 |------|-----|-----|
 | T3 | Totemic Recall | **Totemic Projection** |
 
-Top uses: Glyph of Lightning Shield, Glyph of Astral Recall, Glyph of Spiritwalker's Grace
+Top uses: Glyph of Astral Recall, Glyph of the Lakestrider, Glyph of Spiritwalker's Grace
 
 ### Suggestions
 
@@ -337,12 +351,14 @@ Top uses: Glyph of Lightning Shield, Glyph of Astral Recall, Glyph of Spiritwalk
 - **Lightning Strike** usage critically low (2.3 vs 5.0 CPM, -54%)
 - **Earth Shock** usage critically low (1.4 vs 3.1 CPM, -55%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
-- Top performers use **Glyph of Lightning Shield**
 - Top performers use **Glyph of Astral Recall**
+- Top performers use **Glyph of the Lakestrider**
 
 
 ---
 ## Primordius
+
+**Duration:** 5:21 | **DPS:** 88,413
 
 ### Consumables
 
@@ -369,7 +385,7 @@ Top uses: Glyph of Lightning Shield, Glyph of Astral Recall, Glyph of Spiritwalk
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Spiritwalker's Grace, Glyph of the Compy, Glyph of Flame Shock
+Top uses: Glyph of the Compy, Glyph of Spiritwalker's Grace, Glyph of Flame Shock
 
 ### Suggestions
 
@@ -380,12 +396,14 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of the Compy, Glyph of Flame Shoc
 - **Primal Fire Elemental** uptime is low (67.0%) - maintain on target
 - **Flame Shock** uptime is low (39.7%) - maintain on target
 - **Lightning Bolt Overload** usage critically low (2.8 vs 5.1 CPM, -45%)
-- Top performers use **Glyph of Spiritwalker's Grace**
 - Top performers use **Glyph of the Compy**
+- Top performers use **Glyph of Spiritwalker's Grace**
 
 
 ---
 ## Dark Animus
+
+**Duration:** 3:57 | **DPS:** 46,148
 
 ### Consumables
 
@@ -417,7 +435,7 @@ Top uses: Glyph of Spiritwalker's Grace, Glyph of the Compy, Glyph of Flame Shoc
 | T3 | Totemic Recall | **Totemic Projection** |
 | T4 | Master of the Elements | **Echo of the Elements** |
 
-Top uses: Glyph of Lightning Shield, Glyph of Spiritwalker's Grace, Glyph of the Lakestrider
+Top uses: Glyph of Astral Recall, Glyph of the Lakestrider, Glyph of Spiritwalker's Grace
 
 ### Suggestions
 
@@ -430,12 +448,14 @@ Top uses: Glyph of Lightning Shield, Glyph of Spiritwalker's Grace, Glyph of the
 - **Lightning Strike** usage critically low (1.0 vs 43.2 CPM, -98%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
 - Consider **Echo of the Elements** (T4) - used by top performers instead of Master of the Elements
-- Top performers use **Glyph of Lightning Shield**
-- Top performers use **Glyph of Spiritwalker's Grace**
+- Top performers use **Glyph of Astral Recall**
+- Top performers use **Glyph of the Lakestrider**
 
 
 ---
 ## Iron Qon
+
+**Duration:** 8:05 | **DPS:** 60,801
 
 ### Consumables
 
@@ -466,7 +486,7 @@ Top uses: Glyph of Lightning Shield, Glyph of Spiritwalker's Grace, Glyph of the
 |------|-----|-----|
 | T3 | Totemic Recall | **Totemic Projection** |
 
-Top uses: Glyph of Lightning Shield, Glyph of Astral Recall, Glyph of Spiritwalker's Grace
+Top uses: Glyph of Astral Recall, Glyph of the Lakestrider, Glyph of Spiritwalker's Grace
 
 ### Suggestions
 
@@ -479,12 +499,14 @@ Top uses: Glyph of Lightning Shield, Glyph of Astral Recall, Glyph of Spiritwalk
 - **Lightning Strike** usage critically low (2.2 vs 3.4 CPM, -35%)
 - **Earth Shock** usage critically low (1.7 vs 2.8 CPM, -39%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
-- Top performers use **Glyph of Lightning Shield**
 - Top performers use **Glyph of Astral Recall**
+- Top performers use **Glyph of the Lakestrider**
 
 
 ---
 ## Twin Consorts
+
+**Duration:** 7:13 | **DPS:** 77,810
 
 ### Consumables
 
@@ -515,7 +537,7 @@ Top uses: Glyph of Lightning Shield, Glyph of Astral Recall, Glyph of Spiritwalk
 |------|-----|-----|
 | T3 | Totemic Recall | **Totemic Projection** |
 
-Top uses: Glyph of Elemental Familiars, Glyph of Telluric Currents, Glyph of Lightning Shield
+Top uses: Glyph of the Lakestrider, Glyph of Spiritwalker's Grace, Glyph of Telluric Currents
 
 ### Suggestions
 
@@ -527,12 +549,14 @@ Top uses: Glyph of Elemental Familiars, Glyph of Telluric Currents, Glyph of Lig
 - **Primal Fire Elemental** uptime is low (7.5%) - maintain on target
 - **Earth Shock** usage critically low (1.7 vs 2.8 CPM, -39%)
 - Consider **Totemic Projection** (T3) - used by top performers instead of Totemic Recall
-- Top performers use **Glyph of Elemental Familiars**
-- Top performers use **Glyph of Telluric Currents**
+- Top performers use **Glyph of the Lakestrider**
+- Top performers use **Glyph of Spiritwalker's Grace**
 
 
 ---
 ## Lei Shen
+
+**Duration:** 8:18 | **DPS:** 47,925
 
 ### Consumables
 

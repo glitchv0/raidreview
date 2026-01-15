@@ -8,6 +8,8 @@
 ---
 ## Jin'rokh the Breaker
 
+**Duration:** 2:14 | **DPS:** 203,486
+
 ### Consumables
 
 - [x] **Flask:** Flask of Spring Blossoms
@@ -33,17 +35,19 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Stampede, Glyph of Tame Beast
+Top uses: Glyph of Tame Beast, Glyph of Stampede
 
 ### Suggestions
 
 - **Kill Shot** could be cast more (2.7 vs 3.4 CPM)
-- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Tame Beast**
+- Top performers use **Glyph of Stampede**
 
 
 ---
 ## Horridon
+
+**Duration:** 6:01 | **DPS:** 199,960
 
 ### Consumables
 
@@ -74,7 +78,7 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
+Top uses: Glyph of Disengage, Glyph of Stampede, Glyph of Endless Wrath
 
 ### Suggestions
 
@@ -82,12 +86,14 @@ Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
 - **Glaive Toss** uptime is low (2.6%) - maintain on target
 - **Glaive Toss** uptime is low (0.8%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Endless Wrath**
 - Top performers use **Glyph of Disengage**
+- Top performers use **Glyph of Stampede**
 
 
 ---
 ## Council of Elders
+
+**Duration:** 4:17 | **DPS:** 135,278
 
 ### Consumables
 
@@ -130,6 +136,8 @@ Top uses: Glyph of Endless Wrath, Glyph of Disengage, Glyph of Stampede
 
 ---
 ## Tortos
+
+**Duration:** 2:44 | **DPS:** 178,464
 
 ### Consumables
 
@@ -176,6 +184,8 @@ Top uses: Glyph of Disengage
 ---
 ## Megaera
 
+**Duration:** 5:59 | **DPS:** 132,341
+
 ### Consumables
 
 - [x] **Flask:** Flask of Spring Blossoms
@@ -201,17 +211,19 @@ Top uses: Glyph of Disengage
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Stampede, Glyph of Tame Beast
+Top uses: Glyph of Tame Beast, Glyph of Stampede
 
 ### Suggestions
 
 - **Kill Shot** usage critically low (1.3 vs 2.2 CPM, -41%)
-- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Tame Beast**
+- Top performers use **Glyph of Stampede**
 
 
 ---
 ## Ji-Kun
+
+**Duration:** 2:59 | **DPS:** 279,703
 
 ### Consumables
 
@@ -243,18 +255,20 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast
 | T5 | A Murder of Crows | **Blink Strikes** |
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Endless Wrath, Glyph of Stampede, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wrath
 
 ### Suggestions
 
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Endless Wrath**
+- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Stampede**
 
 
 ---
 ## Durumu the Forgotten
+
+**Duration:** 4:25 | **DPS:** 162,943
 
 ### Consumables
 
@@ -285,18 +299,20 @@ Top uses: Glyph of Endless Wrath, Glyph of Stampede, Glyph of Aspect of the Chee
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Liberation
+Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Liberation
 
 ### Suggestions
 
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Stampede**
 
 
 ---
 ## Primordius
+
+**Duration:** 5:21 | **DPS:** 93,602
 
 ### Consumables
 
@@ -328,7 +344,7 @@ Top uses: Glyph of Stampede, Glyph of Aspect of the Cheetah, Glyph of Liberation
 | T4 | Dire Beast | **Fervor** |
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Stampede, Glyph of Tame Beast, Glyph of Liberation
+Top uses: Glyph of Tame Beast, Glyph of Stampede, Glyph of Liberation
 
 ### Suggestions
 
@@ -339,12 +355,14 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast, Glyph of Liberation
 - **Glaive Toss** could be cast more (2.4 vs 3.1 CPM)
 - Consider **Fervor** (T4) - used by top performers instead of Dire Beast
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Stampede**
 - Top performers use **Glyph of Tame Beast**
+- Top performers use **Glyph of Stampede**
 
 
 ---
 ## Dark Animus
+
+**Duration:** 3:57 | **DPS:** 82,905
 
 ### Consumables
 
@@ -375,7 +393,7 @@ Top uses: Glyph of Stampede, Glyph of Tame Beast, Glyph of Liberation
 |------|-----|-----|
 | T5 | A Murder of Crows | **Blink Strikes** |
 
-Top uses: Glyph of Endless Wrath, Glyph of Stampede, Glyph of Aspect of the Cheetah
+Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Endless Wrath
 
 ### Suggestions
 
@@ -388,12 +406,14 @@ Top uses: Glyph of Endless Wrath, Glyph of Stampede, Glyph of Aspect of the Chee
 - **Kill Shot** usage critically low (1.0 vs 1.8 CPM, -44%)
 - **Glaive Toss** uptime is low (0.1%) - maintain on target
 - Consider **Blink Strikes** (T5) - used by top performers instead of A Murder of Crows
-- Top performers use **Glyph of Endless Wrath**
+- Top performers use **Glyph of Aspect of the Cheetah**
 - Top performers use **Glyph of Stampede**
 
 
 ---
 ## Iron Qon
+
+**Duration:** 8:05 | **DPS:** 126,580
 
 ### Consumables
 
@@ -425,7 +445,7 @@ Top uses: Glyph of Endless Wrath, Glyph of Stampede, Glyph of Aspect of the Chee
 | T1 | Crouching Tiger, Hidden Chimera | **Posthaste** |
 | T3 | Iron Hawk | **Spirit Bond** |
 
-Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Mending
+Top uses: Glyph of Tame Beast, Glyph of Stampede, Glyph of Mending
 
 ### Suggestions
 
@@ -433,12 +453,14 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Mending
 - **Stampede** usage critically low (0.2 vs 0.3 CPM, -33%)
 - Consider **Posthaste** (T1) - used by top performers instead of Crouching Tiger, Hidden Chimera
 - Consider **Spirit Bond** (T3) - used by top performers instead of Iron Hawk
-- Top performers use **Glyph of Aspect of the Cheetah**
+- Top performers use **Glyph of Tame Beast**
 - Top performers use **Glyph of Stampede**
 
 
 ---
 ## Twin Consorts
+
+**Duration:** 7:13 | **DPS:** 135,333
 
 ### Consumables
 
@@ -469,18 +491,20 @@ Top uses: Glyph of Aspect of the Cheetah, Glyph of Stampede, Glyph of Mending
 |------|-----|-----|
 | T6 | Glaive Toss | **Barrage** |
 
-Top uses: Glyph of Aspects, Glyph of Aspect of the Beast, Glyph of Liberation
+Top uses: Glyph of Aspect of the Beast, Glyph of Aspects, Glyph of Liberation
 
 ### Suggestions
 
 - **Cobra Shot** could be cast more (14.2 vs 18.1 CPM)
 - Consider **Barrage** (T6) - used by top performers instead of Glaive Toss
-- Top performers use **Glyph of Aspects**
 - Top performers use **Glyph of Aspect of the Beast**
+- Top performers use **Glyph of Aspects**
 
 
 ---
 ## Lei Shen
+
+**Duration:** 8:18 | **DPS:** 121,827
 
 ### Consumables
 

@@ -8,6 +8,8 @@
 ---
 ## Jin'rokh the Breaker
 
+**Duration:** 2:14 | **HPS:** 32,680
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -16,22 +18,18 @@
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (3 uses)
 
-### Healing vs Kàsu
+### Healing Rotation vs Kàsu
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 1,508,989 | 71.7% | 147 |
-| Eminence (Statue) | 965,092 | 82.0% | 147 |
-| Renewing Mist | 837,897 | 80.8% | 13 |
-| Spinning Crane Kick | 622,806 | 78.6% | 261 |
-| Gift of the Serpent | 299,234 | 27.2% | 6 |
-| Zen Pulse | 167,515 | 83.8% | 11 |
-| Gift of the Serpent | 0 | 100.0% | 1 |
-| Uplift | 0 | 100.0% | 1 |
-| Expel Harm | 0 | 100.0% | 1 |
-| Restoration of the Infinite | 0 | 100.0% | 3 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 65.5 | 35.6 | +84% |
+| Eminence (Statue) | 65.5 | 35.2 | +86% |
+| Renewing Mist | 100.0% | 100.0% | 0% |
+| Spinning Crane Kick | 116.3 | 450.1 | -74% |
+| Gift of the Serpent | 2.7 | 13.7 | -80% |
+| Zen Pulse | 100.0% | - | - |
 
-**Total HPS:** 32,680 | **Overall Overheal:** 78.6%
+**Overall Overheal:** 78.6%
 
 ### DPS Rotation (Fistweaving)
 
@@ -53,7 +51,7 @@
 | T2 | Zen Pulse | **Chi Burst** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 
 ### Suggestions
 
@@ -62,12 +60,14 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Blackout Kick**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Blackout Kick**
 
 
 ---
 ## Horridon
+
+**Duration:** 6:01 | **HPS:** 31,663
 
 ### Consumables
 
@@ -77,22 +77,21 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (6 uses)
 
-### Healing vs Mirelin
+### Healing Rotation vs Mirelin
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 3,811,867 | 52.3% | 326 |
-| Eminence (Statue) | 2,671,093 | 66.3% | 326 |
-| Spinning Crane Kick | 1,877,202 | 78.9% | 1166 |
-| Renewing Mist | 1,501,028 | 75.4% | 24 |
-| Gift of the Serpent | 659,882 | 35.5% | 20 |
-| Restoration of the Infinite | 466,247 | 52.7% | 7 |
-| Zen Pulse | 312,323 | 78.4% | 18 |
-| Surging Mist | 89,779 | 0.0% | 1 |
-| Zen Sphere: Detonate | 64,205 | 94.7% | 41 |
-| Gift of the Serpent | 0 | 100.0% | 3 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 54.1 | 87.6 | -38% |
+| Eminence (Statue) | 54.1 | 85.3 | -37% |
+| Spinning Crane Kick | 193.4 | 286.0 | -32% |
+| Renewing Mist | 91.2% | 100.0% | -8.8% |
+| Gift of the Serpent | 3.3 | 10.8 | -69% |
+| Restoration of the Infinite | 1.2 | - | - |
+| Zen Pulse | 72.9% | - | - |
+| Surging Mist | 0.2 | 1.4 | -86% |
+| Zen Sphere: Detonate | 6.8 | - | - |
 
-**Total HPS:** 31,663 | **Overall Overheal:** 68.0%
+**Overall Overheal:** 68.0%
 
 ### DPS Rotation (Fistweaving)
 
@@ -113,7 +112,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -122,12 +121,14 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 - **Revival** not detected - key ability for Mistweaver Monk
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
 ## Council of Elders
+
+**Duration:** 4:17 | **HPS:** 53,317
 
 ### Consumables
 
@@ -137,22 +138,22 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (5 uses)
 
-### Healing vs Sornaer
+### Healing Rotation vs Sornaer
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 4,793,337 | 23.0% | 319 |
-| Spinning Crane Kick | 2,383,854 | 73.1% | 1175 |
-| Renewing Mist | 2,287,207 | 57.0% | 21 |
-| Eminence (Statue) | 2,155,294 | 49.5% | 210 |
-| Gift of the Serpent | 1,173,857 | 14.6% | 27 |
-| Zen Pulse | 371,913 | 73.4% | 21 |
-| Restoration of the Infinite | 265,889 | 40.9% | 4 |
-| Revival | 234,372 | 87.6% | 1 |
-| Uplift | 53,539 | 82.3% | 2 |
-| Zen Sphere: Detonate | 23,426 | 95.6% | 18 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 74.3 | 64.3 | +16% |
+| Spinning Crane Kick | 273.5 | 377.3 | -28% |
+| Renewing Mist | 100.0% | 100.0% | 0% |
+| Eminence (Statue) | 48.9 | 64.3 | -24% |
+| Gift of the Serpent | 6.3 | 11.6 | -46% |
+| Zen Pulse | 99.5% | - | - |
+| Restoration of the Infinite | 0.9 | - | - |
+| Revival | 0.2 | 0.2 | 0% |
+| Uplift | 0.5 | - | - |
+| Zen Sphere: Detonate | 4.2 | - | - |
 
-**Total HPS:** 53,317 | **Overall Overheal:** 55.3%
+**Overall Overheal:** 55.3%
 
 ### DPS Rotation (Fistweaving)
 
@@ -173,19 +174,21 @@ Top uses: Glyph of Zen Meditation, Glyph of Enduring Healing Sphere
 | T1 | Celerity | **Tiger's Lust** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Spinning Crane Kick
 
 ### Suggestions
 
 - Very high overheal (55.3%) - consider more efficient spell usage or better timing
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Spinning Crane Kick**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Spinning Crane Kick**
 
 
 ---
 ## Tortos
+
+**Duration:** 2:44 | **HPS:** 48,673
 
 ### Consumables
 
@@ -195,22 +198,22 @@ Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (3 uses)
 
-### Healing vs 哈基咪
+### Healing Rotation vs 哈基咪
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 2,534,463 | 47.1% | 209 |
-| Eminence (Statue) | 1,354,827 | 72.0% | 209 |
-| Renewing Mist | 1,163,637 | 64.1% | 12 |
-| Spinning Crane Kick | 870,442 | 78.1% | 534 |
-| Revival | 866,653 | 48.5% | 1 |
-| Gift of the Serpent | 594,679 | 11.3% | 13 |
-| Zen Pulse | 323,893 | 63.0% | 13 |
-| Uplift | 108,351 | 0.0% | 1 |
-| Restoration of the Infinite | 104,510 | 49.9% | 2 |
-| Gift of the Serpent | 42,355 | 72.2% | 5 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 76.4 | 85.0 | -10% |
+| Eminence (Statue) | 76.4 | 85.0 | -10% |
+| Renewing Mist | 94.1% | 94.7% | -0.6% |
+| Spinning Crane Kick | 195.2 | 548.3 | -64% |
+| Revival | 0.4 | 0.5 | -20% |
+| Gift of the Serpent | 4.8 | 9.2 | -48% |
+| Zen Pulse | 97.3% | - | - |
+| Uplift | 0.4 | - | - |
+| Restoration of the Infinite | 0.7 | 1.3 | -46% |
+| Gift of the Serpent | 1.8 | 9.2 | -80% |
 
-**Total HPS:** 48,673 | **Overall Overheal:** 61.5%
+**Overall Overheal:** 61.5%
 
 ### DPS Rotation (Fistweaving)
 
@@ -230,18 +233,20 @@ Top uses: Glyph of Spinning Crane Kick, Glyph of Enduring Healing Sphere
 |------|-----|-----|
 | T2 | Zen Pulse | **Chi Wave** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of Jab
+Top uses: Glyph of Jab, Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation
 
 ### Suggestions
 
 - Very high overheal (61.5%) - consider more efficient spell usage or better timing
 - Consider **Chi Wave** (T2) - used by top performers instead of Zen Pulse
+- Top performers use **Glyph of Jab**
 - Top performers use **Glyph of Crackling Tiger Lightning**
-- Top performers use **Glyph of Zen Meditation**
 
 
 ---
 ## Megaera
+
+**Duration:** 5:59 | **HPS:** 63,661
 
 ### Consumables
 
@@ -251,22 +256,22 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of 
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (6 uses)
 
-### Healing vs Megabloks
+### Healing Rotation vs Megabloks
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 4,974,753 | 25.1% | 383 |
-| Renewing Mist | 4,891,173 | 38.3% | 32 |
-| Eminence (Statue) | 3,921,032 | 41.1% | 383 |
-| Gift of the Serpent | 2,357,081 | 9.8% | 51 |
-| Spinning Crane Kick | 1,540,068 | 10.6% | 8 |
-| Uplift | 1,505,572 | 12.2% | 10 |
-| Zen Pulse | 976,143 | 50.1% | 24 |
-| Zen Sphere: Detonate | 847,835 | 53.6% | 78 |
-| Restoration of the Infinite | 652,866 | 34.6% | 7 |
-| Revival | 500,631 | 77.3% | 1 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 64.0 | 11.5 | +457% |
+| Renewing Mist | 100.0% | 100.0% | 0% |
+| Eminence (Statue) | 64.0 | 11.5 | +457% |
+| Gift of the Serpent | 8.5 | 22.9 | -63% |
+| Spinning Crane Kick | 1.3 | 460.9 | -100% |
+| Uplift | 1.7 | - | - |
+| Zen Pulse | 92.5% | - | - |
+| Zen Sphere: Detonate | 13.0 | - | - |
+| Restoration of the Infinite | 1.2 | - | - |
+| Revival | 0.2 | 0.4 | -50% |
 
-**Total HPS:** 63,661 | **Overall Overheal:** 35.5%
+**Overall Overheal:** 35.5%
 
 ### DPS Rotation (Fistweaving)
 
@@ -288,18 +293,20 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Zen Meditation, Glyph of 
 | T1 | Celerity | **Momentum** |
 | T2 | Zen Pulse | **Chi Burst** |
 
-Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Blackout Kick
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
-- Top performers use **Glyph of Blackout Kick**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Blackout Kick**
 
 
 ---
 ## Ji-Kun
+
+**Duration:** 2:59 | **HPS:** 34,411
 
 ### Consumables
 
@@ -309,22 +316,22 @@ Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (3 uses)
 
-### Healing vs Potatomwtwo
+### Healing Rotation vs Potatomwtwo
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 2,448,432 | 46.4% | 326 |
-| Eminence (Statue) | 1,280,802 | 71.9% | 324 |
-| Uplift | 761,023 | 11.3% | 5 |
-| Renewing Mist | 715,363 | 81.0% | 15 |
-| Restoration of the Infinite | 256,440 | 53.4% | 3 |
-| Gift of the Serpent | 237,019 | 16.6% | 6 |
-| Surging Mist | 226,985 | 26.5% | 2 |
-| Life Cocoon | 111,307 | 75.8% | 1 |
-| Zen Pulse | 86,009 | 90.6% | 13 |
-| Expel Harm | 28,838 | 76.4% | 2 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 109.0 | 78.4 | +39% |
+| Eminence (Statue) | 108.4 | 78.4 | +38% |
+| Uplift | 1.7 | - | - |
+| Renewing Mist | 95.1% | 99.0% | -3.9% |
+| Restoration of the Infinite | 1.0 | 1.3 | -23% |
+| Gift of the Serpent | 2.0 | 3.0 | -33% |
+| Surging Mist | 0.7 | 1.3 | -46% |
+| Life Cocoon | 6.7% | - | - |
+| Zen Pulse | 90.6% | - | - |
+| Expel Harm | 0.7 | 0.3 | +133% |
 
-**Total HPS:** 34,411 | **Overall Overheal:** 63.5%
+**Overall Overheal:** 63.5%
 
 ### DPS Rotation (Fistweaving)
 
@@ -347,7 +354,7 @@ Top uses: Glyph of Blackout Kick, Glyph of Enduring Healing Sphere
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Jab
+Top uses: Glyph of Jab, Glyph of Zen Meditation
 
 ### Suggestions
 
@@ -356,12 +363,14 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Jab**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
 ## Durumu the Forgotten
+
+**Duration:** 4:25 | **HPS:** 40,975
 
 ### Consumables
 
@@ -371,22 +380,22 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (5 uses)
 
-### Healing vs Arnumo
+### Healing Rotation vs Arnumo
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 2,983,401 | 50.4% | 467 |
-| Eminence (Statue) | 2,972,799 | 47.3% | 467 |
-| Renewing Mist | 1,831,100 | 67.5% | 23 |
-| Revival | 823,485 | 53.7% | 1 |
-| Restoration of the Infinite | 495,379 | 46.5% | 6 |
-| Zen Pulse | 459,632 | 64.4% | 19 |
-| Life Cocoon | 437,628 | 0.0% | 1 |
-| Gift of the Serpent | 275,268 | 36.2% | 11 |
-| Zen Sphere: Detonate | 225,824 | 74.6% | 27 |
-| Uplift | 213,253 | 32.2% | 1 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 105.5 | 54.9 | +92% |
+| Eminence (Statue) | 105.5 | 53.7 | +96% |
+| Renewing Mist | 96.9% | 100.0% | -3.1% |
+| Revival | 0.2 | 0.3 | -33% |
+| Restoration of the Infinite | 1.4 | - | - |
+| Zen Pulse | 88.5% | - | - |
+| Life Cocoon | 1.8% | 4.6% | -2.8% |
+| Gift of the Serpent | 2.5 | 0.2 | +1150% |
+| Zen Sphere: Detonate | 6.1 | - | - |
+| Uplift | 0.2 | - | - |
 
-**Total HPS:** 40,975 | **Overall Overheal:** 54.2%
+**Overall Overheal:** 54.2%
 
 ### DPS Rotation (Fistweaving)
 
@@ -407,7 +416,7 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Enduring Healing Sphere, Glyph of Honor, Glyph of Jab
+Top uses: Glyph of Honor, Glyph of Jab, Glyph of Enduring Healing Sphere
 
 ### Suggestions
 
@@ -415,12 +424,14 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Honor, Glyph of Jab
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Enduring Healing Sphere**
 - Top performers use **Glyph of Honor**
+- Top performers use **Glyph of Jab**
 
 
 ---
 ## Primordius
+
+**Duration:** 5:21 | **HPS:** 56,251
 
 ### Consumables
 
@@ -430,22 +441,22 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Honor, Glyph of Jab
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (6 uses)
 
-### Healing vs Chi
+### Healing Rotation vs Chi
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 4,331,470 | 19.8% | 285 |
-| Eminence (Statue) | 3,247,584 | 29.6% | 252 |
-| Renewing Mist | 2,695,138 | 48.7% | 19 |
-| Gift of the Serpent | 2,417,520 | 8.0% | 46 |
-| Spinning Crane Kick | 2,247,883 | 64.8% | 776 |
-| Revival | 931,284 | 42.7% | 1 |
-| Restoration of the Infinite | 756,756 | 1.1% | 7 |
-| Zen Pulse | 505,506 | 73.0% | 22 |
-| Life Cocoon | 459,638 | 0.0% | 1 |
-| Uplift | 180,736 | 60.4% | 2 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 53.2 | 47.3 | +12% |
+| Eminence (Statue) | 47.1 | 29.9 | +58% |
+| Renewing Mist | 83.5% | 98.5% | -15.0% |
+| Gift of the Serpent | 8.6 | 16.7 | -49% |
+| Spinning Crane Kick | 145.0 | 294.9 | -51% |
+| Revival | 0.2 | 0.2 | 0% |
+| Restoration of the Infinite | 1.3 | - | - |
+| Zen Pulse | 93.0% | - | - |
+| Life Cocoon | 2.4% | 3.0% | -0.6% |
+| Uplift | 0.4 | - | - |
 
-**Total HPS:** 56,251 | **Overall Overheal:** 40.1%
+**Overall Overheal:** 40.1%
 
 ### DPS Rotation (Fistweaving)
 
@@ -480,6 +491,8 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 ---
 ## Dark Animus
 
+**Duration:** 3:57 | **HPS:** 42,446
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -488,22 +501,22 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (4 uses)
 
-### Healing vs Smonkz
+### Healing Rotation vs Smonkz
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Renewing Mist | 2,242,067 | 46.4% | 17 |
-| Ancient Teachings of the Monastery | 2,236,161 | 37.6% | 215 |
-| Eminence (Statue) | 1,980,748 | 42.3% | 206 |
-| Revival | 679,800 | 64.0% | 1 |
-| Zen Pulse | 531,892 | 47.9% | 16 |
-| Restoration of the Infinite | 456,114 | 0.0% | 3 |
-| Life Cocoon | 442,335 | 0.0% | 1 |
-| Uplift | 295,226 | 18.9% | 3 |
-| Gift of the Serpent | 244,796 | 14.0% | 7 |
-| Spinning Crane Kick | 231,186 | 79.3% | 151 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Renewing Mist | 92.3% | 100.0% | -7.7% |
+| Ancient Teachings of the Monastery | 54.3 | 212.1 | -74% |
+| Eminence (Statue) | 52.0 | 212.1 | -75% |
+| Revival | 0.3 | 0.9 | -67% |
+| Zen Pulse | 79.5% | - | - |
+| Restoration of the Infinite | 0.8 | - | - |
+| Life Cocoon | 2.7% | 14.8% | -12.1% |
+| Uplift | 0.8 | - | - |
+| Gift of the Serpent | 1.8 | 8.2 | -78% |
+| Spinning Crane Kick | 38.1 | - | - |
 
-**Total HPS:** 42,446 | **Overall Overheal:** 45.2%
+**Overall Overheal:** 45.2%
 
 ### DPS Rotation (Fistweaving)
 
@@ -526,7 +539,7 @@ Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T6 | Rushing Jade Wind | **Invoke Xuen, the White Tiger** |
 
-Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, Glyph of Jab
+Top uses: Glyph of Enduring Healing Sphere, Glyph of Jab, Glyph of Crackling Tiger Lightning
 
 ### Suggestions
 
@@ -534,12 +547,14 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, 
 - Consider **Tiger's Lust** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Invoke Xuen, the White Tiger** (T6) - used by top performers instead of Rushing Jade Wind
-- Top performers use **Glyph of Crackling Tiger Lightning**
 - Top performers use **Glyph of Enduring Healing Sphere**
+- Top performers use **Glyph of Jab**
 
 
 ---
 ## Iron Qon
+
+**Duration:** 8:05 | **HPS:** 56,829
 
 ### Consumables
 
@@ -549,22 +564,22 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, 
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (8 uses)
 
-### Healing vs Potatomwtwo
+### Healing Rotation vs Potatomwtwo
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 7,803,216 | 22.6% | 661 |
-| Renewing Mist | 6,010,028 | 43.8% | 42 |
-| Eminence (Statue) | 5,978,787 | 39.1% | 646 |
-| Gift of the Serpent | 1,712,011 | 32.1% | 46 |
-| Uplift | 1,407,131 | 25.5% | 9 |
-| Zen Pulse | 1,043,380 | 58.3% | 34 |
-| Revival | 865,978 | 54.4% | 1 |
-| Restoration of the Infinite | 767,498 | 37.5% | 9 |
-| Surging Mist | 458,499 | 5.4% | 4 |
-| Life Cocoon | 433,962 | 0.0% | 1 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 81.7 | 49.9 | +64% |
+| Renewing Mist | 98.5% | 98.1% | +0.4% |
+| Eminence (Statue) | 79.8 | 47.3 | +69% |
+| Gift of the Serpent | 5.7 | 5.0 | +14% |
+| Uplift | 1.1 | - | - |
+| Zen Pulse | 94.2% | - | - |
+| Revival | 0.1 | 0.3 | -67% |
+| Restoration of the Infinite | 1.1 | 1.2 | -8% |
+| Surging Mist | 0.5 | 0.6 | -17% |
+| Life Cocoon | 1.9% | 5.9% | -4.0% |
 
-**Total HPS:** 56,829 | **Overall Overheal:** 37.5%
+**Overall Overheal:** 37.5%
 
 ### DPS Rotation (Fistweaving)
 
@@ -587,19 +602,21 @@ Top uses: Glyph of Crackling Tiger Lightning, Glyph of Enduring Healing Sphere, 
 | T2 | Zen Pulse | **Chi Burst** |
 | T4 | Leg Sweep | **Ring of Peace** |
 
-Top uses: Glyph of Zen Meditation, Glyph of Jab
+Top uses: Glyph of Jab, Glyph of Zen Meditation
 
 ### Suggestions
 
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Ring of Peace** (T4) - used by top performers instead of Leg Sweep
-- Top performers use **Glyph of Zen Meditation**
 - Top performers use **Glyph of Jab**
+- Top performers use **Glyph of Zen Meditation**
 
 
 ---
 ## Twin Consorts
+
+**Duration:** 7:13 | **HPS:** 56,044
 
 ### Consumables
 
@@ -609,22 +626,22 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (7 uses)
 
-### Healing vs Kàsu
+### Healing Rotation vs Kàsu
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 6,748,399 | 32.8% | 582 |
-| Eminence (Statue) | 5,667,263 | 43.6% | 582 |
-| Renewing Mist | 5,232,081 | 44.3% | 40 |
-| Gift of the Serpent | 1,709,029 | 30.1% | 44 |
-| Revival | 1,205,440 | 48.6% | 1 |
-| Zen Pulse | 1,045,557 | 56.2% | 33 |
-| Restoration of the Infinite | 769,492 | 30.5% | 9 |
-| Zen Sphere: Detonate | 482,667 | 62.6% | 42 |
-| Life Cocoon | 463,244 | 0.0% | 1 |
-| Surging Mist | 352,183 | 9.0% | 3 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 80.5 | 46.1 | +75% |
+| Eminence (Statue) | 80.5 | 46.1 | +75% |
+| Renewing Mist | 98.1% | 99.8% | -1.7% |
+| Gift of the Serpent | 6.1 | 16.5 | -63% |
+| Revival | 0.1 | 0.3 | -67% |
+| Zen Pulse | 95.7% | - | - |
+| Restoration of the Infinite | 1.2 | - | - |
+| Zen Sphere: Detonate | 5.8 | - | - |
+| Life Cocoon | 1.1% | - | - |
+| Surging Mist | 0.4 | 0.1 | +300% |
 
-**Total HPS:** 56,044 | **Overall Overheal:** 42.0%
+**Overall Overheal:** 42.0%
 
 ### DPS Rotation (Fistweaving)
 
@@ -647,21 +664,22 @@ Top uses: Glyph of Zen Meditation, Glyph of Jab
 | T2 | Zen Pulse | **Chi Burst** |
 | T5 | Diffuse Magic | **Healing Elixir** |
 
-Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
+Top uses: Glyph of Zen Meditation, Glyph of Blackout Kick
 
 ### Suggestions
 
 - Moderate overheal (42.0%) - watch for heal sniping
-- **Uplift** not detected - key ability for Mistweaver Monk
 - Consider **Momentum** (T1) - used by top performers instead of Celerity
 - Consider **Chi Burst** (T2) - used by top performers instead of Zen Pulse
 - Consider **Healing Elixir** (T5) - used by top performers instead of Diffuse Magic
-- Top performers use **Glyph of Blackout Kick**
 - Top performers use **Glyph of Zen Meditation**
+- Top performers use **Glyph of Blackout Kick**
 
 
 ---
 ## Lei Shen
+
+**Duration:** 8:18 | **HPS:** 54,945
 
 ### Consumables
 
@@ -671,22 +689,22 @@ Top uses: Glyph of Blackout Kick, Glyph of Zen Meditation
 - [ ] **Combat pot:** None
 - [x] **Engineering:** Synapse Springs (9 uses)
 
-### Healing vs Pantaro
+### Healing Rotation vs Pantaro
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Ancient Teachings of the Monastery | 8,749,662 | 19.3% | 635 |
-| Renewing Mist | 5,775,046 | 42.3% | 42 |
-| Eminence (Statue) | 3,187,755 | 40.9% | 250 |
-| Gift of the Serpent | 2,364,149 | 18.9% | 57 |
-| Revival | 2,060,071 | 37.0% | 2 |
-| Zen Pulse | 1,253,167 | 52.7% | 37 |
-| Zen Sphere: Detonate | 1,169,567 | 43.2% | 74 |
-| Restoration of the Infinite | 806,774 | 26.0% | 9 |
-| Uplift | 709,579 | 8.3% | 4 |
-| Surging Mist | 389,996 | 16.3% | 3 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Ancient Teachings of the Monastery | 76.5 | 38.4 | +99% |
+| Renewing Mist | 98.9% | 100.0% | -1.1% |
+| Eminence (Statue) | 30.1 | 34.8 | -14% |
+| Gift of the Serpent | 6.9 | 0.4 | +1625% |
+| Revival | 0.2 | 0.2 | 0% |
+| Zen Pulse | 91.3% | - | - |
+| Zen Sphere: Detonate | 8.9 | - | - |
+| Restoration of the Infinite | 1.1 | - | - |
+| Uplift | 0.5 | - | - |
+| Surging Mist | 0.4 | 1.5 | -73% |
 
-**Total HPS:** 54,945 | **Overall Overheal:** 33.1%
+**Overall Overheal:** 33.1%
 
 ### DPS Rotation (Fistweaving)
 

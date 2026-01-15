@@ -8,6 +8,8 @@
 ---
 ## Jin'rokh the Breaker
 
+**Duration:** 2:14 | **DPS:** 225,808
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -33,19 +35,21 @@
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Rapid Displacement
+Top uses: Glyph of Loose Mana, Glyph of Rapid Displacement, Glyph of Illusion
 
 ### Suggestions
 
 - **Combustion** uptime is low (14.9%) - maintain on target
 - **Combustion** usage critically low (0.4 vs 24.5 CPM, -98%)
 - **Mirror Image** usage critically low (0.4 vs 0.7 CPM, -43%)
-- Top performers use **Glyph of Illusion**
 - Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Rapid Displacement**
 
 
 ---
 ## Horridon
+
+**Duration:** 6:01 | **DPS:** 165,448
 
 ### Consumables
 
@@ -76,7 +80,7 @@ Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Rapid Displacement
 |------|-----|-----|
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Illusion, Glyph of Rapid Displacement
+Top uses: Glyph of Rapid Displacement, Glyph of Illusion
 
 ### Suggestions
 
@@ -87,12 +91,14 @@ Top uses: Glyph of Illusion, Glyph of Rapid Displacement
 - **Mirror Image** usage critically low (0.2 vs 0.4 CPM, -50%)
 - **Combustion** usage critically low (0.3 vs 18.5 CPM, -98%)
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Illusion**
 - Top performers use **Glyph of Rapid Displacement**
+- Top performers use **Glyph of Illusion**
 
 
 ---
 ## Council of Elders
+
+**Duration:** 4:17 | **DPS:** 150,396
 
 ### Consumables
 
@@ -124,7 +130,7 @@ Top uses: Glyph of Illusion, Glyph of Rapid Displacement
 | T2 | Temporal Shield | **Ice Barrier** |
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Rapid Displacement, Glyph of Armors
+Top uses: Glyph of Armors, Glyph of Rapid Displacement
 
 ### Suggestions
 
@@ -133,12 +139,14 @@ Top uses: Glyph of Rapid Displacement, Glyph of Armors
 - **Scorch** usage critically low (3.7 vs 10.1 CPM, -63%)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Rapid Displacement**
 - Top performers use **Glyph of Armors**
+- Top performers use **Glyph of Rapid Displacement**
 
 
 ---
 ## Tortos
+
+**Duration:** 2:44 | **DPS:** 216,355
 
 ### Consumables
 
@@ -165,18 +173,20 @@ Top uses: Glyph of Rapid Displacement, Glyph of Armors
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Illusion, Glyph of Deep Freeze, Glyph of Loose Mana
+Top uses: Glyph of Deep Freeze, Glyph of Loose Mana, Glyph of Illusion
 
 ### Suggestions
 
 - **Combustion** uptime is low (24.3%) - maintain on target
 - **Living Bomb** usage critically low (6.2 vs 10.6 CPM, -42%)
-- Top performers use **Glyph of Illusion**
 - Top performers use **Glyph of Deep Freeze**
+- Top performers use **Glyph of Loose Mana**
 
 
 ---
 ## Megaera
+
+**Duration:** 5:59 | **DPS:** 96,206
 
 ### Consumables
 
@@ -222,6 +232,8 @@ Top uses: Glyph of Cone of Cold
 ---
 ## Ji-Kun
 
+**Duration:** 2:59 | **DPS:** 209,982
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -251,7 +263,7 @@ Top uses: Glyph of Cone of Cold
 |------|-----|-----|
 | T2 | Temporal Shield | **Ice Barrier** |
 
-Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Armors
+Top uses: Glyph of Loose Mana, Glyph of Armors, Glyph of Illusion
 
 ### Suggestions
 
@@ -259,12 +271,14 @@ Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Armors
 - **Combustion** usage critically low (0.7 vs 18.6 CPM, -96%)
 - **Mirror Image** could be cast more (0.3 vs 0.4 CPM)
 - Consider **Ice Barrier** (T2) - used by top performers instead of Temporal Shield
-- Top performers use **Glyph of Illusion**
 - Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Armors**
 
 
 ---
 ## Durumu the Forgotten
+
+**Duration:** 4:25 | **DPS:** 148,158
 
 ### Consumables
 
@@ -291,7 +305,7 @@ Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Armors
 
 ### Talent/Glyph Differences
 
-Top uses: Glyph of Illusion, Glyph of Deep Freeze, Glyph of Loose Mana
+Top uses: Glyph of Deep Freeze, Glyph of Loose Mana, Glyph of Illusion
 
 ### Suggestions
 
@@ -299,12 +313,14 @@ Top uses: Glyph of Illusion, Glyph of Deep Freeze, Glyph of Loose Mana
 - **Combustion** uptime is low (22.5%) - maintain on target
 - **Mirror Image** usage critically low (0.2 vs 15.7 CPM, -99%)
 - **Living Bomb** could be cast more (2.7 vs 3.6 CPM)
-- Top performers use **Glyph of Illusion**
 - Top performers use **Glyph of Deep Freeze**
+- Top performers use **Glyph of Loose Mana**
 
 
 ---
 ## Primordius
+
+**Duration:** 5:21 | **DPS:** 139,932
 
 ### Consumables
 
@@ -351,6 +367,8 @@ Top uses: Glyph of Armors
 
 ---
 ## Dark Animus
+
+**Duration:** 3:57 | **DPS:** 87,431
 
 ### Consumables
 
@@ -400,6 +418,8 @@ Top uses: Glyph of Armors
 ---
 ## Iron Qon
 
+**Duration:** 8:05 | **DPS:** 131,168
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -438,6 +458,8 @@ Top uses: Glyph of Loose Mana, Glyph of Rapid Displacement
 
 ---
 ## Twin Consorts
+
+**Duration:** 7:13 | **DPS:** 139,540
 
 ### Consumables
 
@@ -483,6 +505,8 @@ Top uses: Glyph of Armors
 ---
 ## Lei Shen
 
+**Duration:** 8:18 | **DPS:** 101,197
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -512,7 +536,7 @@ Top uses: Glyph of Armors
 |------|-----|-----|
 | T4 | Greater Invisibility | **Cauterize** |
 
-Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Rapid Displacement
+Top uses: Glyph of Loose Mana, Glyph of Rapid Displacement, Glyph of Illusion
 
 ### Suggestions
 
@@ -525,6 +549,6 @@ Top uses: Glyph of Illusion, Glyph of Loose Mana, Glyph of Rapid Displacement
 - **Living Bomb** usage critically low (5.5 vs 25.1 CPM, -78%)
 - **Mirror Image** usage critically low (0.2 vs 8.7 CPM, -98%)
 - Consider **Cauterize** (T4) - used by top performers instead of Greater Invisibility
-- Top performers use **Glyph of Illusion**
 - Top performers use **Glyph of Loose Mana**
+- Top performers use **Glyph of Rapid Displacement**
 

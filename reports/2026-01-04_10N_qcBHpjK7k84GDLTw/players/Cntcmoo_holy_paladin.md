@@ -8,6 +8,8 @@
 ---
 ## Jin'rokh the Breaker
 
+**Duration:** 2:14 | **HPS:** 84,607
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -15,22 +17,19 @@
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
 
-### Healing vs Jensu
+### Healing Rotation vs Jensu
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 6,011,839 | 9.2% | 211 |
-| Light of Dawn | 1,425,649 | 78.4% | 18 |
-| Holy Radiance | 947,945 | 73.7% | 18 |
-| Eternal Flame | 861,024 | 68.9% | 6 |
-| Arcing Light | 848,403 | 79.2% | 0 |
-| Beacon of Light | 562,095 | 84.8% | 333 |
-| Holy Shock | 392,951 | 80.7% | 20 |
-| Daybreak | 281,223 | 93.8% | 67 |
-| Seal of Insight | 64,233 | 86.7% | 46 |
-| Guardian of Ancient Kings | 0 | 100.0% | 138 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 100.0% | 0% |
+| Light of Dawn | 8.0 | - | - |
+| Holy Radiance | 8.0 | 8.8 | -9% |
+| Eternal Flame | 59.6% | 100.0% | -40.4% |
+| Beacon of Light | 148.3 | 1.9 | +7705% |
+| Holy Shock | 8.9 | 10.5 | -15% |
+| Daybreak | 29.8 | 46.1 | -35% |
 
-**Total HPS:** 84,607 | **Overall Overheal:** 75.8%
+**Overall Overheal:** 75.8%
 
 ### Talent/Glyph Differences
 
@@ -38,19 +37,22 @@
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Illumination
+Top uses: Glyph of Righteous Retreat, Glyph of Seal of Blood, Glyph of Illumination
 
 ### Suggestions
 
 - Very high overheal (75.8%) - consider more efficient spell usage or better timing
+- **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of the Mounted King**
+- Top performers use **Glyph of Righteous Retreat**
 - Top performers use **Glyph of Seal of Blood**
 
 
 ---
 ## Horridon
+
+**Duration:** 6:01 | **HPS:** 54,487
 
 ### Consumables
 
@@ -59,22 +61,21 @@ Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Illuminati
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
 
-### Healing vs Ouizadin
+### Healing Rotation vs Ouizadin
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 6,707,497 | 22.1% | 388 |
-| Eternal Flame | 5,417,032 | 63.1% | 47 |
-| Beacon of Light | 2,826,524 | 63.4% | 2 |
-| Holy Shock | 2,135,651 | 47.1% | 52 |
-| Holy Radiance | 707,106 | 74.4% | 25 |
-| Light of Dawn | 671,203 | 71.0% | 8 |
-| Arcing Light | 444,611 | 72.8% | 0 |
-| Guardian of Ancient Kings | 351,425 | 84.5% | 87 |
-| Daybreak | 255,007 | 91.4% | 73 |
-| Glyph of Protector of the Innocent | 119,863 | 90.4% | 43 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 96.6% | +3.4% |
+| Eternal Flame | 93.7% | - | - |
+| Beacon of Light | 0.3 | 116.3 | -100% |
+| Holy Shock | 8.6 | 10.9 | -21% |
+| Holy Radiance | 4.1 | 5.0 | -18% |
+| Light of Dawn | 1.3 | 12.3 | -89% |
+| Guardian of Ancient Kings | 14.4 | 44.6 | -68% |
+| Daybreak | 12.1 | 25.0 | -52% |
+| Glyph of Protector of the Innocent | 7.1 | - | - |
 
-**Total HPS:** 54,487 | **Overall Overheal:** 59.6%
+**Overall Overheal:** 59.6%
 
 ### Talent/Glyph Differences
 
@@ -84,7 +85,7 @@ Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Illuminati
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Fire From the Heavens, Glyph of Divinity, Glyph of Righteous Retreat
+Top uses: Glyph of Righteous Retreat, Glyph of Flash of Light, Glyph of Fire From the Heavens
 
 ### Suggestions
 
@@ -93,13 +94,15 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Divinity, Glyph of Righteous 
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Fire From the Heavens**
-- Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Righteous Retreat**
+- Top performers use **Glyph of Flash of Light**
 
 
 ---
 ## Council of Elders
 
+**Duration:** 4:17 | **HPS:** 96,006
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -107,22 +110,22 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Divinity, Glyph of Righteous 
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
-### Healing vs Annaru
+### Healing Rotation vs Annaru
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 8,108,448 | 12.4% | 539 |
-| Eternal Flame | 5,796,251 | 46.3% | 37 |
-| Beacon of Light | 3,704,299 | 51.7% | 717 |
-| Holy Shock | 2,248,565 | 33.0% | 42 |
-| Holy Radiance | 1,768,230 | 60.5% | 30 |
-| Guardian of Ancient Kings | 1,014,535 | 77.5% | 137 |
-| Daybreak | 658,479 | 85.0% | 129 |
-| Light of Dawn | 568,209 | 80.7% | 9 |
-| Arcing Light | 518,864 | 80.4% | 0 |
-| Glyph of Protector of the Innocent | 224,634 | 77.5% | 37 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 100.0% | 0% |
+| Eternal Flame | 94.9% | 99.1% | -4.2% |
+| Beacon of Light | 166.9 | 0.7 | +23743% |
+| Holy Shock | 9.8 | 10.4 | -6% |
+| Holy Radiance | 7.0 | 8.9 | -21% |
+| Guardian of Ancient Kings | 31.9 | 34.1 | -6% |
+| Daybreak | 30.0 | 115.3 | -74% |
+| Light of Dawn | 2.1 | 3.0 | -30% |
+| Glyph of Protector of the Innocent | 8.6 | - | - |
+| Holy Light | 0.2 | - | - |
 
-**Total HPS:** 96,006 | **Overall Overheal:** 51.9%
+**Overall Overheal:** 51.9%
 
 ### Talent/Glyph Differences
 
@@ -130,20 +133,23 @@ Top uses: Glyph of Fire From the Heavens, Glyph of Divinity, Glyph of Righteous 
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Flash of Light
+Top uses: Glyph of Seal of Blood, Glyph of Winged Vengeance, Glyph of the Mounted King
 
 ### Suggestions
 
 - Moderate overheal (51.9%) - watch for heal sniping
+- **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of the Mounted King**
 - Top performers use **Glyph of Seal of Blood**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
 ## Tortos
 
+**Duration:** 2:44 | **HPS:** 82,954
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -151,22 +157,22 @@ Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Flash of L
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
-### Healing vs 哇哇哈哈
+### Healing Rotation vs 哇哇哈哈
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 4,582,014 | 20.1% | 190 |
-| Eternal Flame | 2,626,849 | 55.3% | 18 |
-| Beacon of Light | 1,636,916 | 57.5% | 2 |
-| Light of Dawn | 1,589,651 | 61.7% | 16 |
-| Holy Shock | 1,254,175 | 39.0% | 27 |
-| Holy Radiance | 1,023,045 | 59.9% | 25 |
-| Daybreak | 621,499 | 86.0% | 51 |
-| Guardian of Ancient Kings | 93,656 | 96.1% | 84 |
-| Flash of Light | 66,581 | 0.0% | 1 |
-| Glyph of Protector of the Innocent | 59,463 | 87.2% | 17 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 100.0% | 0% |
+| Eternal Flame | 92.6% | 98.7% | -6.1% |
+| Beacon of Light | 0.7 | 0.5 | +40% |
+| Light of Dawn | 5.9 | 5.0 | +18% |
+| Holy Shock | 9.9 | 10.0 | -1% |
+| Holy Radiance | 9.1 | 7.9 | +15% |
+| Daybreak | 18.6 | 38.2 | -51% |
+| Guardian of Ancient Kings | 30.7 | 67.7 | -55% |
+| Flash of Light | 0.4 | - | - |
+| Glyph of Protector of the Innocent | 6.2 | - | - |
 
-**Total HPS:** 82,954 | **Overall Overheal:** 58.1%
+**Overall Overheal:** 58.1%
 
 ### Talent/Glyph Differences
 
@@ -174,19 +180,22 @@ Top uses: Glyph of the Mounted King, Glyph of Seal of Blood, Glyph of Flash of L
 |------|-----|-----|
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
+Top uses: Glyph of Winged Vengeance, Glyph of Contemplation, Glyph of Righteous Retreat
 
 ### Suggestions
 
 - Very high overheal (58.1%) - consider more efficient spell usage or better timing
+- **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
+- Top performers use **Glyph of Winged Vengeance**
+- Top performers use **Glyph of Contemplation**
 
 
 ---
 ## Megaera
+
+**Duration:** 5:59 | **HPS:** 134,516
 
 ### Consumables
 
@@ -195,22 +204,22 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
-### Healing vs Based
+### Healing Rotation vs Based
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 10,893,802 | 14.8% | 831 |
-| Light of Dawn | 8,072,518 | 16.0% | 36 |
-| Eternal Flame | 6,475,758 | 26.0% | 33 |
-| Beacon of Light | 6,036,501 | 23.4% | 923 |
-| Holy Radiance | 4,642,731 | 17.2% | 40 |
-| Arcing Light | 4,480,927 | 11.9% | 0 |
-| Holy Shock | 3,722,676 | 15.7% | 57 |
-| Daybreak | 2,625,379 | 43.1% | 279 |
-| Guardian of Ancient Kings | 607,149 | 54.4% | 35 |
-| Seal of Insight | 349,130 | 56.6% | 116 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 99.5% | 100.0% | -0.5% |
+| Light of Dawn | 6.0 | 5.9 | +2% |
+| Eternal Flame | 91.4% | 93.0% | -1.6% |
+| Beacon of Light | 154.2 | 180.0 | -14% |
+| Holy Radiance | 6.7 | 9.6 | -30% |
+| Holy Shock | 9.5 | 10.3 | -8% |
+| Daybreak | 46.6 | 147.1 | -68% |
+| Guardian of Ancient Kings | 5.8 | 50.8 | -89% |
+| Healthstone | 0.2 | 0.2 | 0% |
+| Holy Light | 0.2 | 0.2 | 0% |
 
-**Total HPS:** 134,516 | **Overall Overheal:** 22.1%
+**Overall Overheal:** 22.1%
 
 ### Talent/Glyph Differences
 
@@ -230,6 +239,8 @@ Top uses: Glyph of Illumination
 ---
 ## Ji-Kun
 
+**Duration:** 2:59 | **HPS:** 77,904
+
 ### Consumables
 
 - [x] **Flask:** Flask of the Warm Sun
@@ -237,22 +248,22 @@ Top uses: Glyph of Illumination
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
-### Healing vs Blightfrost
+### Healing Rotation vs Blightfrost
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 5,186,406 | 20.9% | 233 |
-| Eternal Flame | 2,675,550 | 74.1% | 34 |
-| Light of Dawn | 1,260,277 | 30.2% | 7 |
-| Beacon of Light | 1,162,936 | 78.5% | 1 |
-| Holy Shock | 913,882 | 63.2% | 28 |
-| Holy Radiance | 688,045 | 64.6% | 20 |
-| Guardian of Ancient Kings | 680,087 | 73.1% | 99 |
-| Lay on Hands | 670,359 | 0.0% | 1 |
-| Arcing Light | 349,142 | 71.5% | 0 |
-| Daybreak | 334,393 | 88.3% | 41 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 100.0% | 0% |
+| Eternal Flame | 98.1% | - | - |
+| Light of Dawn | 2.3 | 14.3 | -84% |
+| Beacon of Light | 0.3 | 1.2 | -75% |
+| Holy Shock | 9.4 | 10.6 | -11% |
+| Holy Radiance | 6.7 | 7.6 | -12% |
+| Guardian of Ancient Kings | 33.1 | 32.7 | +1% |
+| Lay on Hands | 0.3 | 0.2 | +50% |
+| Daybreak | 13.7 | 21.6 | -37% |
+| Glyph of Protector of the Innocent | 10.4 | - | - |
 
-**Total HPS:** 77,904 | **Overall Overheal:** 62.4%
+**Overall Overheal:** 62.4%
 
 ### Talent/Glyph Differences
 
@@ -261,19 +272,22 @@ Top uses: Glyph of Illumination
 | T1 | Speed of Light | **Pursuit of Justice** |
 | T3 | Eternal Flame | **Selfless Healer** |
 
-Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retreat
+Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Righteous Retreat
 
 ### Suggestions
 
 - Very high overheal (62.4%) - consider more efficient spell usage or better timing
+- **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Pursuit of Justice** (T1) - used by top performers instead of Speed of Light
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
-- Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Winged Vengeance**
 
 
 ---
 ## Durumu the Forgotten
+
+**Duration:** 4:25 | **HPS:** 70,147
 
 ### Consumables
 
@@ -282,22 +296,22 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retre
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
-### Healing vs Thingwings
+### Healing Rotation vs Thingwings
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 6,406,605 | 18.5% | 394 |
-| Eternal Flame | 3,837,107 | 66.6% | 42 |
-| Beacon of Light | 1,741,356 | 68.3% | 2 |
-| Holy Shock | 1,434,851 | 42.1% | 38 |
-| Holy Radiance | 1,380,287 | 54.0% | 29 |
-| Light of Dawn | 1,127,466 | 41.9% | 7 |
-| Guardian of Ancient Kings | 826,506 | 79.8% | 192 |
-| Arcing Light | 748,069 | 60.8% | 0 |
-| Daybreak | 475,852 | 78.3% | 79 |
-| Lay on Hands | 268,144 | 0.0% | 1 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 100.0% | 0% |
+| Eternal Flame | 97.3% | - | - |
+| Beacon of Light | 0.5 | 0.8 | -38% |
+| Holy Shock | 8.6 | 11.1 | -23% |
+| Holy Radiance | 6.5 | 9.2 | -29% |
+| Light of Dawn | 1.6 | 11.1 | -86% |
+| Guardian of Ancient Kings | 43.4 | 35.3 | +23% |
+| Daybreak | 17.8 | 50.5 | -65% |
+| Lay on Hands | 0.2 | 0.2 | 0% |
+| Glyph of Protector of the Innocent | 9.0 | - | - |
 
-**Total HPS:** 70,147 | **Overall Overheal:** 56.1%
+**Overall Overheal:** 56.1%
 
 ### Talent/Glyph Differences
 
@@ -307,20 +321,23 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retre
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Contemplation
+Top uses: Glyph of Contemplation, Glyph of Divinity
 
 ### Suggestions
 
 - Very high overheal (56.1%) - consider more efficient spell usage or better timing
+- **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Evil is a Point of View** (T2) - used by top performers instead of Fist of Justice
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Divinity**
 - Top performers use **Glyph of Contemplation**
+- Top performers use **Glyph of Divinity**
 
 
 ---
 ## Primordius
+
+**Duration:** 5:21 | **HPS:** 85,921
 
 ### Consumables
 
@@ -329,22 +346,21 @@ Top uses: Glyph of Divinity, Glyph of Contemplation
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
-### Healing vs Partyhatcat
+### Healing Rotation vs Partyhatcat
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 9,344,697 | 11.7% | 376 |
-| Eternal Flame | 4,975,145 | 42.0% | 31 |
-| Light of Dawn | 3,579,410 | 44.2% | 25 |
-| Holy Shock | 2,916,430 | 32.9% | 49 |
-| Beacon of Light | 2,914,255 | 44.3% | 2 |
-| Holy Radiance | 1,906,071 | 47.7% | 38 |
-| Daybreak | 840,951 | 80.8% | 43 |
-| Arcing Light | 476,309 | 71.4% | 0 |
-| Guardian of Ancient Kings | 252,707 | 81.1% | 27 |
-| Glyph of Protector of the Innocent | 229,100 | 64.8% | 27 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 98.4% | 99.9% | -1.5% |
+| Eternal Flame | 83.2% | - | - |
+| Light of Dawn | 4.7 | 11.8 | -60% |
+| Holy Shock | 9.2 | 8.7 | +6% |
+| Beacon of Light | 0.4 | 1.0 | -60% |
+| Holy Radiance | 7.1 | 8.3 | -14% |
+| Daybreak | 8.0 | 60.2 | -87% |
+| Guardian of Ancient Kings | 5.0 | 49.1 | -90% |
+| Glyph of Protector of the Innocent | 5.0 | - | - |
 
-**Total HPS:** 85,921 | **Overall Overheal:** 42.6%
+**Overall Overheal:** 42.6%
 
 ### Talent/Glyph Differences
 
@@ -353,20 +369,22 @@ Top uses: Glyph of Divinity, Glyph of Contemplation
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retreat
+Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Righteous Retreat
 
 ### Suggestions
 
 - Moderate overheal (42.6%) - watch for heal sniping
-- **Lay on Hands** not detected - key ability for Holy Paladin
+- **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Winged Vengeance**
 
 
 ---
 ## Dark Animus
+
+**Duration:** 3:57 | **HPS:** 89,151
 
 ### Consumables
 
@@ -375,22 +393,22 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retre
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
 
-### Healing vs Palikaron
+### Healing Rotation vs Palikaron
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Eternal Flame | 6,869,036 | 46.7% | 38 |
-| Illuminated Healing | 5,621,097 | 17.3% | 225 |
-| Beacon of Light | 2,861,996 | 61.1% | 583 |
-| Holy Shock | 2,413,853 | 15.3% | 35 |
-| Holy Radiance | 1,173,640 | 38.1% | 30 |
-| Daybreak | 619,112 | 83.3% | 24 |
-| Lay on Hands | 434,487 | 41.1% | 1 |
-| Glyph of Protector of the Innocent | 355,168 | 67.4% | 35 |
-| Light of Dawn | 332,025 | 55.7% | 3 |
-| Guardian of Ancient Kings | 257,247 | 83.4% | 64 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Eternal Flame | 100.0% | 95.8% | +4.2% |
+| Illuminated Healing | 99.5% | 96.4% | +3.1% |
+| Beacon of Light | 147.2 | 4.6 | +3100% |
+| Holy Shock | 8.8 | 10.8 | -19% |
+| Holy Radiance | 7.6 | 7.5 | +1% |
+| Daybreak | 6.1 | 54.3 | -89% |
+| Lay on Hands | 0.3 | 0.3 | 0% |
+| Glyph of Protector of the Innocent | 8.8 | - | - |
+| Light of Dawn | 0.8 | - | - |
+| Guardian of Ancient Kings | 16.2 | 10.8 | +50% |
 
-**Total HPS:** 89,151 | **Overall Overheal:** 48.1%
+**Overall Overheal:** 48.1%
 
 ### Talent/Glyph Differences
 
@@ -399,19 +417,22 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Righteous Retre
 | T5 | Divine Purpose | **Holy Avenger** |
 | T6 | Light's Hammer | **Holy Prism** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
+Top uses: Glyph of Fire From the Heavens, Glyph of Contemplation, Glyph of Righteous Retreat
 
 ### Suggestions
 
 - Moderate overheal (48.1%) - watch for heal sniping
+- **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Consider **Holy Prism** (T6) - used by top performers instead of Light's Hammer
-- Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
+- Top performers use **Glyph of Fire From the Heavens**
+- Top performers use **Glyph of Contemplation**
 
 
 ---
 ## Iron Qon
+
+**Duration:** 8:05 | **HPS:** 98,173
 
 ### Consumables
 
@@ -420,22 +441,21 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [x] **Combat pot:** Potion of the Jade Serpent
 
-### Healing vs 阿兹凯代
+### Healing Rotation vs 阿兹凯代
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 14,178,582 | 5.7% | 1127 |
-| Eternal Flame | 7,539,791 | 41.1% | 44 |
-| Beacon of Light | 6,654,316 | 42.0% | 1157 |
-| Light of Dawn | 6,142,564 | 44.6% | 42 |
-| Holy Radiance | 4,344,583 | 39.8% | 59 |
-| Holy Shock | 2,997,663 | 50.6% | 73 |
-| Arcing Light | 2,431,554 | 45.0% | 0 |
-| Daybreak | 2,026,942 | 67.9% | 249 |
-| Guardian of Ancient Kings | 767,932 | 50.2% | 79 |
-| Seal of Insight | 398,094 | 64.0% | 162 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 100.0% | 0% |
+| Eternal Flame | 82.2% | - | - |
+| Beacon of Light | 142.9 | 0.9 | +15778% |
+| Light of Dawn | 5.2 | 12.6 | -59% |
+| Holy Radiance | 7.3 | 9.3 | -22% |
+| Holy Shock | 9.0 | 10.1 | -11% |
+| Daybreak | 30.8 | 64.2 | -52% |
+| Guardian of Ancient Kings | 9.8 | 34.8 | -72% |
+| Glyph of Protector of the Innocent | 4.8 | - | - |
 
-**Total HPS:** 98,173 | **Overall Overheal:** 38.9%
+**Overall Overheal:** 38.9%
 
 ### Talent/Glyph Differences
 
@@ -445,20 +465,23 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Contemplation
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Winged Vengeance
+Top uses: Glyph of the Falling Avenger, Glyph of Winged Vengeance, Glyph of Righteous Retreat
 
 ### Suggestions
 
+- **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Long Arm of the Law** (T1) - used by top performers instead of Speed of Light
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Divinity**
-- Top performers use **Glyph of Righteous Retreat**
+- Top performers use **Glyph of the Falling Avenger**
+- Top performers use **Glyph of Winged Vengeance**
 
 
 ---
 ## Twin Consorts
+
+**Duration:** 7:13 | **HPS:** 86,188
 
 ### Consumables
 
@@ -467,22 +490,21 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Winged Vengean
 - [ ] **Pre-pot:** None
 - [ ] **Combat pot:** None
 
-### Healing vs 대표상무
+### Healing Rotation vs 대표상무
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 11,552,557 | 6.2% | 740 |
-| Eternal Flame | 7,169,790 | 49.2% | 45 |
-| Light of Dawn | 4,603,757 | 39.2% | 30 |
-| Holy Shock | 3,240,793 | 32.5% | 64 |
-| Arcing Light | 2,837,118 | 56.9% | 0 |
-| Holy Radiance | 2,688,258 | 55.3% | 57 |
-| Beacon of Light | 2,397,702 | 76.0% | 2 |
-| Guardian of Ancient Kings | 1,296,140 | 70.2% | 181 |
-| Daybreak | 952,526 | 81.3% | 144 |
-| Seal of Insight | 339,450 | 66.6% | 150 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 100.0% | 0% |
+| Eternal Flame | 98.0% | 100.0% | -2.0% |
+| Light of Dawn | 4.1 | 0.4 | +925% |
+| Holy Shock | 8.8 | 8.7 | +1% |
+| Holy Radiance | 7.9 | 8.9 | -11% |
+| Beacon of Light | 0.3 | 0.9 | -67% |
+| Guardian of Ancient Kings | 25.0 | 21.4 | +17% |
+| Daybreak | 19.9 | 131.9 | -85% |
+| Glyph of Protector of the Innocent | 6.1 | - | - |
 
-**Total HPS:** 86,188 | **Overall Overheal:** 48.9%
+**Overall Overheal:** 48.9%
 
 ### Talent/Glyph Differences
 
@@ -491,20 +513,23 @@ Top uses: Glyph of Divinity, Glyph of Righteous Retreat, Glyph of Winged Vengean
 | T4 | Clemency | **Unbreakable Spirit** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Contemplation
+Top uses: Glyph of Fire From the Heavens, Glyph of Winged Vengeance, Glyph of Contemplation
 
 ### Suggestions
 
 - Moderate overheal (48.9%) - watch for heal sniping
+- **Holy Shock** not detected - key ability for Holy Paladin
 - **Lay on Hands** not detected - key ability for Holy Paladin
 - Consider **Unbreakable Spirit** (T4) - used by top performers instead of Clemency
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
-- Top performers use **Glyph of Divinity**
+- Top performers use **Glyph of Fire From the Heavens**
 - Top performers use **Glyph of Winged Vengeance**
 
 
 ---
 ## Lei Shen
+
+**Duration:** 8:18 | **HPS:** 87,792
 
 ### Consumables
 
@@ -513,22 +538,22 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Contemplation
 - [x] **Pre-pot:** Potion of the Jade Serpent
 - [ ] **Combat pot:** None
 
-### Healing vs Keanuwheeze
+### Healing Rotation vs Keanuwheeze
 
-| Ability | Healing | Overheal % | Casts |
-|---------|---------|------------|-------|
-| Illuminated Healing | 12,482,058 | 11.2% | 797 |
-| Light of Dawn | 8,122,291 | 32.4% | 47 |
-| Eternal Flame | 5,764,196 | 51.2% | 40 |
-| Beacon of Light | 3,882,033 | 57.7% | 1 |
-| Holy Shock | 3,754,771 | 35.1% | 72 |
-| Holy Radiance | 3,467,170 | 38.8% | 49 |
-| Arcing Light | 1,822,902 | 45.5% | 0 |
-| Guardian of Ancient Kings | 1,665,341 | 43.7% | 104 |
-| Daybreak | 1,599,930 | 65.8% | 145 |
-| Lay on Hands | 623,471 | 7.0% | 1 |
+| Ability | You | Top | Gap |
+|---------|-----|-----|-----|
+| Illuminated Healing | 100.0% | 98.6% | +1.4% |
+| Light of Dawn | 5.7 | 11.0 | -48% |
+| Eternal Flame | 92.6% | - | - |
+| Beacon of Light | 0.1 | 0.3 | -67% |
+| Holy Shock | 8.7 | 8.6 | +1% |
+| Holy Radiance | 5.9 | 7.0 | -16% |
+| Guardian of Ancient Kings | 12.5 | 25.2 | -50% |
+| Daybreak | 17.5 | 47.2 | -63% |
+| Lay on Hands | 0.1 | 0.1 | 0% |
+| Glyph of Protector of the Innocent | 4.3 | - | - |
 
-**Total HPS:** 87,792 | **Overall Overheal:** 39.2%
+**Overall Overheal:** 39.2%
 
 ### Talent/Glyph Differences
 
@@ -539,14 +564,15 @@ Top uses: Glyph of Divinity, Glyph of Winged Vengeance, Glyph of Contemplation
 | T3 | Eternal Flame | **Selfless Healer** |
 | T5 | Divine Purpose | **Holy Avenger** |
 
-Top uses: Glyph of Seal of Blood, Glyph of Flash of Light, Glyph of Righteous Retreat
+Top uses: Glyph of Seal of Blood, Glyph of Winged Vengeance, Glyph of Righteous Retreat
 
 ### Suggestions
 
+- **Holy Shock** not detected - key ability for Holy Paladin
 - Consider **Pursuit of Justice** (T1) - used by top performers instead of Speed of Light
 - Consider **Repentance** (T2) - used by top performers instead of Fist of Justice
 - Consider **Selfless Healer** (T3) - used by top performers instead of Eternal Flame
 - Consider **Holy Avenger** (T5) - used by top performers instead of Divine Purpose
 - Top performers use **Glyph of Seal of Blood**
-- Top performers use **Glyph of Flash of Light**
+- Top performers use **Glyph of Winged Vengeance**
 
