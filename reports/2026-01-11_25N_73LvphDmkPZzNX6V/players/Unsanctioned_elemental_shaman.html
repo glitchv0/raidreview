@@ -10,6 +10,11 @@
 </head>
 <body>
     <div class="container py-4">
+        <div class="feedback-bar mb-3">
+        <a href="#" onclick="openGeneralFeedback(); return false;" class="feedback-btn">
+            <i class="bi bi-chat-dots me-1"></i>Send Feedback
+        </a>
+    </div>
         
         <nav aria-label="breadcrumb" class="mb-4">
             <ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../index.html">Reports</a></li><li class="breadcrumb-item"><a href="../index.html">2026-01-11 10N</a></li><li class="breadcrumb-item active">Unsanctioned</li></ol>
@@ -114,10 +119,10 @@
     </div>
             </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
-        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a>, <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a></p></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a>, <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a></p></div>
     </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
-        <div class="card-body"><div class="suggestion-item"><strong>Lava Burst</strong> could be cast more (8.8 vs 12.2 CPM)</div><div class="suggestion-item"><strong>Lightning Bolt</strong> usage critically low (13.4 vs 19.3 CPM, -31%)</div><div class="suggestion-item"><strong>Lightning Bolt Overload</strong> usage critically low (9.0 vs 13.0 CPM, -31%)</div><div class="suggestion-item"><strong>Fulmination</strong> usage critically low (1.7 vs 2.8 CPM, -39%)</div><div class="suggestion-item">Top performers use <strong>Glyph of Chain Lightning</strong></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong></div></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Lava Burst</strong> could be cast more (8.8 vs 12.2 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Ji-Kun', '**Lava Burst** could be cast more (8.8 vs 12.2 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Bolt</strong> usage critically low (13.4 vs 19.3 CPM, -31%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Ji-Kun', '**Lightning Bolt** usage critically low (13.4 vs 19.3 CPM, -31%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Bolt Overload</strong> usage critically low (9.0 vs 13.0 CPM, -31%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Ji-Kun', '**Lightning Bolt Overload** usage critically low (9.0 vs 13.0 CPM, -31%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Fulmination</strong> usage critically low (1.7 vs 2.8 CPM, -39%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Ji-Kun', '**Fulmination** usage critically low (1.7 vs 2.8 CPM, -39%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Spiritwalker's Grace</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Ji-Kun', 'Top performers use **Glyph of Spiritwalker&#x27;s Grace**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Ji-Kun', 'Top performers use **Glyph of the Spectral Wolf**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
     </div>
         </div>
     </div>
@@ -215,10 +220,10 @@
     </div>
             </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
-        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=55447">Glyph of Flame Shock</a>, <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a>, <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a></p></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a>, <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a>, <a href="https://www.wowhead.com/mop-classic/spell=55447">Glyph of Flame Shock</a></p></div>
     </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
-        <div class="card-body"><div class="suggestion-item"><strong>Lava Burst</strong> could be cast more (9.7 vs 13.7 CPM)</div><div class="suggestion-item"><strong>Lightning Bolt</strong> could be cast more (16.3 vs 22.5 CPM)</div><div class="suggestion-item"><strong>Lava Burst Overload</strong> could be cast more (6.4 vs 8.3 CPM)</div><div class="suggestion-item"><strong>Lightning Bolt Overload</strong> could be cast more (10.9 vs 14.6 CPM)</div><div class="suggestion-item"><strong>Fulmination</strong> could be cast more (1.9 vs 2.5 CPM)</div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (1.9 vs 3.2 CPM, -41%)</div><div class="suggestion-item">Top performers use <strong>Glyph of Flame Shock</strong></div><div class="suggestion-item">Top performers use <strong>Glyph of Chain Lightning</strong></div></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Lava Burst</strong> could be cast more (9.7 vs 13.7 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Durumu the Forgotten', '**Lava Burst** could be cast more (9.7 vs 13.7 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Bolt</strong> could be cast more (16.3 vs 22.5 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Durumu the Forgotten', '**Lightning Bolt** could be cast more (16.3 vs 22.5 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Burst Overload</strong> could be cast more (6.4 vs 8.3 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Durumu the Forgotten', '**Lava Burst Overload** could be cast more (6.4 vs 8.3 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Bolt Overload</strong> could be cast more (10.9 vs 14.6 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Durumu the Forgotten', '**Lightning Bolt Overload** could be cast more (10.9 vs 14.6 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Fulmination</strong> could be cast more (1.9 vs 2.5 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Durumu the Forgotten', '**Fulmination** could be cast more (1.9 vs 2.5 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (1.9 vs 3.2 CPM, -41%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Durumu the Forgotten', '**Lightning Strike** usage critically low (1.9 vs 3.2 CPM, -41%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Spiritwalker's Grace</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Durumu the Forgotten', 'Top performers use **Glyph of Spiritwalker&#x27;s Grace**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Chain Lightning</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Durumu the Forgotten', 'Top performers use **Glyph of Chain Lightning**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
     </div>
         </div>
     </div>
@@ -316,10 +321,10 @@
     </div>
             </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
-        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a>, <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a></p></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a>, <a href="https://www.wowhead.com/mop-classic/spell=147772">Glyph of Flaming Serpents</a></p></div>
     </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
-        <div class="card-body"><div class="suggestion-item"><strong>Chain Lightning</strong> could be cast more (16.9 vs 22.7 CPM)</div><div class="suggestion-item"><strong>Chain Lightning Overload</strong> usage critically low (43.2 vs 65.3 CPM, -34%)</div><div class="suggestion-item"><strong>Lava Burst</strong> could be cast more (5.0 vs 6.8 CPM)</div><div class="suggestion-item"><strong>Lava Beam</strong> usage critically low (3.1 vs 12.8 CPM, -76%)</div><div class="suggestion-item"><strong>Lightning Strike</strong> could be cast more (27.0 vs 35.6 CPM)</div><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (3.6 vs 5.6 CPM, -36%)</div><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (70.0%) - maintain on target</div><div class="suggestion-item"><strong>Fulmination</strong> usage critically low (1.8 vs 2.9 CPM, -38%)</div><div class="suggestion-item">Top performers use <strong>Glyph of Lightning Shield</strong></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong></div></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Chain Lightning</strong> could be cast more (16.9 vs 22.7 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', '**Chain Lightning** could be cast more (16.9 vs 22.7 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Chain Lightning Overload</strong> usage critically low (43.2 vs 65.3 CPM, -34%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', '**Chain Lightning Overload** usage critically low (43.2 vs 65.3 CPM, -34%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Burst</strong> could be cast more (5.0 vs 6.8 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', '**Lava Burst** could be cast more (5.0 vs 6.8 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Beam</strong> usage critically low (3.1 vs 12.8 CPM, -76%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', '**Lava Beam** usage critically low (3.1 vs 12.8 CPM, -76%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Strike</strong> could be cast more (27.0 vs 35.6 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', '**Lightning Strike** could be cast more (27.0 vs 35.6 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (3.6 vs 5.6 CPM, -36%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', '**Lava Burst Overload** usage critically low (3.6 vs 5.6 CPM, -36%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (70.0%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', '**Flame Shock** uptime is low (70.0%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Fulmination</strong> usage critically low (1.8 vs 2.9 CPM, -38%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', '**Fulmination** usage critically low (1.8 vs 2.9 CPM, -38%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', 'Top performers use **Glyph of the Spectral Wolf**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Lightning Shield</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Primordius', 'Top performers use **Glyph of Lightning Shield**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
     </div>
         </div>
     </div>
@@ -417,10 +422,10 @@
     </div>
             </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
-        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58058">Glyph of Astral Recall</a>, <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a>, <a href="https://www.wowhead.com/mop-classic/spell=55455">Glyph of Fire Elemental Totem</a></p></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58059">Glyph of Far Sight</a>, <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a>, <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a></p></div>
     </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
-        <div class="card-body"><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (84.2%) - maintain on target</div><div class="suggestion-item"><strong>Chain Lightning</strong> usage critically low (1.4 vs 11.7 CPM, -88%)</div><div class="suggestion-item"><strong>Chain Lightning Overload</strong> usage critically low (3.9 vs 18.5 CPM, -79%)</div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (5.1 vs 12.7 CPM, -60%)</div><div class="suggestion-item">Top performers use <strong>Glyph of Astral Recall</strong></div><div class="suggestion-item">Top performers use <strong>Glyph of Spiritwalker's Grace</strong></div></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (84.2%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Dark Animus', '**Flame Shock** uptime is low (84.2%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Chain Lightning</strong> usage critically low (1.4 vs 11.7 CPM, -88%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Dark Animus', '**Chain Lightning** usage critically low (1.4 vs 11.7 CPM, -88%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Chain Lightning Overload</strong> usage critically low (3.9 vs 18.5 CPM, -79%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Dark Animus', '**Chain Lightning Overload** usage critically low (3.9 vs 18.5 CPM, -79%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (5.1 vs 12.7 CPM, -60%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Dark Animus', '**Lightning Strike** usage critically low (5.1 vs 12.7 CPM, -60%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Far Sight</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Dark Animus', 'Top performers use **Glyph of Far Sight**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Chain Lightning</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Dark Animus', 'Top performers use **Glyph of Chain Lightning**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
     </div>
         </div>
     </div>
@@ -518,10 +523,10 @@
     </div>
             </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
-        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58058">Glyph of Astral Recall</a>, <a href="https://www.wowhead.com/mop-classic/spell=55456">Glyph of Healing Stream Totem</a>, <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a></p></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a>, <a href="https://www.wowhead.com/mop-classic/spell=55456">Glyph of Healing Stream Totem</a></p></div>
     </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
-        <div class="card-body"><div class="suggestion-item"><strong>Lava Burst</strong> usage critically low (3.8 vs 12.5 CPM, -70%)</div><div class="suggestion-item"><strong>Lightning Bolt</strong> usage critically low (6.0 vs 22.4 CPM, -73%)</div><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (2.3 vs 5.5 CPM, -58%)</div><div class="suggestion-item"><strong>Lightning Bolt Overload</strong> usage critically low (4.0 vs 9.1 CPM, -56%)</div><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (36.6%) - maintain on target</div><div class="suggestion-item"><strong>Fulmination</strong> usage critically low (0.8 vs 2.7 CPM, -70%)</div><div class="suggestion-item"><strong>Searing Totem</strong> usage critically low (0.2 vs 0.6 CPM, -67%)</div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (1.1 vs 3.3 CPM, -67%)</div><div class="suggestion-item"><strong>Earth Shock</strong> usage critically low (0.8 vs 2.7 CPM, -70%)</div><div class="suggestion-item">Top performers use <strong>Glyph of Astral Recall</strong></div><div class="suggestion-item">Top performers use <strong>Glyph of Healing Stream Totem</strong></div></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Lava Burst</strong> usage critically low (3.8 vs 12.5 CPM, -70%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Lava Burst** usage critically low (3.8 vs 12.5 CPM, -70%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Bolt</strong> usage critically low (6.0 vs 22.4 CPM, -73%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Lightning Bolt** usage critically low (6.0 vs 22.4 CPM, -73%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (2.3 vs 5.5 CPM, -58%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Lava Burst Overload** usage critically low (2.3 vs 5.5 CPM, -58%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Bolt Overload</strong> usage critically low (4.0 vs 9.1 CPM, -56%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Lightning Bolt Overload** usage critically low (4.0 vs 9.1 CPM, -56%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (36.6%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Flame Shock** uptime is low (36.6%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Fulmination</strong> usage critically low (0.8 vs 2.7 CPM, -70%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Fulmination** usage critically low (0.8 vs 2.7 CPM, -70%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Searing Totem</strong> usage critically low (0.2 vs 0.6 CPM, -67%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Searing Totem** usage critically low (0.2 vs 0.6 CPM, -67%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (1.1 vs 3.3 CPM, -67%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Lightning Strike** usage critically low (1.1 vs 3.3 CPM, -67%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Earth Shock</strong> usage critically low (0.8 vs 2.7 CPM, -70%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', '**Earth Shock** usage critically low (0.8 vs 2.7 CPM, -70%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', 'Top performers use **Glyph of the Spectral Wolf**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Lightning Shield</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Iron Qon', 'Top performers use **Glyph of Lightning Shield**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
     </div>
         </div>
     </div>
@@ -619,10 +624,10 @@
     </div>
             </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
-        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58058">Glyph of Astral Recall</a>, <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a></p></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a>, <a href="https://www.wowhead.com/mop-classic/spell=55447">Glyph of Flame Shock</a></p></div>
     </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
-        <div class="card-body"><div class="suggestion-item"><strong>Lava Burst</strong> usage critically low (9.6 vs 14.1 CPM, -32%)</div><div class="suggestion-item"><strong>Lava Burst Overload</strong> could be cast more (6.6 vs 8.5 CPM)</div><div class="suggestion-item">Top performers use <strong>Glyph of Astral Recall</strong></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong></div></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Lava Burst</strong> usage critically low (9.6 vs 14.1 CPM, -32%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Twin Consorts', '**Lava Burst** usage critically low (9.6 vs 14.1 CPM, -32%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Burst Overload</strong> could be cast more (6.6 vs 8.5 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Twin Consorts', '**Lava Burst Overload** could be cast more (6.6 vs 8.5 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Twin Consorts', 'Top performers use **Glyph of the Spectral Wolf**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Chain Lightning</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Twin Consorts', 'Top performers use **Glyph of Chain Lightning**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
     </div>
         </div>
     </div>
@@ -720,14 +725,207 @@
     </div>
             </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
-        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58058">Glyph of Astral Recall</a>, <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a>, <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a></p></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a>, <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a></p></div>
     </div><div class="card mb-3">
         <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
-        <div class="card-body"><div class="suggestion-item"><strong>Lava Burst</strong> usage critically low (6.1 vs 9.8 CPM, -38%)</div><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (3.9 vs 6.8 CPM, -43%)</div><div class="suggestion-item"><strong>Lava Beam</strong> usage critically low (1.2 vs 2.4 CPM, -50%)</div><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (78.8%) - maintain on target</div><div class="suggestion-item">Top performers use <strong>Glyph of Astral Recall</strong></div><div class="suggestion-item">Top performers use <strong>Glyph of Lightning Shield</strong></div></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Lava Burst</strong> usage critically low (6.1 vs 9.8 CPM, -38%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Lei Shen', '**Lava Burst** usage critically low (6.1 vs 9.8 CPM, -38%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (3.9 vs 6.8 CPM, -43%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Lei Shen', '**Lava Burst Overload** usage critically low (3.9 vs 6.8 CPM, -43%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Beam</strong> usage critically low (1.2 vs 2.4 CPM, -50%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Lei Shen', '**Lava Beam** usage critically low (1.2 vs 2.4 CPM, -50%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (78.8%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Lei Shen', '**Flame Shock** uptime is low (78.8%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Lei Shen', 'Top performers use **Glyph of the Spectral Wolf**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Lightning Shield</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Unsanctioned', 'Lei Shen', 'Top performers use **Glyph of Lightning Shield**', 'https://glitchv0.github.io/raidreview/reports/2026-01-11_10N_73LvphDmkPZzNX6V/players/Unsanctioned_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
     </div>
         </div>
     </div>
+        <div class="footer text-center">
+        <a href="#" onclick="openGeneralFeedback(); return false;" class="text-muted">
+            <i class="bi bi-chat-dots me-1"></i>Send Feedback
+        </a>
+        <span class="text-muted mx-2">|</span>
+        <span class="text-muted">Raid Review by Calrion/Nybs</span>
     </div>
+    </div>
+    
+    <!-- Suggestion Feedback Modal -->
+    <div class="modal fade" id="feedbackModal" tabindex="-1" aria-labelledby="feedbackModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="feedbackModalLabel"><i class="bi bi-flag me-2"></i>Report Incorrect Suggestion</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="feedback-context mb-3">
+                        <div class="mb-2"><strong>Player:</strong> <span id="feedbackPlayer"></span></div>
+                        <div class="mb-2"><strong>Boss:</strong> <span id="feedbackBoss"></span></div>
+                        <div class="mb-2"><strong>Suggestion:</strong></div>
+                        <div class="feedback-suggestion-text" id="feedbackSuggestion"></div>
+                        <div class="mt-2"><a id="feedbackReportLink" href="#" target="_blank" class="small">View Report <i class="bi bi-box-arrow-up-right"></i></a></div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="feedbackIssue" class="form-label">What's wrong with this suggestion?</label>
+                        <textarea class="form-control" id="feedbackIssue" rows="4" placeholder="e.g., This uptime isn't achievable because the boss has a phase transition where you can't attack..."></textarea>
+                    </div>
+                    <div id="feedbackStatus" class="small"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="feedbackSubmit" onclick="submitFeedback()">
+                        <i class="bi bi-send me-1"></i>Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- General Feedback Modal -->
+    <div class="modal fade" id="generalFeedbackModal" tabindex="-1" aria-labelledby="generalFeedbackModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="generalFeedbackModalLabel"><i class="bi bi-chat-dots me-2"></i>Send Feedback</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-info small mb-3">
+                        <i class="bi bi-info-circle me-1"></i>
+                        <strong>Tip:</strong> To report an incorrect suggestion, use the <i class="bi bi-flag"></i> flag icon next to that specific suggestion instead.
+                    </div>
+                    <div class="mb-3">
+                        <label for="generalFeedbackText" class="form-label">Your feedback</label>
+                        <textarea class="form-control" id="generalFeedbackText" rows="5" placeholder="Bug reports, feature requests, questions, or any other feedback..."></textarea>
+                    </div>
+                    <div id="generalFeedbackStatus" class="small"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="generalFeedbackSubmit" onclick="submitGeneralFeedback()">
+                        <i class="bi bi-send me-1"></i>Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    // Suggestion Feedback modal state
+    let currentFeedback = {};
+
+    function openFeedbackModal(player, boss, suggestion, reportUrl, spec) {
+        currentFeedback = { player, boss, suggestion, reportUrl, spec };
+        document.getElementById('feedbackPlayer').textContent = player + ' (' + spec + ')';
+        document.getElementById('feedbackBoss').textContent = boss;
+        document.getElementById('feedbackSuggestion').textContent = suggestion;
+        document.getElementById('feedbackReportLink').href = reportUrl;
+        document.getElementById('feedbackIssue').value = '';
+        document.getElementById('feedbackStatus').textContent = '';
+        document.getElementById('feedbackStatus').className = 'small';
+        document.getElementById('feedbackSubmit').disabled = false;
+        new bootstrap.Modal(document.getElementById('feedbackModal')).show();
+    }
+
+    async function submitFeedback() {
+        const issue = document.getElementById('feedbackIssue').value.trim();
+        if (!issue) {
+            document.getElementById('feedbackStatus').textContent = 'Please describe the issue.';
+            document.getElementById('feedbackStatus').className = 'small text-danger';
+            return;
+        }
+
+        document.getElementById('feedbackSubmit').disabled = true;
+        document.getElementById('feedbackStatus').textContent = 'Submitting...';
+        document.getElementById('feedbackStatus').className = 'small text-muted';
+
+        const webhookUrl = 'https://discord.com/api/webhooks/1461527361408208980/A0MtlJtryG0hCTGeza12G-EZJVrDz-QKXG5EIu0qqIr1xVKfkFucg5BNs4Il_1ZkwEq4';
+
+        const embed = {
+            title: 'Suggestion Feedback',
+            color: 16763904,  // Gold color
+            fields: [
+                { name: 'Player', value: currentFeedback.player + ' (' + currentFeedback.spec + ')', inline: true },
+                { name: 'Boss', value: currentFeedback.boss, inline: true },
+                { name: 'Suggestion', value: currentFeedback.suggestion },
+                { name: 'Issue', value: issue },
+                { name: 'Report', value: '[View Report](' + currentFeedback.reportUrl + ')' }
+            ],
+            timestamp: new Date().toISOString()
+        };
+
+        try {
+            const response = await fetch(webhookUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ embeds: [embed] })
+            });
+
+            if (response.ok || response.status === 204) {
+                document.getElementById('feedbackStatus').textContent = 'Thank you! Your feedback has been submitted.';
+                document.getElementById('feedbackStatus').className = 'small text-success';
+                setTimeout(() => {
+                    bootstrap.Modal.getInstance(document.getElementById('feedbackModal')).hide();
+                }, 1500);
+            } else {
+                throw new Error('Failed to submit');
+            }
+        } catch (err) {
+            document.getElementById('feedbackStatus').textContent = 'Failed to submit. Please try again.';
+            document.getElementById('feedbackStatus').className = 'small text-danger';
+            document.getElementById('feedbackSubmit').disabled = false;
+        }
+    }
+
+    // General Feedback
+    function openGeneralFeedback() {
+        document.getElementById('generalFeedbackText').value = '';
+        document.getElementById('generalFeedbackStatus').textContent = '';
+        document.getElementById('generalFeedbackStatus').className = 'small';
+        document.getElementById('generalFeedbackSubmit').disabled = false;
+        new bootstrap.Modal(document.getElementById('generalFeedbackModal')).show();
+    }
+
+    async function submitGeneralFeedback() {
+        const feedback = document.getElementById('generalFeedbackText').value.trim();
+        if (!feedback) {
+            document.getElementById('generalFeedbackStatus').textContent = 'Please enter your feedback.';
+            document.getElementById('generalFeedbackStatus').className = 'small text-danger';
+            return;
+        }
+
+        document.getElementById('generalFeedbackSubmit').disabled = true;
+        document.getElementById('generalFeedbackStatus').textContent = 'Submitting...';
+        document.getElementById('generalFeedbackStatus').className = 'small text-muted';
+
+        const webhookUrl = 'https://discord.com/api/webhooks/1461527361408208980/A0MtlJtryG0hCTGeza12G-EZJVrDz-QKXG5EIu0qqIr1xVKfkFucg5BNs4Il_1ZkwEq4';
+
+        const embed = {
+            title: 'General Feedback',
+            color: 5814783,  // Blue color
+            description: feedback,
+            fields: [
+                { name: 'Page', value: window.location.href }
+            ],
+            timestamp: new Date().toISOString()
+        };
+
+        try {
+            const response = await fetch(webhookUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ embeds: [embed] })
+            });
+
+            if (response.ok || response.status === 204) {
+                document.getElementById('generalFeedbackStatus').textContent = 'Thank you! Your feedback has been submitted.';
+                document.getElementById('generalFeedbackStatus').className = 'small text-success';
+                setTimeout(() => {
+                    bootstrap.Modal.getInstance(document.getElementById('generalFeedbackModal')).hide();
+                }, 1500);
+            } else {
+                throw new Error('Failed to submit');
+            }
+        } catch (err) {
+            document.getElementById('generalFeedbackStatus').textContent = 'Failed to submit. Please try again.';
+            document.getElementById('generalFeedbackStatus').className = 'small text-danger';
+            document.getElementById('generalFeedbackSubmit').disabled = false;
+        }
+    }
+    </script>
+    
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
     <script src="https://wow.zamimg.com/js/tooltips.js"></script>

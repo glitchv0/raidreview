@@ -125,6 +125,26 @@ a:hover {
     color: var(--wow-gold);
 }
 
+.suggestion-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 0.75rem;
+}
+
+.feedback-link {
+    color: var(--wow-text-muted);
+    opacity: 0.5;
+    transition: opacity 0.2s, color 0.2s;
+    flex-shrink: 0;
+    font-size: 0.9rem;
+}
+
+.feedback-link:hover {
+    color: var(--wow-gold);
+    opacity: 1;
+}
+
 /* Player navigation grid */
 .player-grid {
     display: grid;
@@ -296,4 +316,90 @@ h4 i {
     padding: 0.75rem 1rem;
     border-radius: 0 4px 4px 0;
     margin-bottom: 1rem;
+}
+
+/* Feedback Modal */
+#feedbackModal .modal-content {
+    background-color: var(--wow-bg-card);
+    border: 1px solid var(--wow-gold-dark);
+}
+
+#feedbackModal .modal-header {
+    background: linear-gradient(180deg, var(--wow-bg-header) 0%, var(--wow-bg-card) 100%);
+    border-bottom: 1px solid var(--wow-gold-dark);
+}
+
+#feedbackModal .modal-title {
+    color: var(--wow-gold);
+}
+
+#feedbackModal .modal-footer {
+    border-top: 1px solid var(--wow-border);
+}
+
+#feedbackModal .btn-primary {
+    background-color: var(--wow-gold-dark);
+    border-color: var(--wow-gold-dark);
+    color: #000;
+}
+
+#feedbackModal .btn-primary:hover {
+    background-color: var(--wow-gold);
+    border-color: var(--wow-gold);
+}
+
+#feedbackModal .btn-primary:disabled {
+    background-color: var(--wow-text-muted);
+    border-color: var(--wow-text-muted);
+}
+
+.feedback-context {
+    background: rgba(255, 209, 0, 0.05);
+    border-left: 3px solid var(--wow-gold);
+    padding: 0.75rem 1rem;
+    border-radius: 0 4px 4px 0;
+}
+
+.feedback-suggestion-text {
+    background: var(--wow-bg-header);
+    padding: 0.5rem 0.75rem;
+    border-radius: 4px;
+    font-style: italic;
+    color: var(--wow-text);
+}
+
+#feedbackIssue,
+#generalFeedbackText {
+    background-color: var(--wow-bg-header);
+    border-color: var(--wow-border);
+    color: var(--wow-text);
+}
+
+#feedbackIssue:focus,
+#generalFeedbackText:focus {
+    border-color: var(--wow-gold-dark);
+    box-shadow: 0 0 0 0.2rem rgba(255, 209, 0, 0.25);
+}
+
+/* Feedback bar */
+.feedback-bar {
+    text-align: right;
+}
+
+.feedback-btn {
+    color: var(--wow-text-muted);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.2s;
+}
+
+.feedback-btn:hover {
+    color: var(--wow-gold);
+}
+
+/* General feedback modal info box */
+#generalFeedbackModal .alert-info {
+    background-color: rgba(88, 166, 255, 0.1);
+    border-color: rgba(88, 166, 255, 0.3);
+    color: var(--wow-text);
 }
