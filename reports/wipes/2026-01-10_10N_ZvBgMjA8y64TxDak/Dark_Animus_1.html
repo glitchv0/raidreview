@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raid Reports</title>
+    <title>Wipe Analysis: Dark Animus #1</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
-    <link rel="stylesheet" href="static/style.css">
+    <link rel="stylesheet" href="../../static/style.css">
 </head>
 <body>
     <div class="container py-4">
@@ -16,65 +16,188 @@
         </a>
     </div>
         
-        <h1>Raid Reports</h1>
-    <p class="lead text-muted">Performance analysis for Throne of Thunder raids</p>
-    <div class="player-grid"><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-17_25N_wnHDFThRJ12YaLkA/index.html'">
-            <div class="card-body">
-                <h5 class="card-title mb-1">2026-01-17 <span class="badge bg-secondary">25N</span></h5>
-                <p class="card-text mb-1" style="color: var(--wow-gold);">Make Azeroth Great Again</p>
-                <p class="card-text mb-1 text-muted"><i class="bi bi-trophy me-1"></i>5 bosses | <i class="bi bi-person me-1"></i>25 players</p>
-                <p class="card-text mb-1"><a href="wipes/2026-01-17_25N_wnHDFThRJ12YaLkA/index.html" class="text-danger" onclick="event.stopPropagation();"><i class="bi bi-x-circle me-1"></i>13 wipes analyzed</a></p>
-                <p class="card-text mb-0"><a href="https://classic.warcraftlogs.com/reports/wnHDFThRJ12YaLkA" target="_blank" class="text-muted" onclick="event.stopPropagation();"><i class="bi bi-box-arrow-up-right me-1"></i>wnHDFThRJ12YaLkA</a></p>
+        <nav aria-label="breadcrumb" class="mb-4">
+            <ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../index.html">Reports</a></li><li class="breadcrumb-item"><a href="../index.html">Wipes</a></li><li class="breadcrumb-item active">Dark Animus #1</li></ol>
+        </nav>
+        <h1 class="wipe-title">Dark Animus - Attempt #1</h1>
+
+    <div class="card wipe-summary mb-4">
+        <div class="card-body">
+            <div class="d-flex flex-wrap gap-4">
+                <div><strong>Duration:</strong> 0:32</div>
+                <div><strong>Deaths:</strong> 6</div>
+                <div><a href="https://classic.warcraftlogs.com/reports/ZvBgMjA8y64TxDak#fight=16" target="_blank">View on WarcraftLogs <i class="bi bi-box-arrow-up-right"></i></a></div>
             </div>
-        </div><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-16_25N_ZBqazmNXy82wFAxQ/index.html'">
-            <div class="card-body">
-                <h5 class="card-title mb-1">2026-01-16 <span class="badge bg-secondary">25N</span></h5>
-                <p class="card-text mb-1" style="color: var(--wow-gold);">Make Azeroth Great Again</p>
-                <p class="card-text mb-1 text-muted"><i class="bi bi-trophy me-1"></i>6 bosses | <i class="bi bi-person me-1"></i>25 players</p>
-                
-                <p class="card-text mb-0"><a href="https://classic.warcraftlogs.com/reports/ZBqazmNXy82wFAxQ" target="_blank" class="text-muted" onclick="event.stopPropagation();"><i class="bi bi-box-arrow-up-right me-1"></i>ZBqazmNXy82wFAxQ</a></p>
+        </div>
+    </div>
+
+    
+
+    <div class="card mb-3 timeline-card">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-clock-history me-2"></i>Boss Ability Timeline</h5></div>
+        <div class="card-body">
+            <div class="timeline-bar mb-3">
+                <div class="timeline-track">
+                    <div class="timeline-marker timeline-marker-death" style="left: 33.6%;" title="0:10 - Kamakmeleon died"></div><div class="timeline-marker timeline-marker-death" style="left: 50.4%;" title="0:16 - Cursedclam died"></div><div class="timeline-marker timeline-marker-death" style="left: 52.5%;" title="0:16 - Poebearkun died"></div><div class="timeline-marker timeline-marker-death" style="left: 65.8%;" title="0:21 - Shibb died"></div><div class="timeline-marker timeline-marker-death" style="left: 77.2%;" title="0:24 - Priestsky died"></div><div class="timeline-marker timeline-marker-death" style="left: 86.0%;" title="0:27 - Chubbztotem died"></div>
+                </div>
+                <div class="timeline-labels">
+                    <span>0:00</span>
+                    <span>0:32</span>
+                </div>
             </div>
-        </div><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-11_25N_73LvphDmkPZzNX6V/index.html'">
-            <div class="card-body">
-                <h5 class="card-title mb-1">2026-01-11 <span class="badge bg-secondary">25N</span></h5>
-                <p class="card-text mb-1" style="color: var(--wow-gold);">Make Azeroth Great Again</p>
-                <p class="card-text mb-1 text-muted"><i class="bi bi-trophy me-1"></i>7 bosses | <i class="bi bi-person me-1"></i>25 players</p>
-                
-                <p class="card-text mb-0"><a href="https://classic.warcraftlogs.com/reports/73LvphDmkPZzNX6V" target="_blank" class="text-muted" onclick="event.stopPropagation();"><i class="bi bi-box-arrow-up-right me-1"></i>73LvphDmkPZzNX6V</a></p>
+            <p class="text-muted small mb-2">
+                <span class="timeline-legend-item"><span class="timeline-legend-dot bg-danger"></span> Dangerous ability</span>
+                <span class="timeline-legend-item"><span class="timeline-legend-dot bg-warning"></span> Boss ability</span>
+                <span class="timeline-legend-item"><span class="timeline-legend-dot bg-white"></span> Death</span>
+            </p>
+            <div class="table-responsive" style="max-height: 300px; overflow-y: auto;">
+                <table class="table table-dark table-striped table-sm mb-0">
+                    <thead><tr><th style="width: 80px;">Time</th><th>Event</th></tr></thead>
+                    <tbody><tr class="table-danger">
+                <td>0:10</td>
+                <td><i class="bi bi-heartbreak text-danger me-1"></i><span style="color: #FF7C0A;">Kamakmeleon</span> died</td>
+            </tr><tr class="table-danger">
+                <td>0:16</td>
+                <td><i class="bi bi-heartbreak text-danger me-1"></i><span style="color: #8788EE;">Cursedclam</span> died</td>
+            </tr><tr class="table-danger">
+                <td>0:16</td>
+                <td><i class="bi bi-heartbreak text-danger me-1"></i><span style="color: #00FF98;">Poebearkun</span> died</td>
+            </tr><tr class="table-danger">
+                <td>0:21</td>
+                <td><i class="bi bi-heartbreak text-danger me-1"></i><span style="color: #FFF468;">Shibb</span> died</td>
+            </tr><tr class="table-danger">
+                <td>0:24</td>
+                <td><i class="bi bi-heartbreak text-danger me-1"></i><span style="color: #FFFFFF;">Priestsky</span> died</td>
+            </tr><tr class="table-danger">
+                <td>0:27</td>
+                <td><i class="bi bi-heartbreak text-danger me-1"></i><span style="color: #0070DD;">Chubbztotem</span> died</td>
+            </tr></tbody>
+                </table>
             </div>
-        </div><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-10_25N_DkgR89WBa47FJd1C/index.html'">
-            <div class="card-body">
-                <h5 class="card-title mb-1">2026-01-10 <span class="badge bg-secondary">25N</span></h5>
-                <p class="card-text mb-1" style="color: var(--wow-gold);">Make Azeroth Great Again</p>
-                <p class="card-text mb-1 text-muted"><i class="bi bi-trophy me-1"></i>5 bosses | <i class="bi bi-person me-1"></i>25 players</p>
-                
-                <p class="card-text mb-0"><a href="https://classic.warcraftlogs.com/reports/DkgR89WBa47FJd1C" target="_blank" class="text-muted" onclick="event.stopPropagation();"><i class="bi bi-box-arrow-up-right me-1"></i>DkgR89WBa47FJd1C</a></p>
+        </div>
+    </div>
+
+    <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-heartbreak me-2"></i>Death Timeline</h5></div>
+        <div class="card-body">
+            <p class="text-muted small mb-2"><i class="bi bi-check-circle text-success"></i> = Used Healthstone/Potion before death | <i class="bi bi-x-circle text-danger"></i> = Did not use survival item</p>
+            <div class="table-responsive">
+                <table class="table table-dark table-striped mb-0">
+                    <thead>
+                        <tr>
+                            <th style="width: 100px;">Time</th>
+                            <th>Player</th>
+                            <th>Killed By</th>
+                        </tr>
+                    </thead>
+                    <tbody><tr>
+            <td>0:10</td>
+            <td style="color: #FF7C0A;">Kamakmeleon<span class="badge bg-danger ms-2" title="Did not use Healthstone/Potion"><i class="bi bi-x"></i> No HS/Pot</span></td>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=1">Spell 1</a></td>
+        </tr><tr>
+            <td>0:16</td>
+            <td style="color: #8788EE;">Cursedclam<span class="badge bg-danger ms-2" title="Did not use Healthstone/Potion"><i class="bi bi-x"></i> No HS/Pot</span></td>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=1">Spell 1</a></td>
+        </tr><tr>
+            <td>0:16</td>
+            <td style="color: #00FF98;">Poebearkun<span class="badge bg-danger ms-2" title="Did not use Healthstone/Potion"><i class="bi bi-x"></i> No HS/Pot</span></td>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=1">Spell 1</a></td>
+        </tr><tr>
+            <td>0:21</td>
+            <td style="color: #FFF468;">Shibb<span class="badge bg-danger ms-2" title="Did not use Healthstone/Potion"><i class="bi bi-x"></i> No HS/Pot</span></td>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=1">Spell 1</a></td>
+        </tr><tr>
+            <td>0:24</td>
+            <td style="color: #FFFFFF;">Priestsky<span class="badge bg-danger ms-2" title="Did not use Healthstone/Potion"><i class="bi bi-x"></i> No HS/Pot</span></td>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=1">Spell 1</a></td>
+        </tr><tr>
+            <td>0:27</td>
+            <td style="color: #0070DD;">Chubbztotem<span class="badge bg-danger ms-2" title="Did not use Healthstone/Potion"><i class="bi bi-x"></i> No HS/Pot</span></td>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=1">Spell 1</a></td>
+        </tr></tbody>
+                </table>
             </div>
-        </div><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-10_10N_ZvBgMjA8y64TxDak/index.html'">
-            <div class="card-body">
-                <h5 class="card-title mb-1">2026-01-10 <span class="badge bg-secondary">10N</span></h5>
-                <p class="card-text mb-1" style="color: var(--wow-gold);">Make Azeroth Great Again</p>
-                <p class="card-text mb-1 text-muted"><i class="bi bi-trophy me-1"></i>7 bosses | <i class="bi bi-person me-1"></i>10 players</p>
-                
-                <p class="card-text mb-0"><a href="https://classic.warcraftlogs.com/reports/ZvBgMjA8y64TxDak" target="_blank" class="text-muted" onclick="event.stopPropagation();"><i class="bi bi-box-arrow-up-right me-1"></i>ZvBgMjA8y64TxDak</a></p>
+        </div>
+    </div>
+
+    
+
+    <div class="card mb-3 brez-card">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-heart-pulse-fill me-2"></i>Battle Resurrections</h5></div>
+        <div class="card-body">
+            <p class="mb-2"><span class="text-warning">0/1 battle rezzes used</span> <span class="text-danger">(1 unused with 6 deaths!)</span></p>
+            <p class="text-muted mb-3">No battle rezzes were used</p>
+        </div>
+    </div>
+
+    
+
+    
+
+    
+
+    <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-shield-check me-2"></i>Defensive Cooldowns Used</h5></div>
+        <div class="card-body"><div class="mb-3">
+            <h6 class="text-warning"><i class="bi bi-shield-fill me-1"></i>Tank Defensives (1)</h6>
+            <div class="table-responsive">
+                <table class="table table-dark table-striped table-sm mb-0">
+                    <thead><tr><th style="width: 80px;">Time</th><th>Player</th><th>Ability</th></tr></thead>
+                    <tbody><tr>
+                <td>0:28</td>
+                <td style="color: #C69B6D;">Drbustnuts</td>
+                <td><a href="https://www.wowhead.com/mop-classic/spell=871">Shield Wall</a></td>
+            </tr></tbody>
+                </table>
             </div>
-        </div><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-09_10N_pdg6m7hDjL9cXtvG/index.html'">
-            <div class="card-body">
-                <h5 class="card-title mb-1">2026-01-09 <span class="badge bg-secondary">10N</span></h5>
-                <p class="card-text mb-1" style="color: var(--wow-gold);">Make Azeroth Great Again</p>
-                <p class="card-text mb-1 text-muted"><i class="bi bi-trophy me-1"></i>5 bosses | <i class="bi bi-person me-1"></i>10 players</p>
-                
-                <p class="card-text mb-0"><a href="https://classic.warcraftlogs.com/reports/pdg6m7hDjL9cXtvG" target="_blank" class="text-muted" onclick="event.stopPropagation();"><i class="bi bi-box-arrow-up-right me-1"></i>pdg6m7hDjL9cXtvG</a></p>
-            </div>
-        </div><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-04_10N_qcBHpjK7k84GDLTw/index.html'">
-            <div class="card-body">
-                <h5 class="card-title mb-1">2026-01-04 <span class="badge bg-secondary">10N</span></h5>
-                <p class="card-text mb-1" style="color: var(--wow-gold);">Make Azeroth Great Again</p>
-                <p class="card-text mb-1 text-muted"><i class="bi bi-trophy me-1"></i>12 bosses | <i class="bi bi-person me-1"></i>10 players</p>
-                
-                <p class="card-text mb-0"><a href="https://classic.warcraftlogs.com/reports/qcBHpjK7k84GDLTw" target="_blank" class="text-muted" onclick="event.stopPropagation();"><i class="bi bi-box-arrow-up-right me-1"></i>qcBHpjK7k84GDLTw</a></p>
+        </div><div class="mb-3">
+            <h6 class="text-info"><i class="bi bi-person-fill me-1"></i>Personal Defensives (1)</h6>
+            <div class="table-responsive">
+                <table class="table table-dark table-striped table-sm mb-0">
+                    <thead><tr><th style="width: 80px;">Time</th><th>Player</th><th>Ability</th></tr></thead>
+                    <tbody><tr>
+                <td>0:26</td>
+                <td style="color: #C69B6D;">Drbustnuts</td>
+                <td><a href="https://www.wowhead.com/mop-classic/spell=118038">Die by the Sword</a></td>
+            </tr></tbody>
+                </table>
             </div>
         </div></div>
+    </div>
+
+    
+
+    <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-fire me-2"></i>Top Damage Sources</h5></div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-dark table-striped mb-0">
+                    <thead>
+                        <tr>
+                            <th>Ability</th>
+                            <th class="text-end">Damage</th>
+                            <th>% of Total</th>
+                        </tr>
+                    </thead>
+                    <tbody><tr>
+            <td>Melee</td>
+            <td class="text-end">17,332,864</td>
+            <td style="width: 150px;">
+                <div class="d-flex align-items-center gap-2">
+                    <div class="progress flex-grow-1" style="height: 8px;">
+                        <div class="progress-bar" style="width: 100.0%; background-color: #dc3545;"></div>
+                    </div>
+                    <span class="text-muted" style="min-width: 45px;">100.0%</span>
+                </div>
+            </td>
+        </tr></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    
+    
         <div class="footer text-center">
         <a href="#" onclick="openGeneralFeedback(); return false;" class="text-muted">
             <i class="bi bi-chat-dots me-1"></i>Send Feedback

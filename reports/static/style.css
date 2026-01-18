@@ -403,3 +403,259 @@ h4 i {
     border-color: rgba(88, 166, 255, 0.3);
     color: var(--wow-text);
 }
+
+/* ============================================================================
+   Wipe Analysis Styles
+   ============================================================================ */
+
+/* Wipe cards (red accent instead of gold) */
+.wipe-card {
+    border-left: 4px solid #dc3545;
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+
+.wipe-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(220, 53, 69, 0.2);
+    border-color: #dc3545;
+}
+
+.wipe-card .card-title {
+    color: #fff;
+}
+
+/* Wipe overview cards */
+.wipe-overview-card {
+    border-left: 4px solid #dc3545;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.wipe-overview-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(220, 53, 69, 0.2);
+}
+
+/* Wipe page title */
+.wipe-title {
+    color: #dc3545;
+    border-bottom-color: #dc3545;
+}
+
+/* Wipe summary card */
+.wipe-summary {
+    border-left: 4px solid #dc3545;
+    background: rgba(220, 53, 69, 0.05);
+}
+
+/* Wipe grid layout */
+.wipe-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1rem;
+}
+
+/* Death timeline styling */
+.card .table tbody tr td:first-child {
+    font-family: 'Consolas', 'Monaco', monospace;
+    color: var(--wow-gold);
+}
+
+/* Progress bars for damage sources */
+.progress {
+    background-color: var(--wow-bg-header);
+    border-radius: 4px;
+}
+
+.progress-bar {
+    border-radius: 4px;
+}
+
+/* Comparison section styling */
+.card:has(.bi-trophy) {
+    border-left: 4px solid #28a745;
+}
+
+/* Role colors for death timeline */
+.role-tank { color: #C69B6D; }
+.role-healer { color: #1eff00; }
+.role-dps { color: #ff6b6b; }
+
+/* Comparison card styling */
+.comparison-card {
+    border-left: 4px solid var(--wow-gold);
+}
+
+.comparison-card .row {
+    gap: 1rem;
+}
+
+.comparison-card .table {
+    margin-bottom: 0;
+}
+
+.comparison-card h6 {
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--wow-border);
+}
+
+/* ============================================================================
+   Enhanced Wipe Analysis Styles
+   ============================================================================ */
+
+/* Battle Rez card */
+.brez-card {
+    border-left: 4px solid #00ff98;
+}
+
+/* Interrupt card */
+.interrupt-card {
+    border-left: 4px solid #ff8000;
+}
+
+/* Dispel card */
+.dispel-card {
+    border-left: 4px solid #a335ee;
+}
+
+/* Avoidable damage card */
+.avoidable-card {
+    border-left: 4px solid #dc3545;
+}
+
+/* Pre-death breakdown card */
+.predeath-card {
+    border-left: 4px solid #ffc107;
+}
+
+/* Healer mana card */
+.mana-card {
+    border-left: 4px solid #0070ff;
+}
+
+/* Timeline card */
+.timeline-card {
+    border-left: 4px solid var(--wow-gold);
+}
+
+/* Timeline visualization */
+.timeline-bar {
+    position: relative;
+    padding: 20px 0;
+}
+
+.timeline-track {
+    position: relative;
+    height: 40px;
+    background: linear-gradient(90deg, var(--wow-bg-header) 0%, var(--wow-bg-card) 100%);
+    border-radius: 4px;
+    border: 1px solid var(--wow-border);
+}
+
+.timeline-marker {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 1;
+    transition: transform 0.2s;
+}
+
+.timeline-marker:hover {
+    transform: translate(-50%, -50%) scale(1.5);
+    z-index: 2;
+}
+
+.timeline-marker-danger {
+    background-color: #dc3545;
+    box-shadow: 0 0 4px #dc3545;
+}
+
+.timeline-marker-warning {
+    background-color: #ffc107;
+    box-shadow: 0 0 4px #ffc107;
+}
+
+.timeline-marker-death {
+    background-color: #ffffff;
+    box-shadow: 0 0 4px #ffffff;
+    width: 12px;
+    height: 12px;
+    border: 2px solid #dc3545;
+}
+
+.timeline-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    font-size: 0.85rem;
+    color: var(--wow-text-muted);
+}
+
+.timeline-legend-item {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.timeline-legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 0.5rem;
+}
+
+/* Pre-death accordion styling */
+.predeath-card .accordion-item {
+    background-color: var(--wow-bg-card);
+    border: none;
+    border-bottom: 1px solid var(--wow-border);
+}
+
+.predeath-card .accordion-button {
+    background-color: var(--wow-bg-header);
+    color: var(--wow-text);
+    box-shadow: none;
+}
+
+.predeath-card .accordion-button:not(.collapsed) {
+    background-color: rgba(255, 209, 0, 0.1);
+    color: var(--wow-gold);
+}
+
+.predeath-card .accordion-button::after {
+    filter: invert(1);
+}
+
+.predeath-card .accordion-body {
+    background-color: var(--wow-bg-card);
+}
+
+/* Interrupt missed row highlighting */
+.interrupt-card .table-danger {
+    background-color: rgba(220, 53, 69, 0.2) !important;
+}
+
+/* Avoidable damage progress bars */
+.avoidable-card .progress {
+    height: 8px;
+}
+
+/* Badge styling in survival indicators */
+.badge.bg-success {
+    background-color: rgba(25, 135, 84, 0.8) !important;
+}
+
+.badge.bg-danger {
+    background-color: rgba(220, 53, 69, 0.8) !important;
+}
+
+/* Mana ability badges */
+.mana-card .badge.bg-info {
+    background-color: rgba(13, 202, 240, 0.3) !important;
+    color: #0dcaf0;
+    font-weight: normal;
+}
