@@ -1,0 +1,998 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stupifyed - Demo Warlock</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../static/style.css">
+</head>
+<body>
+    <div class="container py-4">
+        <div class="feedback-bar mb-3">
+        <a href="#" onclick="openGeneralFeedback(); return false;" class="feedback-btn">
+            <i class="bi bi-chat-dots me-1"></i>Send Feedback
+        </a>
+    </div>
+        
+        <nav aria-label="breadcrumb" class="mb-4">
+            <ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../index.html">Reports</a></li><li class="breadcrumb-item"><a href="../index.html">2026-01-18 25N</a></li><li class="breadcrumb-item active">Stupifyed</li></ol>
+        </nav>
+        <h1><span style="color: #8788EE;">Stupifyed</span> <small style="color: #8788EE;">(Demo Warlock)</small></h1>
+    <div class="raid-info mb-4">
+        <p><strong>Guild:</strong> Make Azeroth Great Again</p>
+        <p><strong>Raid:</strong> Throne of Thunder</p>
+        <p><strong>Date:</strong> 2026-01-18 | <strong>Difficulty:</strong> 25N</p>
+        <p><strong>Log:</strong> <a href="https://classic.warcraftlogs.com/reports/WP1JmtzcaHM7QYwV" target="_blank">WP1JmtzcaHM7QYwV <i class="bi bi-box-arrow-up-right"></i></a></p>
+    </div><div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Ji-Kun<a href="https://www.warcraftlogs.com/reports/WP1JmtzcaHM7QYwV#fight=14" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>3:39</span><span><i class="bi bi-lightning me-1"></i>DPS: 186,552</span><span class="parse-uncommon"><i class="bi bi-graph-up me-1"></i>Parse: 74%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-x-circle text-danger"></i>
+        <strong>Combat pot:</strong> <span class="text-muted">None</span>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <span class="badge bg-secondary me-1">3/3</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/3dfXn9P8tTC6bgjR#fight=18" target="_blank" class="text-warning">Blurkytwo</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104317">Wild Imp</a></td>
+            <td class="text-end">92.9</td>
+            <td class="text-end">120.8</td>
+            <td class="text-end text-danger">-23%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104027">Soul Fire</a></td>
+            <td class="text-end">10.1</td>
+            <td class="text-end">4.9</td>
+            <td class="text-end text-success">+106%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=603">Doom</a></td>
+            <td class="text-end">76.0%</td>
+            <td class="text-end">91.8%</td>
+            <td class="text-end text-warning">-15.8%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=112870">Summon Wrathguard</a></td>
+            <td class="text-end">6.9%</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=686">Shadow Bolt</a></td>
+            <td class="text-end">6.3</td>
+            <td class="text-end">3.9</td>
+            <td class="text-end text-success">+62%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=47960">Shadowflame</a></td>
+            <td class="text-end">22.5%</td>
+            <td class="text-end">32.6%</td>
+            <td class="text-end text-warning">-10.1%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=146739">Corruption</a></td>
+            <td class="text-end">66.5%</td>
+            <td class="text-end">93.7%</td>
+            <td class="text-end text-danger">-27.2%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103964">Touch of Chaos</a></td>
+            <td class="text-end">2.2</td>
+            <td class="text-end">11.5</td>
+            <td class="text-end text-danger">-81%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=6353">Soul Fire</a></td>
+            <td class="text-end">1.4</td>
+            <td class="text-end">4.9</td>
+            <td class="text-end text-danger">-71%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=123197">Hand of Gul'dan</a></td>
+            <td class="text-end">2.5</td>
+            <td class="text-end">3.9</td>
+            <td class="text-end text-danger">-36%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=129347">Chaos Wave</a></td>
+            <td class="text-end">0.3</td>
+            <td class="text-end">0.3</td>
+            <td class="text-end text-success">+0%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=56250">Glyph of Carrion Swarm</a>, <a href="https://www.wowhead.com/mop-classic/spell=56218">Glyph of Siphon Life</a>, <a href="https://www.wowhead.com/mop-classic/spell=56242">Glyph of Imp Swarm</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Wild Imp</strong> could be cast more (92.9 vs 120.8 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', '**Wild Imp** could be cast more (92.9 vs 120.8 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Doom</strong> uptime is low (76.0%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', '**Doom** uptime is low (76.0%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Shadowflame</strong> uptime is low (22.5%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', '**Shadowflame** uptime is low (22.5%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Corruption</strong> uptime is low (66.5%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', '**Corruption** uptime is low (66.5%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Touch of Chaos</strong> usage critically low (2.2 vs 11.5 CPM, -81%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', '**Touch of Chaos** usage critically low (2.2 vs 11.5 CPM, -81%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Soul Fire</strong> usage critically low (1.4 vs 4.9 CPM, -71%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', '**Soul Fire** usage critically low (1.4 vs 4.9 CPM, -71%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Hand of Gul'dan</strong> usage critically low (2.5 vs 3.9 CPM, -36%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', '**Hand of Gul\'dan** usage critically low (2.5 vs 3.9 CPM, -36%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Carrion Swarm</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', 'Top performers use **Glyph of Carrion Swarm**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Siphon Life</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Ji-Kun', 'Top performers use **Glyph of Siphon Life**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Durumu the Forgotten<a href="https://www.warcraftlogs.com/reports/WP1JmtzcaHM7QYwV#fight=18" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>4:49</span><span><i class="bi bi-lightning me-1"></i>DPS: 128,717</span><span class="parse-common"><i class="bi bi-graph-up me-1"></i>Parse: 29%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-x-circle text-danger"></i>
+        <strong>Combat pot:</strong> <span class="text-muted">None</span>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">3/4</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/TWbnXt2HfkCKGYaz#fight=32" target="_blank" class="text-warning">Kilzaclock</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104317">Wild Imp</a></td>
+            <td class="text-end">51.1</td>
+            <td class="text-end">120.8</td>
+            <td class="text-end text-danger">-58%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=112870">Summon Wrathguard</a></td>
+            <td class="text-end">22.0%</td>
+            <td class="text-end">5.0%</td>
+            <td class="text-end text-success">+17.0%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104027">Soul Fire</a></td>
+            <td class="text-end">6.0</td>
+            <td class="text-end">2.8</td>
+            <td class="text-end text-success">+114%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=603">Doom</a></td>
+            <td class="text-end">96.4%</td>
+            <td class="text-end">97.1%</td>
+            <td class="text-end text-warning">-0.7%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=6353">Soul Fire</a></td>
+            <td class="text-end">4.6</td>
+            <td class="text-end">2.8</td>
+            <td class="text-end text-success">+64%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=47960">Shadowflame</a></td>
+            <td class="text-end">30.0%</td>
+            <td class="text-end">35.9%</td>
+            <td class="text-end text-warning">-5.9%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103964">Touch of Chaos</a></td>
+            <td class="text-end">5.2</td>
+            <td class="text-end">6.9</td>
+            <td class="text-end text-danger">-25%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=686">Shadow Bolt</a></td>
+            <td class="text-end">4.8</td>
+            <td class="text-end">6.7</td>
+            <td class="text-end text-danger">-28%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=146739">Corruption</a></td>
+            <td class="text-end">88.1%</td>
+            <td class="text-end">99.3%</td>
+            <td class="text-end text-warning">-11.2%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=123197">Hand of Gul'dan</a></td>
+            <td class="text-end">3.5</td>
+            <td class="text-end">3.8</td>
+            <td class="text-end text-warning">-8%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77799">Fel Flame</a></td>
+            <td class="text-end">0.8</td>
+            <td class="text-end">1.4</td>
+            <td class="text-end text-danger">-43%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=56250">Glyph of Carrion Swarm</a>, <a href="https://www.wowhead.com/mop-classic/spell=56242">Glyph of Imp Swarm</a>, <a href="https://www.wowhead.com/mop-classic/spell=56232">Glyph of Nightmares</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Wild Imp</strong> usage critically low (51.1 vs 120.8 CPM, -58%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Durumu the Forgotten', '**Wild Imp** usage critically low (51.1 vs 120.8 CPM, -58%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Summon Wrathguard</strong> uptime is low (22.0%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Durumu the Forgotten', '**Summon Wrathguard** uptime is low (22.0%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Shadowflame</strong> uptime is low (30.0%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Durumu the Forgotten', '**Shadowflame** uptime is low (30.0%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Touch of Chaos</strong> could be cast more (5.2 vs 6.9 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Durumu the Forgotten', '**Touch of Chaos** could be cast more (5.2 vs 6.9 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Shadow Bolt</strong> could be cast more (4.8 vs 6.7 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Durumu the Forgotten', '**Shadow Bolt** could be cast more (4.8 vs 6.7 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Fel Flame</strong> usage critically low (0.8 vs 1.4 CPM, -43%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Durumu the Forgotten', '**Fel Flame** usage critically low (0.8 vs 1.4 CPM, -43%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Carrion Swarm</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Durumu the Forgotten', 'Top performers use **Glyph of Carrion Swarm**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Imp Swarm</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Durumu the Forgotten', 'Top performers use **Glyph of Imp Swarm**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Primordius<a href="https://www.warcraftlogs.com/reports/WP1JmtzcaHM7QYwV#fight=21" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>5:56</span><span><i class="bi bi-lightning me-1"></i>DPS: 133,000</span><span class="parse-common"><i class="bi bi-graph-up me-1"></i>Parse: 47%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-x-circle text-danger"></i>
+        <strong>Pre-pot:</strong> <span class="text-muted">None</span>
+    </div><div class="consumable-item">
+        <i class="bi bi-x-circle text-danger"></i>
+        <strong>Combat pot:</strong> <span class="text-muted">None</span>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">4/5</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/aGfDqRxJWrpFv1ny#fight=40" target="_blank" class="text-warning">Kissedbyfire</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=112870">Summon Wrathguard</a></td>
+            <td class="text-end">13.6%</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104027">Soul Fire</a></td>
+            <td class="text-end">6.1</td>
+            <td class="text-end">12.6</td>
+            <td class="text-end text-danger">-52%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104317">Wild Imp</a></td>
+            <td class="text-end">67.2</td>
+            <td class="text-end">123.9</td>
+            <td class="text-end text-danger">-46%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=603">Doom</a></td>
+            <td class="text-end">72.5%</td>
+            <td class="text-end">90.4%</td>
+            <td class="text-end text-warning">-17.9%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=6353">Soul Fire</a></td>
+            <td class="text-end">3.4</td>
+            <td class="text-end">12.6</td>
+            <td class="text-end text-danger">-73%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=47960">Shadowflame</a></td>
+            <td class="text-end">24.2%</td>
+            <td class="text-end">53.3%</td>
+            <td class="text-end text-danger">-29.1%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=686">Shadow Bolt</a></td>
+            <td class="text-end">4.7</td>
+            <td class="text-end">6.9</td>
+            <td class="text-end text-danger">-32%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103964">Touch of Chaos</a></td>
+            <td class="text-end">4.0</td>
+            <td class="text-end">3.2</td>
+            <td class="text-end text-success">+25%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=146739">Corruption</a></td>
+            <td class="text-end">54.2%</td>
+            <td class="text-end">92.2%</td>
+            <td class="text-end text-danger">-38.0%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=112926">Summon Terrorguard</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=123197">Hand of Gul'dan</a></td>
+            <td class="text-end">2.7</td>
+            <td class="text-end">3.9</td>
+            <td class="text-end text-danger">-31%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=129476">Immolation Aura</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103967">Carrion Swarm</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=56250">Glyph of Carrion Swarm</a>, <a href="https://www.wowhead.com/mop-classic/spell=56218">Glyph of Siphon Life</a>, <a href="https://www.wowhead.com/mop-classic/spell=56242">Glyph of Imp Swarm</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Soul Fire</strong> usage critically low (6.1 vs 12.6 CPM, -52%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', '**Soul Fire** usage critically low (6.1 vs 12.6 CPM, -52%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Wild Imp</strong> usage critically low (67.2 vs 123.9 CPM, -46%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', '**Wild Imp** usage critically low (67.2 vs 123.9 CPM, -46%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Doom</strong> uptime is low (72.5%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', '**Doom** uptime is low (72.5%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Soul Fire</strong> usage critically low (3.4 vs 12.6 CPM, -73%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', '**Soul Fire** usage critically low (3.4 vs 12.6 CPM, -73%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Shadowflame</strong> uptime is low (24.2%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', '**Shadowflame** uptime is low (24.2%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Shadow Bolt</strong> usage critically low (4.7 vs 6.9 CPM, -32%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', '**Shadow Bolt** usage critically low (4.7 vs 6.9 CPM, -32%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Corruption</strong> uptime is low (54.2%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', '**Corruption** uptime is low (54.2%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Hand of Gul'dan</strong> usage critically low (2.7 vs 3.9 CPM, -31%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', '**Hand of Gul\'dan** usage critically low (2.7 vs 3.9 CPM, -31%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Carrion Swarm</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', 'Top performers use **Glyph of Carrion Swarm**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Siphon Life</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Primordius', 'Top performers use **Glyph of Siphon Life**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Dark Animus<a href="https://www.warcraftlogs.com/reports/WP1JmtzcaHM7QYwV#fight=29" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>4:02</span><span><i class="bi bi-lightning me-1"></i>DPS: 100,908</span><span class="parse-common"><i class="bi bi-graph-up me-1"></i>Parse: 25%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-x-circle text-danger"></i>
+        <strong>Combat pot:</strong> <span class="text-muted">None</span>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">2/4</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/3HbvT8W97zPQKc6L#fight=38" target="_blank" class="text-warning">Ahlazandreah</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104317">Wild Imp</a></td>
+            <td class="text-end">39.1</td>
+            <td class="text-end">238.1</td>
+            <td class="text-end text-danger">-84%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104027">Soul Fire</a></td>
+            <td class="text-end">4.7</td>
+            <td class="text-end">5.2</td>
+            <td class="text-end text-warning">-10%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=47960">Shadowflame</a></td>
+            <td class="text-end">17.3%</td>
+            <td class="text-end">31.9%</td>
+            <td class="text-end text-warning">-14.6%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=686">Shadow Bolt</a></td>
+            <td class="text-end">6.2</td>
+            <td class="text-end">0.2</td>
+            <td class="text-end text-success">+3000%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103964">Touch of Chaos</a></td>
+            <td class="text-end">3.2</td>
+            <td class="text-end">9.3</td>
+            <td class="text-end text-danger">-66%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=603">Doom</a></td>
+            <td class="text-end">44.0%</td>
+            <td class="text-end">96.3%</td>
+            <td class="text-end text-danger">-52.3%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=146739">Corruption</a></td>
+            <td class="text-end">71.0%</td>
+            <td class="text-end">97.9%</td>
+            <td class="text-end text-danger">-26.9%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=60478">Doomguard</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">0.2</td>
+            <td class="text-end text-success">+0%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=123197">Hand of Gul'dan</a></td>
+            <td class="text-end">2.0</td>
+            <td class="text-end">3.9</td>
+            <td class="text-end text-danger">-49%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=6353">Soul Fire</a></td>
+            <td class="text-end">1.7</td>
+            <td class="text-end">5.2</td>
+            <td class="text-end text-danger">-67%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77799">Fel Flame</a></td>
+            <td class="text-end">1.0</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=56250">Glyph of Carrion Swarm</a>, <a href="https://www.wowhead.com/mop-classic/spell=56218">Glyph of Siphon Life</a>, <a href="https://www.wowhead.com/mop-classic/spell=56242">Glyph of Imp Swarm</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Wild Imp</strong> usage critically low (39.1 vs 238.1 CPM, -84%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', '**Wild Imp** usage critically low (39.1 vs 238.1 CPM, -84%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Shadowflame</strong> uptime is low (17.3%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', '**Shadowflame** uptime is low (17.3%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Touch of Chaos</strong> usage critically low (3.2 vs 9.3 CPM, -66%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', '**Touch of Chaos** usage critically low (3.2 vs 9.3 CPM, -66%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Doom</strong> uptime is low (44.0%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', '**Doom** uptime is low (44.0%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Corruption</strong> uptime is low (71.0%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', '**Corruption** uptime is low (71.0%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Hand of Gul'dan</strong> usage critically low (2.0 vs 3.9 CPM, -49%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', '**Hand of Gul\'dan** usage critically low (2.0 vs 3.9 CPM, -49%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Soul Fire</strong> usage critically low (1.7 vs 5.2 CPM, -67%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', '**Soul Fire** usage critically low (1.7 vs 5.2 CPM, -67%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Carrion Swarm</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', 'Top performers use **Glyph of Carrion Swarm**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Siphon Life</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Dark Animus', 'Top performers use **Glyph of Siphon Life**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Iron Qon<a href="https://www.warcraftlogs.com/reports/WP1JmtzcaHM7QYwV#fight=33" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>7:32</span><span><i class="bi bi-lightning me-1"></i>DPS: 124,872</span><span class="parse-uncommon"><i class="bi bi-graph-up me-1"></i>Parse: 52%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Combat pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">3/7</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/HWqjmcpgQaDkwPKn#fight=32" target="_blank" class="text-warning">Esoxelock</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104317">Wild Imp</a></td>
+            <td class="text-end">51.2</td>
+            <td class="text-end">195.0</td>
+            <td class="text-end text-danger">-74%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=112870">Summon Wrathguard</a></td>
+            <td class="text-end">4.3%</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104027">Soul Fire</a></td>
+            <td class="text-end">5.8</td>
+            <td class="text-end">7.6</td>
+            <td class="text-end text-danger">-24%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=686">Shadow Bolt</a></td>
+            <td class="text-end">9.3</td>
+            <td class="text-end">0.4</td>
+            <td class="text-end text-success">+2225%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=603">Doom</a></td>
+            <td class="text-end">82.9%</td>
+            <td class="text-end">96.4%</td>
+            <td class="text-end text-warning">-13.5%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103964">Touch of Chaos</a></td>
+            <td class="text-end">6.2</td>
+            <td class="text-end">11.8</td>
+            <td class="text-end text-danger">-47%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=47960">Shadowflame</a></td>
+            <td class="text-end">29.6%</td>
+            <td class="text-end">37.5%</td>
+            <td class="text-end text-warning">-7.9%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=146739">Corruption</a></td>
+            <td class="text-end">91.4%</td>
+            <td class="text-end">92.9%</td>
+            <td class="text-end text-warning">-1.5%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=6353">Soul Fire</a></td>
+            <td class="text-end">2.4</td>
+            <td class="text-end">7.6</td>
+            <td class="text-end text-danger">-68%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=112926">Summon Terrorguard</a></td>
+            <td class="text-end">0.1</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=123197">Hand of Gul'dan</a></td>
+            <td class="text-end">3.7</td>
+            <td class="text-end">3.6</td>
+            <td class="text-end text-success">+3%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=56250">Glyph of Carrion Swarm</a>, <a href="https://www.wowhead.com/mop-classic/spell=56218">Glyph of Siphon Life</a>, <a href="https://www.wowhead.com/mop-classic/spell=56242">Glyph of Imp Swarm</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Wild Imp</strong> usage critically low (51.2 vs 195.0 CPM, -74%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Iron Qon', '**Wild Imp** usage critically low (51.2 vs 195.0 CPM, -74%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Soul Fire</strong> could be cast more (5.8 vs 7.6 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Iron Qon', '**Soul Fire** could be cast more (5.8 vs 7.6 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Doom</strong> uptime is low (82.9%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Iron Qon', '**Doom** uptime is low (82.9%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Touch of Chaos</strong> usage critically low (6.2 vs 11.8 CPM, -47%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Iron Qon', '**Touch of Chaos** usage critically low (6.2 vs 11.8 CPM, -47%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Shadowflame</strong> uptime is low (29.6%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Iron Qon', '**Shadowflame** uptime is low (29.6%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Soul Fire</strong> usage critically low (2.4 vs 7.6 CPM, -68%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Iron Qon', '**Soul Fire** usage critically low (2.4 vs 7.6 CPM, -68%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Carrion Swarm</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Iron Qon', 'Top performers use **Glyph of Carrion Swarm**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Siphon Life</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Iron Qon', 'Top performers use **Glyph of Siphon Life**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Twin Consorts<a href="https://www.warcraftlogs.com/reports/WP1JmtzcaHM7QYwV#fight=34" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>6:49</span><span><i class="bi bi-lightning me-1"></i>DPS: 178,667</span><span class="parse-rare"><i class="bi bi-graph-up me-1"></i>Parse: 88%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Combat pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">4/6</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/6TWxVcbA1BGz8ML4#fight=1" target="_blank" class="text-warning">Ahlazandreah</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104317">Wild Imp</a></td>
+            <td class="text-end">86.4</td>
+            <td class="text-end">86.6</td>
+            <td class="text-end text-warning">-0%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104027">Soul Fire</a></td>
+            <td class="text-end">9.5</td>
+            <td class="text-end">7.7</td>
+            <td class="text-end text-success">+23%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=112870">Summon Wrathguard</a></td>
+            <td class="text-end">1.6%</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=603">Doom</a></td>
+            <td class="text-end">97.0%</td>
+            <td class="text-end">99.1%</td>
+            <td class="text-end text-warning">-2.1%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=686">Shadow Bolt</a></td>
+            <td class="text-end">11.3</td>
+            <td class="text-end">3.7</td>
+            <td class="text-end text-success">+205%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=47960">Shadowflame</a></td>
+            <td class="text-end">33.9%</td>
+            <td class="text-end">36.0%</td>
+            <td class="text-end text-warning">-2.1%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=146739">Corruption</a></td>
+            <td class="text-end">92.4%</td>
+            <td class="text-end">99.4%</td>
+            <td class="text-end text-warning">-7.0%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103964">Touch of Chaos</a></td>
+            <td class="text-end">4.4</td>
+            <td class="text-end">7.1</td>
+            <td class="text-end text-danger">-38%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=6353">Soul Fire</a></td>
+            <td class="text-end">1.6</td>
+            <td class="text-end">7.7</td>
+            <td class="text-end text-danger">-79%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=123197">Hand of Gul'dan</a></td>
+            <td class="text-end">3.8</td>
+            <td class="text-end">3.9</td>
+            <td class="text-end text-warning">-3%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=129347">Chaos Wave</a></td>
+            <td class="text-end">0.1</td>
+            <td class="text-end">0.2</td>
+            <td class="text-end text-danger">-50%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=56250">Glyph of Carrion Swarm</a>, <a href="https://www.wowhead.com/mop-classic/spell=56218">Glyph of Siphon Life</a>, <a href="https://www.wowhead.com/mop-classic/spell=56242">Glyph of Imp Swarm</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Shadowflame</strong> uptime is low (33.9%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Twin Consorts', '**Shadowflame** uptime is low (33.9%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Touch of Chaos</strong> usage critically low (4.4 vs 7.1 CPM, -38%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Twin Consorts', '**Touch of Chaos** usage critically low (4.4 vs 7.1 CPM, -38%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Soul Fire</strong> usage critically low (1.6 vs 7.7 CPM, -79%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Twin Consorts', '**Soul Fire** usage critically low (1.6 vs 7.7 CPM, -79%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Chaos Wave</strong> usage critically low (0.1 vs 0.2 CPM, -50%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Twin Consorts', '**Chaos Wave** usage critically low (0.1 vs 0.2 CPM, -50%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Carrion Swarm</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Twin Consorts', 'Top performers use **Glyph of Carrion Swarm**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Siphon Life</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Twin Consorts', 'Top performers use **Glyph of Siphon Life**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Lei Shen<a href="https://www.warcraftlogs.com/reports/WP1JmtzcaHM7QYwV#fight=40" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>8:21</span><span><i class="bi bi-lightning me-1"></i>DPS: 106,638</span><span class="parse-gray"><i class="bi bi-graph-up me-1"></i>Parse: 9%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-x-circle text-danger"></i>
+        <strong>Combat pot:</strong> <span class="text-muted">None</span>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">5/8</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/gDKGB4mpMznxYJ7Q#fight=53" target="_blank" class="text-warning">Thegreatlok</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104317">Wild Imp</a></td>
+            <td class="text-end">38.5</td>
+            <td class="text-end">87.6</td>
+            <td class="text-end text-danger">-56%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=112870">Summon Wrathguard</a></td>
+            <td class="text-end">12.5%</td>
+            <td class="text-end">11.1%</td>
+            <td class="text-end text-success">+1.4%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=104027">Soul Fire</a></td>
+            <td class="text-end">3.4</td>
+            <td class="text-end">5.3</td>
+            <td class="text-end text-danger">-36%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=47960">Shadowflame</a></td>
+            <td class="text-end">25.1%</td>
+            <td class="text-end">100.0%</td>
+            <td class="text-end text-danger">-74.9%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=603">Doom</a></td>
+            <td class="text-end">97.8%</td>
+            <td class="text-end">92.2%</td>
+            <td class="text-end text-success">+5.6%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=686">Shadow Bolt</a></td>
+            <td class="text-end">5.6</td>
+            <td class="text-end">3.0</td>
+            <td class="text-end text-success">+87%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=123197">Hand of Gul'dan</a></td>
+            <td class="text-end">2.9</td>
+            <td class="text-end">1.9</td>
+            <td class="text-end text-success">+53%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=146739">Corruption</a></td>
+            <td class="text-end">72.6%</td>
+            <td class="text-end">96.2%</td>
+            <td class="text-end text-danger">-23.6%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=129476">Immolation Aura</a></td>
+            <td class="text-end">0.4</td>
+            <td class="text-end">0.7</td>
+            <td class="text-end text-danger">-43%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103964">Touch of Chaos</a></td>
+            <td class="text-end">1.7</td>
+            <td class="text-end">9.6</td>
+            <td class="text-end text-danger">-82%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=103967">Carrion Swarm</a></td>
+            <td class="text-end">0.4</td>
+            <td class="text-end">0.7</td>
+            <td class="text-end text-danger">-43%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=6353">Soul Fire</a></td>
+            <td class="text-end">0.5</td>
+            <td class="text-end">5.3</td>
+            <td class="text-end text-danger">-91%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77799">Fel Flame</a></td>
+            <td class="text-end">1.2</td>
+            <td class="text-end">2.9</td>
+            <td class="text-end text-danger">-59%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=115422">Void Ray</a></td>
+            <td class="text-end">1.4</td>
+            <td class="text-end">1.2</td>
+            <td class="text-end text-success">+17%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=5857">Hellfire</a></td>
+            <td class="text-end">0.1</td>
+            <td class="text-end">0.4</td>
+            <td class="text-end text-danger">-75%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=56250">Glyph of Carrion Swarm</a>, <a href="https://www.wowhead.com/mop-classic/spell=56247">Glyph of Falling Meteor</a>, <a href="https://www.wowhead.com/mop-classic/spell=56242">Glyph of Imp Swarm</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Wild Imp</strong> usage critically low (38.5 vs 87.6 CPM, -56%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Wild Imp** usage critically low (38.5 vs 87.6 CPM, -56%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Summon Wrathguard</strong> uptime is low (12.5%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Summon Wrathguard** uptime is low (12.5%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Soul Fire</strong> usage critically low (3.4 vs 5.3 CPM, -36%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Soul Fire** usage critically low (3.4 vs 5.3 CPM, -36%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Shadowflame</strong> uptime is low (25.1%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Shadowflame** uptime is low (25.1%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Corruption</strong> uptime is low (72.6%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Corruption** uptime is low (72.6%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Immolation Aura</strong> usage critically low (0.4 vs 0.7 CPM, -43%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Immolation Aura** usage critically low (0.4 vs 0.7 CPM, -43%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Touch of Chaos</strong> usage critically low (1.7 vs 9.6 CPM, -82%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Touch of Chaos** usage critically low (1.7 vs 9.6 CPM, -82%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Carrion Swarm</strong> usage critically low (0.4 vs 0.7 CPM, -43%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Carrion Swarm** usage critically low (0.4 vs 0.7 CPM, -43%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Soul Fire</strong> usage critically low (0.5 vs 5.3 CPM, -91%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Soul Fire** usage critically low (0.5 vs 5.3 CPM, -91%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Fel Flame</strong> usage critically low (1.2 vs 2.9 CPM, -59%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Fel Flame** usage critically low (1.2 vs 2.9 CPM, -59%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Hellfire</strong> usage critically low (0.1 vs 0.4 CPM, -75%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', '**Hellfire** usage critically low (0.1 vs 0.4 CPM, -75%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Carrion Swarm</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', 'Top performers use **Glyph of Carrion Swarm**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Falling Meteor</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Stupifyed', 'Lei Shen', 'Top performers use **Glyph of Falling Meteor**', 'https://glitchv0.github.io/raidreview/reports/2026-01-18_25N_WP1JmtzcaHM7QYwV/players/Stupifyed_demo_warlock.html', 'Demo Warlock'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+        <div class="footer text-center">
+        <a href="#" onclick="openGeneralFeedback(); return false;" class="text-muted">
+            <i class="bi bi-chat-dots me-1"></i>Send Feedback
+        </a>
+        <span class="text-muted mx-2">|</span>
+        <span class="text-muted">Raid Review by Calrion/Nybs</span>
+    </div>
+    </div>
+    
+    <!-- Suggestion Feedback Modal -->
+    <div class="modal fade" id="feedbackModal" tabindex="-1" aria-labelledby="feedbackModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="feedbackModalLabel"><i class="bi bi-flag me-2"></i>Report Incorrect Suggestion</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="feedback-context mb-3">
+                        <div class="mb-2"><strong>Player:</strong> <span id="feedbackPlayer"></span></div>
+                        <div class="mb-2"><strong>Boss:</strong> <span id="feedbackBoss"></span></div>
+                        <div class="mb-2"><strong>Suggestion:</strong></div>
+                        <div class="feedback-suggestion-text" id="feedbackSuggestion"></div>
+                        <div class="mt-2"><a id="feedbackReportLink" href="#" target="_blank" class="small">View Report <i class="bi bi-box-arrow-up-right"></i></a></div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="feedbackIssue" class="form-label">What's wrong with this suggestion?</label>
+                        <textarea class="form-control" id="feedbackIssue" rows="4" placeholder="e.g., This uptime isn't achievable because the boss has a phase transition where you can't attack..."></textarea>
+                    </div>
+                    <div id="feedbackStatus" class="small"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="feedbackSubmit" onclick="submitFeedback()">
+                        <i class="bi bi-send me-1"></i>Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- General Feedback Modal -->
+    <div class="modal fade" id="generalFeedbackModal" tabindex="-1" aria-labelledby="generalFeedbackModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="generalFeedbackModalLabel"><i class="bi bi-chat-dots me-2"></i>Send Feedback</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-info small mb-3">
+                        <i class="bi bi-info-circle me-1"></i>
+                        <strong>Tip:</strong> To report an incorrect suggestion, use the <i class="bi bi-flag"></i> flag icon next to that specific suggestion instead.
+                    </div>
+                    <div class="mb-3">
+                        <label for="generalFeedbackText" class="form-label">Your feedback</label>
+                        <textarea class="form-control" id="generalFeedbackText" rows="5" placeholder="Bug reports, feature requests, questions, or any other feedback..."></textarea>
+                    </div>
+                    <div id="generalFeedbackStatus" class="small"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="generalFeedbackSubmit" onclick="submitGeneralFeedback()">
+                        <i class="bi bi-send me-1"></i>Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    // Suggestion Feedback modal state
+    let currentFeedback = {};
+
+    function openFeedbackModal(player, boss, suggestion, reportUrl, spec) {
+        currentFeedback = { player, boss, suggestion, reportUrl, spec };
+        document.getElementById('feedbackPlayer').textContent = player + ' (' + spec + ')';
+        document.getElementById('feedbackBoss').textContent = boss;
+        document.getElementById('feedbackSuggestion').textContent = suggestion;
+        document.getElementById('feedbackReportLink').href = reportUrl;
+        document.getElementById('feedbackIssue').value = '';
+        document.getElementById('feedbackStatus').textContent = '';
+        document.getElementById('feedbackStatus').className = 'small';
+        document.getElementById('feedbackSubmit').disabled = false;
+        new bootstrap.Modal(document.getElementById('feedbackModal')).show();
+    }
+
+    async function submitFeedback() {
+        const issue = document.getElementById('feedbackIssue').value.trim();
+        if (!issue) {
+            document.getElementById('feedbackStatus').textContent = 'Please describe the issue.';
+            document.getElementById('feedbackStatus').className = 'small text-danger';
+            return;
+        }
+
+        document.getElementById('feedbackSubmit').disabled = true;
+        document.getElementById('feedbackStatus').textContent = 'Submitting...';
+        document.getElementById('feedbackStatus').className = 'small text-muted';
+
+        const webhookUrl = 'https://discord.com/api/webhooks/1461527361408208980/A0MtlJtryG0hCTGeza12G-EZJVrDz-QKXG5EIu0qqIr1xVKfkFucg5BNs4Il_1ZkwEq4';
+
+        const embed = {
+            title: 'Suggestion Feedback',
+            color: 16763904,  // Gold color
+            fields: [
+                { name: 'Player', value: currentFeedback.player + ' (' + currentFeedback.spec + ')', inline: true },
+                { name: 'Boss', value: currentFeedback.boss, inline: true },
+                { name: 'Suggestion', value: currentFeedback.suggestion },
+                { name: 'Issue', value: issue },
+                { name: 'Report', value: '[View Report](' + currentFeedback.reportUrl + ')' }
+            ],
+            timestamp: new Date().toISOString()
+        };
+
+        try {
+            const response = await fetch(webhookUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ embeds: [embed] })
+            });
+
+            if (response.ok || response.status === 204) {
+                document.getElementById('feedbackStatus').textContent = 'Thank you! Your feedback has been submitted.';
+                document.getElementById('feedbackStatus').className = 'small text-success';
+                setTimeout(() => {
+                    bootstrap.Modal.getInstance(document.getElementById('feedbackModal')).hide();
+                }, 1500);
+            } else {
+                throw new Error('Failed to submit');
+            }
+        } catch (err) {
+            document.getElementById('feedbackStatus').textContent = 'Failed to submit. Please try again.';
+            document.getElementById('feedbackStatus').className = 'small text-danger';
+            document.getElementById('feedbackSubmit').disabled = false;
+        }
+    }
+
+    // General Feedback
+    function openGeneralFeedback() {
+        document.getElementById('generalFeedbackText').value = '';
+        document.getElementById('generalFeedbackStatus').textContent = '';
+        document.getElementById('generalFeedbackStatus').className = 'small';
+        document.getElementById('generalFeedbackSubmit').disabled = false;
+        new bootstrap.Modal(document.getElementById('generalFeedbackModal')).show();
+    }
+
+    async function submitGeneralFeedback() {
+        const feedback = document.getElementById('generalFeedbackText').value.trim();
+        if (!feedback) {
+            document.getElementById('generalFeedbackStatus').textContent = 'Please enter your feedback.';
+            document.getElementById('generalFeedbackStatus').className = 'small text-danger';
+            return;
+        }
+
+        document.getElementById('generalFeedbackSubmit').disabled = true;
+        document.getElementById('generalFeedbackStatus').textContent = 'Submitting...';
+        document.getElementById('generalFeedbackStatus').className = 'small text-muted';
+
+        const webhookUrl = 'https://discord.com/api/webhooks/1461527361408208980/A0MtlJtryG0hCTGeza12G-EZJVrDz-QKXG5EIu0qqIr1xVKfkFucg5BNs4Il_1ZkwEq4';
+
+        const embed = {
+            title: 'General Feedback',
+            color: 5814783,  // Blue color
+            description: feedback,
+            fields: [
+                { name: 'Page', value: window.location.href }
+            ],
+            timestamp: new Date().toISOString()
+        };
+
+        try {
+            const response = await fetch(webhookUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ embeds: [embed] })
+            });
+
+            if (response.ok || response.status === 204) {
+                document.getElementById('generalFeedbackStatus').textContent = 'Thank you! Your feedback has been submitted.';
+                document.getElementById('generalFeedbackStatus').className = 'small text-success';
+                setTimeout(() => {
+                    bootstrap.Modal.getInstance(document.getElementById('generalFeedbackModal')).hide();
+                }, 1500);
+            } else {
+                throw new Error('Failed to submit');
+            }
+        } catch (err) {
+            document.getElementById('generalFeedbackStatus').textContent = 'Failed to submit. Please try again.';
+            document.getElementById('generalFeedbackStatus').className = 'small text-danger';
+            document.getElementById('generalFeedbackSubmit').disabled = false;
+        }
+    }
+    </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+    <script src="https://wow.zamimg.com/js/tooltips.js"></script>
+</body>
+</html>
