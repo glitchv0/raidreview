@@ -18,7 +18,15 @@
         
         <h1>Raid Reports</h1>
     <p class="lead text-muted">Performance analysis for Throne of Thunder raids</p>
-    <div class="player-grid"><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-18_25N_WP1JmtzcaHM7QYwV/index.html'">
+    <div class="player-grid"><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-20_25H_PVz8Axvc1ZkHnJ6m/index.html'">
+            <div class="card-body">
+                <h5 class="card-title mb-1">2026-01-20 <span class="badge bg-secondary">25H</span></h5>
+                <p class="card-text mb-1" style="color: var(--wow-gold);">OneThreeThreeSeven</p>
+                <p class="card-text mb-1 text-muted"><i class="bi bi-trophy me-1"></i>12 bosses | <i class="bi bi-person me-1"></i>28 players</p>
+                <p class="card-text mb-1"><a href="wipes/2026-01-20_25H_PVz8Axvc1ZkHnJ6m/index.html" class="text-danger" onclick="event.stopPropagation();"><i class="bi bi-x-circle me-1"></i>21 wipes analyzed</a></p>
+                <p class="card-text mb-0"><a href="https://classic.warcraftlogs.com/reports/PVz8Axvc1ZkHnJ6m" target="_blank" class="text-muted" onclick="event.stopPropagation();"><i class="bi bi-box-arrow-up-right me-1"></i>PVz8Axvc1ZkHnJ6m</a></p>
+            </div>
+        </div><div class="card report-card" style="cursor: pointer;" onclick="window.location.href='2026-01-18_25N_WP1JmtzcaHM7QYwV/index.html'">
             <div class="card-body">
                 <h5 class="card-title mb-1">2026-01-18 <span class="badge bg-secondary">25N</span></h5>
                 <p class="card-text mb-1" style="color: var(--wow-gold);">Make Azeroth Great Again</p>
@@ -216,7 +224,7 @@
                 { name: 'Boss', value: currentFeedback.boss, inline: true },
                 { name: 'Suggestion', value: currentFeedback.suggestion },
                 { name: 'Issue', value: issue },
-                { name: 'Report', value: '[View Report](' + currentFeedback.reportUrl + ')' }
+                { name: 'Report', value: currentFeedback.reportUrl }
             ],
             timestamp: new Date().toISOString()
         };
