@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rustynut - Elemental Shaman</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="../../static/style.css">
+</head>
+<body>
+    <div class="container py-4">
+        <div class="feedback-bar mb-3">
+        <a href="#" onclick="openGeneralFeedback(); return false;" class="feedback-btn">
+            <i class="bi bi-chat-dots me-1"></i>Send Feedback
+        </a>
+    </div>
+        
+        <nav aria-label="breadcrumb" class="mb-4">
+            <ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../index.html">Reports</a></li><li class="breadcrumb-item"><a href="../index.html">2026-01-23 H</a></li><li class="breadcrumb-item active">Rustynut</li></ol>
+        </nav>
+        <h1><span style="color: #0070DD;">Rustynut</span> <small style="color: #0070DD;">(Elemental Shaman)</small></h1>
+    <div class="raid-info mb-4">
+        <p><strong>Guild:</strong> Ghosts of Atiesh</p>
+        <p><strong>Raid:</strong> Throne of Thunder</p>
+        <p><strong>Date:</strong> 2026-01-23 | <strong>Difficulty:</strong> H</p>
+        <p><strong>Log:</strong> <a href="https://classic.warcraftlogs.com/reports/cQ7MT1PhyvkGR84j" target="_blank">cQ7MT1PhyvkGR84j <i class="bi bi-box-arrow-up-right"></i></a></p>
+    </div><div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Jin'rokh the Breaker<a href="https://www.warcraftlogs.com/reports/cQ7MT1PhyvkGR84j#fight=7" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>4:10</span><span><i class="bi bi-lightning me-1"></i>DPS: 185,074</span><span class="parse-gray"><i class="bi bi-graph-up me-1"></i>Parse: 21%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Combat pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">2/4</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/THF4bz1f9RLp2nKg#fight=2" target="_blank" class="text-warning">Rhonxreset</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=51505">Lava Burst</a></td>
+            <td class="text-end">11.7</td>
+            <td class="text-end">16.4</td>
+            <td class="text-end text-danger">-29%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=403">Lightning Bolt</a></td>
+            <td class="text-end">19.6</td>
+            <td class="text-end">21.7</td>
+            <td class="text-end text-warning">-10%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77451">Lava Burst Overload</a></td>
+            <td class="text-end">6.5</td>
+            <td class="text-end">13.2</td>
+            <td class="text-end text-danger">-51%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=45284">Lightning Bolt Overload</a></td>
+            <td class="text-end">11.5</td>
+            <td class="text-end">17.8</td>
+            <td class="text-end text-danger">-35%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=118291">Primal Fire Elemental</a></td>
+            <td class="text-end">8.4%</td>
+            <td class="text-end">38.0%</td>
+            <td class="text-end text-danger">-29.6%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8050">Flame Shock</a></td>
+            <td class="text-end">79.4%</td>
+            <td class="text-end">99.7%</td>
+            <td class="text-end text-danger">-20.3%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=138146">Lightning Strike</a></td>
+            <td class="text-end">3.8</td>
+            <td class="text-end">5.3</td>
+            <td class="text-end text-danger">-28%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=88767">Fulmination</a></td>
+            <td class="text-end">1.2</td>
+            <td class="text-end">3.2</td>
+            <td class="text-end text-danger">-62%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=3599">Searing Totem</a></td>
+            <td class="text-end">0.5</td>
+            <td class="text-end">0.4</td>
+            <td class="text-end text-success">+25%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8042">Earth Shock</a></td>
+            <td class="text-end">1.2</td>
+            <td class="text-end">3.2</td>
+            <td class="text-end text-danger">-62%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=26364">Lightning Shield</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">2.8</td>
+            <td class="text-end text-danger">-93%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=147787">Glyph of Astral Fixation</a>, <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a>, <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Lava Burst</strong> could be cast more (11.7 vs 16.4 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Lava Burst** could be cast more (11.7 vs 16.4 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (6.5 vs 13.2 CPM, -51%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Lava Burst Overload** usage critically low (6.5 vs 13.2 CPM, -51%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Bolt Overload</strong> usage critically low (11.5 vs 17.8 CPM, -35%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Lightning Bolt Overload** usage critically low (11.5 vs 17.8 CPM, -35%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Primal Fire Elemental</strong> uptime is low (8.4%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Primal Fire Elemental** uptime is low (8.4%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (79.4%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Flame Shock** uptime is low (79.4%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Strike</strong> could be cast more (3.8 vs 5.3 CPM)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Lightning Strike** could be cast more (3.8 vs 5.3 CPM)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Fulmination</strong> usage critically low (1.2 vs 3.2 CPM, -62%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Fulmination** usage critically low (1.2 vs 3.2 CPM, -62%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Earth Shock</strong> usage critically low (1.2 vs 3.2 CPM, -62%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Earth Shock** usage critically low (1.2 vs 3.2 CPM, -62%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Shield</strong> usage critically low (0.2 vs 2.8 CPM, -93%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Lightning Shield** usage critically low (0.2 vs 2.8 CPM, -93%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Astral Fixation</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', 'Top performers use **Glyph of Astral Fixation**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Chain Lightning</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', 'Top performers use **Glyph of Chain Lightning**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock dropping</strong> - Flame Shock enables Lava Burst crit - NEVER let it drop<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '**Flame Shock dropping** - Flame Shock enables Lava Burst crit - NEVER let it drop', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><em>Rotation tip: Maintain Flame Shock, use Lava Burst on cooldown (always crits with FS up), build Lightning Shield charges, dump with Earth Shock via Fulmination.</em><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Jin\'rokh the Breaker', '_Rotation tip: Maintain Flame Shock, use Lava Burst on cooldown (always crits with FS up), build Lightning Shield charges, dump with Earth Shock via Fulmination._', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Horridon<a href="https://www.warcraftlogs.com/reports/cQ7MT1PhyvkGR84j#fight=11" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>6:05</span><span><i class="bi bi-lightning me-1"></i>DPS: 255,248</span><span class="parse-uncommon"><i class="bi bi-graph-up me-1"></i>Parse: 71%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Combat pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">3/6</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/kHRjD8FCtvMTmXQr#fight=16" target="_blank" class="text-warning">Shamdaren</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=51505">Lava Burst</a></td>
+            <td class="text-end">11.3</td>
+            <td class="text-end">8.3</td>
+            <td class="text-end text-success">+36%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=421">Chain Lightning</a></td>
+            <td class="text-end">15.1</td>
+            <td class="text-end">18.4</td>
+            <td class="text-end text-warning">-18%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=403">Lightning Bolt</a></td>
+            <td class="text-end">8.5</td>
+            <td class="text-end">12.5</td>
+            <td class="text-end text-danger">-32%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=45297">Chain Lightning Overload</a></td>
+            <td class="text-end">32.5</td>
+            <td class="text-end">54.7</td>
+            <td class="text-end text-danger">-41%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77451">Lava Burst Overload</a></td>
+            <td class="text-end">4.8</td>
+            <td class="text-end">4.8</td>
+            <td class="text-end text-success">+0%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=118291">Primal Fire Elemental</a></td>
+            <td class="text-end">19.5%</td>
+            <td class="text-end">25.2%</td>
+            <td class="text-end text-warning">-5.7%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8050">Flame Shock</a></td>
+            <td class="text-end">84.3%</td>
+            <td class="text-end">89.5%</td>
+            <td class="text-end text-warning">-5.2%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=138146">Lightning Strike</a></td>
+            <td class="text-end">19.4</td>
+            <td class="text-end">52.3</td>
+            <td class="text-end text-danger">-63%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=88767">Fulmination</a></td>
+            <td class="text-end">2.1</td>
+            <td class="text-end">2.3</td>
+            <td class="text-end text-warning">-9%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=45284">Lightning Bolt Overload</a></td>
+            <td class="text-end">4.4</td>
+            <td class="text-end">10.0</td>
+            <td class="text-end text-danger">-56%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=3599">Searing Totem</a></td>
+            <td class="text-end">0.7</td>
+            <td class="text-end">0.3</td>
+            <td class="text-end text-success">+133%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8042">Earth Shock</a></td>
+            <td class="text-end">2.1</td>
+            <td class="text-end">2.3</td>
+            <td class="text-end text-warning">-9%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8190">Magma Totem</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=26364">Lightning Shield</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">1.4</td>
+            <td class="text-end text-danger">-86%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a>, <a href="https://www.wowhead.com/mop-classic/spell=55448">Glyph of the Lakestrider</a>, <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Lightning Bolt</strong> usage critically low (8.5 vs 12.5 CPM, -32%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '**Lightning Bolt** usage critically low (8.5 vs 12.5 CPM, -32%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Chain Lightning Overload</strong> usage critically low (32.5 vs 54.7 CPM, -41%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '**Chain Lightning Overload** usage critically low (32.5 vs 54.7 CPM, -41%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Primal Fire Elemental</strong> uptime is low (19.5%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '**Primal Fire Elemental** uptime is low (19.5%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock</strong> uptime is low (84.3%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '**Flame Shock** uptime is low (84.3%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (19.4 vs 52.3 CPM, -63%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '**Lightning Strike** usage critically low (19.4 vs 52.3 CPM, -63%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Bolt Overload</strong> usage critically low (4.4 vs 10.0 CPM, -56%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '**Lightning Bolt Overload** usage critically low (4.4 vs 10.0 CPM, -56%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Shield</strong> usage critically low (0.2 vs 1.4 CPM, -86%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '**Lightning Shield** usage critically low (0.2 vs 1.4 CPM, -86%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Lightning Shield</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', 'Top performers use **Glyph of Lightning Shield**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of the Lakestrider</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', 'Top performers use **Glyph of the Lakestrider**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock dropping</strong> - Flame Shock enables Lava Burst crit - NEVER let it drop<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '**Flame Shock dropping** - Flame Shock enables Lava Burst crit - NEVER let it drop', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><em>Rotation tip: Maintain Flame Shock, use Lava Burst on cooldown (always crits with FS up), build Lightning Shield charges, dump with Earth Shock via Fulmination.</em><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Horridon', '_Rotation tip: Maintain Flame Shock, use Lava Burst on cooldown (always crits with FS up), build Lightning Shield charges, dump with Earth Shock via Fulmination._', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Council of Elders<a href="https://www.warcraftlogs.com/reports/cQ7MT1PhyvkGR84j#fight=20" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>8:11</span><span><i class="bi bi-lightning me-1"></i>DPS: 162,605</span><span class="parse-gray"><i class="bi bi-graph-up me-1"></i>Parse: 14%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Combat pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">7/8</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/j3AcTpnd6fgyrYNq#fight=21" target="_blank" class="text-warning">克拉美姝</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=421">Chain Lightning</a></td>
+            <td class="text-end">15.6</td>
+            <td class="text-end">42.2</td>
+            <td class="text-end text-danger">-63%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=51505">Lava Burst</a></td>
+            <td class="text-end">10.6</td>
+            <td class="text-end">1.1</td>
+            <td class="text-end text-success">+864%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77451">Lava Burst Overload</a></td>
+            <td class="text-end">6.8</td>
+            <td class="text-end">0.6</td>
+            <td class="text-end text-success">+1033%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=45297">Chain Lightning Overload</a></td>
+            <td class="text-end">22.1</td>
+            <td class="text-end">155.6</td>
+            <td class="text-end text-danger">-86%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=118291">Primal Fire Elemental</a></td>
+            <td class="text-end">24.8%</td>
+            <td class="text-end">23.6%</td>
+            <td class="text-end text-success">+1.2%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8050">Flame Shock</a></td>
+            <td class="text-end">87.8%</td>
+            <td class="text-end">32.7%</td>
+            <td class="text-end text-success">+55.1%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=403">Lightning Bolt</a></td>
+            <td class="text-end">5.9</td>
+            <td class="text-end">0.4</td>
+            <td class="text-end text-success">+1375%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=138146">Lightning Strike</a></td>
+            <td class="text-end">18.9</td>
+            <td class="text-end">133.0</td>
+            <td class="text-end text-danger">-86%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=88767">Fulmination</a></td>
+            <td class="text-end">2.0</td>
+            <td class="text-end">0.2</td>
+            <td class="text-end text-success">+900%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=45284">Lightning Bolt Overload</a></td>
+            <td class="text-end">2.3</td>
+            <td class="text-end">0.4</td>
+            <td class="text-end text-success">+475%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8042">Earth Shock</a></td>
+            <td class="text-end">2.0</td>
+            <td class="text-end">0.2</td>
+            <td class="text-end text-success">+900%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=3599">Searing Totem</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">0.6</td>
+            <td class="text-end text-danger">-67%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77478">Earthquake</a></td>
+            <td class="text-end">0.1</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=51490">Thunderstorm</a></td>
+            <td class="text-end">3.1%</td>
+            <td class="text-end">-</td>
+            <td class="text-end ">-</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=26364">Lightning Shield</a></td>
+            <td class="text-end">0.2</td>
+            <td class="text-end">0.4</td>
+            <td class="text-end text-danger">-50%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58058">Glyph of Astral Recall</a>, <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a>, <a href="https://www.wowhead.com/mop-classic/spell=101052">Glyph of Lightning Shield</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Chain Lightning</strong> usage critically low (15.6 vs 42.2 CPM, -63%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '**Chain Lightning** usage critically low (15.6 vs 42.2 CPM, -63%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Chain Lightning Overload</strong> usage critically low (22.1 vs 155.6 CPM, -86%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '**Chain Lightning Overload** usage critically low (22.1 vs 155.6 CPM, -86%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Primal Fire Elemental</strong> uptime is low (24.8%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '**Primal Fire Elemental** uptime is low (24.8%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (18.9 vs 133.0 CPM, -86%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '**Lightning Strike** usage critically low (18.9 vs 133.0 CPM, -86%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Searing Totem</strong> usage critically low (0.2 vs 0.6 CPM, -67%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '**Searing Totem** usage critically low (0.2 vs 0.6 CPM, -67%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Shield</strong> usage critically low (0.2 vs 0.4 CPM, -50%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '**Lightning Shield** usage critically low (0.2 vs 0.4 CPM, -50%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Astral Recall</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', 'Top performers use **Glyph of Astral Recall**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Chain Lightning</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', 'Top performers use **Glyph of Chain Lightning**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock</strong> uptime (87.8%) below target (95%) - DoT that enables Lava Burst to ALWAYS crit. Must maintain.<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '**Flame Shock** uptime (87.8%) below target (95%) - DoT that enables Lava Burst to ALWAYS crit. Must maintain.', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock dropping</strong> - Flame Shock enables Lava Burst crit - NEVER let it drop<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '**Flame Shock dropping** - Flame Shock enables Lava Burst crit - NEVER let it drop', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><em>Rotation tip: Maintain Flame Shock, use Lava Burst on cooldown (always crits with FS up), build Lightning Shield charges, dump with Earth Shock via Fulmination.</em><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Council of Elders', '_Rotation tip: Maintain Flame Shock, use Lava Burst on cooldown (always crits with FS up), build Lightning Shield charges, dump with Earth Shock via Fulmination._', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Tortos<a href="https://www.warcraftlogs.com/reports/cQ7MT1PhyvkGR84j#fight=24" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>3:05</span><span><i class="bi bi-lightning me-1"></i>DPS: 191,153</span><span class="parse-uncommon"><i class="bi bi-graph-up me-1"></i>Parse: 57%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Combat pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <span class="badge bg-secondary me-1">3/3</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/w7y9cnVjkKCbHdmP#fight=20" target="_blank" class="text-warning">Brolyy</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=51505">Lava Burst</a></td>
+            <td class="text-end">12.3</td>
+            <td class="text-end">9.6</td>
+            <td class="text-end text-success">+28%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=421">Chain Lightning</a></td>
+            <td class="text-end">18.1</td>
+            <td class="text-end">26.3</td>
+            <td class="text-end text-danger">-31%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77451">Lava Burst Overload</a></td>
+            <td class="text-end">5.2</td>
+            <td class="text-end">7.8</td>
+            <td class="text-end text-danger">-33%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=118291">Primal Fire Elemental</a></td>
+            <td class="text-end">0.3</td>
+            <td class="text-end">24.9</td>
+            <td class="text-end text-danger">-99%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=45297">Chain Lightning Overload</a></td>
+            <td class="text-end">17.1</td>
+            <td class="text-end">130.5</td>
+            <td class="text-end text-danger">-87%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=403">Lightning Bolt</a></td>
+            <td class="text-end">7.4</td>
+            <td class="text-end">7.5</td>
+            <td class="text-end text-warning">-1%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8050">Flame Shock</a></td>
+            <td class="text-end">94.6%</td>
+            <td class="text-end">71.8%</td>
+            <td class="text-end text-success">+22.8%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=138146">Lightning Strike</a></td>
+            <td class="text-end">25.8</td>
+            <td class="text-end">144.0</td>
+            <td class="text-end text-danger">-82%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=88767">Fulmination</a></td>
+            <td class="text-end">1.9</td>
+            <td class="text-end">1.1</td>
+            <td class="text-end text-success">+73%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=45284">Lightning Bolt Overload</a></td>
+            <td class="text-end">4.2</td>
+            <td class="text-end">3.6</td>
+            <td class="text-end text-success">+17%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8042">Earth Shock</a></td>
+            <td class="text-end">2.3</td>
+            <td class="text-end">1.1</td>
+            <td class="text-end text-success">+109%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=26364">Lightning Shield</a></td>
+            <td class="text-end">1.3</td>
+            <td class="text-end">1.1</td>
+            <td class="text-end text-success">+18%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a>, <a href="https://www.wowhead.com/mop-classic/spell=55447">Glyph of Flame Shock</a>, <a href="https://www.wowhead.com/mop-classic/spell=55449">Glyph of Chain Lightning</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Chain Lightning</strong> usage critically low (18.1 vs 26.3 CPM, -31%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Tortos', '**Chain Lightning** usage critically low (18.1 vs 26.3 CPM, -31%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (5.2 vs 7.8 CPM, -33%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Tortos', '**Lava Burst Overload** usage critically low (5.2 vs 7.8 CPM, -33%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Primal Fire Elemental</strong> usage critically low (0.3 vs 24.9 CPM, -99%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Tortos', '**Primal Fire Elemental** usage critically low (0.3 vs 24.9 CPM, -99%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Chain Lightning Overload</strong> usage critically low (17.1 vs 130.5 CPM, -87%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Tortos', '**Chain Lightning Overload** usage critically low (17.1 vs 130.5 CPM, -87%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Lightning Strike</strong> usage critically low (25.8 vs 144.0 CPM, -82%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Tortos', '**Lightning Strike** usage critically low (25.8 vs 144.0 CPM, -82%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Spiritwalker's Grace</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Tortos', 'Top performers use **Glyph of Spiritwalker\'s Grace**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Flame Shock</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Tortos', 'Top performers use **Glyph of Flame Shock**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Flame Shock</strong> uptime (94.6%) below target (95%) - DoT that enables Lava Burst to ALWAYS crit. Must maintain.<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Tortos', '**Flame Shock** uptime (94.6%) below target (95%) - DoT that enables Lava Burst to ALWAYS crit. Must maintain.', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+<div class="card boss-section mb-4">
+        <div class="card-header">
+            <h2 class="mb-0">Megaera<a href="https://www.warcraftlogs.com/reports/cQ7MT1PhyvkGR84j#fight=31" target="_blank" class="text-muted ms-2" title="View on WarcraftLogs"><i class="bi bi-box-arrow-up-right"></i></a></h2>
+            <div class="d-flex flex-wrap gap-3 mt-2"><span><i class="bi bi-clock me-1"></i>4:57</span><span><i class="bi bi-lightning me-1"></i>DPS: 126,050</span><span class="parse-rare"><i class="bi bi-graph-up me-1"></i>Parse: 84%</span></div>
+        </div>
+        <div class="card-body">
+            <div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-bag-fill me-2"></i>Consumables</h5></div>
+        <div class="card-body">
+            <div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Flask:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105691">Flask of the Warm Sun</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Food:</strong> <a href="https://www.wowhead.com/mop-classic/spell=104277">Well Fed (300 stat)</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Pre-pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-check-circle-fill text-success"></i>
+        <strong>Combat pot:</strong> <a href="https://www.wowhead.com/mop-classic/spell=105702">Potion of the Jade Serpent</a>
+    </div><div class="consumable-item">
+        <i class="bi bi-exclamation-circle text-warning"></i>
+        <span class="badge bg-secondary me-1">3/4</span>
+        <strong>Engineering:</strong> <a href="https://www.wowhead.com/mop-classic/spell=96230">Synapse Springs</a>
+    </div>
+        </div>
+    </div><div class="mb-4">
+                <h4><i class="bi bi-list-ol me-2"></i>Rotation vs <a href="https://classic.warcraftlogs.com/reports/hkxzTVbydcDA6YCL#fight=8" target="_blank" class="text-warning">Rendimentos</a></h4>
+                <div class="table-responsive">
+        <table class="table table-dark table-striped table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Ability</th>
+                    <th class="text-end">You</th>
+                    <th class="text-end">Top</th>
+                    <th class="text-end">Gap</th>
+                </tr>
+            </thead>
+            <tbody><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=51505">Lava Burst</a></td>
+            <td class="text-end">13.7</td>
+            <td class="text-end">16.8</td>
+            <td class="text-end text-warning">-18%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=403">Lightning Bolt</a></td>
+            <td class="text-end">18.5</td>
+            <td class="text-end">18.1</td>
+            <td class="text-end text-success">+2%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=77451">Lava Burst Overload</a></td>
+            <td class="text-end">5.6</td>
+            <td class="text-end">10.6</td>
+            <td class="text-end text-danger">-47%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=118291">Primal Fire Elemental</a></td>
+            <td class="text-end">21.1%</td>
+            <td class="text-end">98.3%</td>
+            <td class="text-end text-danger">-77.2%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=45284">Lightning Bolt Overload</a></td>
+            <td class="text-end">8.3</td>
+            <td class="text-end">10.3</td>
+            <td class="text-end text-warning">-19%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8050">Flame Shock</a></td>
+            <td class="text-end">99.8%</td>
+            <td class="text-end">99.7%</td>
+            <td class="text-end text-success">+0.1%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=88767">Fulmination</a></td>
+            <td class="text-end">2.0</td>
+            <td class="text-end">2.1</td>
+            <td class="text-end text-warning">-5%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=138146">Lightning Strike</a></td>
+            <td class="text-end">2.2</td>
+            <td class="text-end">2.2</td>
+            <td class="text-end text-success">+0%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=3599">Searing Totem</a></td>
+            <td class="text-end">0.8</td>
+            <td class="text-end">0.7</td>
+            <td class="text-end text-success">+14%</td>
+        </tr><tr>
+            <td><a href="https://www.wowhead.com/mop-classic/spell=8042">Earth Shock</a></td>
+            <td class="text-end">2.2</td>
+            <td class="text-end">2.2</td>
+            <td class="text-end text-success">+0%</td>
+        </tr></tbody>
+        </table>
+    </div>
+            </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-stars me-2"></i>Talent/Glyph Differences</h5></div>
+        <div class="card-body"><p><strong>Top performer glyphs:</strong> <a href="https://www.wowhead.com/mop-classic/spell=58135">Glyph of the Spectral Wolf</a>, <a href="https://www.wowhead.com/mop-classic/spell=55446">Glyph of Spiritwalker's Grace</a>, <a href="https://www.wowhead.com/mop-classic/spell=58058">Glyph of Astral Recall</a></p></div>
+    </div><div class="card mb-3">
+        <div class="card-header"><h5 class="mb-0"><i class="bi bi-lightbulb me-2"></i>Suggestions</h5></div>
+        <div class="card-body"><p class="text-muted small mb-3"><i class="bi bi-flag me-1"></i>See an incorrect suggestion? Click the flag to let us know.</p><div class="suggestion-item"><strong>Lava Burst Overload</strong> usage critically low (5.6 vs 10.6 CPM, -47%)<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Megaera', '**Lava Burst Overload** usage critically low (5.6 vs 10.6 CPM, -47%)', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item"><strong>Primal Fire Elemental</strong> uptime is low (21.1%) - maintain on target<a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Megaera', '**Primal Fire Elemental** uptime is low (21.1%) - maintain on target', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of the Spectral Wolf</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Megaera', 'Top performers use **Glyph of the Spectral Wolf**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div><div class="suggestion-item">Top performers use <strong>Glyph of Spiritwalker's Grace</strong><a href="#" class="feedback-link" title="Report incorrect suggestion" onclick="openFeedbackModal('Rustynut', 'Megaera', 'Top performers use **Glyph of Spiritwalker\'s Grace**', 'https://glitchv0.github.io/raidreview/reports/2026-01-23_H_cQ7MT1PhyvkGR84j/players/Rustynut_elemental_shaman.html', 'Elemental Shaman'); return false;"><i class="bi bi-flag"></i></a></div></div>
+    </div>
+        </div>
+    </div>
+        <div class="footer text-center">
+        <a href="#" onclick="openGeneralFeedback(); return false;" class="text-muted">
+            <i class="bi bi-chat-dots me-1"></i>Send Feedback
+        </a>
+        <span class="text-muted mx-2">|</span>
+        <span class="text-muted">Raid Review by Calrion/Nybs</span>
+    </div>
+    </div>
+    
+    <!-- Suggestion Feedback Modal -->
+    <div class="modal fade" id="feedbackModal" tabindex="-1" aria-labelledby="feedbackModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="feedbackModalLabel"><i class="bi bi-flag me-2"></i>Report Incorrect Suggestion</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="feedback-context mb-3">
+                        <div class="mb-2"><strong>Player:</strong> <span id="feedbackPlayer"></span></div>
+                        <div class="mb-2"><strong>Boss:</strong> <span id="feedbackBoss"></span></div>
+                        <div class="mb-2"><strong>Suggestion:</strong></div>
+                        <div class="feedback-suggestion-text" id="feedbackSuggestion"></div>
+                        <div class="mt-2"><a id="feedbackReportLink" href="#" target="_blank" class="small">View Report <i class="bi bi-box-arrow-up-right"></i></a></div>
+                    </div>
+                    <div class="mb-3">
+                        <label for="feedbackIssue" class="form-label">What's wrong with this suggestion?</label>
+                        <textarea class="form-control" id="feedbackIssue" rows="4" placeholder="e.g., This uptime isn't achievable because the boss has a phase transition where you can't attack..."></textarea>
+                    </div>
+                    <div id="feedbackStatus" class="small"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="feedbackSubmit" onclick="submitFeedback()">
+                        <i class="bi bi-send me-1"></i>Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- General Feedback Modal -->
+    <div class="modal fade" id="generalFeedbackModal" tabindex="-1" aria-labelledby="generalFeedbackModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="generalFeedbackModalLabel"><i class="bi bi-chat-dots me-2"></i>Send Feedback</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-info small mb-3">
+                        <i class="bi bi-info-circle me-1"></i>
+                        <strong>Tip:</strong> To report an incorrect suggestion, use the <i class="bi bi-flag"></i> flag icon next to that specific suggestion instead.
+                    </div>
+                    <div class="mb-3">
+                        <label for="generalFeedbackText" class="form-label">Your feedback</label>
+                        <textarea class="form-control" id="generalFeedbackText" rows="5" placeholder="Bug reports, feature requests, questions, or any other feedback..."></textarea>
+                    </div>
+                    <div id="generalFeedbackStatus" class="small"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <button type="button" class="btn btn-primary" id="generalFeedbackSubmit" onclick="submitGeneralFeedback()">
+                        <i class="bi bi-send me-1"></i>Submit
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    // Suggestion Feedback modal state
+    let currentFeedback = {};
+
+    function openFeedbackModal(player, boss, suggestion, reportUrl, spec) {
+        currentFeedback = { player, boss, suggestion, reportUrl, spec };
+        document.getElementById('feedbackPlayer').textContent = player + ' (' + spec + ')';
+        document.getElementById('feedbackBoss').textContent = boss;
+        document.getElementById('feedbackSuggestion').textContent = suggestion;
+        document.getElementById('feedbackReportLink').href = reportUrl;
+        document.getElementById('feedbackIssue').value = '';
+        document.getElementById('feedbackStatus').textContent = '';
+        document.getElementById('feedbackStatus').className = 'small';
+        document.getElementById('feedbackSubmit').disabled = false;
+        new bootstrap.Modal(document.getElementById('feedbackModal')).show();
+    }
+
+    async function submitFeedback() {
+        const issue = document.getElementById('feedbackIssue').value.trim();
+        if (!issue) {
+            document.getElementById('feedbackStatus').textContent = 'Please describe the issue.';
+            document.getElementById('feedbackStatus').className = 'small text-danger';
+            return;
+        }
+
+        document.getElementById('feedbackSubmit').disabled = true;
+        document.getElementById('feedbackStatus').textContent = 'Submitting...';
+        document.getElementById('feedbackStatus').className = 'small text-muted';
+
+        const webhookUrl = 'https://discord.com/api/webhooks/1461527361408208980/A0MtlJtryG0hCTGeza12G-EZJVrDz-QKXG5EIu0qqIr1xVKfkFucg5BNs4Il_1ZkwEq4';
+
+        const embed = {
+            title: 'Suggestion Feedback',
+            color: 16763904,  // Gold color
+            fields: [
+                { name: 'Player', value: currentFeedback.player + ' (' + currentFeedback.spec + ')', inline: true },
+                { name: 'Boss', value: currentFeedback.boss, inline: true },
+                { name: 'Suggestion', value: currentFeedback.suggestion },
+                { name: 'Issue', value: issue },
+                { name: 'Report', value: currentFeedback.reportUrl }
+            ],
+            timestamp: new Date().toISOString()
+        };
+
+        try {
+            const response = await fetch(webhookUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ embeds: [embed] })
+            });
+
+            if (response.ok || response.status === 204) {
+                document.getElementById('feedbackStatus').textContent = 'Thank you! Your feedback has been submitted.';
+                document.getElementById('feedbackStatus').className = 'small text-success';
+                setTimeout(() => {
+                    bootstrap.Modal.getInstance(document.getElementById('feedbackModal')).hide();
+                }, 1500);
+            } else {
+                throw new Error('Failed to submit');
+            }
+        } catch (err) {
+            document.getElementById('feedbackStatus').textContent = 'Failed to submit. Please try again.';
+            document.getElementById('feedbackStatus').className = 'small text-danger';
+            document.getElementById('feedbackSubmit').disabled = false;
+        }
+    }
+
+    // General Feedback
+    function openGeneralFeedback() {
+        document.getElementById('generalFeedbackText').value = '';
+        document.getElementById('generalFeedbackStatus').textContent = '';
+        document.getElementById('generalFeedbackStatus').className = 'small';
+        document.getElementById('generalFeedbackSubmit').disabled = false;
+        new bootstrap.Modal(document.getElementById('generalFeedbackModal')).show();
+    }
+
+    async function submitGeneralFeedback() {
+        const feedback = document.getElementById('generalFeedbackText').value.trim();
+        if (!feedback) {
+            document.getElementById('generalFeedbackStatus').textContent = 'Please enter your feedback.';
+            document.getElementById('generalFeedbackStatus').className = 'small text-danger';
+            return;
+        }
+
+        document.getElementById('generalFeedbackSubmit').disabled = true;
+        document.getElementById('generalFeedbackStatus').textContent = 'Submitting...';
+        document.getElementById('generalFeedbackStatus').className = 'small text-muted';
+
+        const webhookUrl = 'https://discord.com/api/webhooks/1461527361408208980/A0MtlJtryG0hCTGeza12G-EZJVrDz-QKXG5EIu0qqIr1xVKfkFucg5BNs4Il_1ZkwEq4';
+
+        const embed = {
+            title: 'General Feedback',
+            color: 5814783,  // Blue color
+            description: feedback,
+            fields: [
+                { name: 'Page', value: window.location.href }
+            ],
+            timestamp: new Date().toISOString()
+        };
+
+        try {
+            const response = await fetch(webhookUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ embeds: [embed] })
+            });
+
+            if (response.ok || response.status === 204) {
+                document.getElementById('generalFeedbackStatus').textContent = 'Thank you! Your feedback has been submitted.';
+                document.getElementById('generalFeedbackStatus').className = 'small text-success';
+                setTimeout(() => {
+                    bootstrap.Modal.getInstance(document.getElementById('generalFeedbackModal')).hide();
+                }, 1500);
+            } else {
+                throw new Error('Failed to submit');
+            }
+        } catch (err) {
+            document.getElementById('generalFeedbackStatus').textContent = 'Failed to submit. Please try again.';
+            document.getElementById('generalFeedbackStatus').className = 'small text-danger';
+            document.getElementById('generalFeedbackSubmit').disabled = false;
+        }
+    }
+    </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>const whTooltips = {colorLinks: true, iconizeLinks: true, renameLinks: true};</script>
+    <script src="https://wow.zamimg.com/js/tooltips.js"></script>
+</body>
+</html>
